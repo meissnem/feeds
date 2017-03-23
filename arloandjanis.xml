@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/arloandjanis/</id>
     <entry>
+        <title type="text">Arlo and Janis - March 23, 2017</title>
+        <link href="http://www.gocomics.com/arloandjanis/2017/03/23"/>
+        <id>http://www.gocomics.com/arloandjanis/2017/03/23</id>
+        <author>
+            <name>Jimmy Johnson</name>
+        </author>
+        <published>2017-03-23T10:00:00Z</published>
+        <updated>2017-03-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c3c1ddd0eaf801346c11005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Arlo and Janis - March 22, 2017</title>
         <link href="http://www.gocomics.com/arloandjanis/2017/03/22"/>
         <id>http://www.gocomics.com/arloandjanis/2017/03/22</id>
