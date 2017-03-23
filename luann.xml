@@ -1793,19 +1793,4 @@
             </div>
         </content>
     </entry>
-    <entry>
-        <title type="text">Luann - November 23, 2016</title>
-        <link href="http://www.gocomics.com/luann/2016/11/23"/>
-        <id>http://www.gocomics.com/luann/2016/11/23</id>
-        <author>
-            <name>Greg Evans</name>
-        </author>
-        <published>2016-11-23T10:00:00Z</published>
-        <updated>2016-11-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/945e54908d850134f586005056a9545d"/>
-            </div>
-        </content>
-    </entry>
 </feed>

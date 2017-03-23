@@ -1793,19 +1793,4 @@
             </div>
         </content>
     </entry>
-    <entry>
-        <title type="text">Pickles - November 23, 2016</title>
-        <link href="http://www.gocomics.com/pickles/2016/11/23"/>
-        <id>http://www.gocomics.com/pickles/2016/11/23</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2016-11-23T10:00:00Z</published>
-        <updated>2016-11-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5caee110925a0134faea005056a9545d"/>
-            </div>
-        </content>
-    </entry>
 </feed>

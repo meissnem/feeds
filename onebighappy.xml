@@ -1793,19 +1793,4 @@
             </div>
         </content>
     </entry>
-    <entry>
-        <title type="text">One Big Happy - November 23, 2016</title>
-        <link href="http://www.gocomics.com/onebighappy/2016/11/23"/>
-        <id>http://www.gocomics.com/onebighappy/2016/11/23</id>
-        <author>
-            <name>Rick Detorie</name>
-        </author>
-        <published>2016-11-23T10:00:00Z</published>
-        <updated>2016-11-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/9d3ee8705e22012ee3bf00163e41dd5b"/>
-            </div>
-        </content>
-    </entry>
 </feed>
