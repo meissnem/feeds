@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/doonesbury/</id>
     <entry>
+        <title type="text">Doonesbury - March 26, 2017</title>
+        <link href="http://www.gocomics.com/doonesbury/2017/03/26"/>
+        <id>http://www.gocomics.com/doonesbury/2017/03/26</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2017-03-26T10:00:00Z</published>
+        <updated>2017-03-26T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/e89f2e30e03b01345c9b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Doonesbury - March 25, 2017</title>
         <link href="http://www.gocomics.com/doonesbury/2017/03/25"/>
         <id>http://www.gocomics.com/doonesbury/2017/03/25</id>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/14bd2b307f8c0134e623005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Doonesbury - November 26, 2016</title>
-        <link href="http://www.gocomics.com/doonesbury/2016/11/26"/>
-        <id>http://www.gocomics.com/doonesbury/2016/11/26</id>
-        <author>
-            <name>Garry Trudeau</name>
-        </author>
-        <published>2016-11-26T10:00:00Z</published>
-        <updated>2016-11-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/4a70f8108ccd0134f4b3005056a9545d"/>
             </div>
         </content>
     </entry>

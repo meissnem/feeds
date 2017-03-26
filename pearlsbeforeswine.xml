@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/pearlsbeforeswine/</id>
     <entry>
+        <title type="text">Pearls Before Swine - March 26, 2017</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/03/26"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2017/03/26</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2017-03-26T10:00:00Z</published>
+        <updated>2017-03-26T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8bc67410d5b001345082005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Pearls Before Swine - March 25, 2017</title>
         <link href="http://www.gocomics.com/pearlsbeforeswine/2017/03/25"/>
         <id>http://www.gocomics.com/pearlsbeforeswine/2017/03/25</id>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4f9d8cd0798e0134df46005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - November 26, 2016</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2016/11/26"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2016/11/26</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2016-11-26T10:00:00Z</published>
-        <updated>2016-11-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b0e635d08d850134f586005056a9545d"/>
             </div>
         </content>
     </entry>
