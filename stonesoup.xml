@@ -263,19 +263,4 @@
             </div>
         </content>
     </entry>
-    <entry>
-        <title type="text">Stone Soup - November 27, 2016</title>
-        <link href="http://www.gocomics.com/stonesoup/2016/11/27"/>
-        <id>http://www.gocomics.com/stonesoup/2016/11/27</id>
-        <author>
-            <name>Jan Eliot</name>
-        </author>
-        <published>2016-11-27T10:00:00Z</published>
-        <updated>2016-11-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/527b963077330134dc6e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
 </feed>
