@@ -3,11 +3,26 @@
     <title type="text">Beetle Bailey</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Beetle_Bailey" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/beetle_bailey.xml" rel="self"/>
-    <updated>2017-03-27T10:01:00Z</updated>
+    <updated>2017-03-28T10:01:00Z</updated>
     <author>
         <name>Mort Walker</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Beetle_Bailey</id>
+    <entry>
+        <title type="text">Beetle Bailey - March 28, 2017</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNy8wMy9CZWV0bGVfQmFpbGV5LjIwMTcwMzI4XzE0NDAuZ2lm"/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNy8wMy9CZWV0bGVfQmFpbGV5LjIwMTcwMzI4XzE0NDAuZ2lm</id>
+        <author>
+            <name>Mort Walker</name>
+        </author>
+        <published>2017-03-28T10:00:00Z</published>
+        <updated>2017-03-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNy8wMy9CZWV0bGVfQmFpbGV5LjIwMTcwMzI4XzE0NDAuZ2lm"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Beetle Bailey - March 27, 2017</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNy8wMy9CZWV0bGVfQmFpbGV5LjIwMTcwMzI3XzE0NDAuZ2lm"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNi8xMS9CZWV0bGVfQmFpbGV5LjIwMTYxMTI5XzE0NDAuZ2lm"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Beetle Bailey - November 28, 2016</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNi8xMS9CZWV0bGVfQmFpbGV5LjIwMTYxMTI4XzE0NDAuZ2lm"/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNi8xMS9CZWV0bGVfQmFpbGV5LjIwMTYxMTI4XzE0NDAuZ2lm</id>
-        <author>
-            <name>Mort Walker</name>
-        </author>
-        <published>2016-11-28T10:00:00Z</published>
-        <updated>2016-11-28T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxNi8xMS9CZWV0bGVfQmFpbGV5LjIwMTYxMTI4XzE0NDAuZ2lm"/>
             </div>
         </content>
     </entry>
