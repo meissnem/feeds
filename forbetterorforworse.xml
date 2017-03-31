@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/forbetterorforworse/</id>
     <entry>
+        <title type="text">For Better or For Worse - March 31, 2017</title>
+        <link href="http://www.gocomics.com/forbetterorforworse/2017/03/31"/>
+        <id>http://www.gocomics.com/forbetterorforworse/2017/03/31</id>
+        <author>
+            <name>Lynn Johnston</name>
+        </author>
+        <published>2017-03-31T10:00:00Z</published>
+        <updated>2017-03-31T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/df782760f0820134740b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">For Better or For Worse - March 30, 2017</title>
         <link href="http://www.gocomics.com/forbetterorforworse/2017/03/30"/>
         <id>http://www.gocomics.com/forbetterorforworse/2017/03/30</id>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c5349b30923d0134fabd005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - December  1, 2016</title>
-        <link href="http://www.gocomics.com/forbetterorforworse/2016/12/01"/>
-        <id>http://www.gocomics.com/forbetterorforworse/2016/12/01</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2016-12-01T10:00:00Z</published>
-        <updated>2016-12-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/c2eabdc0923d0134fabd005056a9545d"/>
             </div>
         </content>
     </entry>
