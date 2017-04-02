@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/garfield/</id>
     <entry>
+        <title type="text">Garfield - April  2, 2017</title>
+        <link href="http://www.gocomics.com/garfield/2017/04/02"/>
+        <id>http://www.gocomics.com/garfield/2017/04/02</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2017-04-02T10:00:00Z</published>
+        <updated>2017-04-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/df8e53e0dafe01345687005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Garfield - April  1, 2017</title>
         <link href="http://www.gocomics.com/garfield/2017/04/01"/>
         <id>http://www.gocomics.com/garfield/2017/04/01</id>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/93e974c07caa0134e299005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - December  3, 2016</title>
-        <link href="http://www.gocomics.com/garfield/2016/12/03"/>
-        <id>http://www.gocomics.com/garfield/2016/12/03</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2016-12-03T10:00:00Z</published>
-        <updated>2016-12-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/c27f2ff081e70134e889005056a9545d"/>
             </div>
         </content>
     </entry>

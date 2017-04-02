@@ -1538,19 +1538,4 @@
             </div>
         </content>
     </entry>
-    <entry>
-        <title type="text">Bloom County - December  3, 2016</title>
-        <link href="http://www.gocomics.com/bloomcounty/2016/12/03"/>
-        <id>http://www.gocomics.com/bloomcounty/2016/12/03</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2016-12-03T10:00:00Z</published>
-        <updated>2016-12-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/742dfa7e2123102d94d7001438c0f03b"/>
-            </div>
-        </content>
-    </entry>
 </feed>
