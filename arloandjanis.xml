@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/arloandjanis/</id>
     <entry>
+        <title type="text">Arlo and Janis - April  3, 2017</title>
+        <link href="http://www.gocomics.com/arloandjanis/2017/04/03"/>
+        <id>http://www.gocomics.com/arloandjanis/2017/04/03</id>
+        <author>
+            <name>Jimmy Johnson</name>
+        </author>
+        <published>2017-04-03T10:00:00Z</published>
+        <updated>2017-04-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/0c8c1af0f60001347bf5005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Arlo and Janis - April  2, 2017</title>
         <link href="http://www.gocomics.com/arloandjanis/2017/04/02"/>
         <id>http://www.gocomics.com/arloandjanis/2017/04/02</id>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/109ca6f098c2013401e8005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Arlo and Janis - December  4, 2016</title>
-        <link href="http://www.gocomics.com/arloandjanis/2016/12/04"/>
-        <id>http://www.gocomics.com/arloandjanis/2016/12/04</id>
-        <author>
-            <name>Jimmy Johnson</name>
-        </author>
-        <published>2016-12-04T10:00:00Z</published>
-        <updated>2016-12-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/188057708a9d0134f27d005056a9545d"/>
             </div>
         </content>
     </entry>
