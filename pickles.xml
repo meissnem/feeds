@@ -9,6 +9,36 @@
     </author>
     <id>http://www.gocomics.com/pickles/</id>
     <entry>
+        <title type="text">Pickles - April  9, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/04/09"/>
+        <id>http://www.gocomics.com/pickles/2017/04/09</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-04-09T10:00:00Z</published>
+        <updated>2017-04-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/7dc3f4d0e25f01345fcb005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pickles - April  8, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/04/08"/>
+        <id>http://www.gocomics.com/pickles/2017/04/08</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-04-08T10:00:00Z</published>
+        <updated>2017-04-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/e725fc30f22f0134769e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Pickles - April  7, 2017</title>
         <link href="http://www.gocomics.com/pickles/2017/04/07"/>
         <id>http://www.gocomics.com/pickles/2017/04/07</id>
@@ -1775,36 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4ee310d09992013402ea005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - December 10, 2016</title>
-        <link href="http://www.gocomics.com/pickles/2016/12/10"/>
-        <id>http://www.gocomics.com/pickles/2016/12/10</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2016-12-10T10:00:00Z</published>
-        <updated>2016-12-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/2c6dced0955d0134fe59005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - December  9, 2016</title>
-        <link href="http://www.gocomics.com/pickles/2016/12/09"/>
-        <id>http://www.gocomics.com/pickles/2016/12/09</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2016-12-09T10:00:00Z</published>
-        <updated>2016-12-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/2a699610955d0134fe59005056a9545d"/>
             </div>
         </content>
     </entry>
