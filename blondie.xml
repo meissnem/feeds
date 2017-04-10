@@ -3,11 +3,26 @@
     <title type="text">Blondie</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Blondie" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/blondie.xml" rel="self"/>
-    <updated>2017-04-09T10:01:00Z</updated>
+    <updated>2017-04-10T10:01:00Z</updated>
     <author>
         <name>Dean Young And John Marshall</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Blondie</id>
+    <entry>
+        <title type="text">Blondie - April 10, 2017</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMDQvQmxvbmRpZS4yMDE3MDQxMF8xNDQwLmdpZg=="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMDQvQmxvbmRpZS4yMDE3MDQxMF8xNDQwLmdpZg==</id>
+        <author>
+            <name>Dean Young And John Marshall</name>
+        </author>
+        <published>2017-04-10T10:00:00Z</published>
+        <updated>2017-04-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMDQvQmxvbmRpZS4yMDE3MDQxMF8xNDQwLmdpZg=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Blondie - April  9, 2017</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMDQvQmxvbmRpZV9ocy4yMDE3MDQwOV8xNDQwLmdpZg=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTYvMTIvQmxvbmRpZS4yMDE2MTIxMl8xNDQwLmdpZg=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Blondie - December 11, 2016</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTYvMTIvQmxvbmRpZV9ocy4yMDE2MTIxMV8xNDQwLmdpZg=="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTYvMTIvQmxvbmRpZV9ocy4yMDE2MTIxMV8xNDQwLmdpZg==</id>
-        <author>
-            <name>Dean Young And John Marshall</name>
-        </author>
-        <published>2016-12-11T10:00:00Z</published>
-        <updated>2016-12-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTYvMTIvQmxvbmRpZV9ocy4yMDE2MTIxMV8xNDQwLmdpZg=="/>
             </div>
         </content>
     </entry>
