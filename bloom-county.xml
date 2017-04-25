@@ -3,7 +3,7 @@
     <title type="text">Bloom County 2017</title>
     <link href="http://www.gocomics.com/bloom-county" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloom-county.xml" rel="self"/>
-    <updated>2017-04-24T10:01:00Z</updated>
+    <updated>2017-04-25T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
@@ -1085,21 +1085,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/62f07bb0af56013420cd005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County 2016 - December 26, 2016</title>
-        <link href="http://www.gocomics.com/bloom-county/2016/12/26"/>
-        <id>http://www.gocomics.com/bloom-county/2016/12/26</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2016-12-26T10:00:00Z</published>
-        <updated>2016-12-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/624475a0af56013420cd005056a9545d"/>
             </div>
         </content>
     </entry>
