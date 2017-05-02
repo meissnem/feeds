@@ -3,7 +3,7 @@
     <title type="text">Arlo and Janis</title>
     <link href="http://www.gocomics.com/arloandjanis" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/arloandjanis.xml" rel="self"/>
-    <updated>2017-05-01T10:01:00Z</updated>
+    <updated>2017-05-02T10:01:00Z</updated>
     <author>
         <name>Jimmy Johnson</name>
     </author>
@@ -1790,21 +1790,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e03b21f0ae6401341f13005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Arlo and Janis - January  2, 2017</title>
-        <link href="http://www.gocomics.com/arloandjanis/2017/01/02"/>
-        <id>http://www.gocomics.com/arloandjanis/2017/01/02</id>
-        <author>
-            <name>Jimmy Johnson</name>
-        </author>
-        <published>2017-01-02T10:00:00Z</published>
-        <updated>2017-01-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/de1f3010ae6401341f13005056a9545d"/>
             </div>
         </content>
     </entry>

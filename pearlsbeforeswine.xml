@@ -3,7 +3,7 @@
     <title type="text">Pearls Before Swine</title>
     <link href="http://www.gocomics.com/pearlsbeforeswine" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pearlsbeforeswine.xml" rel="self"/>
-    <updated>2017-05-01T10:01:00Z</updated>
+    <updated>2017-05-02T10:01:00Z</updated>
     <author>
         <name>Stephan Pastis</name>
     </author>
@@ -1790,21 +1790,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/5d7eca80aea901341f94005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January  2, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/01/02"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/01/02</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-01-02T10:00:00Z</published>
-        <updated>2017-01-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5b0e5c60aea901341f94005056a9545d"/>
             </div>
         </content>
     </entry>
