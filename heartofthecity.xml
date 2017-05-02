@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
     <entry>
+        <title type="text">Heart of the City - May  2, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/05/02"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/05/02</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-05-02T10:00:00Z</published>
+        <updated>2017-05-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f0db36700889013596a0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Heart of the City - May  1, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/05/01"/>
         <id>http://www.gocomics.com/heartofthecity/2017/05/01</id>
