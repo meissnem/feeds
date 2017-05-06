@@ -3,11 +3,26 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-05-05T10:01:00Z</updated>
+    <updated>2017-05-06T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - May  6, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/05/06"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/05/06</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-05-06T10:00:00Z</published>
+        <updated>2017-05-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f8b33d200889013596a0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - May  5, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/05/05"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/9c756780acb301341c1f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - January  6, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/01/06"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/01/06</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-01-06T10:00:00Z</published>
-        <updated>2017-01-06T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/9a3843a0acb301341c1f005056a9545d"/>
             </div>
         </content>
     </entry>
