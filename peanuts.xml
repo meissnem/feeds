@@ -3,11 +3,26 @@
     <title type="text">Peanuts</title>
     <link href="http://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2017-05-17T10:01:00Z</updated>
+    <updated>2017-05-18T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
+    <entry>
+        <title type="text">Peanuts - May 18, 2017</title>
+        <link href="http://www.gocomics.com/peanuts/2017/05/18"/>
+        <id>http://www.gocomics.com/peanuts/2017/05/18</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2017-05-18T10:00:00Z</published>
+        <updated>2017-05-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/b2c515c00b2a01359a2a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - May 17, 2017</title>
         <link href="http://www.gocomics.com/peanuts/2017/05/17"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/6b5884e0ae6d01341f20005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - January 18, 2017</title>
-        <link href="http://www.gocomics.com/peanuts/2017/01/18"/>
-        <id>http://www.gocomics.com/peanuts/2017/01/18</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2017-01-18T10:00:00Z</published>
-        <updated>2017-01-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/68d983b0ae6d01341f20005056a9545d"/>
             </div>
         </content>
     </entry>
