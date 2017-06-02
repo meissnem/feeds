@@ -3,11 +3,26 @@
     <title type="text">JumpStart</title>
     <link href="http://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2017-06-01T10:01:00Z</updated>
+    <updated>2017-06-02T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>http://www.gocomics.com/jumpstart/</id>
+    <entry>
+        <title type="text">JumpStart - June  2, 2017</title>
+        <link href="http://www.gocomics.com/jumpstart/2017/06/02"/>
+        <id>http://www.gocomics.com/jumpstart/2017/06/02</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2017-06-02T10:00:00Z</published>
+        <updated>2017-06-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/cb22f02022020135ba69005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - June  1, 2017</title>
         <link href="http://www.gocomics.com/jumpstart/2017/06/01"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/6a3909d0c48801343c3a005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - February  2, 2017</title>
-        <link href="http://www.gocomics.com/jumpstart/2017/02/02"/>
-        <id>http://www.gocomics.com/jumpstart/2017/02/02</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2017-02-02T10:00:00Z</published>
-        <updated>2017-02-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/312b7700c48301343c31005056a9545d"/>
             </div>
         </content>
     </entry>
