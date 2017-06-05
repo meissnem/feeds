@@ -3,11 +3,26 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-06-04T10:01:00Z</updated>
+    <updated>2017-06-05T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - June  5, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/06/05"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/06/05</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-06-05T10:00:00Z</published>
+        <updated>2017-06-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/bfea2120240a0135bd89005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - June  4, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/06/04"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/753d7710c69001343eef005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - February  5, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/02/05"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/02/05</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-02-05T10:00:00Z</published>
-        <updated>2017-02-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/90397ea0af8301342129005056a9545d"/>
             </div>
         </content>
     </entry>
