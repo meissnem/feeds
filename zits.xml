@@ -3,11 +3,26 @@
     <title type="text">Zits</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Zits" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/zits.xml" rel="self"/>
-    <updated>2017-06-08T10:01:00Z</updated>
+    <updated>2017-06-09T10:01:00Z</updated>
     <author>
         <name>Jerry Scott and Jim Borgman</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Zits</id>
+    <entry>
+        <title type="text">Zits - June  9, 2017</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDYvWml0cy4yMDE3MDYwOV8xNDQwLmdpZg=="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDYvWml0cy4yMDE3MDYwOV8xNDQwLmdpZg==</id>
+        <author>
+            <name>Jerry Scott and Jim Borgman</name>
+        </author>
+        <published>2017-06-09T10:00:00Z</published>
+        <updated>2017-06-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDYvWml0cy4yMDE3MDYwOV8xNDQwLmdpZg=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Zits - June  8, 2017</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDYvWml0cy4yMDE3MDYwOF8xNDQwLmdpZg=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDIvWml0cy4yMDE3MDIxMF8xNDQwLmdpZg=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - February  9, 2017</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDIvWml0cy4yMDE3MDIwOV8xNDQwLmdpZg=="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDIvWml0cy4yMDE3MDIwOV8xNDQwLmdpZg==</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2017-02-09T10:00:00Z</published>
-        <updated>2017-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTcvMDIvWml0cy4yMDE3MDIwOV8xNDQwLmdpZg=="/>
             </div>
         </content>
     </entry>
