@@ -3,11 +3,56 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-06-08T10:01:00Z</updated>
+    <updated>2017-06-11T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - June 11, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/06/11"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/06/11</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-06-11T10:00:00Z</published>
+        <updated>2017-06-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/0ed016e010ec0135a26b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Heart of the City - June 10, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/06/10"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/06/10</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-06-10T10:00:00Z</published>
+        <updated>2017-06-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c8982080240a0135bd89005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Heart of the City - June  9, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/06/09"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/06/09</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-06-09T10:00:00Z</published>
+        <updated>2017-06-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c64d1660240a0135bd89005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - June  8, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/06/08"/>
@@ -1760,51 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/301ee400b50401342a58005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - February 11, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/02/11"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/02/11</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-02-11T10:00:00Z</published>
-        <updated>2017-02-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7f15a540c69001343eef005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - February 10, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/02/10"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/02/10</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-02-10T10:00:00Z</published>
-        <updated>2017-02-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7d394140c69001343eef005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - February  9, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/02/09"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/02/09</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-02-09T10:00:00Z</published>
-        <updated>2017-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7b4d97c0c69001343eef005056a9545d"/>
             </div>
         </content>
     </entry>
