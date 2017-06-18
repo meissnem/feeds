@@ -3,11 +3,26 @@
     <title type="text">Pearls Before Swine</title>
     <link href="http://www.gocomics.com/pearlsbeforeswine" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pearlsbeforeswine.xml" rel="self"/>
-    <updated>2017-06-17T10:01:00Z</updated>
+    <updated>2017-06-18T10:01:00Z</updated>
     <author>
         <name>Stephan Pastis</name>
     </author>
     <id>http://www.gocomics.com/pearlsbeforeswine/</id>
+    <entry>
+        <title type="text">Pearls Before Swine - June 18, 2017</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/06/18"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2017/06/18</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2017-06-18T10:00:00Z</published>
+        <updated>2017-06-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/5e68a03030140135ceb0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pearls Before Swine - June 17, 2017</title>
         <link href="http://www.gocomics.com/pearlsbeforeswine/2017/06/17"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/da3407a0d51d01344fcf005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - February 18, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/02/18"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/02/18</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-02-18T10:00:00Z</published>
-        <updated>2017-02-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/fab0c520cf840134493e005056a9545d"/>
             </div>
         </content>
     </entry>

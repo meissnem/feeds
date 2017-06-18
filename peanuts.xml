@@ -3,11 +3,26 @@
     <title type="text">Peanuts</title>
     <link href="http://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2017-06-17T10:01:00Z</updated>
+    <updated>2017-06-18T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
+    <entry>
+        <title type="text">Peanuts - June 18, 2017</title>
+        <link href="http://www.gocomics.com/peanuts/2017/06/18"/>
+        <id>http://www.gocomics.com/peanuts/2017/06/18</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2017-06-18T10:00:00Z</published>
+        <updated>2017-06-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c625d4f018030135ac8e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - June 17, 2017</title>
         <link href="http://www.gocomics.com/peanuts/2017/06/17"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/bba69dc0b9bc01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 18, 2017</title>
-        <link href="http://www.gocomics.com/peanuts/2017/02/18"/>
-        <id>http://www.gocomics.com/peanuts/2017/02/18</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2017-02-18T10:00:00Z</published>
-        <updated>2017-02-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/177b3680c3cd01343b54005056a9545d"/>
             </div>
         </content>
     </entry>
