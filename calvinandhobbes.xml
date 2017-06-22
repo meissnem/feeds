@@ -3,11 +3,131 @@
     <title type="text">Calvin and Hobbes</title>
     <link href="http://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/calvinandhobbes.xml" rel="self"/>
-    <updated>2017-06-14T10:01:00Z</updated>
+    <updated>2017-06-22T10:01:00Z</updated>
     <author>
         <name>Bill Watterson</name>
     </author>
     <id>http://www.gocomics.com/calvinandhobbes/</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 22, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/22"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/22</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-22T10:00:00Z</published>
+        <updated>2017-06-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f7a4675003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 21, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/21"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/21</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-21T10:00:00Z</published>
+        <updated>2017-06-21T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f5ca85f003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 20, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/20"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/20</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-20T10:00:00Z</published>
+        <updated>2017-06-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f49b8f9003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 19, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/19"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/19</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-19T10:00:00Z</published>
+        <updated>2017-06-19T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f3121f2003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 18, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/18"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/18</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-18T10:00:00Z</published>
+        <updated>2017-06-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/710a72b0017701358c8b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 17, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/17"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/17</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-17T10:00:00Z</published>
+        <updated>2017-06-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f197d87003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 16, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/16"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/16</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-16T10:00:00Z</published>
+        <updated>2017-06-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f03ca88003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 15, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/15"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/06/15</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-06-15T10:00:00Z</published>
+        <updated>2017-06-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/eed596e003d201358ff9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - June 14, 2017</title>
         <link href="http://www.gocomics.com/calvinandhobbes/2017/06/14"/>
@@ -1685,126 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/b8175a90b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 22, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/22"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/22</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-22T10:00:00Z</published>
-        <updated>2017-02-22T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b6b788c0b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 21, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/21"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/21</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-21T10:00:00Z</published>
-        <updated>2017-02-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b54dc050b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 20, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/20"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/20</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-20T10:00:00Z</published>
-        <updated>2017-02-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b4016fd0b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 19, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/19"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/19</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-19T10:00:00Z</published>
-        <updated>2017-02-19T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/eed2e560acae01341c1f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 18, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/18"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/18</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-18T10:00:00Z</published>
-        <updated>2017-02-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b2bf8420b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 17, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/17"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/17</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-17T10:00:00Z</published>
-        <updated>2017-02-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b17f7cb0b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 16, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/16"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/16</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-16T10:00:00Z</published>
-        <updated>2017-02-16T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b000c860b9ba01342fad005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 15, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/02/15"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/02/15</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-02-15T10:00:00Z</published>
-        <updated>2017-02-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/ae8db4c0b9ba01342fad005056a9545d"/>
             </div>
         </content>
     </entry>
