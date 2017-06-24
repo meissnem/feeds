@@ -3,11 +3,41 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2017-06-22T10:01:00Z</updated>
+    <updated>2017-06-24T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
+    <entry>
+        <title type="text">Get Fuzzy - June 24, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/06/24"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/06/24</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-06-24T10:00:00Z</published>
+        <updated>2017-06-24T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/0507e06032820135d139005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Get Fuzzy - June 23, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/06/23"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/06/23</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-06-23T10:00:00Z</published>
+        <updated>2017-06-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/03e617c032820135d139005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - June 22, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/06/22"/>
@@ -1775,36 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d4e54a80d50701344faa005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - February 24, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/02/24"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/02/24</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-02-24T10:00:00Z</published>
-        <updated>2017-02-24T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/d2de8b20d50701344faa005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - February 23, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/02/23"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/02/23</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-02-23T10:00:00Z</published>
-        <updated>2017-02-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/d063fce0d50701344faa005056a9545d"/>
             </div>
         </content>
     </entry>
