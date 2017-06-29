@@ -3,11 +3,26 @@
     <title type="text">Bloom County 2017</title>
     <link href="http://www.gocomics.com/bloom-county" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloom-county.xml" rel="self"/>
-    <updated>2017-06-28T10:01:00Z</updated>
+    <updated>2017-06-29T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>http://www.gocomics.com/bloom-county/</id>
+    <entry>
+        <title type="text">Bloom County 2017 - June 29, 2017</title>
+        <link href="http://www.gocomics.com/bloom-county/2017/06/29"/>
+        <id>http://www.gocomics.com/bloom-county/2017/06/29</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2017-06-29T10:00:00Z</published>
+        <updated>2017-06-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8dc554303cd70135d5b9005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County 2017 - June 28, 2017</title>
         <link href="http://www.gocomics.com/bloom-county/2017/06/28"/>
@@ -1235,21 +1250,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/aa9169b0e00001345c3f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County 2016 - March  1, 2017</title>
-        <link href="http://www.gocomics.com/bloom-county/2017/03/01"/>
-        <id>http://www.gocomics.com/bloom-county/2017/03/01</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2017-03-01T10:00:00Z</published>
-        <updated>2017-03-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/a9c6d7a0e00001345c3f005056a9545d"/>
             </div>
         </content>
     </entry>
