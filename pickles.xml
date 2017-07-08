@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2017-07-07T10:01:00Z</updated>
+    <updated>2017-07-08T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - July  8, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/07/08"/>
+        <id>http://www.gocomics.com/pickles/2017/07/08</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-07-08T10:00:00Z</published>
+        <updated>2017-07-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/6225e8d039900135d4e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - July  7, 2017</title>
         <link href="http://www.gocomics.com/pickles/2017/07/07"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c94b1ed0dd000134590e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - March 10, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/03/10"/>
-        <id>http://www.gocomics.com/pickles/2017/03/10</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-03-10T10:00:00Z</published>
-        <updated>2017-03-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/d1964780dd000134590e005056a9545d"/>
             </div>
         </content>
     </entry>
