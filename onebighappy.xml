@@ -3,11 +3,56 @@
     <title type="text">One Big Happy</title>
     <link href="http://www.gocomics.com/onebighappy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/onebighappy.xml" rel="self"/>
-    <updated>2017-07-15T10:01:00Z</updated>
+    <updated>2017-07-16T10:01:00Z</updated>
     <author>
         <name>Rick Detorie</name>
     </author>
     <id>http://www.gocomics.com/onebighappy/</id>
+    <entry>
+        <title type="text">One Big Happy - April 13, 2017</title>
+        <link href="http://www.gocomics.com/onebighappy/2017/04/13"/>
+        <id>http://www.gocomics.com/onebighappy/2017/04/13</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2017-04-13T10:00:00Z</published>
+        <updated>2017-04-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c494fd505e21012ee3bf00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">One Big Happy - April 12, 2017</title>
+        <link href="http://www.gocomics.com/onebighappy/2017/04/12"/>
+        <id>http://www.gocomics.com/onebighappy/2017/04/12</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2017-04-12T10:00:00Z</published>
+        <updated>2017-04-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/94faeee05e24012ee3bf00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">One Big Happy - April 11, 2017</title>
+        <link href="http://www.gocomics.com/onebighappy/2017/04/11"/>
+        <id>http://www.gocomics.com/onebighappy/2017/04/11</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2017-04-11T10:00:00Z</published>
+        <updated>2017-04-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/1b7311d05e22012ee3bf00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">One Big Happy - April 10, 2017</title>
         <link href="http://www.gocomics.com/onebighappy/2017/04/10"/>
@@ -350,21 +395,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/5376b8005e29012ee3bf00163e41dd5b"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">One Big Happy - March 18, 2017</title>
-        <link href="http://www.gocomics.com/onebighappy/2017/03/18"/>
-        <id>http://www.gocomics.com/onebighappy/2017/03/18</id>
-        <author>
-            <name>Rick Detorie</name>
-        </author>
-        <published>2017-03-18T10:00:00Z</published>
-        <updated>2017-03-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/70a712a05e27012ee3bf00163e41dd5b"/>
             </div>
         </content>
     </entry>
