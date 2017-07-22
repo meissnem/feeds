@@ -3,11 +3,26 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2017-07-21T10:01:00Z</updated>
+    <updated>2017-07-22T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
+    <entry>
+        <title type="text">Get Fuzzy - July 22, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/07/22"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/07/22</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-07-22T10:00:00Z</published>
+        <updated>2017-07-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/17ea3a7048810135d9c7005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - July 21, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/07/21"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/873ef9d0ea5101346b24005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - March 24, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/03/24"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/03/24</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-03-24T10:00:00Z</published>
-        <updated>2017-03-24T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/8512b6c0ea5101346b24005056a9545d"/>
             </div>
         </content>
     </entry>
