@@ -3,11 +3,26 @@
     <title type="text">Doonesbury</title>
     <link href="http://www.gocomics.com/doonesbury" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/doonesbury.xml" rel="self"/>
-    <updated>2017-07-24T10:01:00Z</updated>
+    <updated>2017-07-25T10:01:00Z</updated>
     <author>
         <name>Garry Trudeau</name>
     </author>
     <id>http://www.gocomics.com/doonesbury/</id>
+    <entry>
+        <title type="text">Doonesbury - July 25, 2017</title>
+        <link href="http://www.gocomics.com/doonesbury/2017/07/25"/>
+        <id>http://www.gocomics.com/doonesbury/2017/07/25</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2017-07-25T10:00:00Z</published>
+        <updated>2017-07-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/1a3e16f04d500135db71005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - July 24, 2017</title>
         <link href="http://www.gocomics.com/doonesbury/2017/07/24"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c1513370f0820134740b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Doonesbury - March 27, 2017</title>
-        <link href="http://www.gocomics.com/doonesbury/2017/03/27"/>
-        <id>http://www.gocomics.com/doonesbury/2017/03/27</id>
-        <author>
-            <name>Garry Trudeau</name>
-        </author>
-        <published>2017-03-27T10:00:00Z</published>
-        <updated>2017-03-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/bf5353d0f0820134740b005056a9545d"/>
             </div>
         </content>
     </entry>
