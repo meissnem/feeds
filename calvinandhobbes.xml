@@ -3,11 +3,26 @@
     <title type="text">Calvin and Hobbes</title>
     <link href="http://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/calvinandhobbes.xml" rel="self"/>
-    <updated>2017-07-29T10:01:00Z</updated>
+    <updated>2017-07-30T10:01:00Z</updated>
     <author>
         <name>Bill Watterson</name>
     </author>
     <id>http://www.gocomics.com/calvinandhobbes/</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - July 30, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/07/30"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/07/30</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-07-30T10:00:00Z</published>
+        <updated>2017-07-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/ec1df98011b40135a38a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - July 29, 2017</title>
         <link href="http://www.gocomics.com/calvinandhobbes/2017/07/29"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/5c49e510c64d01343ea0005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - April  1, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/04/01"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/04/01</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-04-01T10:00:00Z</published>
-        <updated>2017-04-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/910c29b0c64d01343ea0005056a9545d"/>
             </div>
         </content>
     </entry>
