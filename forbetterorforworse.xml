@@ -3,11 +3,26 @@
     <title type="text">For Better or For Worse</title>
     <link href="http://www.gocomics.com/forbetterorforworse" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/forbetterorforworse.xml" rel="self"/>
-    <updated>2017-08-06T10:01:00Z</updated>
+    <updated>2017-08-07T10:01:00Z</updated>
     <author>
         <name>Lynn Johnston</name>
     </author>
     <id>http://www.gocomics.com/forbetterorforworse/</id>
+    <entry>
+        <title type="text">For Better or For Worse - August  7, 2017</title>
+        <link href="http://www.gocomics.com/forbetterorforworse/2017/08/07"/>
+        <id>http://www.gocomics.com/forbetterorforworse/2017/08/07</id>
+        <author>
+            <name>Lynn Johnston</name>
+        </author>
+        <published>2017-08-07T10:00:00Z</published>
+        <updated>2017-08-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f0ec5950583c0135def8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">For Better or For Worse - August  6, 2017</title>
         <link href="http://www.gocomics.com/forbetterorforworse/2017/08/06"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e8a3b740fb7a013483e0005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - April  9, 2017</title>
-        <link href="http://www.gocomics.com/forbetterorforworse/2017/04/09"/>
-        <id>http://www.gocomics.com/forbetterorforworse/2017/04/09</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2017-04-09T10:00:00Z</published>
-        <updated>2017-04-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/d9d81830e07e01345cf5005056a9545d"/>
             </div>
         </content>
     </entry>
