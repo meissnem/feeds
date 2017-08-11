@@ -3,11 +3,26 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-08-10T10:01:00Z</updated>
+    <updated>2017-08-11T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - August 11, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/08/11"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/08/11</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-08-11T10:00:00Z</published>
+        <updated>2017-08-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8ba2228056120135deaa005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - August 10, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/08/10"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/bb69d2b0f88f01347fe7005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - April 13, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/04/13"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/04/13</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-04-13T10:00:00Z</published>
-        <updated>2017-04-13T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b98c85c0f88f01347fe7005056a9545d"/>
             </div>
         </content>
     </entry>
