@@ -3,11 +3,26 @@
     <title type="text">F Minus</title>
     <link href="http://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2017-08-12T10:01:00Z</updated>
+    <updated>2017-08-13T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>http://www.gocomics.com/fminus/</id>
+    <entry>
+        <title type="text">F Minus - August 13, 2017</title>
+        <link href="http://www.gocomics.com/fminus/2017/08/13"/>
+        <id>http://www.gocomics.com/fminus/2017/08/13</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2017-08-13T10:00:00Z</published>
+        <updated>2017-08-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/3953ec5045dd0135d916005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - August 12, 2017</title>
         <link href="http://www.gocomics.com/fminus/2017/08/12"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/9be85730ea7301346b5a005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - April 15, 2017</title>
-        <link href="http://www.gocomics.com/fminus/2017/04/15"/>
-        <id>http://www.gocomics.com/fminus/2017/04/15</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2017-04-15T10:00:00Z</published>
-        <updated>2017-04-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/79f9ba10fac6013482d3005056a9545d"/>
             </div>
         </content>
     </entry>
