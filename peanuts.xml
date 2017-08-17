@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
     <entry>
+        <title type="text">Peanuts - August 17, 2017</title>
+        <link href="http://www.gocomics.com/peanuts/2017/08/17"/>
+        <id>http://www.gocomics.com/peanuts/2017/08/17</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2017-08-17T10:00:00Z</published>
+        <updated>2017-08-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/a1f10fd04d520135db73005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Peanuts - August 16, 2017</title>
         <link href="http://www.gocomics.com/peanuts/2017/08/16"/>
         <id>http://www.gocomics.com/peanuts/2017/08/16</id>

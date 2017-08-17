@@ -9,6 +9,21 @@
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
     <entry>
+        <title type="text">Get Fuzzy - August 17, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/08/17"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/08/17</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-08-17T10:00:00Z</published>
+        <updated>2017-08-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/eaa5e0f05e810135e145005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
         <title type="text">Get Fuzzy - August 16, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/08/16"/>
         <id>http://www.gocomics.com/getfuzzy/2017/08/16</id>
