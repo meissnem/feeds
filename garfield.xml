@@ -3,11 +3,26 @@
     <title type="text">Garfield</title>
     <link href="http://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2017-08-24T10:01:00Z</updated>
+    <updated>2017-08-25T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>http://www.gocomics.com/garfield/</id>
+    <entry>
+        <title type="text">Garfield - August 25, 2017</title>
+        <link href="http://www.gocomics.com/garfield/2017/08/25"/>
+        <id>http://www.gocomics.com/garfield/2017/08/25</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2017-08-25T10:00:00Z</published>
+        <updated>2017-08-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/9ac57a4048300135d9ae005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - August 24, 2017</title>
         <link href="http://www.gocomics.com/garfield/2017/08/24"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4d759260faeb01348317005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - April 27, 2017</title>
-        <link href="http://www.gocomics.com/garfield/2017/04/27"/>
-        <id>http://www.gocomics.com/garfield/2017/04/27</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2017-04-27T10:00:00Z</published>
-        <updated>2017-04-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/4b7779d0faeb01348317005056a9545d"/>
             </div>
         </content>
     </entry>
