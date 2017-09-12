@@ -3,11 +3,26 @@
     <title type="text">JumpStart</title>
     <link href="http://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2017-09-11T10:01:00Z</updated>
+    <updated>2017-09-12T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>http://www.gocomics.com/jumpstart/</id>
+    <entry>
+        <title type="text">JumpStart - September 12, 2017</title>
+        <link href="http://www.gocomics.com/jumpstart/2017/09/12"/>
+        <id>http://www.gocomics.com/jumpstart/2017/09/12</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2017-09-12T10:00:00Z</published>
+        <updated>2017-09-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/d86bc06074830135e917005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - September 11, 2017</title>
         <link href="http://www.gocomics.com/jumpstart/2017/09/11"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/a34160c017020135ab00005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - May 15, 2017</title>
-        <link href="http://www.gocomics.com/jumpstart/2017/05/15"/>
-        <id>http://www.gocomics.com/jumpstart/2017/05/15</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2017-05-15T10:00:00Z</published>
-        <updated>2017-05-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/a14697d017020135ab00005056a9545d"/>
             </div>
         </content>
     </entry>
