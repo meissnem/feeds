@@ -3,11 +3,26 @@
     <title type="text">Luann</title>
     <link href="http://www.gocomics.com/luann" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/luann.xml" rel="self"/>
-    <updated>2017-09-13T10:01:00Z</updated>
+    <updated>2017-09-14T10:01:00Z</updated>
     <author>
         <name>Greg Evans</name>
     </author>
     <id>http://www.gocomics.com/luann/</id>
+    <entry>
+        <title type="text">Luann - September 14, 2017</title>
+        <link href="http://www.gocomics.com/luann/2017/09/14"/>
+        <id>http://www.gocomics.com/luann/2017/09/14</id>
+        <author>
+            <name>Greg Evans</name>
+        </author>
+        <published>2017-09-14T10:00:00Z</published>
+        <updated>2017-09-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/dfe1179074830135e917005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Luann - September 13, 2017</title>
         <link href="http://www.gocomics.com/luann/2017/09/13"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c82a188017020135ab00005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Luann - May 17, 2017</title>
-        <link href="http://www.gocomics.com/luann/2017/05/17"/>
-        <id>http://www.gocomics.com/luann/2017/05/17</id>
-        <author>
-            <name>Greg Evans</name>
-        </author>
-        <published>2017-05-17T10:00:00Z</published>
-        <updated>2017-05-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/c63e1f4017020135ab00005056a9545d"/>
             </div>
         </content>
     </entry>
