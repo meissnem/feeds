@@ -3,11 +3,26 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-09-22T10:01:00Z</updated>
+    <updated>2017-09-23T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - September 23, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/09/23"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/09/23</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-09-23T10:00:00Z</published>
+        <updated>2017-09-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/837e1a5077130135ea7b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - September 22, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/09/22"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/b0082ca01a160135aeee005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - May 26, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/05/26"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/05/26</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-05-26T10:00:00Z</published>
-        <updated>2017-05-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/ade4ff301a160135aeee005056a9545d"/>
             </div>
         </content>
     </entry>
