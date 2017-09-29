@@ -3,11 +3,26 @@
     <title type="text">Bloom County</title>
     <link href="http://www.gocomics.com/bloomcounty" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloomcounty.xml" rel="self"/>
-    <updated>2017-09-28T10:01:00Z</updated>
+    <updated>2017-09-29T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>http://www.gocomics.com/bloomcounty/</id>
+    <entry>
+        <title type="text">Bloom County - September 29, 2017</title>
+        <link href="http://www.gocomics.com/bloomcounty/2017/09/29"/>
+        <id>http://www.gocomics.com/bloomcounty/2017/09/29</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2017-09-29T10:00:00Z</published>
+        <updated>2017-09-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/6ce938e62128102d94d7001438c0f03b"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County - September 28, 2017</title>
         <link href="http://www.gocomics.com/bloomcounty/2017/09/28"/>
@@ -1535,21 +1550,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d73231e02127102d94d7001438c0f03b"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - June  1, 2017</title>
-        <link href="http://www.gocomics.com/bloomcounty/2017/06/01"/>
-        <id>http://www.gocomics.com/bloomcounty/2017/06/01</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2017-06-01T10:00:00Z</published>
-        <updated>2017-06-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/3ccc826e212b102d94d7001438c0f03b"/>
             </div>
         </content>
     </entry>
