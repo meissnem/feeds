@@ -3,11 +3,26 @@
     <title type="text">Doonesbury</title>
     <link href="http://www.gocomics.com/doonesbury" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/doonesbury.xml" rel="self"/>
-    <updated>2017-10-02T10:01:00Z</updated>
+    <updated>2017-10-03T10:01:00Z</updated>
     <author>
         <name>Garry Trudeau</name>
     </author>
     <id>http://www.gocomics.com/doonesbury/</id>
+    <entry>
+        <title type="text">Doonesbury - October  3, 2017</title>
+        <link href="http://www.gocomics.com/doonesbury/2017/10/03"/>
+        <id>http://www.gocomics.com/doonesbury/2017/10/03</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2017-10-03T10:00:00Z</published>
+        <updated>2017-10-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/0066fff084370135eed7005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - October  2, 2017</title>
         <link href="http://www.gocomics.com/doonesbury/2017/10/02"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/168e5aa027830135c243005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Doonesbury - June  5, 2017</title>
-        <link href="http://www.gocomics.com/doonesbury/2017/06/05"/>
-        <id>http://www.gocomics.com/doonesbury/2017/06/05</id>
-        <author>
-            <name>Garry Trudeau</name>
-        </author>
-        <published>2017-06-05T10:00:00Z</published>
-        <updated>2017-06-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/14d87f7027830135c243005056a9545d"/>
             </div>
         </content>
     </entry>
