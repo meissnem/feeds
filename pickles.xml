@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2017-10-11T10:01:00Z</updated>
+    <updated>2017-10-12T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - October 12, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/10/12"/>
+        <id>http://www.gocomics.com/pickles/2017/10/12</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-10-12T10:00:00Z</published>
+        <updated>2017-10-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/fefdb26085ea0135efb0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - October 11, 2017</title>
         <link href="http://www.gocomics.com/pickles/2017/10/11"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/b901013029fa0135c613005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - June 14, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/06/14"/>
-        <id>http://www.gocomics.com/pickles/2017/06/14</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-06-14T10:00:00Z</published>
-        <updated>2017-06-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/abe6992029fa0135c613005056a9545d"/>
             </div>
         </content>
     </entry>
