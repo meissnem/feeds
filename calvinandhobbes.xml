@@ -3,11 +3,26 @@
     <title type="text">Calvin and Hobbes</title>
     <link href="http://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/calvinandhobbes.xml" rel="self"/>
-    <updated>2017-10-12T10:01:00Z</updated>
+    <updated>2017-10-13T10:01:00Z</updated>
     <author>
         <name>Bill Watterson</name>
     </author>
     <id>http://www.gocomics.com/calvinandhobbes/</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - October 13, 2017</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2017/10/13"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2017/10/13</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2017-10-13T10:00:00Z</published>
+        <updated>2017-10-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/afb5560049c20135da7a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - October 12, 2017</title>
         <link href="http://www.gocomics.com/calvinandhobbes/2017/10/12"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/f03ca88003d201358ff9005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - June 15, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/06/15"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/06/15</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-06-15T10:00:00Z</published>
-        <updated>2017-06-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/eed596e003d201358ff9005056a9545d"/>
             </div>
         </content>
     </entry>
