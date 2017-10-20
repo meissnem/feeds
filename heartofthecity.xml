@@ -3,11 +3,26 @@
     <title type="text">Heart of the City</title>
     <link href="http://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2017-10-19T10:01:00Z</updated>
+    <updated>2017-10-20T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>http://www.gocomics.com/heartofthecity/</id>
+    <entry>
+        <title type="text">Heart of the City - October 20, 2017</title>
+        <link href="http://www.gocomics.com/heartofthecity/2017/10/20"/>
+        <id>http://www.gocomics.com/heartofthecity/2017/10/20</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2017-10-20T10:00:00Z</published>
+        <updated>2017-10-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/18893d108d570135f29b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - October 19, 2017</title>
         <link href="http://www.gocomics.com/heartofthecity/2017/10/19"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4a56ba302f910135ce06005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - June 22, 2017</title>
-        <link href="http://www.gocomics.com/heartofthecity/2017/06/22"/>
-        <id>http://www.gocomics.com/heartofthecity/2017/06/22</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2017-06-22T10:00:00Z</published>
-        <updated>2017-06-22T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/48fc19902f910135ce06005056a9545d"/>
             </div>
         </content>
     </entry>
