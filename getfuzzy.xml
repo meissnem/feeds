@@ -3,11 +3,26 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2017-10-27T10:01:00Z</updated>
+    <updated>2017-10-28T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
+    <entry>
+        <title type="text">Get Fuzzy - October 28, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/10/28"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/10/28</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-10-28T10:00:00Z</published>
+        <updated>2017-10-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/3a4b297095860135f52e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - October 27, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/10/27"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/5d595280380d0135d446005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - June 30, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/06/30"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/06/30</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-06-30T10:00:00Z</published>
-        <updated>2017-06-30T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5c113ae0380d0135d446005056a9545d"/>
             </div>
         </content>
     </entry>
