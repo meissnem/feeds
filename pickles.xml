@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2017-11-03T10:01:00Z</updated>
+    <updated>2017-11-04T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - November  4, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/11/04"/>
+        <id>http://www.gocomics.com/pickles/2017/11/04</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-11-04T10:00:00Z</published>
+        <updated>2017-11-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/df7bf730910c0135f3c4005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - November  3, 2017</title>
         <link href="http://www.gocomics.com/pickles/2017/11/03"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/6225e8d039900135d4e3005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - July  7, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/07/07"/>
-        <id>http://www.gocomics.com/pickles/2017/07/07</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-07-07T10:00:00Z</published>
-        <updated>2017-07-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/65437fd039900135d4e3005056a9545d"/>
             </div>
         </content>
     </entry>
