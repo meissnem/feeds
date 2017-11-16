@@ -3,11 +3,26 @@
     <title type="text">Garfield</title>
     <link href="http://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2017-11-15T10:01:00Z</updated>
+    <updated>2017-11-16T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>http://www.gocomics.com/garfield/</id>
+    <entry>
+        <title type="text">Garfield - November 16, 2017</title>
+        <link href="http://www.gocomics.com/garfield/2017/11/16"/>
+        <id>http://www.gocomics.com/garfield/2017/11/16</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2017-11-16T10:00:00Z</published>
+        <updated>2017-11-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8d6854f089ef0135f10a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - November 15, 2017</title>
         <link href="http://www.gocomics.com/garfield/2017/11/15"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/251d9590337f0135d2c5005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - July 19, 2017</title>
-        <link href="http://www.gocomics.com/garfield/2017/07/19"/>
-        <id>http://www.gocomics.com/garfield/2017/07/19</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2017-07-19T10:00:00Z</published>
-        <updated>2017-07-19T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/239d12b0337f0135d2c5005056a9545d"/>
             </div>
         </content>
     </entry>
