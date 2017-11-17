@@ -3,11 +3,26 @@
     <title type="text">One Big Happy</title>
     <link href="http://www.gocomics.com/onebighappy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/onebighappy.xml" rel="self"/>
-    <updated>2017-11-16T10:01:00Z</updated>
+    <updated>2017-11-17T10:01:00Z</updated>
     <author>
         <name>Rick Detorie</name>
     </author>
     <id>http://www.gocomics.com/onebighappy/</id>
+    <entry>
+        <title type="text">One Big Happy - November 17, 2017</title>
+        <link href="http://www.gocomics.com/onebighappy/2017/11/17"/>
+        <id>http://www.gocomics.com/onebighappy/2017/11/17</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2017-11-17T10:00:00Z</published>
+        <updated>2017-11-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/fab402905cfe012ee3bd00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">One Big Happy - November 16, 2017</title>
         <link href="http://www.gocomics.com/onebighappy/2017/11/16"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/255109e05e28012ee3bf00163e41dd5b"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">One Big Happy - July 20, 2017</title>
-        <link href="http://www.gocomics.com/onebighappy/2017/07/20"/>
-        <id>http://www.gocomics.com/onebighappy/2017/07/20</id>
-        <author>
-            <name>Rick Detorie</name>
-        </author>
-        <published>2017-07-20T10:00:00Z</published>
-        <updated>2017-07-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/719f02705cf3012ee3bd00163e41dd5b"/>
             </div>
         </content>
     </entry>
