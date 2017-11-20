@@ -3,11 +3,26 @@
     <title type="text">F Minus</title>
     <link href="http://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2017-11-19T10:01:00Z</updated>
+    <updated>2017-11-20T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>http://www.gocomics.com/fminus/</id>
+    <entry>
+        <title type="text">F Minus - November 20, 2017</title>
+        <link href="http://www.gocomics.com/fminus/2017/11/20"/>
+        <id>http://www.gocomics.com/fminus/2017/11/20</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2017-11-20T10:00:00Z</published>
+        <updated>2017-11-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/bda315b0a8950135fc8e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - November 19, 2017</title>
         <link href="http://www.gocomics.com/fminus/2017/11/19"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d1ad7c804a0d0135da90005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - July 23, 2017</title>
-        <link href="http://www.gocomics.com/fminus/2017/07/23"/>
-        <id>http://www.gocomics.com/fminus/2017/07/23</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2017-07-23T10:00:00Z</published>
-        <updated>2017-07-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b12bbd2035190135d379005056a9545d"/>
             </div>
         </content>
     </entry>
