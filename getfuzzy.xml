@@ -3,11 +3,26 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2017-11-22T10:01:00Z</updated>
+    <updated>2017-11-23T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
+    <entry>
+        <title type="text">Get Fuzzy - November 23, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/11/23"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/11/23</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-11-23T10:00:00Z</published>
+        <updated>2017-11-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f001bcc0ab860135fd5d005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - November 22, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/11/22"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/ad24e8804e050135dbae005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - July 26, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/07/26"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/07/26</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-07-26T10:00:00Z</published>
-        <updated>2017-07-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/abf6d6a04e050135dbae005056a9545d"/>
             </div>
         </content>
     </entry>
