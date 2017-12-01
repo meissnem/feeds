@@ -3,11 +3,26 @@
     <title type="text">F Minus</title>
     <link href="http://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2017-11-30T10:01:00Z</updated>
+    <updated>2017-12-01T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>http://www.gocomics.com/fminus/</id>
+    <entry>
+        <title type="text">F Minus - December  1, 2017</title>
+        <link href="http://www.gocomics.com/fminus/2017/12/01"/>
+        <id>http://www.gocomics.com/fminus/2017/12/01</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2017-12-01T10:00:00Z</published>
+        <updated>2017-12-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/c3e5bd90ad450135fe40005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - November 30, 2017</title>
         <link href="http://www.gocomics.com/fminus/2017/11/30"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/44dc0dc050850135dcbf005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  3, 2017</title>
-        <link href="http://www.gocomics.com/fminus/2017/08/03"/>
-        <id>http://www.gocomics.com/fminus/2017/08/03</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2017-08-03T10:00:00Z</published>
-        <updated>2017-08-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/432a5aa050850135dcbf005056a9545d"/>
             </div>
         </content>
     </entry>
