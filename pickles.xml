@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2017-12-03T10:01:00Z</updated>
+    <updated>2017-12-04T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - December  4, 2017</title>
+        <link href="http://www.gocomics.com/pickles/2017/12/04"/>
+        <id>http://www.gocomics.com/pickles/2017/12/04</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2017-12-04T10:00:00Z</published>
+        <updated>2017-12-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/84a98a50b12b0135ffb5005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - December  3, 2017</title>
         <link href="http://www.gocomics.com/pickles/2017/12/03"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c06e694055320135de3f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - August  6, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/08/06"/>
-        <id>http://www.gocomics.com/pickles/2017/08/06</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-08-06T10:00:00Z</published>
-        <updated>2017-08-06T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/9b9917203f530135d6f1005056a9545d"/>
             </div>
         </content>
     </entry>
