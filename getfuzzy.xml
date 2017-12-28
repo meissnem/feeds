@@ -3,11 +3,26 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2017-12-27T10:01:00Z</updated>
+    <updated>2017-12-28T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
+    <entry>
+        <title type="text">Get Fuzzy - December 28, 2017</title>
+        <link href="http://www.gocomics.com/getfuzzy/2017/12/28"/>
+        <id>http://www.gocomics.com/getfuzzy/2017/12/28</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2017-12-28T10:00:00Z</published>
+        <updated>2017-12-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/9909b7b0c70a01350774005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - December 27, 2017</title>
         <link href="http://www.gocomics.com/getfuzzy/2017/12/27"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4c33b25069820135e536005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - August 30, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/08/30"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/08/30</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-08-30T10:00:00Z</published>
-        <updated>2017-08-30T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/dc25e27069820135e536005056a9545d"/>
             </div>
         </content>
     </entry>
