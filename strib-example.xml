@@ -3,19 +3,21 @@
 
     <title>Example Star Tribune Feed</title>
     <id>http://www.startribune.com/matt/example</id>
-    <updated>2017-12-29T18:51:40.012515Z</updated>
+    <link rel="self" href="https://meissnem.gitlab.io/feeds/strib-example.xml"/>
+    <updated>2017-12-29T19:12:02.631557Z</updated>
     <author>
         <name>Star Tribune Staff</name>
         <uri>http://www.startribune.com/</uri>
     </author>
     <subtitle>Newspaper of the Twin Cities</subtitle>
     <entry>
-        <id>fab447fc-3bb4-411c-9535-3ef3ec704d54</id>
+        <id>urn:uuid:983e2a28-76d4-4249-80db-1309dd20a0aa</id>
         <title>How cold is it? We&#8217;ll show you</title>
         <updated>2017-12-27T07:30:00-06:00</updated>
         <author>
             <name>Kyndell Harkness</name>
         </author>
+        <link>http://video.startribune.com/how-cold-is-it-we-ll-show-you/37681909/</link>
         <summary>It was cold nine years ago too. Star Tribune weather reporter Bill McAuliffe shows you how to have fun at 14 below.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">It was cold nine years ago too. Star Tribune weather reporter Bill McAuliffe shows you how to have fun at 14 below.</h2>
@@ -28,22 +30,23 @@
         ]]></content>
     </entry>
     <entry>
-        <id>bca1189c-92f7-43b9-817a-ac36be70b259</id>
+        <id>urn:uuid:ad935e49-097c-46c6-84a4-1d40ac826b99</id>
         <title>Live: Updates from Paul Douglas</title>
         <updated>2016-09-21T19:35:00-05:00</updated>
     </entry>
     <entry>
-        <id>a148f22e-7323-4d09-80cd-528ba2ee4064</id>
+        <id>urn:uuid:ce0f9942-cf2a-49b0-ae8d-e5c785c718ba</id>
         <title>2017 has been an amazing year in photography and video</title>
         <updated>2017-12-11T06:03:00-06:00</updated>
     </entry>
     <entry>
-        <id>c91aec2d-e1f0-4a66-855c-435a276fde8e</id>
+        <id>urn:uuid:d3830e15-b1d9-469d-a068-79dfe256310d</id>
         <title>New Italian restaurant opens in downtown Excelsior</title>
         <updated>2017-12-28T10:26:00-06:00</updated>
         <author>
             <name>Amelia Rayno</name>
         </author>
+        <link>http://www.startribune.com/new-italian-restaurant-open-in-downtown-excelsior/465745563/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Amelia Rayno</h4>
 <p><img alt="" src="http://apps.startribune.com/blogs/user_images/ajrayno_1514478287_RedSauceRebellionBakedZiti.jpeg"></p>
@@ -64,12 +67,13 @@
         ]]></content>
     </entry>
     <entry>
-        <id>d628b935-17d4-4109-93e2-f41277aa6586</id>
+        <id>urn:uuid:757d1ec8-1ba9-4bfe-9473-8fd89619117d</id>
         <title>Four inner-city firms chosen for Wells Fargo-paid makeover</title>
         <updated>2017-12-28T13:52:00-06:00</updated>
         <author>
             <name>Neal St. Anthony</name>
         </author>
+        <link>http://www.startribune.com/four-inner-city-firms-chosen-for-wells-fargo-paid-makeover/465805413/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Neal St. Anthony</h4>
 <p><br> Wells Fargo, in partnership with Rebuilding Together, has recognized four Minneapolis small-business owners through its nationwide commercial-renovation competition: Wells Fargo Works for Small Business.<br> The “Neighborhood Renovation Program” small business contest netted three local finalists who received $10,000 toward facility renovation.<br> The winner is Hope and Healing Counseling Services. Hope received $25,000.</p>
@@ -77,12 +81,13 @@
         ]]></content>
     </entry>
     <entry>
-        <id>98e06fcd-d855-4aa0-87a0-ab7dd34325c0</id>
+        <id>urn:uuid:16941792-f6d3-4a87-912e-0a66a31cd35a</id>
         <title>Tackling the stress of playing in the NFL with music</title>
         <updated>2017-12-25T20:42:00-06:00</updated>
         <author>
             <name>Matt Gillmer</name>
         </author>
+        <link>http://video.startribune.com/tackling-the-stress-of-playing-in-the-nfl-with-music/465939943/</link>
         <summary>Vikings DE Stephen Weatherly grew up playing nine different instruments. Now he uses his love of music to help &#8220;de-stress&#8221; from the rigors of playing in the NFL.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Vikings DE Stephen Weatherly grew up playing nine different instruments. Now he uses his love of music to help &#8220;de-stress&#8221; from the rigors of playing in the NFL.</h2>
@@ -95,13 +100,14 @@
         ]]></content>
     </entry>
     <entry>
-        <id>c7307b01-2fb8-4c19-b7e8-99157ffd557c</id>
+        <id>urn:uuid:f422194b-2ced-4bd6-9ed4-2cd3640917d1</id>
         <title>Funny girls grow up to be empowered women</title>
         <updated>2017-12-22T14:05:00-06:00</updated>
         <author>
             <name>Ellen McCarthy
                                                                                                                                             Washington Post</name>
         </author>
+        <link>http://www.startribune.com/funny-girls-grow-up-to-be-empowered-women/465964193/</link>
         <summary>Societal forces still trying to quash witty young females.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Societal forces still trying to quash witty young females.</h2>
@@ -161,7 +167,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>dce74227-0cd7-417d-9b5f-00a1abaaaa4b</id>
+        <id>urn:uuid:e3e81930-2091-4512-856c-bba9a1cedf8b</id>
         <title>How Max the Macalester library cat enjoys his fame: film shoots, bookstore visits and groupies</title>
         <updated>2017-12-28T11:25:00-06:00</updated>
         <author>
@@ -169,6 +175,7 @@
             <uri>http://www.startribune.com/sharyn-jackson/285385111/</uri>
             <email>sharyn.jackson@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/how-max-the-macalester-library-cat-enjoys-his-fame-film-shoots-bookstore-visits-and-a-pet-psychic/465964333/</link>
         <summary>St. Paul tabby and internet star spawns childrens&#8217;s book, perhaps even a literacy foundation.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">St. Paul tabby and internet star spawns childrens&#8217;s book, perhaps even a literacy foundation.</h2>
@@ -270,27 +277,27 @@
         ]]></content>
     </entry>
     <entry>
-        <id>65b25ee6-2850-4ebe-8c59-14a30b4359e5</id>
+        <id>urn:uuid:999712b8-918e-4bff-ba95-df522e3c2cee</id>
         <title>Christmas Eve at Plymouth Congregational Church</title>
         <updated>2017-12-24T18:41:00-06:00</updated>
     </entry>
     <entry>
-        <id>ff5419c7-6f55-40a4-902c-8daa422c2d0b</id>
+        <id>urn:uuid:2a894110-ea27-4baa-96c7-2699c9d6248d</id>
         <title>Max the Cat takes on the world</title>
         <updated>2017-12-25T13:50:00-06:00</updated>
     </entry>
     <entry>
-        <id>58c35d61-9d08-4c58-949e-1bcb0a3e63e9</id>
+        <id>urn:uuid:9e619b67-e436-47b3-9b4b-39aeb110224c</id>
         <title>Tour St. Paul&#8217;s soon-to-be-renovated Victoria theater</title>
         <updated>2017-12-26T09:41:00-06:00</updated>
     </entry>
     <entry>
-        <id>8206ca8a-a467-4f8b-ab68-c9cfd29a97f8</id>
+        <id>urn:uuid:33d6ced5-ebc1-495f-86ce-4c6c756358b4</id>
         <title>Minnesota hit with first frigid temps of winter</title>
         <updated>2017-12-27T09:23:00-06:00</updated>
     </entry>
     <entry>
-        <id>4d32975f-7489-4ab1-801a-03af3af6ae68</id>
+        <id>urn:uuid:cccd438c-b570-4a67-b0ea-ff79488490c4</id>
         <title>Student tutors from the suburbs help improve achievement gap in Minneapolis</title>
         <updated>2017-12-25T18:29:00-06:00</updated>
         <author>
@@ -298,6 +305,7 @@
             <uri>http://www.startribune.com/faiza-mahamud/381858611/</uri>
             <email>faiza.mahamud@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/student-tutors-from-the-suburbs-help-improve-achievement-gap-in-minneapolis/466488373/</link>
         <summary>Backpack Tutors helping to close achievement gap in Minneapolis schools.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Backpack Tutors helping to close achievement gap in Minneapolis schools.</h2>
@@ -330,7 +338,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>1f3e6d01-c445-42f4-a0af-ba4805d65e91</id>
+        <id>urn:uuid:bde88b67-ca8e-4608-a5e3-8fb4506d72c3</id>
         <title>Momentum builds to restore Frogtown&#8217;s Victoria Theater</title>
         <updated>2017-12-26T11:12:00-06:00</updated>
         <author>
@@ -338,6 +346,7 @@
             <uri>http://www.startribune.com/jessie-van-berkel/280701532/</uri>
             <email>Jessie.VanBerkel@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/momentum-builds-to-restore-frogtown-s-victoria-theater/466492353/</link>
         <summary>Supporters of long-vacant &#8216;Vic&#8217; secured key funding this month for future renovation.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Supporters of long-vacant &#8216;Vic&#8217; secured key funding this month for future renovation.</h2>
@@ -582,12 +591,12 @@
         ]]></content>
     </entry>
     <entry>
-        <id>22949050-5dcc-441f-b073-0fa8b9be3e1b</id>
+        <id>urn:uuid:331e60e9-06d1-4c2d-ae35-dcd239f80ba2</id>
         <title>Parents talk about Christmas baby born on side of road</title>
         <updated>2017-12-26T07:09:00-06:00</updated>
     </entry>
     <entry>
-        <id>f2d4fd47-81ca-4622-92c0-2cf10693c86e</id>
+        <id>urn:uuid:ebcbe6cf-97b2-4a94-9ad3-cea6a7c3b12b</id>
         <title>Minnesota couple get special Christmas delivery along frigid highway</title>
         <updated>2017-12-26T11:12:00-06:00</updated>
         <author>
@@ -595,6 +604,7 @@
             <uri>http://www.startribune.com/dan-browning/10644516/</uri>
             <email>dbrowning@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/special-delivery-on-hwy-8-for-the-lindemans/466497743/</link>
         <summary>They were on their way to United Hospital when their third child arrived.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">They were on their way to United Hospital when their third child arrived.</h2>
@@ -665,7 +675,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>4af55cec-dc60-4758-b1ff-2989ac86e62c</id>
+        <id>urn:uuid:782bf226-6f9c-472c-8386-5396d5f44fad</id>
         <title>Twin Cities shelters work overtime to protect homeless from dangerous Minnesota cold</title>
         <updated>2017-12-26T22:14:00-06:00</updated>
         <author>
@@ -673,6 +683,7 @@
             <uri>http://www.startribune.com/pat-pheifer/10645666/</uri>
             <email>ppheifer@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/another-day-stuck-below-0-in-store-for-twin-cities/466584863/</link>
         <summary>After a slight warmup Thursday, weekend high temperatures will be below zero.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">After a slight warmup Thursday, weekend high temperatures will be below zero.</h2>
@@ -731,7 +742,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>9d609b32-7b35-4643-85cb-598015f97833</id>
+        <id>urn:uuid:ef1c32f8-9e78-4c2f-b892-13d643b35bfe</id>
         <title>ID released of man hit by light-rail train in St. Paul and critically injured</title>
         <updated>2017-12-27T06:55:00-06:00</updated>
         <author>
@@ -739,6 +750,7 @@
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/man-hit-by-light-rail-train-in-st-paul-is-in-critical-condition/466601543/</link>
         <summary>The incident occurred about 7:50 p.m. Monday.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The incident occurred about 7:50 p.m. Monday.</h2>
@@ -763,7 +775,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>14a23cf3-662c-4871-9cc9-89e47dc89453</id>
+        <id>urn:uuid:50b658c1-44cc-421a-b981-e5e2364ea251</id>
         <title>Hibbing house fire death toll grows: husband, wife, 2 grandkids</title>
         <updated>2017-12-27T19:44:00-06:00</updated>
         <author>
@@ -771,6 +783,7 @@
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/hibbing-house-fire-kills-2-adults-badly-injures-2-children/466606123/</link>
         <summary>The blaze broke out in the middle of the night and when temperatures were well below zero.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The blaze broke out in the middle of the night and when temperatures were well below zero.</h2>
@@ -821,7 +834,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>a4623882-ccfb-4750-b8f8-836ec0e1c34c</id>
+        <id>urn:uuid:b9a462bf-ff54-4b4b-a013-cff62f11cf58</id>
         <title>13 Days in July: The Trump White House&#8217;s crucible</title>
         <updated>2017-12-26T12:20:00-06:00</updated>
         <author>
@@ -830,6 +843,7 @@
                                                                                                                                                 ZEKE MILLER
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/13-days-in-july-the-trump-white-house-s-crucible/466615633/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By JONATHAN LEMIRE
                                                                                                                             and
@@ -919,7 +933,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>4ab6d506-d00e-4296-baa6-b98610ab8b5d</id>
+        <id>urn:uuid:5703e706-fd9d-4312-9d17-f7eebaa0efa0</id>
         <title>Alleged drug dealer charged with murder in co-worker&#8217;s opioid overdose death</title>
         <updated>2017-12-26T22:07:00-06:00</updated>
         <author>
@@ -927,6 +941,7 @@
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/drug-dealer-charged-with-murder-for-minnetonka-man-s-opioid-overdose/466617603/</link>
         <summary>Popular hockey book painfully detailed his being cut as a senior from a powerhouse Twin Cities high school program.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Popular hockey book painfully detailed his being cut as a senior from a powerhouse Twin Cities high school program.</h2>
@@ -981,12 +996,13 @@
         ]]></content>
     </entry>
     <entry>
-        <id>1b45cf2f-a6ae-481b-9f84-ca09ef4025a5</id>
+        <id>urn:uuid:0819c3c0-1361-46f6-9b16-19d8c948805a</id>
         <title>The week&#8217;s best Twin Cities jazz: Rio Nido, Le Voyage, Tall Tales</title>
         <updated>2017-12-26T16:01:00-06:00</updated>
         <author>
             <name>Britt Robson</name>
         </author>
+        <link>http://www.startribune.com/the-week-s-best-twin-cities-jazz-rio-nido-le-voyage-tall-tales/466618543/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Britt Robson</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -1012,7 +1028,7 @@
         ]]></content>
     </entry>
     <entry>
-        <id>2872120e-e661-4095-a9ac-8391d66aa147</id>
+        <id>urn:uuid:9b87a693-4dc6-4a93-871a-3247daaa59b2</id>
         <title>Stumped for something to do on New Year&#8217;s Eve in Twin Cites? Here are 40-plus ideas</title>
         <updated>2017-12-28T14:05:00-06:00</updated>
         <author>
@@ -1020,6 +1036,7 @@
             <uri>http://www.startribune.com/melissa-walker/10644471/</uri>
             <email>mwalker@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/stumped-for-something-to-do-on-new-year-s-eve-here-are-40-plus-ideas/466619573/</link>
         <summary>Whether you&#8217;re looking to dress up, or dress warm, there&#8217;s an event for you.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Whether you&#8217;re looking to dress up, or dress warm, there&#8217;s an event for you.</h2>
@@ -1109,7 +1126,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>f9f3ded0-79c4-4441-84f3-23a409daa24b</id>
+        <id>urn:uuid:6d803f1d-91a0-4651-b84e-67d5b7816b0f</id>
         <title>Minnesotans play key role in landmark Liberian election</title>
         <updated>2017-12-26T23:34:00-06:00</updated>
         <author>
@@ -1117,6 +1134,7 @@ istock
             <uri>http://www.startribune.com/hannah-covington/386835701/</uri>
             <email>hannah.covington@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/minnesotans-play-key-role-in-landmark-liberian-election/466621893/</link>
         <summary>With largest Liberian population in the U.S., state plays outsized role in landmark election.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">With largest Liberian population in the U.S., state plays outsized role in landmark election.</h2>
@@ -1408,7 +1426,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>27213008-6e56-4ab6-9d48-babf8f6e483b</id>
+        <id>urn:uuid:79d94645-a012-4680-932f-83812e37d256</id>
         <title>Tenants&#8217; attorney asked court to hold Minneapolis landlord in contempt</title>
         <updated>2017-12-26T21:20:00-06:00</updated>
         <author>
@@ -1416,6 +1434,7 @@ istock
             <uri>http://www.startribune.com/randy-furst/10644886/</uri>
             <email>rfurst@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/tenants-attorney-asked-court-to-hold-minneapolis-landlord-in-contempt/466625313/</link>
         <summary>Buyer of buildings from landlord Stephen Frenz is accused of failing to cooperate.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Buyer of buildings from landlord Stephen Frenz is accused of failing to cooperate.</h2>
@@ -1446,13 +1465,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>a1b08e69-d26f-4f81-85e8-d460b01cb623</id>
+        <id>urn:uuid:dd8b4cf8-49f3-4827-addc-225644d6b19f</id>
         <title>Amid sales drop, Harley-Davidson wants to teach more to ride</title>
         <updated>2017-12-26T16:30:00-06:00</updated>
         <author>
             <name>IVAN MORENO
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/amid-sales-drop-harley-davidson-wants-to-teach-more-to-ride/466632393/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By IVAN MORENO
                                                                                                                                             Associated Press</h4>
@@ -1485,7 +1505,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>76de2589-cdc6-4b99-b453-1ed0c09d17fe</id>
+        <id>urn:uuid:43d369ae-f302-46de-bf0f-284e9990f3f4</id>
         <title>Deportation plane&#8217;s &#8216;mystery&#8217; return from Somalia lands in legal morass</title>
         <updated>2017-12-27T09:08:00-06:00</updated>
         <author>
@@ -1493,6 +1513,7 @@ istock
             <uri>http://www.startribune.com/mila-koumpilova/275485961/</uri>
             <email>mila.koumpilova@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/deportation-plane-s-mystery-return-from-somalia-lands-in-legal-morass/466647233/</link>
         <summary>Plane of deportees turned back from Somalia; their fate is now uncertain.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Plane of deportees turned back from Somalia; their fate is now uncertain.</h2>
@@ -1543,7 +1564,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>d7b5d7e7-1713-4a84-8316-6955ec2ed102</id>
+        <id>urn:uuid:f86bd625-1f12-4347-b0c9-8f53552044f5</id>
         <title>Sanford Health getting bigger in weight loss with Twin Cities stores opening</title>
         <updated>2017-12-26T19:15:00-06:00</updated>
         <author>
@@ -1551,6 +1572,7 @@ istock
             <uri>http://www.startribune.com/christopher-snowbeck/277764631/</uri>
             <email>chris.snowbeck@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/sanford-health-getting-bigger-in-weight-loss/466651363/</link>
         <summary>Sanford Health of South Dakota will offer counseling, food at several spots in the Twin Cities.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Sanford Health of South Dakota will offer counseling, food at several spots in the Twin Cities.</h2>
@@ -1592,7 +1614,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>6d2d1788-b4f4-4cd6-9877-4d05c5f13023</id>
+        <id>urn:uuid:d1f3faa1-b40e-4663-be71-27de6bf49b12</id>
         <title>Minnesota&#8217;s attorney general to sue over net neutrality</title>
         <updated>2017-12-26T21:19:00-06:00</updated>
         <author>
@@ -1600,6 +1622,7 @@ istock
             <uri>http://www.startribune.com/maya-rao/137958973/</uri>
             <email>maya.rao@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/minnesota-s-attorney-general-to-sue-over-net-neutrality/466656713/</link>
         <summary>DFLer Lori Swanson says FCC&#8217;s net neutrality rules repeal bad for consumers.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">DFLer Lori Swanson says FCC&#8217;s net neutrality rules repeal bad for consumers.</h2>
@@ -1626,7 +1649,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>522cb69d-bc05-44e9-9a3a-a404cd6dc5fc</id>
+        <id>urn:uuid:74d289f9-15df-48a0-a7c9-692cf6601312</id>
         <title>St. Paul joins Minneapolis, Bloomington in offering later Super Bowl bar hours</title>
         <updated>2017-12-26T22:04:00-06:00</updated>
         <author>
@@ -1634,6 +1657,7 @@ istock
             <uri>http://www.startribune.com/eric-roper/62906482/</uri>
             <email>eric.roper@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/st-paul-joins-minneapolis-bloomington-in-offering-later-super-bowl-bar-hours/466659963/</link>
         <summary>The state Legislature allowed bars with permits to remain open to 4 a.m. the weekend of the big game.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The state Legislature allowed bars with permits to remain open to 4 a.m. the weekend of the big game.</h2>
@@ -1688,18 +1712,19 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>b2854b85-2482-47bc-8662-ded94392df62</id>
+        <id>urn:uuid:a9ff72a7-51d0-4372-bbe0-cbc046b73dbf</id>
         <title>Canadian Pacific Holiday Train makes a stop in Minnesota</title>
         <updated>2017-12-27T10:36:00-06:00</updated>
     </entry>
     <entry>
-        <id>9437a144-3736-4a97-8b24-2e5af27dff81</id>
+        <id>urn:uuid:97c242ff-7891-4398-8979-8ea4a6f8dede</id>
         <title>The former RyKrisp factory in southeast Minneapolis has become a haven for millennial entrepreneurs</title>
         <updated>2017-12-26T18:44:00-06:00</updated>
         <author>
             <name>Kevyn Burger
                                                                                                                                             Special to the Star Tribune</name>
         </author>
+        <link>http://www.startribune.com/the-former-rykrisp-factory-in-southeast-minneapolis-has-become-a-haven-for-millennial-entrepreneurs/466665663/</link>
         <summary>The old RyKrisp factory is reborn as North Co. and home to 22 businesses.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The old RyKrisp factory is reborn as North Co. and home to 22 businesses.</h2>
@@ -1831,13 +1856,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>1d4e5449-c05f-4f86-905b-c1ce89aec3f4</id>
+        <id>urn:uuid:2a23a388-f9e3-4c3d-a282-b7968eec709d</id>
         <title>Minneapolis City Council&#8217;s pay hike was needlessly sneaky</title>
         <updated>2017-12-26T17:28:00-06:00</updated>
         <author>
             <name>Editorial Board
                                                                                                                                             Star Tribune</name>
         </author>
+        <link>http://www.startribune.com/minneapolis-city-council-s-pay-hike-needlessly-sneaky/466668853/</link>
         <summary>The numbers aren&#8217;t troubling; the process was.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The numbers aren&#8217;t troubling; the process was.</h2>
@@ -1869,12 +1895,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>53344655-60c4-4043-8591-9aa1f0643e7b</id>
+        <id>urn:uuid:d521cf66-b2f2-474c-a520-4eb5c927199c</id>
         <title>Thank goodness the guests are gone. Isn&#8217;t Christmas a bit, well, boring?</title>
         <updated>2017-12-26T17:28:00-06:00</updated>
         <author>
             <name>Rebecca S. Fahrlander</name>
         </author>
+        <link>http://www.startribune.com/thank-goodness-the-guests-are-gone-isn-t-christmas-a-bit-well-boring/466668923/</link>
         <summary>I won&#8217;t miss all of the hustle and bustle, and it&#8217;ll be nice to get back to my day-to-day life.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">I won&#8217;t miss all of the hustle and bustle, and it&#8217;ll be nice to get back to my day-to-day life.</h2>
@@ -1904,7 +1931,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>d025f935-84bf-43f9-85d1-06f420f0d175</id>
+        <id>urn:uuid:84e4aec4-3e28-47a7-a4b5-2ce061929db6</id>
         <title>After outcry, relatives of man shot by Minneapolis police demand visitation</title>
         <updated>2017-12-27T19:29:00-06:00</updated>
         <author>
@@ -1912,6 +1939,7 @@ istock
             <uri>http://www.startribune.com/libor-jany/219430401/</uri>
             <email>libor.jany@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/after-outcry-relatives-of-man-shot-by-minneapolis-police-demand-visitation/466687053/</link>
         <summary>Marcus Fischer&#8217;s family say they&#8217;ve been barred from follow-up visits.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Marcus Fischer&#8217;s family say they&#8217;ve been barred from follow-up visits.</h2>
@@ -1946,7 +1974,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>cbf4e301-a254-45f9-97a6-39feda5378ea</id>
+        <id>urn:uuid:1ab39b64-23ea-4fc2-a78c-f0b75d0081ac</id>
         <title>University of Minnesota memo sparks war of words; officials say there&#8217;s no &#8216;War on Christmas&#8217;</title>
         <updated>2017-12-26T23:30:00-06:00</updated>
         <author>
@@ -1954,6 +1982,7 @@ istock
             <uri>http://www.startribune.com/maura-lerner/10645281/</uri>
             <email>maura.lerner@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/university-of-minnesota-memo-sparks-war-of-words-but-no-war-on-christmas/466691113/</link>
         <summary>Advice on holiday parties was &#8220;ill-advised,&#8221; U admits.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Advice on holiday parties was &#8220;ill-advised,&#8221; U admits.</h2>
@@ -1984,17 +2013,17 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>25574f88-db7b-4591-a6ed-3e39ae5ff529</id>
+        <id>urn:uuid:621a355b-fedb-4f8b-856e-6290bbb6c181</id>
         <title>Minnesota&#8217;s immigrant community excited about Liberian election</title>
         <updated>2017-12-26T20:36:00-06:00</updated>
     </entry>
     <entry>
-        <id>9a002d40-2bc9-4aa5-a69c-9151107bb2d4</id>
+        <id>urn:uuid:34c1abca-3c57-47ad-a97e-e98ee29f4969</id>
         <title>Coping with the cold</title>
         <updated>2017-12-26T20:52:00-06:00</updated>
     </entry>
     <entry>
-        <id>832c17ec-6e94-4a6d-9677-bf8c90487585</id>
+        <id>urn:uuid:9806634c-226e-487a-b6ed-6dd750df298a</id>
         <title>Was MNsure&#8217;s help line hacked in 2016? That&#8217;s still unsolved, for now</title>
         <updated>2017-12-26T22:08:00-06:00</updated>
         <author>
@@ -2002,6 +2031,7 @@ istock
             <uri>http://www.startribune.com/j-patrick-coolican/275328091/</uri>
             <email>patrick.coolican@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/was-mnsure-s-help-line-hacked-unsolved-for-now/466699843/</link>
         <summary>Since Gov. Dayton announced the IT division found that automated systems were flooding phone lines, Minnesotans have heard nothing more.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Since Gov. Dayton announced the IT division found that automated systems were flooding phone lines, Minnesotans have heard nothing more.</h2>
@@ -2059,12 +2089,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>911c0b51-74ed-4aa3-bff7-60afbcc579db</id>
+        <id>urn:uuid:af609e12-e870-4afb-b14c-f70766f7aabd</id>
         <title>Tokyo-bound flight returns to L.A. due to unauthorized person</title>
         <updated>2017-12-26T23:37:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/tokyo-bound-flight-returns-to-la-with-unauthorized-person/466717083/</link>
         <summary>A plane heading from Los Angeles to Tokyo turned back because an unauthorized person was on board.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">A plane heading from Los Angeles to Tokyo turned back because an unauthorized person was on board.</h2>
@@ -2093,13 +2124,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>3d3fca89-765d-4b5b-a16d-ba3ec3719bf0</id>
+        <id>urn:uuid:d862b327-4898-4376-a4fe-ae065de3b30d</id>
         <title>Obama to Prince Harry: Leaders must use care on social media</title>
         <updated>2017-12-27T20:26:00-06:00</updated>
         <author>
             <name>GREGORY KATZ
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/prince-harry-to-guest-edit-bbc-show-interviewing-obama/466733143/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By GREGORY KATZ
                                                                                                                                             Associated Press</h4>
@@ -2133,7 +2165,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>e424a2fb-43e0-427b-90c1-6491dfd1a6f6</id>
+        <id>urn:uuid:8e2b10f2-b7b2-4217-8fca-d98cb82040fd</id>
         <title>Christmas Day house fire in Marshall kills resident</title>
         <updated>2017-12-27T19:43:00-06:00</updated>
         <author>
@@ -2141,6 +2173,7 @@ istock
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/christmas-day-house-fire-in-marshall-kills-resident/466779593/</link>
         <summary>The home was destroyed, and a cause for the blaze has yet to be revealed.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The home was destroyed, and a cause for the blaze has yet to be revealed.</h2>
@@ -2154,12 +2187,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>13a19fbd-cece-4832-8338-0d1c151dc80b</id>
+        <id>urn:uuid:f19b1682-5a74-464d-ba36-c827eac89d1f</id>
         <title>China&#8217;s Geely buying stake in Swedish truck maker Volvo</title>
         <updated>2017-12-27T09:43:00-06:00</updated>
         <author>
             <name>The Associated Press</name>
         </author>
+        <link>http://www.startribune.com/china-s-geely-buying-stake-in-swedish-truck-maker-volvo/466781563/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By The Associated Press</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -2184,12 +2218,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>c4e9eab5-1435-43d2-8aeb-8122e98760c2</id>
+        <id>urn:uuid:52b4ebfa-0eaf-49ac-a99c-9e0aea3931e5</id>
         <title>Vikings QB Case Keenum can earn a $250K incentive vs. Bears</title>
         <updated>2017-12-27T08:26:00-06:00</updated>
         <author>
             <name>Ben Goessling</name>
         </author>
+        <link>http://www.startribune.com/vikings-qb-case-keenum-can-earn-a-250k-incentive-vs-bears/466789213/</link>
         <summary>According to sources with access to NFLPA salary data, Keenum would make an extra $250,000 if he plays 85 percent or more of the Vikings’ offensive plays this season.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">According to sources with access to NFLPA salary data, Keenum would make an extra $250,000 if he plays 85 percent or more of the Vikings’ offensive plays this season.</h2>
@@ -2217,12 +2252,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>99efc4c9-cce2-4883-84a7-70b5c9a7e629</id>
+        <id>urn:uuid:578386de-ac48-4c98-be8a-636ed2076eb9</id>
         <title>Vikings&#8217; Harrison Smith earns NFC Defensive Player of the Week honors</title>
         <updated>2017-12-27T08:43:00-06:00</updated>
         <author>
             <name>Ben Goessling</name>
         </author>
+        <link>http://www.startribune.com/vikings-harrison-smith-earns-nfc-defensive-player-of-the-week-honors/466791623/</link>
         <summary>After the first two-interception game of his career against the Packers on Saturday, Vikings safety Harrison Smith has been named the NFC Defensive Player of the Week.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">After the first two-interception game of his career against the Packers on Saturday, Vikings safety Harrison Smith has been named the NFC Defensive Player of the Week.</h2>
@@ -2235,13 +2271,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>1d3169a4-a856-4650-9fe1-9804ec00c212</id>
+        <id>urn:uuid:697f8d9d-6086-45f0-a761-7fc262b290f4</id>
         <title>Why are Americans obsessed with the upcoming royal wedding?</title>
         <updated>2017-12-27T20:26:00-06:00</updated>
         <author>
             <name>Liam Stack
                                                                                                                                             New York Times</name>
         </author>
+        <link>http://www.startribune.com/why-are-americans-obsessed-with-the-upcoming-royal-wedding/466793973/</link>
         <summary>In a celebrity-centric culture, Americans can&#8217;t resist all the glamour and excitement.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">In a celebrity-centric culture, Americans can&#8217;t resist all the glamour and excitement.</h2>
@@ -2304,12 +2341,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>dda16958-bebb-4fe2-8202-90f478ec73ed</id>
+        <id>urn:uuid:2c3f348a-3640-48a8-a6ba-80f1c06c0d98</id>
         <title>Pennsylvania officer plotted to blackmail wife; she plotted his murder</title>
         <updated>2017-12-27T11:32:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/officer-plotted-to-blackmail-wife-she-plotted-his-murder/466798523/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>STROUDSBURG, Pa. — A Pennsylvania police officer has pleaded guilty to a plot to blackmail his wife over having sex with a 14-year-old boy while she has pleaded guilty to plotting to kill her husband. </p>
@@ -2323,13 +2361,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>645fb108-72c3-455c-886f-3cef9b51d0cf</id>
+        <id>urn:uuid:d7f38a2e-b48d-4d5b-b9e8-b43b51ac007c</id>
         <title>Plane returns to LA because passenger was on wrong flight</title>
         <updated>2017-12-27T16:30:00-06:00</updated>
         <author>
             <name>JOHN ANTCZAK
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/plane-returns-to-la-because-passenger-was-on-wrong-flight/466803323/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By JOHN ANTCZAK
                                                                                                                                             Associated Press</h4>
@@ -2361,12 +2400,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>f9d34c44-ea72-4e0c-b8b1-197881eb3897</id>
+        <id>urn:uuid:9aea300b-670e-406a-a0ac-e415b92379e6</id>
         <title>NFL&#8217;s Super Bowl commercial shows Bold North-&#8216;Game of Thrones&#8217; style</title>
         <updated>2017-12-27T11:27:00-06:00</updated>
         <author>
             <name>Rochelle Olson</name>
         </author>
+        <link>http://www.startribune.com/nfl-s-super-bowl-commercial-shows-bold-north-game-of-thrones-style/466810563/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Rochelle Olson</h4>
 <p>The National Football League is on message with the Bold North theme for Super Bowl LII ane then some in a television commercial called, &#8220;The Will to Survive.&#8221; </p>
@@ -2379,12 +2419,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>817edca6-077a-459a-a8b5-8f36189e82a0</id>
+        <id>urn:uuid:2951f5e2-c483-47f0-8aa2-a1629f3db621</id>
         <title>Rams&#8217; decision to rest starters Sunday could impact Vikings</title>
         <updated>2017-12-27T10:45:00-06:00</updated>
         <author>
             <name>Michael Rand</name>
         </author>
+        <link>http://www.startribune.com/rams-decision-to-rest-starters-sunday-could-impact-vikings/466811073/</link>
         <summary>With nothing more than seeding at stake, it sounds as though the Rams are giving heavy consideration to resting a bunch of starters for Sunday’s finale against the 49ers.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">With nothing more than seeding at stake, it sounds as though the Rams are giving heavy consideration to resting a bunch of starters for Sunday’s finale against the 49ers.</h2>
@@ -2407,13 +2448,14 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>7627e5ce-921f-4e45-9911-519b4755db34</id>
+        <id>urn:uuid:6e376291-089e-42a2-9ee2-bb4f7e714825</id>
         <title>2017: A year of powerful stories</title>
         <updated>2017-12-27T12:19:00-06:00</updated>
         <author>
             <name>Staff
                                                                                                                                             Star Tribune</name>
         </author>
+        <link>http://www.startribune.com/2017-a-year-of-powerful-stories/465918263/</link>
         <summary>From uncovering the state&#8217;s chronic failure to investigate elder abuse, to examining the circumstances that led a Minneapolis cop to fatally shoot a Minneapolis woman reporting a crime, our reporters and photographers captured the enduring events of 2017.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">From uncovering the state&#8217;s chronic failure to investigate elder abuse, to examining the circumstances that led a Minneapolis cop to fatally shoot a Minneapolis woman reporting a crime, our reporters and photographers captured the enduring events of 2017.</h2>
@@ -2462,7 +2504,7 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>b1386061-e35f-425c-8950-480da6f98e59</id>
+        <id>urn:uuid:42651c3b-6308-449f-8c16-650c55dabda4</id>
         <title>A rare pour-your-own beer bar coming to the North Loop</title>
         <updated>2017-12-27T17:10:00-06:00</updated>
         <author>
@@ -2470,6 +2512,7 @@ istock
             <uri>http://www.startribune.com/amelia-rayno/107226174/</uri>
             <email>amelia.rayno@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/a-rare-pour-your-own-beer-bar-coming-to-the-north-loop/466813483/</link>
         <summary>After swiping a credit card, bargoers are given a &#8220;tap card&#8221; allowing them to pour as little as an ounce or as much as a full pint.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">After swiping a credit card, bargoers are given a &#8220;tap card&#8221; allowing them to pour as little as an ounce or as much as a full pint.</h2>
@@ -2517,12 +2560,13 @@ istock
         ]]></content>
     </entry>
     <entry>
-        <id>43b8de5d-82a2-4638-b84f-151262de5a08</id>
+        <id>urn:uuid:e1a58128-bf69-4ff9-89de-6d6a7ca15795</id>
         <title>Timberwolves unveil gray &#8216;City Edition&#8217; uniform</title>
         <updated>2017-12-27T11:34:00-06:00</updated>
         <author>
             <name>Chris Miller</name>
         </author>
+        <link>http://www.startribune.com/timberwolves-unveil-gray-city-edition-uniform/466815253/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Chris Miller</h4>
 <p>Just in time for the fourth day of Christmas, the Timberwolves unveiled their fourth and final uniform &#8212; the City Edition &#8212; on Wednesday. </p>
@@ -2542,12 +2586,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>e8599731-2634-4ad2-882d-a0973e06c817</id>
+        <id>urn:uuid:07c165f0-f9cc-4f03-b9f1-1f6bc4dbb04d</id>
         <title>Afternoon forecast: Sunny, but bitterly cold; snow starts tonight</title>
         <updated>2017-12-27T18:25:00-06:00</updated>
         <author>
             <name>Broadcast Weather</name>
         </author>
+        <link>http://video.startribune.com/afternoon-forecast-sunny-but-bitterly-cold-snow-starts-tonight/466815353/</link>
         <summary>Afternoon Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Afternoon Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</h2>
@@ -2560,7 +2605,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>c0b714c9-842b-48c8-9601-749d16930603</id>
+        <id>urn:uuid:e3a18a85-2466-4f3c-8231-8ce3c2ef180a</id>
         <title>Hennepin County extending hours to prepay taxes because of federal law change</title>
         <updated>2017-12-28T14:32:00-06:00</updated>
         <author>
@@ -2568,6 +2613,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/david-chanen/10644586/</uri>
             <email>dchanen@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/hennepin-county-extending-hours-to-prepay-taxes-because-of-federal-law-change/466818273/</link>
         <summary>The newly passed tax law gives homeowners an incentive to prepay 2018 property taxes so they can deduct them under more favorable rules on their 2017 tax forms.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The newly passed tax law gives homeowners an incentive to prepay 2018 property taxes so they can deduct them under more favorable rules on their 2017 tax forms.</h2>
@@ -2670,7 +2716,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>ba1b88ce-d1e7-407e-a2c1-f15fe3641f7d</id>
+        <id>urn:uuid:1a98dbad-8971-46c1-9210-57bbf1641cb8</id>
         <title>Wild sends Zach Parise to Iowa for rehab assignment</title>
         <updated>2017-12-28T00:01:00-06:00</updated>
         <author>
@@ -2678,6 +2724,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/megan-ryan/410673895/</uri>
             <email>megan.ryan@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/wild-sends-zach-parise-to-iowa-for-rehab-assignment/466822853/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Megan Ryan</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -2722,7 +2769,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>34817fd0-2291-4120-8a04-5088aa774c8c</id>
+        <id>urn:uuid:3527fe23-8f04-44e0-8e63-48829cf2eb73</id>
         <title>Sam Bradford should return to Vikings practice next week</title>
         <updated>2017-12-27T23:28:00-06:00</updated>
         <author>
@@ -2730,6 +2777,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/andrew-krammer/388384542/</uri>
             <email>andrew.krammer@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/sam-bradford-should-return-to-vikings-practice-next-week/466824033/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Andrew Krammer</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -2787,18 +2835,19 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>9bca0174-3fec-4564-8203-a4cc8938944d</id>
+        <id>urn:uuid:fdec7fc0-c2a5-4ddc-9698-eb8d3009d1cb</id>
         <title>Year in review: The top 10 viral Minnesota news stories of 2017</title>
         <updated>2017-12-28T11:20:00-06:00</updated>
     </entry>
     <entry>
-        <id>afea42ed-012e-4a2b-87da-ae58cca1b8e6</id>
+        <id>urn:uuid:c43638aa-4e45-445e-8460-3c95e2405228</id>
         <title>Star Tribune columnist Gail Rosenblum&#8217;s favorite 2017 stories</title>
         <updated>2017-12-27T13:50:00-06:00</updated>
         <author>
             <name>GAIL ROSENBLUM</name>
             <uri>http://www.startribune.com/gail-rosenblum/10645821/</uri>
         </author>
+        <link>http://www.startribune.com/star-tribune-columnist-gail-rosenblum-s-favorite-2017-stories/466826303/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By GAIL ROSENBLUM</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -2861,7 +2910,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>b3c3c62b-df0a-47f5-8476-f91ba460ab1e</id>
+        <id>urn:uuid:2f233a6a-4500-4595-9ba1-0241b864001a</id>
         <title>When Fido is sick as a dog, more pet owners turn to aromatherapy, massage, even psychics</title>
         <updated>2017-12-28T11:24:00-06:00</updated>
         <author>
@@ -2869,6 +2918,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/sharyn-jackson/285385111/</uri>
             <email>sharyn.jackson@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/when-fido-is-sick-as-a-dog-more-pet-owners-turn-to-aromatherapy-massage-even-psychics/466826313/</link>
         <summary>In the Twin Cities, sick pets have a new breed of options for holistic care.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">In the Twin Cities, sick pets have a new breed of options for holistic care.</h2>
@@ -2948,13 +2998,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>e3d055e5-6660-4c1c-b386-db59ba86158e</id>
+        <id>urn:uuid:711ab6a8-20f7-4507-8078-166afcfaadcb</id>
         <title>Buzz Aldrin endorses a streetwear line, and fashion is officially having an astral moment</title>
         <updated>2017-12-27T13:45:00-06:00</updated>
         <author>
             <name>Ruth La Ferla
                                                                                                                                             New York Times</name>
         </author>
+        <link>http://www.startribune.com/buzz-aldrin-endorses-a-streetwear-line-and-fashion-is-officially-having-an-astral-moment/466826333/</link>
         <summary>Astronaut Buzz Aldrin has attached his name to a new line of streetwear — just another sign that space is exerting an outsized influence on pop culture.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Astronaut Buzz Aldrin has attached his name to a new line of streetwear — just another sign that space is exerting an outsized influence on pop culture.</h2>
@@ -2992,21 +3043,24 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>229fd9b8-2d81-4ad4-89ce-b1ab46fcfdd8</id>
+        <id>urn:uuid:5dab72fe-dc15-47a0-912f-12642060b4a9</id>
         <title>Listen: 2018 political preview</title>
         <updated>2017-12-27T15:42:00-06:00</updated>
         <author>
             <name>Star Tribune Editorial Board</name>
         </author>
+        <link>http://www.startribune.com/listen-2018-political-preview/466826513/</link>
         <summary>Next year&#8217;s elections will be consequential for both Washington and St. Paul. Hear the &#8220;Playing Politics&#8221; analysis from WCCO Radio&#8217;s Chad Hartman and the Star Tribune Editorial Board&#8217;s John Rash and D.J. Tice.</summary>
+        <content/>
     </entry>
     <entry>
-        <id>377adee4-9585-43c5-bc68-000a5628777d</id>
+        <id>urn:uuid:49dfd4b5-0069-4c6c-bb15-85592d59909f</id>
         <title>Mike Zimmer says he&#8217;ll again consider delegating Vikings play calling next season</title>
         <updated>2017-12-27T12:58:00-06:00</updated>
         <author>
             <name>Andrew Krammer</name>
         </author>
+        <link>http://www.startribune.com/mike-zimmer-says-hell-again-consider-delegating-vikings-play-calling-next-season/466830363/</link>
         <summary>Vikings coach Mike Zimmer is again considering handing off defensive play-calling to coordinator George Edwards, however only after this season ends.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Vikings coach Mike Zimmer is again considering handing off defensive play-calling to coordinator George Edwards, however only after this season ends.</h2>
@@ -3024,7 +3078,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>0fb789cc-6875-4b1c-bdbf-678938833417</id>
+        <id>urn:uuid:99fb7b9e-96df-4ca0-b359-49461d5f9451</id>
         <title>As man shot by Minneapolis police awaits court date, father seeks answers</title>
         <updated>2017-12-27T22:21:00-06:00</updated>
         <author>
@@ -3032,6 +3086,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/libor-jany/219430401/</uri>
             <email>libor.jany@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/marcus-fischer-s-court-date-pushed-back-to-jan-3-prosecutors-say/466831073/</link>
         <summary>Family has little info on Marcus Fischer&#8217;s condition. An initial court appearance has been rescheduled for a third time.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Family has little info on Marcus Fischer&#8217;s condition. An initial court appearance has been rescheduled for a third time.</h2>
@@ -3092,13 +3147,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>c69562ee-da7f-4614-a57d-35240ea5e9b3</id>
+        <id>urn:uuid:f22bfc30-76b4-43da-b2cf-eeeab87a59e9</id>
         <title>Editorial cartoon: Lisa Benson on taxes</title>
         <updated>2017-12-27T17:52:00-06:00</updated>
         <author>
             <name>Lisa Benson
                                                                                                                                             Washington Post Writers Group</name>
         </author>
+        <link>http://www.startribune.com/editorial-cartoon-lisa-benson-on-taxes/466832463/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Lisa Benson
                                                                                                                                             Washington Post Writers Group</h4>
@@ -3117,7 +3173,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>25db7149-bd0b-4dba-aca3-edc8c754bc49</id>
+        <id>urn:uuid:bfd28916-119f-4494-bbc1-4a4ba2a3b38b</id>
         <title>Minnesota priest accused of misconduct returns to public ministry; attorney calls move &#8216;reckless&#8217;</title>
         <updated>2017-12-27T20:43:00-06:00</updated>
         <author>
@@ -3125,6 +3181,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/accused-minnesota-priest-returns-to-public-ministry-attorney-calls-move-reckless/466838693/</link>
         <summary>Crookston bishop said clergy abuse panel &#8220;deemed the allegations not credible.&#8221;</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Crookston bishop said clergy abuse panel &#8220;deemed the allegations not credible.&#8221;</h2>
@@ -3162,25 +3219,27 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>2d11bc1f-08cf-46ff-ae74-ff171ed46a99</id>
+        <id>urn:uuid:7a3d7e79-9c9e-4205-99fa-602949514c04</id>
         <title>Employee-owned Chuck &amp; Don&#8217;s to open 40th store</title>
         <updated>2017-12-28T14:16:00-06:00</updated>
         <author>
             <name>Neal St. Anthony</name>
         </author>
+        <link>http://www.startribune.com/employee-owned-chuck-don-s-to-open-40th-store/466838763/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Neal St. Anthony</h4>
 <p>Chuck &amp; Don’s, the pet-supplies store, is adding a 40th store in January, at 50th and France Avenue in Edina. <br> Chuck &amp; Don’s will open a small shop of 2,300 square feet, which includes a pet-grooming studio, its third. <br> The store also will sell a limited selection of pet food and other products.<br> “We’re thrilled to join the [Edina] business community in 2018,” said CEO Bob Hartzell. “We jumped at the opportunity to lease the available space for our 29th retail location [in Minnesota] and are excited to expand by welcoming the [Edina-store] grooming duo to the Chuck &amp; Don’s team.”<br> Chuck &amp; Don’s operates 10 locations in Colorado, 28 stores in Minnesota and one in Wisconsin. <br> Chief Financial Officer Thomas Murphy said Chuck &amp; Don’s opened four Minnesota stores this year and that the company expects revenue this year to grow to “in excess of $70 Million.”<br> Hartzell, 64, and co-owner Chuck Anderson, 76, of the 27-year-old company, are in the fourth year of selling their ownership to an Employee Stock Ownership Plan.<br> It is funded gradually, out of the employee portion of pretax profits.<br> “ESOP” proponents say that they are a great way for employees to gain ownership and wealth from a growing business. That is if the owners are willing to “get rich slowly,” through a staged, conservative buyout. Hartzell said this fall that he and Anderson chose the ESOP route over higher cash-out transactions to a competitor or financial buyer, such as a private equity shop.</p>
         ]]></content>
     </entry>
     <entry>
-        <id>ab117834-8254-43a8-a25d-9b043a62eed7</id>
+        <id>urn:uuid:ce1eee2d-e507-491f-9ec6-d021cfabb9bc</id>
         <title>In study of healthy airline food options, Delta ranks &#8230; not awful</title>
         <updated>2017-12-27T15:04:00-06:00</updated>
         <author>
             <name>Kate Silver
                                                                                                                                             Washington Post</name>
         </author>
+        <link>http://www.startribune.com/in-study-of-healthy-airline-food-options-delta-ranks-not-awful/466840483/</link>
         <summary>Health-conscious passengers are encouraged to eat a full meal before they fly and to carry their own snacks onboard.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Health-conscious passengers are encouraged to eat a full meal before they fly and to carry their own snacks onboard.</h2>
@@ -3268,7 +3327,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>b5015839-2689-4485-a01c-6a82b44d425a</id>
+        <id>urn:uuid:395a37df-3d01-40df-a90d-9458e0a59f49</id>
         <title>Minnesota sets income brackets for state taxes in 2018</title>
         <updated>2017-12-27T22:19:00-06:00</updated>
         <author>
@@ -3276,6 +3335,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/nicole-norfleet/101685423/</uri>
             <email>nicole.norfleet@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/minnesota-sets-income-brackets-for-state-taxes-in-2018/466842233/</link>
         <summary>The income limits will change by about 2 percent based on inflation.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The income limits will change by about 2 percent based on inflation.</h2>
@@ -3293,7 +3353,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>0f6731fa-55b5-4aea-8321-ce62907c909f</id>
+        <id>urn:uuid:2b8791f9-1377-4b86-9742-1f15bf71eeaa</id>
         <title>Metro-area Massage Envy employee accused of sex assault</title>
         <updated>2017-12-28T10:18:00-06:00</updated>
         <author>
@@ -3301,6 +3361,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/brandon-stahl/186499941/</uri>
             <email>brandon.stahl@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/third-metro-area-massage-envy-employee-accused-of-sex-assault/466848123/</link>
         <summary>It is at least the third time a local worker has been accused since 2013.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">It is at least the third time a local worker has been accused since 2013.</h2>
@@ -3320,13 +3381,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>76f658fd-0686-4198-b190-66f731ba1249</id>
+        <id>urn:uuid:2e12d50b-cc21-447b-9603-ebe47e5ec51c</id>
         <title>Trump legal team readies attack on Flynn&#8217;s credibility</title>
         <updated>2017-12-27T18:43:00-06:00</updated>
         <author>
             <name>Carol D. Leonnig
                                                                                                                                             Washington Post</name>
         </author>
+        <link>http://www.startribune.com/trump-legal-team-readies-attack-on-flynn-s-credibility/466850143/</link>
         <summary>The lenient terms of Michael Flynn&#8217;s plea agreement suggest he has promised significant information to investigators, legal experts said.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The lenient terms of Michael Flynn&#8217;s plea agreement suggest he has promised significant information to investigators, legal experts said.</h2>
@@ -3372,12 +3434,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>15705e6b-7bde-4b98-b6f8-d5d336d8d419</id>
+        <id>urn:uuid:deaa97d1-aa9c-4b86-b9d0-2860b87d773a</id>
         <title>Evening forecast: Low of 1, with light snow to snarl the morning commute</title>
         <updated>2017-12-27T18:26:00-06:00</updated>
         <author>
             <name>Broadcast Weather</name>
         </author>
+        <link>http://video.startribune.com/evening-forecast-low-of-1-with-light-snow-to-snarl-the-morning-commute/466859113/</link>
         <summary>Evening Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Evening Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</h2>
@@ -3390,7 +3453,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>02ba0b95-a450-419d-9bac-0cbc0218c4ba</id>
+        <id>urn:uuid:9721c616-3cf5-4162-9312-48a021b27f1e</id>
         <title>St. Paul&#8217;s Regions Hospital seeks big expansion</title>
         <updated>2017-12-27T21:36:00-06:00</updated>
         <author>
@@ -3398,6 +3461,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/christopher-snowbeck/277764631/</uri>
             <email>chris.snowbeck@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/st-paul-s-regions-hospital-seeks-big-expansion/466859163/</link>
         <summary>The St. Paul medical center is asking the Legislature to back state&#8217;s largest hospital growth in 10 years.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The St. Paul medical center is asking the Legislature to back state&#8217;s largest hospital growth in 10 years.</h2>
@@ -3438,7 +3502,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>f54fe43f-8887-41aa-8257-51d8f40ee36a</id>
+        <id>urn:uuid:39b7347d-3862-4ce5-9921-443a93f0cebc</id>
         <title>With first-round bye at stake, Vikings aren&#8217;t inclined to let up against Bears</title>
         <updated>2017-12-27T23:35:00-06:00</updated>
         <author>
@@ -3446,6 +3510,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/ben-goessling/438148813/</uri>
             <email>ben.goessling@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/with-first-round-bye-at-stake-vikings-aren-t-inclind-to-let-up-against-bears/466861413/</link>
         <summary>A win Sunday would be a victory— plus a coveted bye.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">A win Sunday would be a victory— plus a coveted bye.</h2>
@@ -3502,7 +3567,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>2cfb4f91-ba65-4c0c-97b7-7ce9b8e419d4</id>
+        <id>urn:uuid:1c570518-adf3-4eac-81de-3c21b581f1b9</id>
         <title>Tucci Benucch at Mall of America closing after 25 years</title>
         <updated>2017-12-27T22:14:00-06:00</updated>
         <author>
@@ -3510,6 +3575,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/dee-depass/10644746/</uri>
             <email>dee.depass@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/tucci-benucch-closing-after-25-years/466861443/</link>
         <summary>Workers will go to parent firm&#8217;s other Twin Cities restaurants.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Workers will go to parent firm&#8217;s other Twin Cities restaurants.</h2>
@@ -3538,16 +3604,18 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>442e2037-cae8-4928-8e35-bacfb6d161a0</id>
+        <id>urn:uuid:78278204-3eff-45e2-b318-8b06ee72e7de</id>
         <title>Listen: Intrigue abounds for Vikings quarterbacks and NFC playoffs</title>
         <updated>2017-12-27T19:03:00-06:00</updated>
         <author>
             <name>Star Tribune</name>
         </author>
+        <link>http://www.startribune.com/listen-intrigue-abounds-for-vikings-quarterbacks-and-nfc-playoffs/466863523/</link>
         <summary>Ben Goessling, Andrew Krammer and Michael Rand discuss quarterback Sam Bradford&#8217;s expected return to Vikings practice next week. (1:00) First, a Vikings win vs. Chicago ends slim chance of losing NFC&#8217;s 2 seed. (5:00) Do you even consider interrupting Case Keenum&#8217;s run? (15:00) What does the timing say about Bradford&#8217;s return to practice? (18:30) A change at long snapper. (24:00) On Pat Shurmur&#8217;s future and George Edwards calling plays. (41:00) Your questions! Impressions of Trae Waynes. The franchise tag. Playoffs.</summary>
+        <content/>
     </entry>
     <entry>
-        <id>dd0c1d10-96fe-4fb6-b44a-543a1186102f</id>
+        <id>urn:uuid:e71cb960-01f3-497a-9387-d7f173f4c45a</id>
         <title>Crashed Ice course begins to rise in St. Paul</title>
         <updated>2017-12-27T22:21:00-06:00</updated>
         <author>
@@ -3555,6 +3623,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/eric-roper/62906482/</uri>
             <email>eric.roper@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/crashed-ice-course-begins-to-rise-in-st-paul/466864233/</link>
         <summary>Workers unloaded scaffolding steel as construction began on the 1,100-ft course.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Workers unloaded scaffolding steel as construction began on the 1,100-ft course.</h2>
@@ -3587,7 +3656,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>7f23999f-9519-4c20-861a-2092ff3d0175</id>
+        <id>urn:uuid:c269255d-4db2-4583-8118-6fb93f35f12b</id>
         <title>Banging hammers at year end: Twin Cities new-home construction leaps in December</title>
         <updated>2017-12-27T22:22:00-06:00</updated>
         <author>
@@ -3595,6 +3664,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/jim-buchta/10644536/</uri>
             <email>jim.buchta@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/banging-hammers-at-yearend-twin-cities-new-home-construction-leaps-in-december/466864383/</link>
         <summary>Twin Cities likely to see high demand, prices continue into 2018.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Twin Cities likely to see high demand, prices continue into 2018.</h2>
@@ -3640,13 +3710,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>dbee7f35-074d-4ca8-a468-ce287dcd8e1e</id>
+        <id>urn:uuid:8274b482-6c26-4e1b-a291-43cc425fc1a7</id>
         <title>DA won&#8217;t file charges against officers in Kansas man&#8217;s death</title>
         <updated>2017-12-27T20:05:00-06:00</updated>
         <author>
             <name>JOHN HANNA
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/da-won-t-file-charges-against-officers-in-kansas-man-s-death/466866063/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By JOHN HANNA
                                                                                                                                             Associated Press</h4>
@@ -3671,12 +3742,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>952beb01-294a-4f9d-ad3c-8d747c7ebdc6</id>
+        <id>urn:uuid:6ffef602-e510-4be9-bc77-c48407ef604b</id>
         <title>New York jail population below 9,000 for 1st time since 1982</title>
         <updated>2017-12-27T17:50:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/new-york-jail-population-below-9-000-for-1st-time-since-1982/466866713/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>NEW YORK — New York City says its jail population is below 9,000 for the first time since 1982 and is hailing the drop as a step toward closing the notorious Rikers Island jail complex. </p>
@@ -3687,7 +3759,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>d09d92a2-7edc-45a5-93fa-f1c30961d96c</id>
+        <id>urn:uuid:34e8ab7e-e1e7-46aa-82c8-213f94e875d2</id>
         <title>Susan Shanard Burns-Stidger pens her own witty but bittersweet goodbye</title>
         <updated>2017-12-28T11:05:00-06:00</updated>
         <author>
@@ -3695,6 +3767,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/amelia-rayno/107226174/</uri>
             <email>amelia.rayno@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/susan-shanard-burns-stidger-pens-her-own-witty-but-bittersweet-goodbye/466867163/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Amelia Rayno</h4>
 <div class="article-featured-media-wrapper  is-photo  verticalPhoto "><!-- add .is-photo .is-video -->
@@ -3728,13 +3801,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>9fefc42b-4ad1-425f-b34d-02f76bdfcfdd</id>
+        <id>urn:uuid:4b81f47a-fe3f-49dd-9888-c745ac038d77</id>
         <title>Jeff Bezos, Bill Gates sit atop list of the richest of the rich</title>
         <updated>2017-12-27T17:53:00-06:00</updated>
         <author>
             <name>Amanda Erickson
                                                                                                                                             Washington Post</name>
         </author>
+        <link>http://www.startribune.com/jeff-bezos-bill-gates-sit-atop-list-of-the-richest-of-the-rich/466867953/</link>
         <summary>The world&#8217;s richest people grew a whopping $1 trillion richer, according to a new report from Bloomberg News.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The world&#8217;s richest people grew a whopping $1 trillion richer, according to a new report from Bloomberg News.</h2>
@@ -3783,12 +3857,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>3ad600d3-4163-4474-a64e-02f91451cb74</id>
+        <id>urn:uuid:548dfae6-5fcb-4a00-b020-a5458ef5a3f2</id>
         <title>The Latest: IRS issues guidance on prepayment of local taxes</title>
         <updated>2017-12-27T17:58:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/the-latest-irs-issues-guidance-on-prepayment-of-local-taxes/466868803/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>HEMPSTEAD, N.Y. — The Latest on a rush to take advantage of a disappearing tax exemption (all times local): </p>
@@ -3809,12 +3884,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>33c68ad7-7725-4203-aca4-5737cb3ef1bc</id>
+        <id>urn:uuid:d63bf447-4b3e-4b34-9bb2-65506f1d1b47</id>
         <title>Counterpoint: List of 40 greatest books was sorely lacking in female authors</title>
         <updated>2017-12-27T17:53:00-06:00</updated>
         <author>
             <name>Geri Giebel Chavis</name>
         </author>
+        <link>http://www.startribune.com/counterpoint-list-of-40-greatest-books-was-sorely-lacking-in-female-authors/466869333/</link>
         <summary>Consider Edith Wharton, Virginia Woolf, George Eliot, Amy Tan, Lorraine Hansberry and more.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Consider Edith Wharton, Virginia Woolf, George Eliot, Amy Tan, Lorraine Hansberry and more.</h2>
@@ -3842,13 +3918,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>0040e344-a6ac-4abe-819d-0344dd7d1496</id>
+        <id>urn:uuid:bc3d7d55-51a5-4c9b-b8ca-d3dc0b9b1fb5</id>
         <title>Trump wisely defies Putin and arms Ukraine</title>
         <updated>2017-12-27T17:48:00-06:00</updated>
         <author>
             <name>Editorial
                                                                                                                                             Chicago Tribune</name>
         </author>
+        <link>http://www.startribune.com/trump-wisely-defies-putin-and-arms-ukraine/466869373/</link>
         <summary>Russia&#8217;s meddling won&#8217;t stop without a challenge.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Russia&#8217;s meddling won&#8217;t stop without a challenge.</h2>
@@ -3875,13 +3952,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>6b60abd4-6c58-4b7a-9aa7-84c0be35f849</id>
+        <id>urn:uuid:1dc39acf-9fde-4e9f-914c-44141f8c34a5</id>
         <title>Trump administration reversal on mining leases near BWCA is no surprise</title>
         <updated>2017-12-27T17:50:00-06:00</updated>
         <author>
             <name>Editorial Board
                                                                                                                                             Star Tribune</name>
         </author>
+        <link>http://www.startribune.com/trump-administration-reversal-on-mining-leases-near-bwca-is-no-surprise/466869553/</link>
         <summary>U.S. Rep. Erik Paulsen understands the risks and should lead protection effort.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">U.S. Rep. Erik Paulsen understands the risks and should lead protection effort.</h2>
@@ -3913,12 +3991,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>d2f480ce-90b6-48ae-8e03-abf320b0b767</id>
+        <id>urn:uuid:eda37360-75f0-490b-a143-9d40300b2f31</id>
         <title>Editorial counterpoint: Why we should start talking about a state insurance mandate</title>
         <updated>2017-12-27T17:50:00-06:00</updated>
         <author>
             <name>Scott Jensen</name>
         </author>
+        <link>http://www.startribune.com/editorial-counterpoint-why-we-should-start-talking-about-a-state-insurance-mandate/466869743/</link>
         <summary>The concept has had broad support and resonates with conservative principles of personal responsibility.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The concept has had broad support and resonates with conservative principles of personal responsibility.</h2>
@@ -3954,12 +4033,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>7a0b6640-ee73-4d15-86bf-b3bd60e6f6ad</id>
+        <id>urn:uuid:9cddf453-0242-4da8-8dd8-2709a295a2ae</id>
         <title>Counterpoint: Keep mountain bikes out of the wilderness</title>
         <updated>2017-12-27T17:51:00-06:00</updated>
         <author>
             <name>Kevin Proescholdt</name>
         </author>
+        <link>http://www.startribune.com/counterpoint-keep-mountain-bikes-out-of-the-wilderness/466869863/</link>
         <summary>The truth about a misleading bill that would weaken protections.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The truth about a misleading bill that would weaken protections.</h2>
@@ -3992,18 +4072,19 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>341039ca-91b6-4203-8dd3-3a918a12f11c</id>
+        <id>urn:uuid:5aba7ce7-de82-4642-b1ea-3d31e57408d2</id>
         <title>Readers Write: Minneapolis City Council, guns, great books, the culture</title>
         <updated>2017-12-27T17:52:00-06:00</updated>
     </entry>
     <entry>
-        <id>c55da3ea-a78f-4643-bbf6-9eb6371440f3</id>
+        <id>urn:uuid:d91bfe41-e451-4b78-98dc-5edf26ca60e3</id>
         <title>Ferry gets stuck on sandbar with 27 people aboard off NYC</title>
         <updated>2017-12-28T00:25:00-06:00</updated>
         <author>
             <name>JENNIFER PELTZ
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/ferry-with-27-aboard-stuck-on-sandbar-no-injuries-reported/466873553/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By JENNIFER PELTZ
                                                                                                                                             Associated Press</h4>
@@ -4021,13 +4102,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>25b6ae5e-08b4-486d-9ce0-628bf873e557</id>
+        <id>urn:uuid:33d666dd-ea58-4744-ad56-9ca29732d4b0</id>
         <title>Trump&#8217;s hard line on trade with China could cost U.S. businesses</title>
         <updated>2017-12-27T19:02:00-06:00</updated>
         <author>
             <name>David J. Lynch
                                                                                                                                             Washington Post</name>
         </author>
+        <link>http://www.startribune.com/trump-s-hard-line-on-trade-with-china-could-cost-u-s-businesses/466875653/</link>
         <summary>Trump crackdown could affect large China export market in Minnesota.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Trump crackdown could affect large China export market in Minnesota.</h2>
@@ -4068,7 +4150,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>6bc3a4f0-ac2e-407a-8475-0ed643e95af2</id>
+        <id>urn:uuid:9d79b139-ade0-4b63-b6a6-57af741fe2a4</id>
         <title>Young Minneapolis girl startled by home burglar, who punches and chokes her</title>
         <updated>2017-12-27T21:55:00-06:00</updated>
         <author>
@@ -4076,6 +4158,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/libor-jany/219430401/</uri>
             <email>libor.jany@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/police-young-girl-startled-by-home-burglar-who-punches-and-chokes-her/466878883/</link>
         <summary>A 37-year-old is charged with first-degree burglary while committing assault.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">A 37-year-old is charged with first-degree burglary while committing assault.</h2>
@@ -4088,13 +4171,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>efbede1c-462b-45d5-9287-b57e4ac27c98</id>
+        <id>urn:uuid:e7705788-f1d7-478c-b1bd-7010aeea591e</id>
         <title>Former Vikings linebacker Chad Greenway misses team, but not game</title>
         <updated>2017-12-27T23:31:00-06:00</updated>
         <author>
             <name>SID HARTMAN</name>
             <uri>http://www.startribune.com/sid-hartman/10644996/</uri>
         </author>
+        <link>http://www.startribune.com/former-vikings-linebacker-chad-greenway-misses-team-but-not-game/466880453/</link>
         <summary>The fourth-leading tackler in franchise history has kept busy in retirement with family, his foundation and host work for Super Bowl LII.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The fourth-leading tackler in franchise history has kept busy in retirement with family, his foundation and host work for Super Bowl LII.</h2>
@@ -4146,18 +4230,19 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>f7f4c322-ebb5-4ca1-b17a-7f0e082a7120</id>
+        <id>urn:uuid:e0df4847-6bf2-454e-8a62-8cbdfeb773ed</id>
         <title>Company news: New Piper Jaffray CEO joins board Jan. 1</title>
         <updated>2017-12-27T19:46:00-06:00</updated>
     </entry>
     <entry>
-        <id>391065ab-4110-4d72-80ec-f710c08d806b</id>
+        <id>urn:uuid:b62898fe-b709-4926-a5c8-04cde6c86cc5</id>
         <title>Vikings&#8217; long-snapper temp knows perseverance, if not Kodiak bears</title>
         <updated>2017-12-28T00:43:00-06:00</updated>
         <author>
             <name>PATRICK REUSSE</name>
             <uri>http://www.startribune.com/patrick-reusse/10645766/</uri>
         </author>
+        <link>http://www.startribune.com/vikings-long-snapper-temp-knows-perseverance-if-not-kodiak-bears/466886523/</link>
         <summary>Despite an oft-repeated and not entirely correct story about his time among bears in Alaska, Jeff Overbaugh will be snapping in a true NFL game &#8212; against the Chicago Bears &#8212; for the first time.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Despite an oft-repeated and not entirely correct story about his time among bears in Alaska, Jeff Overbaugh will be snapping in a true NFL game &#8212; against the Chicago Bears &#8212; for the first time.</h2>
@@ -4201,7 +4286,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>5f1d1115-9b94-4792-90cc-b82d16512bb5</id>
+        <id>urn:uuid:997da48d-a8f7-4c08-abbc-a730b9ac91ad</id>
         <title>Super Bowl planners ready to help visitors navigate the Minneapolis skyways</title>
         <updated>2017-12-27T23:17:00-06:00</updated>
         <author>
@@ -4209,6 +4294,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/john-reinan/273043871/</uri>
             <email>john.reinan@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/super-bowl-planners-ready-to-help-visitors-navigate-the-minneapolis-skyways/466886943/</link>
         <summary>Planners for the big event are readying an army of volunteer guides and a specially designed phone navigation app.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Planners for the big event are readying an army of volunteer guides and a specially designed phone navigation app.</h2>
@@ -4548,7 +4634,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>63e4747a-48c9-4ac1-922a-ccfe5262c5fd</id>
+        <id>urn:uuid:6c264275-fd58-4d2a-b102-4394ea893cdb</id>
         <title>72 years after war&#8217;s end, Minnesota World War II veteran receives Purple Heart</title>
         <updated>2017-12-27T22:22:00-06:00</updated>
         <author>
@@ -4556,6 +4642,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/karen-zamora/272885141/</uri>
             <email>karen.zamora@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/72-years-after-war-s-end-minnesota-veteran-receives-purple-heart/466888223/</link>
         <summary>After time in a German POW camp, Wayne Sundberg just wanted to get home, so he didn&#8217;t receive his medal. It took decades before he got his chance.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">After time in a German POW camp, Wayne Sundberg just wanted to get home, so he didn&#8217;t receive his medal. It took decades before he got his chance.</h2>
@@ -4585,17 +4672,17 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>ad20fae2-c48b-4cf3-bb67-45104244f130</id>
+        <id>urn:uuid:09a22bbc-7dc0-4502-849f-e7cdd9d65720</id>
         <title>Wolves 128, Denver 125 (OT)</title>
         <updated>2017-12-27T22:31:00-06:00</updated>
     </entry>
     <entry>
-        <id>ffe59f3d-dad6-4749-8ec6-f3840093cecd</id>
+        <id>urn:uuid:f83b7089-330c-4b57-8721-69da552219aa</id>
         <title>Wild 4, Dallas 2</title>
         <updated>2017-12-27T22:38:00-06:00</updated>
     </entry>
     <entry>
-        <id>d2607a06-ab48-48bd-976e-bff1f3b84245</id>
+        <id>urn:uuid:e187ccfd-0aa5-41d9-b1a0-0fef68af88f3</id>
         <title>Budget woes pinching sports in Minneapolis schools, and parents are taking notice</title>
         <updated>2017-12-28T11:43:00-06:00</updated>
         <author>
@@ -4603,6 +4690,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/beena-raghavendran/330703391/</uri>
             <email>beena.raghavendran@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/budget-woes-pinching-sports-in-minneapolis-schools-and-parents-are-taking-notice/466894823/</link>
         <summary>A 14 percent cut is hitting some harder than others.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">A 14 percent cut is hitting some harder than others.</h2>
@@ -4707,7 +4795,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>043bd435-3e3a-4c13-ba40-d2260ceb2306</id>
+        <id>urn:uuid:d58f879f-5873-46f3-a7c2-ae0c107a50f8</id>
         <title>More Minnesota police departments going to 12-hour work schedules</title>
         <updated>2017-12-27T22:21:00-06:00</updated>
         <author>
@@ -4715,6 +4803,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/erin-adler/195633361/</uri>
             <email>Erin.Adler@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/more-police-departments-going-to-12-hour-work-schedules/466894893/</link>
         <summary>Once departments see the benefits — more days off — most don&#8217;t want to go back.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Once departments see the benefits — more days off — most don&#8217;t want to go back.</h2>
@@ -4789,7 +4878,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>e41b31d6-a8c9-4506-98eb-867180272a33</id>
+        <id>urn:uuid:5adb6d0f-b890-4d54-be4a-7587be5d8bc8</id>
         <title>Wild comes back from holiday break with 4-2 win over Dallas</title>
         <updated>2017-12-27T23:56:00-06:00</updated>
         <author>
@@ -4797,6 +4886,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/megan-ryan/410673895/</uri>
             <email>megan.ryan@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/wild-comes-back-from-holiday-break-with-4-2-win-over-dallas/466897613/</link>
         <summary>Mikael Granlund scored the winner in the second period.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Mikael Granlund scored the winner in the second period.</h2>
@@ -5101,7 +5191,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>77bc768b-475f-4401-a757-d5d8b5527365</id>
+        <id>urn:uuid:55ac43e5-ad61-43b7-8982-19892312d9e3</id>
         <title>Butler&#8217;s 39 points lift Wolves past Nuggets in OT</title>
         <updated>2017-12-27T23:58:00-06:00</updated>
         <author>
@@ -5109,6 +5199,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/kent-youngblood/10646276/</uri>
             <email>kyoungblood@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/butler-s-39-points-lift-wolves-past-nuggets-in-ot/466898053/</link>
         <summary>Jimmy Butler scored 23 of his 39 points in the fourth quarter and overtime</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Jimmy Butler scored 23 of his 39 points in the fourth quarter and overtime</h2>
@@ -5816,23 +5907,24 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>a23dc91b-92ec-43e5-a44e-99b69bf46def</id>
+        <id>urn:uuid:fc3a318b-1761-4315-97df-254388fa567a</id>
         <title>Boudreau assesses Wild after beating Stars</title>
         <updated>2017-12-28T00:06:00-06:00</updated>
     </entry>
     <entry>
-        <id>b22d63c8-16d4-4d2b-ba73-fa61b51854df</id>
+        <id>urn:uuid:dba53223-e5d5-4086-a463-8e46af6f0b16</id>
         <title>A quick tour of the Minneapolis skyway system</title>
         <updated>2017-12-27T23:17:00-06:00</updated>
     </entry>
     <entry>
-        <id>c4967142-3d71-4561-a67b-8ed0ac9dfc01</id>
+        <id>urn:uuid:840ef029-1e33-49c4-b4af-fe761f9992f2</id>
         <title>Democrat Jones officially declared winner over Roy Moore</title>
         <updated>2017-12-28T15:15:00-06:00</updated>
         <author>
             <name>KIM CHANDLER
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/roy-moore-files-lawsuit-to-block-alabama-senate-result/466917083/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By KIM CHANDLER
                                                                                                                                             Associated Press</h4>
@@ -5868,12 +5960,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>9c6085f8-3bbb-4f15-9759-aadb0ceb0e8a</id>
+        <id>urn:uuid:c19008c9-797c-4eb6-8abf-dc1005370408</id>
         <title>Forecast: Light snow through morning; high of 12</title>
         <updated>2017-12-28T11:23:00-06:00</updated>
         <author>
             <name>Broadcast Weather</name>
         </author>
+        <link>http://video.startribune.com/forecast-light-snow-through-morning-high-of-12/466944083/</link>
         <summary>Morning Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Morning Star Tribune Local Twin Cities (Minneapolis/St. Paul) Weather Video Forecast</h2>
@@ -5886,12 +5979,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>4696bda3-85eb-48fb-a34b-64285d4f3429</id>
+        <id>urn:uuid:af649208-aecb-47c2-a070-c5647f491f4f</id>
         <title>Snow leads to scores of crashes and spinouts during commute</title>
         <updated>2017-12-28T08:37:00-06:00</updated>
         <author>
             <name>Tim Harlow</name>
         </author>
+        <link>http://www.startribune.com/snow-leads-to-scores-of-crashes-and-spin-outs-during-morning-commute/466947463/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Tim Harlow</h4>
 <div><img alt="" src="http://stmedia.startribune.com/images/1514470251_08-03commute122917.pix.jpg"></div>
@@ -5909,12 +6003,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>1d854ae0-3201-4900-b45b-8bd5fc206f36</id>
+        <id>urn:uuid:2328cd42-caf2-4e65-ba2a-7c67a3dcbc99</id>
         <title>Stop the run early and Vikings will bounce Bears comfortably for 13th win</title>
         <updated>2017-12-28T06:57:00-06:00</updated>
         <author>
             <name>Mark Craig</name>
         </author>
+        <link>http://www.startribune.com/stop-the-run-early-and-vikings-will-bounce-bears-comfortably-for-13th-win/466952083/</link>
         <summary>The Vikings should dismiss Dead Bears Walking as easily as they swatted aside Dead Bengals Walking at home a couple of weeks ago.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The Vikings should dismiss Dead Bears Walking as easily as they swatted aside Dead Bengals Walking at home a couple of weeks ago.</h2>
@@ -5955,13 +6050,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>a8adb5eb-2efb-44e2-a2e9-d3c15f056830</id>
+        <id>urn:uuid:2c857c29-1d11-42f2-b712-571cf91c310d</id>
         <title>US stock indexes edge higher in light trading, led by banks</title>
         <updated>2017-12-28T14:25:00-06:00</updated>
         <author>
             <name>ALEX VEIGA
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/us-stock-indexes-edge-higher-in-early-trading-oil-rising/466971273/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By ALEX VEIGA
                                                                                                                                             Associated Press</h4>
@@ -5983,17 +6079,17 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>46fadccf-361f-4b1c-8ad6-be26eed15fb3</id>
+        <id>urn:uuid:0edfb2a4-7898-4934-a805-bdfdef351037</id>
         <title>Lake effect snow buries Erie, Pa., with 65 inches</title>
         <updated>2017-12-28T11:40:00-06:00</updated>
     </entry>
     <entry>
-        <id>8cbd0637-6c45-42b5-9550-3ac0cc0d332f</id>
+        <id>urn:uuid:9f42adbf-c138-449e-8cbd-247bef879ccc</id>
         <title>&#8216;Cloud Streets&#8217; caught in action by satellite over the Great Lakes</title>
         <updated>2017-12-28T11:48:00-06:00</updated>
     </entry>
     <entry>
-        <id>f0b7c1ce-1528-4a4f-b2b0-3ee02a90f6aa</id>
+        <id>urn:uuid:693698df-4556-4a9f-b3df-fd8452e5520b</id>
         <title>Fugitive charged with armed abduction of ex-girlfriend outside her Minnetonka workplace</title>
         <updated>2017-12-28T15:15:00-06:00</updated>
         <author>
@@ -6001,6 +6097,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/fugitive-charged-with-armed-abduction-of-ex-girlfriend-outside-her-minnetonka-workplace/466984173/</link>
         <summary>The woman got away and returned home unhurt.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The woman got away and returned home unhurt.</h2>
@@ -6033,12 +6130,13 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>a153fede-a832-44a9-8cfd-47e12d2d216e</id>
+        <id>urn:uuid:b022acc5-f9fb-4279-a702-4bd2103fe4ae</id>
         <title>Lynx&#8217;s Cheryl Reeve promoted to general manager</title>
         <updated>2017-12-28T11:15:00-06:00</updated>
         <author>
             <name>Kent Youngblood</name>
         </author>
+        <link>http://www.startribune.com/lynx-s-cheryl-reeve-promoted-to-general-manager/466985713/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Kent Youngblood</h4>
 <div><img alt="" src="http://apps.startribune.com/blogs/user_images/kblood60_1514480349_REEVE.JPG"></div>
@@ -6051,7 +6149,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>06204cbf-4b3b-4366-8246-ad0e291edb32</id>
+        <id>urn:uuid:2ba2d503-ba0b-47fd-832d-19fd272e7dc7</id>
         <title>Lt. Gov. Tina Smith resigns as chairwoman of Rochester&#8217;s DMC board</title>
         <updated>2017-12-28T14:50:00-06:00</updated>
         <author>
@@ -6059,6 +6157,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/matt-mckinney/10645411/</uri>
             <email>mckinney@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/lt-gov-tina-smith-resigns-as-chairwoman-of-rochester-s-dmc-board/466992583/</link>
         <summary>Smith is leaving the DMC board to take over the U.S. Senate seat now held by Al Franken.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Smith is leaving the DMC board to take over the U.S. Senate seat now held by Al Franken.</h2>
@@ -6078,12 +6177,12 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>975ce697-97d8-4c57-8766-397b562e1f1f</id>
+        <id>urn:uuid:683f789f-b5f9-456e-b0b2-59531c5dcc98</id>
         <title>Institute of Art presents video works by Kenneth Tam</title>
         <updated>2017-12-28T11:54:00-06:00</updated>
     </entry>
     <entry>
-        <id>203070bb-0394-4acd-beb8-daf500380c41</id>
+        <id>urn:uuid:11986fd5-07b8-4936-992f-403f03508951</id>
         <title>No new movies this week? Feast on these leftovers instead</title>
         <updated>2017-12-28T11:55:00-06:00</updated>
         <author>
@@ -6091,6 +6190,7 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
             <uri>http://www.startribune.com/colin-covert/10644681/</uri>
             <email>ccovert@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/no-new-movies-this-week-feast-on-these-leftovers-instead/466992693/</link>
         <summary>For the first time in months, this weekend brings no new movies. Not that there&#8217;s anything wrong with that.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">For the first time in months, this weekend brings no new movies. Not that there&#8217;s anything wrong with that.</h2>
@@ -6141,13 +6241,14 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>1d98b9f9-84c5-4ece-bc6a-7cd5dca80f15</id>
+        <id>urn:uuid:7826ffb4-aa21-4ccb-96fd-657f3e25d480</id>
         <title>2017: The (Unexpected) Year of the Woman</title>
         <updated>2017-12-28T12:02:00-06:00</updated>
         <author>
             <name>Petula Dvorak
                                                                                                                                             The Washington Post</name>
         </author>
+        <link>http://www.startribune.com/2017-the-unexpected-year-of-the-woman/466992813/</link>
         <summary>Clinton&#8217;s 2016 defeat was the expected breakthrough that failed — but a year later, how the balance of gender power has changed.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Clinton&#8217;s 2016 defeat was the expected breakthrough that failed — but a year later, how the balance of gender power has changed.</h2>
@@ -6186,33 +6287,34 @@ The City Edition also will be worn April 5 at Denver, April 6 at the Lakers and 
         ]]></content>
     </entry>
     <entry>
-        <id>84645165-0fed-491a-bbfc-2769670a94ef</id>
+        <id>urn:uuid:74b9d0e5-4154-461a-b136-62aade679279</id>
         <title>TV picks for Dec. 29-31: &#8216;Black Mirror,&#8217; &#8216;The Thin Man,&#8217; New Year&#8217;s Eve specials</title>
         <updated>2017-12-28T15:18:00-06:00</updated>
     </entry>
     <entry>
-        <id>fabd4a3b-cdb0-4651-825b-70a126e725e2</id>
+        <id>urn:uuid:1b824fc0-ba57-4de0-a955-e6b1eaa9e73d</id>
         <title>Free Family Fun Day at Coon Rapids Dam Regional Park</title>
         <updated>2017-12-28T11:57:00-06:00</updated>
     </entry>
     <entry>
-        <id>d9ca9f0c-0b7f-469c-846b-ff6c01594823</id>
+        <id>urn:uuid:37407024-5c76-4300-8e57-ab2be6188f28</id>
         <title>Ring in the new year with comedy: Dane Cook, Louie Anderson, Lizz Winstead or Scott Hansen</title>
         <updated>2017-12-28T15:17:00-06:00</updated>
     </entry>
     <entry>
-        <id>6db6156a-3ff8-44c8-93cc-c259f438f75a</id>
+        <id>urn:uuid:30097120-bf63-4316-91c1-d930345126ac</id>
         <title>Ticket alert: Nooky Jones, Christian Sands and more</title>
         <updated>2017-12-28T15:17:00-06:00</updated>
     </entry>
     <entry>
-        <id>112387f3-adf5-4ea4-b7a6-2c57661543ab</id>
+        <id>urn:uuid:cbfe1ac9-0200-4e1a-862a-2de7bfee5dda</id>
         <title>Minnesota music scene&#8217;s best moments and 10 best albums in 2017</title>
         <updated>2017-12-28T12:06:00-06:00</updated>
         <author>
             <name>CHRIS RIEMENSCHNEIDER</name>
             <uri>http://www.startribune.com/chris-riemenschneider/10645796/</uri>
         </author>
+        <link>http://www.startribune.com/minnesota-music-scene-s-best-moments-and-10-best-albums-in-2017/466994613/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By CHRIS RIEMENSCHNEIDER</h4>
 <div class="article-featured-media-wrapper  is-photo "><!-- add .is-photo .is-video -->
@@ -6370,7 +6472,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>a135b38c-c32d-45e5-bb35-7498422d585c</id>
+        <id>urn:uuid:b2776a82-18d2-4c35-95d7-eb4163404e4b</id>
         <title>Walker performance festival celebrates 30 years</title>
         <updated>2017-12-28T12:08:00-06:00</updated>
         <author>
@@ -6378,6 +6480,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/chris-hewitt/452754783/</uri>
             <email>chris.hewitt@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/walker-performance-festival-celebrates-30-years/466994873/</link>
         <summary>The target keeps moving as the Walker Art Center&#8217;s annual January performance series is still &#8220;Out There.&#8221;</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The target keeps moving as the Walker Art Center&#8217;s annual January performance series is still &#8220;Out There.&#8221;</h2>
@@ -6485,12 +6588,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>9695f91b-d77d-44bb-af7e-3c6c0a1df8d4</id>
+        <id>urn:uuid:41fb232e-888f-4ea1-97fc-ef5752c5f1e0</id>
         <title>Is Tyus Jones ready for a larger role if Teague&#8217;s injury is serious?</title>
         <updated>2017-12-28T13:13:00-06:00</updated>
         <author>
             <name>Michael Rand</name>
         </author>
+        <link>http://www.startribune.com/is-tyus-jones-ready-for-a-larger-role-if-jeff-teagues-injury-is-serious/466995193/</link>
         <summary>Starting point guard Jeff Teague sustained a knee injury late in Wednesday&#8217;s Timberwolves victory over Denver. If it&#8217;s serious, backup Tyus Jones will be in the spotlight.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Starting point guard Jeff Teague sustained a knee injury late in Wednesday&#8217;s Timberwolves victory over Denver. If it&#8217;s serious, backup Tyus Jones will be in the spotlight.</h2>
@@ -6514,12 +6618,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>133d9040-7b1c-4771-a4be-dadc6147a2f2</id>
+        <id>urn:uuid:31357864-25f4-4179-a042-43780279e9b1</id>
         <title>Judge denies Twin Cities archdiocese bankruptcy plans</title>
         <updated>2017-12-28T14:10:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/judge-denies-twin-cities-archdiocese-bankruptcy-plans/466998233/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>ST. PAUL, Minn. — An attorney for victims for clergy sex abuse said Thursday that a judge has ordered all sides back to mediation in the years-long bankruptcy case of the Archdiocese of St. Paul and Minneapolis, but he said the ruling will quicken the process of getting payments to victims. </p>
@@ -6531,12 +6636,12 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>85b90a83-1df3-4bf1-aff4-e069b6da2c8f</id>
+        <id>urn:uuid:28b48acb-936c-415d-a48c-4491b4f7448c</id>
         <title>Minnesota Wild&#8217;s Bruce Boudreau sizes up goalies</title>
         <updated>2017-12-28T14:58:00-06:00</updated>
     </entry>
     <entry>
-        <id>69be0c04-77ee-4a93-9112-514c7d2d4c84</id>
+        <id>urn:uuid:5617c94d-3c6b-4e4e-800f-b1ae9a78ca26</id>
         <title>Foreclosures, mortgage delinquencies drop further in Minnesota</title>
         <updated>2017-12-28T13:42:00-06:00</updated>
         <author>
@@ -6544,6 +6649,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/jim-buchta/10644536/</uri>
             <email>jim.buchta@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/foreclosures-mortgage-delinquencies-drop-further-in-minnesota/467000813/</link>
         <summary>Minnesotans are in the right homes for their wallets, an expert says.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Minnesotans are in the right homes for their wallets, an expert says.</h2>
@@ -6565,12 +6671,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>20437670-239d-478a-a697-d92a7b699419</id>
+        <id>urn:uuid:24539af6-1a26-4991-b066-12c794fb0369</id>
         <title>Minnesota Wild&#8217;s Nino Niederreiter looking at a possible return next week</title>
         <updated>2017-12-28T13:06:00-06:00</updated>
         <author>
             <name>Megan Ryan</name>
         </author>
+        <link>http://www.startribune.com/minnesota-wild-s-nino-niederreiter-looking-at-a-possible-return-next-week/467002463/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Megan Ryan</h4>
 <p> </p>
@@ -6591,7 +6698,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>610b0442-7b73-45c3-b768-6a00d6c534dc</id>
+        <id>urn:uuid:5af87213-bd9f-439f-b056-458ede6d8053</id>
         <title>Timberwolves&#8217; Jeff Teague has sprained left knee, no structural damage</title>
         <updated>2017-12-28T13:12:00-06:00</updated>
         <author>
@@ -6599,6 +6706,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/jerry-zgoda/10646291/</uri>
             <email>jzgoda@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/timberwolves-jeff-teague-has-sprained-left-knee-no-structural-damage/467002483/</link>
         <summary>The veteran guard was injured late in regulation during Wednesday&#8217;s overtime victory over Denver and will miss an unspecified amount of time.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">The veteran guard was injured late in regulation during Wednesday&#8217;s overtime victory over Denver and will miss an unspecified amount of time.</h2>
@@ -6624,7 +6732,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>30bf79b1-f1ae-479a-a730-ae4f46fb627d</id>
+        <id>urn:uuid:8398698c-5116-4b18-aaa9-cdf27102e4c8</id>
         <title>Apartment tower proposed for Guitar Center site in Edina</title>
         <updated>2017-12-28T15:16:00-06:00</updated>
         <author>
@@ -6632,6 +6740,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/nicole-norfleet/101685423/</uri>
             <email>nicole.norfleet@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/apartment-tower-proposed-for-guitar-center-site-in-edina/467002863/</link>
         <summary>Developer proposes 17-story apartment tower aimed at older, wealthy people who have downsized from houses.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Developer proposes 17-story apartment tower aimed at older, wealthy people who have downsized from houses.</h2>
@@ -6661,7 +6770,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>36b0ffb2-1c46-463e-94c3-fd4bd420cc14</id>
+        <id>urn:uuid:518dd753-b57f-40b5-ba25-7f1bdfc4e835</id>
         <title>Bankruptcy judge rejects plans for Twin Cities Archdiocese settlement with clergy abuse victims</title>
         <updated>2017-12-28T15:13:00-06:00</updated>
         <author>
@@ -6669,6 +6778,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/david-chanen/10644586/</uri>
             <email>dchanen@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/judge-denies-bankruptcy-plans-for-twin-cities-archdiocese-settlement-sends-back-to-mediation/467004083/</link>
         <summary>News conference will be held at 2 p.m. by attorney for some of the victims</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">News conference will be held at 2 p.m. by attorney for some of the victims</h2>
@@ -6688,7 +6798,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>f84f41b5-361f-4414-931c-8a93fc64a52c</id>
+        <id>urn:uuid:a23104a4-7aa7-4719-b976-73ce2f9f62ee</id>
         <title>Twins&#8217; Miguel Sano accused of assaulting, trying to kiss woman</title>
         <updated>2017-12-28T15:30:00-06:00</updated>
         <author>
@@ -6696,6 +6806,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/phil-miller/102061883/</uri>
             <email>phil.miller@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/twins-miguel-sano-accused-of-assault-forcibly-kiss-photographer/467009293/</link>
         <summary>In a Twitter post, the accuser describes an incident that occurred at Ridgedale Center in 2015.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">In a Twitter post, the accuser describes an incident that occurred at Ridgedale Center in 2015.</h2>
@@ -6730,12 +6841,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>503b8bfb-cef5-4514-9c88-d81eaf116665</id>
+        <id>urn:uuid:6a45a03e-942b-442e-9776-e3f0bcde33a0</id>
         <title>The Latest: Trump reminds world of long-ago NKorea warnings</title>
         <updated>2017-12-28T14:05:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/the-latest-trump-reminds-world-of-long-ago-nkorea-warnings/467009433/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>WASHINGTON — The Latest on President Donald Trump&#8217;s statements related to North Korea (all times local): </p>
@@ -6756,12 +6868,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>a11be121-9515-4aab-9d31-2c566569b460</id>
+        <id>urn:uuid:67c34f4e-f016-4f21-9aa0-8ac04c90cf89</id>
         <title>Police won&#8217;t cite woman who hit former lawmaker with her car</title>
         <updated>2017-12-28T14:15:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/police-won-t-cite-woman-who-hit-former-lawmaker-with-her-car/467010143/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>WATERBURY, Conn. — Police have decided not to cite a woman who hit and critically injured a former Connecticut lawmaker and prominent businessman with her car. </p>
@@ -6773,12 +6886,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>083cfe09-08d5-4d3b-b7b1-085da8027dc0</id>
+        <id>urn:uuid:ee2aad0f-f8d5-47de-8959-e0767e2f495c</id>
         <title>Council vote latest chapter in dispute with Orthodox Jews</title>
         <updated>2017-12-28T14:30:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/council-vote-latest-chapter-in-dispute-with-orthodox-jews/467012083/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>MAHWAH, N.J. — A town facing federal and state lawsuits over ordinances alleged to discriminate against Orthodox Jews is poised to take a vote that could reshape the dispute. </p>
@@ -6792,7 +6906,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>fb6e5a5e-e6f7-40bd-aafc-eec32fd340e5</id>
+        <id>urn:uuid:8451fe8c-46bd-49b3-a2f5-c310dfc41422</id>
         <title>Boy&#8217;s beating death in Crystal draws 40-year sentence for repeat offender</title>
         <updated>2017-12-28T15:15:00-06:00</updated>
         <author>
@@ -6800,6 +6914,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/paul-walsh/10646171/</uri>
             <email>pwalsh@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/boy-s-beating-death-in-crystal-draws-40-year-sentence-for-repeat-offender/467013283/</link>
         <summary>Defendant was on probation when he killed his girlfriend&#8217;s son.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Defendant was on probation when he killed his girlfriend&#8217;s son.</h2>
@@ -6850,13 +6965,14 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>8d446320-e13c-4d05-88b3-098f19469acb</id>
+        <id>urn:uuid:ed7d1db9-d066-499e-8982-1a4f40f40034</id>
         <title>Judge blocks Arizona ethnic studies ban he found was racist</title>
         <updated>2017-12-28T14:40:00-06:00</updated>
         <author>
             <name>TERRY TANG
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/judge-blocks-arizona-ethnic-studies-ban-he-found-was-racist/467013543/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By TERRY TANG
                                                                                                                                             Associated Press</h4>
@@ -6879,7 +6995,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>334f07ab-4bd1-4414-8af2-fa325aac6c87</id>
+        <id>urn:uuid:beb098b0-1ba3-4e23-bc49-dbe44855775d</id>
         <title>Minnesota IT commissioner to retire in February</title>
         <updated>2017-12-28T15:14:00-06:00</updated>
         <author>
@@ -6887,6 +7003,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/jessie-van-berkel/280701532/</uri>
             <email>Jessie.VanBerkel@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/minnesota-it-commissioner-to-retire-in-february/467015253/</link>
         <summary>Tom Baden is retiring after 36 years with state government.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Tom Baden is retiring after 36 years with state government.</h2>
@@ -6916,12 +7033,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>74a7d2fd-07b7-4ae0-b0af-f965e39fc873</id>
+        <id>urn:uuid:7f84add5-d480-4a30-9282-6b6e675b7a26</id>
         <title>Franken to formally thank supporters before leaving Senate</title>
         <updated>2017-12-28T15:05:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/franken-to-formally-thank-supporters-before-leaving-senate/467016603/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>MINNEAPOLIS — Sen. Al Franken is meeting with supporters and friends in Minnesota before he officially resigns. </p>
@@ -6932,7 +7050,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>98d85cdd-f040-44a3-bae9-f7735acba90e</id>
+        <id>urn:uuid:a5e051dc-63c7-475b-a8b1-564e2725a648</id>
         <title>Freeman says charging decision in Justine Damond shooting will be made in 2018</title>
         <updated>2017-12-28T15:26:00-06:00</updated>
         <author>
@@ -6940,6 +7058,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/brandon-stahl/186499941/</uri>
             <email>brandon.stahl@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/freeman-says-charging-decision-in-justine-damond-shooting-will-be-made-in-2018/467016783/</link>
         <summary>Additional investigation must be completed, he said.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Additional investigation must be completed, he said.</h2>
@@ -6963,7 +7082,7 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>6da992e4-561d-4f2b-82da-b2f2d03260ad</id>
+        <id>urn:uuid:3b8f3aa9-2d77-4b87-9ab5-0d45d600f458</id>
         <title>Sen. Al Franken tells supporters in Minneapolis: &#8216;I&#8217;m not giving up my voice&#8217;</title>
         <updated>2017-12-28T22:02:00-06:00</updated>
         <author>
@@ -6971,6 +7090,7 @@ For Sale: Live at Maxwell’s 1986
             <uri>http://www.startribune.com/jessie-van-berkel/280701532/</uri>
             <email>Jessie.VanBerkel@startribune.com</email>
         </author>
+        <link>http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003/</link>
         <summary>Senator makes valedictory speech as one poll shows he&#8217;s still popular.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Senator makes valedictory speech as one poll shows he&#8217;s still popular.</h2>
@@ -7056,13 +7176,14 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>0a1724a8-dbbd-47e4-a575-827e219311da</id>
+        <id>urn:uuid:7138ab6b-71b0-48d1-8056-371c737eb72a</id>
         <title>This week in odd news: &#8216;Stooges&#8217; hairdo and a $284B bill</title>
         <updated>2017-12-29T08:30:00-06:00</updated>
         <author>
             <name>RICHARD A. SOMMA
                                                                                                                                             Associated Press</name>
         </author>
+        <link>http://www.startribune.com/this-week-in-odd-news-stooges-hairdo-and-a-284b-bill/467135533/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By RICHARD A. SOMMA
                                                                                                                                             Associated Press</h4>
@@ -7161,12 +7282,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>1aaf3374-d2b4-41fd-86c8-5023a405ba74</id>
+        <id>urn:uuid:2b86f737-4598-4a0a-a945-fede6d902eda</id>
         <title>2 Republican state lawmakers resign to work for Walker</title>
         <updated>2017-12-29T09:25:00-06:00</updated>
         <author>
             <name>Associated Press</name>
         </author>
+        <link>http://www.startribune.com/2-republican-state-lawmakers-resign-to-work-for-walker/467142513/</link>
         <content type="html"><![CDATA[
 <h4 style="font-weight: 300; font-size: 1rem;">By Associated Press</h4>
 <p>MADISON, Wis. — Two Republican state lawmakers are resigning to take jobs with Gov. Scott Walker&#8217;s administration. </p>
@@ -7177,12 +7299,13 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>189b7b0e-369b-473e-9baa-cd1c57267e6f</id>
+        <id>urn:uuid:0a25d4ef-cd3f-4c32-8f89-fc4dd8fb8567</id>
         <title>Is Tyus Jones ready for a larger role if Teague&#8217;s injury is serious?</title>
         <updated>2017-12-28T13:13:00-06:00</updated>
         <author>
             <name>Michael Rand</name>
         </author>
+        <link>http://www.startribune.com/is-tyus-jones-ready-for-a-larger-role-if-jeff-teagues-injury-is-serious/466995193/</link>
         <summary>Starting point guard Jeff Teague sustained a knee injury late in Wednesday&#8217;s Timberwolves victory over Denver. If it&#8217;s serious, backup Tyus Jones will be in the spotlight.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Starting point guard Jeff Teague sustained a knee injury late in Wednesday&#8217;s Timberwolves victory over Denver. If it&#8217;s serious, backup Tyus Jones will be in the spotlight.</h2>
@@ -7206,17 +7329,18 @@ For Sale: Live at Maxwell’s 1986
         ]]></content>
     </entry>
     <entry>
-        <id>b75a4115-1779-4c38-be06-4f3c219b561e</id>
+        <id>urn:uuid:32188d78-74d0-423e-8308-2f9964680a04</id>
         <title></title>
-        <updated>2017-12-29T18:52:25.831240Z</updated>
+        <updated>2017-12-29T19:12:42.476888Z</updated>
     </entry>
     <entry>
-        <id>6f52115f-9cae-437f-83cd-c503a88c4c63</id>
+        <id>urn:uuid:e5916847-3a34-45c7-a68d-faf955b13ab4</id>
         <title>Vikings QB Case Keenum can earn a $250K incentive vs. Bears</title>
         <updated>2017-12-27T08:26:00-06:00</updated>
         <author>
             <name>Ben Goessling</name>
         </author>
+        <link>http://www.startribune.com/vikings-qb-case-keenum-can-earn-a-250k-incentive-vs-bears/466789213/</link>
         <summary>According to sources with access to NFLPA salary data, Keenum would make an extra $250,000 if he plays 85 percent or more of the Vikings’ offensive plays this season.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">According to sources with access to NFLPA salary data, Keenum would make an extra $250,000 if he plays 85 percent or more of the Vikings’ offensive plays this season.</h2>
