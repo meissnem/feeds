@@ -22,13 +22,13 @@
     <entry>
         <id>http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003.html</id>
         <title>Sen. Al Franken tells supporters in Minneapolis: ‘I’m not giving up my voice’</title>
-        <updated>2017-12-29T03:02Z</updated>
+        <updated>2017-12-29T03:02:00Z</updated>
         <author>
             <name>Jessie Van Berkel</name>
             <uri>http://www.startribune.com/jessie-van-berkel/280701532/</uri>
             <email>Jessie.VanBerkel@startribune.com</email>
         </author>
-        <link>http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003.html</link>
+        <link rel="alternate" href="http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003.html"/>
         <summary>Senator makes valedictory speech as one poll shows he’s still popular.</summary>
         <content type="html"><![CDATA[
 <h2 style="font-weight: 300;">Senator makes valedictory speech as one poll shows he&#8217;s still popular.</h2>
