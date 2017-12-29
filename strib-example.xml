@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    feed.xml
+
+    © 2017 Matt Meissner. All rights reserved.
+
+    <# description #>
+
+-->
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Example Star Tribune Feed</title>
+    <id>http://www.startribune.com/matt/example</id>
+    <updated>2017-12-29T17:52:00Z</updated>
+    <author>
+        <name>Star Tribune Staff</name>
+        <uri>http://www.startribune.com/</uri>
+    </author>
+    <subtitle>Newspaper of the Twin Cities</subtitle>
+
+    <entry>
+        <id>http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003.html</id>
+        <title>Sen. Al Franken tells supporters in Minneapolis: ‘I’m not giving up my voice’</title>
+        <updated>2017-12-29T03:02Z</updated>
+        <author>
+            <name>Jessie Van Berkel</name>
+            <uri>http://www.startribune.com/jessie-van-berkel/280701532/</uri>
+            <email>Jessie.VanBerkel@startribune.com</email>
+        </author>
+        <link>http://www.startribune.com/sen-al-franken-to-address-supporters-in-minneapolis/467025003.html</link>
+        <summary>Senator makes valedictory speech as one poll shows he’s still popular.</summary>
+        <content type="html"><![CDATA[
+<h2 style="font-weight: 300;">Senator makes valedictory speech as one poll shows he&#8217;s still popular.</h2>
+<h4 style="font-weight: 300; font-size: 1rem;">By Jessie Van Berkel</h4>
+<div class="article-featured-media-wrapper  is-video  "><!-- add .is-photo .is-video -->
+                                                                    
+<div class="article-featured-video-mod js-video-mod is-standalone-video">
+  <iframe allowfullscreen="" allowtransparency="true" class="tease-video article-media__video" horizontalscrolling="no" mozallowfullscreen="" name="stribVideoEmbed" scrolling="no" src="http://www.startribune.com/video/embed/467060223/?load_location=Article&amp;article_title=Sen.%20Al%20Franken%20tells%20supporters%20in%20Minneapolis%3A%20%27I%27m%20not%20giving%20up%20my%20voice%27&amp;article_author=Jessie%20Van%20Berkel&amp;embed_site=http%3A%2F%2Fwww.startribune.com&amp;sz=%2F7932%2FWebsite%2FWEB_Video%2FWEB_Video_User_Initiated&amp;page_level=Article&amp;auto_start=1&amp;section_name=Politics&amp;secs=Politics&amp;soft_load=1" style="width: 100%; height: calc(56.25vw - 90px); border: 0;" verticalscrolling="no" webkitallowfullscreen="">
+  </iframe>
+      <div style="font-size: 75%; font-style: italic; line-height: 1.5em;"><img alt="Video" src="http://assets.startribune.com/static/img/icons/icn-relatedcontent-video-30-30.svg" style="height: 18px; width: 18px; vertical-align: middle">Video (23:12) : The Minnesota Democrat thanked supporters and friends in Minneapolis Thursday night as his eight years in the Senate are set to come to an end. Franken is set to resign Jan. 2 amid a string of sexual misconduct allegation</div>
+  
+</div>
+                                
+                                                                    <div style="text-align: right; font-size: 75%; opacity: .5; line-height: 1.5em;">Mark Vancleave</div>
+                                
+                                                            </div>
+<p>In one of his last speeches to supporters before he resigns, U.S. Sen. Al Franken, D-Minn., promised to continue fighting for the causes he has championed over the past decade. </p>
+<p>“Here’s my promise to you,” he told about 300 supporters, family members and friends gathered Thursday night in northeast Minneapolis. “I may be leaving the Senate, but I’m not giving up my voice. We still have a lot of work to do together on issues ranging from net neutrality to climate change.” </p>
+<p>It was Franken’s first public appearance in Minnesota since he was accused of sexual harassment, followed by his decision to resign from the Senate. He spent the evening thanking those who have supported him over the years and amid the turmoil of recent weeks. </p>
+<p>“One of the hardest things about leaving this job will be not getting to work alongside you every day, but I cannot wait to see what you do next,” he said, his voice cracking as he thanked his staff. </p>
+<p>Campaign and office staff, state officials and politicians sipped drinks and snacked at the Machine Shop event space, where many lamented his resignation. </p>
+<p>Franken, 66, <a href="">plans to step down Jan. 2,</a> a decision he made after numerous women accused him of sexual harassment. When the first allegations emerged in November, he apologized and offered to undergo a Senate ethics investigation. But as the number of similar stories mounted, many of his colleagues in the Senate urged him to resign, and he decided to heed their call.</p>
+<div> <div class="related-media-wrapper is-gallery"><!-- add .is-photo, .is-gallery, .is-graphic, .is-video -->
+
+                <div class="related-media-gallery js-gallery-modal">
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514351_08-1005212847%2B02FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/72918" data-linkname="Sen. Al Franken took the stage as he was introduced. He spoke of his accomplishments and thanked his team Thursday night in Minneapolis. On the left is his son in law Brody Greenwald, wife Franni, daughter Thomasin and son Joe." data-linktype="related gallery 1" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken took the stage as he was introduced. He spoke of his accomplishments and thanked his team Thursday night in Minneapolis. On the left is his son in law Brody Greenwald, wife Franni, daughter Thomasin and son Joe." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514351_08-1005212847+02FRANKEN122917.JPG?w=1000">
+                          <div class="expand-icn-wrapper">
+                <img alt="Sen. Al Franken took the stage as he was introduced. He spoke of his accomplishments and thanked his team Thursday night in Minneapolis. On the left is his son in law Brody Greenwald, wife Franni, daughter Thomasin and son Joe." src="http://stmedia.startribune.com/images/1514514351_08-1005212847+02FRANKEN122917.JPG">
+              </div>
+                            <!--/DO NOT REMOVE/-->
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514269_08-1005212847%2B03FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/99463" data-linkname="Sen. Al Franken spoke of his accomplishments and thanked his team Thursday night in Minneapolis." data-linktype="related gallery 2" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken spoke of his accomplishments and thanked his team Thursday night in Minneapolis." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514269_08-1005212847+03FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514272_08-1005212847%2B04FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/9737" data-linkname="Sen. Al Franken looked over at his wife Franni and thanked her for always being at his side. From left is his son-in-law Brody Greenwald, wife Franni, daughter Thomasin and son Joe." data-linktype="related gallery 3" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken looked over at his wife Franni and thanked her for always being at his side. From left is his son-in-law Brody Greenwald, wife Franni, daughter Thomasin and son Joe." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514272_08-1005212847+04FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514273_08-1005212847%2B08FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/30375" data-linkname="Sen. Al Franken acknowledged the applause of friends and supporters as he finished speaking." data-linktype="related gallery 4" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken acknowledged the applause of friends and supporters as he finished speaking." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514273_08-1005212847+08FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514271_08-1005212847%2B01FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/75802" data-linkname="Sen. Al Franken waited with family as he was introduced to take the stage." data-linktype="related gallery 5" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken waited with family as he was introduced to take the stage." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514271_08-1005212847+01FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514274_08-1005212847%2B06FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/85555" data-linkname="Supporters, staff and Amy Klobuchar, right applauded as Sen. Al Franken spoke of his accomplishments and thanked his team Thursday night in Minneapolis." data-linktype="related gallery 6" data-modal-byline="Glen Stubbe" data-modal-caption="Supporters, staff and Amy Klobuchar, right applauded as Sen. Al Franken spoke of his accomplishments and thanked his team Thursday night in Minneapolis." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514274_08-1005212847+06FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514270_08-1005212847%2B05FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/3024" data-linkname="Sen. Al Franken looked over at his wife Franni and thanked her for always being at his side." data-linktype="related gallery 7" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken looked over at his wife Franni and thanked her for always being at his side." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514270_08-1005212847+05FRANKEN122917.JPG?w=1000">
+                      </a>
+                            <a class="image-modal-link" data-analytics-querystring="pageName=Sen.%20Al%20Franken%20to%20supporters%3A%20%5C%27I%5C%27m%20not%20giving%20up%20my%20voice%5C%27&amp;channel=Photo Gallery&amp;server=startribune.com&amp;c1=http%3A%2F%2Fstmedia.stimg.co%2F1514514350_08-1005212847%2B09FRANKEN122917.JPG%3Fw%3D1000&amp;c2=V20171227&amp;c3=Photo&amp;c4=Photo Gallery&amp;c5=&amp;c7=Photography&amp;c12=&amp;c15=&amp;c16=&amp;c24=Photo Gallery&amp;c31=Related%20Article%20Photo%20Gallery&amp;c33=&amp;c64=&amp;c71=websites" data-analytics-url="http://metrics.startribune.com/b/ss/nmminneapolis/1/JS-1.6.4/45293" data-linkname="Sen. Al Franken hugged Senator Amy Klobuchar at the end of his speech." data-linktype="related gallery 8" data-modal-byline="Glen Stubbe" data-modal-caption="Sen. Al Franken hugged Senator Amy Klobuchar at the end of his speech." data-modulename="Article" data-moduletype="zone1-content" data-position="0-0" href="http://stmedia.stimg.co/1514514350_08-1005212847+09FRANKEN122917.JPG?w=1000">
+                      </a>
+                
+        <img alt="" class="gallery-image-tracking" src="http://apps.startribune.com/circulars/images/blank.gif" style="height: 0px;position:absolute;">
+        
+      </div>
+
+    
+  </div>
+
+            <div style="text-align: right; font-size: 75%; opacity: .5; line-height: 1.5em;">
+        Glen Stubbe
+      </div>
+              <div style="font-size: 75%; font-style: italic; line-height: 1.5em;">
+                  <img alt="" src="http://assets.startribune.com/static/img/icons/icn-relatedcontent-gallery-30-30.svg" style="height: 18px; width: 18px; vertical-align: middle">
+          Gallery: Sen. Al Franken&#8217;s speech in Minneapolis
+              </div>
+       <div class="tease-related">
+      <ul class="tease-list">
+              </ul>
+    </div>
+  </div>
+<p></p>
+<p>Christy Dickinson, who worked on Franken’s campaigns, was one of several people at the event who said she wishes he would have stayed in office and gone through the investigation. “It leaves a bit of ambiguity,” she said, and she feels he is leaving without due process. </p>
+<h3>Survey shows support </h3>
+<p>“It will be hard to find another person that will continue that work in the same way,” Dickinson said. She said Franken spent a lot of time getting to know the issues and the people who often don’t have a voice in Washington, D.C., including immigrants and members of Minnesota’s American Indian communities. She said he has operated in the mold of his political idol, the late Sen. Paul Wellstone — who got a few shout-outs in Franken’s speech Thursday. </p>
+<p>The event came the same day as Democratic-leaning Public Policy Polling <a href="">published a survey </a>showing that Franken remains popular in his home state, and 50 percent of Minnesota voters do not think he should resign.</p>
+<p>Despite the allegations and political winds against him, a majority of the 671 Minnesota voters interviewed on Dec. 26 and 27 approved of Franken’s job performance, the survey found. It was commissioned by the Strategic Consulting Group, which promotes Democratic causes and campaigns; 40 percent of people who participated in the survey identified as Democrats. </p>
+<p>The former “Saturday Night Live” writer and radio host was elected to the Senate in 2008. </p>
+<p>“People knew that I was passionate about the issues” when he first ran, Franken said, but they didn’t know if he was serious about the work. “All these years later I am deeply proud of all the work I’ve been able to do on Minnesotans’ behalf.” </p>
+<p>In Congress, he worked to move past his comedy background and focused on issues like protecting survivors of sexual assault and net neutrality, which aims to prevent internet service providers from charging people more to access certain websites or applications. </p>
+<p>Franken helped make net neutrality a critical issue and has taken on President Donald Trump’s administration more than almost any other senator, said Eliot Seide, the recently retired union director of AFSCME Council 5. </p>
+<p>“I hope he continues to play a role in public policy and speaking out,” Seide said. </p>
+<p>Since making his resignation announcement three weeks ago, Franken has continued to vote, attend hearings and make speeches in the Senate. </p>
+<p>Lt. Gov. Tina Smith will be sworn in Jan. 3 and take over his seat. Gov. Mark Dayton appointed Smith to fill the post, and she has said she plans to run in the 2018 special election to keep the seat. </p>
+<p>Franken has campaigned hard for other DFL candidates during his years in office, said his state director, Alana Petersen. And in keeping with that work, he offered words of support for his successor. </p>
+<p>“We still have terrific candidates worthy of the kind of incredible support I have received,” he told the crowd. “Starting with my friend Tina Smith.” </p>
+<p style="font-size: 75%; font-style: italic; opacity: .5; line-height: 1.5em;"> </p>
+<p> </p>
+            ]]></content>
+    </entry>
+</feed>
+
+
+<!-- vi: set tw=120 ts=4 sw=4 et: -->
