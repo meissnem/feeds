@@ -3,11 +3,26 @@
     <title type="text">Peanuts</title>
     <link href="http://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2018-01-03T10:01:00Z</updated>
+    <updated>2018-01-04T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
+    <entry>
+        <title type="text">Peanuts - January  4, 2018</title>
+        <link href="http://www.gocomics.com/peanuts/2018/01/04"/>
+        <id>http://www.gocomics.com/peanuts/2018/01/04</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-01-04T10:00:00Z</published>
+        <updated>2018-01-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/d22aa940c0c90135050f005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - January  3, 2018</title>
         <link href="http://www.gocomics.com/peanuts/2018/01/03"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/7e2a6f5063ff0135e331005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - September  6, 2017</title>
-        <link href="http://www.gocomics.com/peanuts/2017/09/06"/>
-        <id>http://www.gocomics.com/peanuts/2017/09/06</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2017-09-06T10:00:00Z</published>
-        <updated>2017-09-06T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/be686f3064000135e334005056a9545d"/>
             </div>
         </content>
     </entry>
