@@ -3,11 +3,26 @@
     <title type="text">JumpStart</title>
     <link href="http://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2018-01-05T10:01:00Z</updated>
+    <updated>2018-01-06T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>http://www.gocomics.com/jumpstart/</id>
+    <entry>
+        <title type="text">JumpStart - January  6, 2018</title>
+        <link href="http://www.gocomics.com/jumpstart/2018/01/06"/>
+        <id>http://www.gocomics.com/jumpstart/2018/01/06</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-01-06T10:00:00Z</published>
+        <updated>2018-01-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/faec86d0cd5001350991005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - January  5, 2018</title>
         <link href="http://www.gocomics.com/jumpstart/2018/01/05"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/dd4b7ab06f010135e734005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - September  8, 2017</title>
-        <link href="http://www.gocomics.com/jumpstart/2017/09/08"/>
-        <id>http://www.gocomics.com/jumpstart/2017/09/08</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2017-09-08T10:00:00Z</published>
-        <updated>2017-09-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/29d1ff406f010135e734005056a9545d"/>
             </div>
         </content>
     </entry>
