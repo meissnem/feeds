@@ -3,11 +3,26 @@
     <title type="text">Bloom County 2017</title>
     <link href="http://www.gocomics.com/bloom-county" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloom-county.xml" rel="self"/>
-    <updated>2018-01-06T10:01:00Z</updated>
+    <updated>2018-01-07T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>http://www.gocomics.com/bloom-county/</id>
+    <entry>
+        <title type="text">Bloom County 2017 - January  7, 2018</title>
+        <link href="http://www.gocomics.com/bloom-county/2018/01/07"/>
+        <id>http://www.gocomics.com/bloom-county/2018/01/07</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-01-07T10:00:00Z</published>
+        <updated>2018-01-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/ff3f6090d2d001350b72005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County 2017 - January  6, 2018</title>
         <link href="http://www.gocomics.com/bloom-county/2018/01/06"/>
@@ -1190,21 +1205,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/831693f074a60135e93a005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County 2017 - September  9, 2017</title>
-        <link href="http://www.gocomics.com/bloom-county/2017/09/09"/>
-        <id>http://www.gocomics.com/bloom-county/2017/09/09</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2017-09-09T10:00:00Z</published>
-        <updated>2017-09-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/81979b3074a60135e93a005056a9545d"/>
             </div>
         </content>
     </entry>
