@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2018-01-08T10:01:00Z</updated>
+    <updated>2018-01-09T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - January  9, 2018</title>
+        <link href="http://www.gocomics.com/pickles/2018/01/09"/>
+        <id>http://www.gocomics.com/pickles/2018/01/09</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2018-01-09T10:00:00Z</published>
+        <updated>2018-01-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/9fa265a0ce3e01350a0f005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - January  8, 2018</title>
         <link href="http://www.gocomics.com/pickles/2018/01/08"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d83224006fc80135e78c005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - September 11, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/09/11"/>
-        <id>http://www.gocomics.com/pickles/2017/09/11</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-09-11T10:00:00Z</published>
-        <updated>2017-09-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/dd2f4a206fc80135e78c005056a9545d"/>
             </div>
         </content>
     </entry>
