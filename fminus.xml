@@ -3,11 +3,26 @@
     <title type="text">F Minus</title>
     <link href="http://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2018-01-20T10:01:00Z</updated>
+    <updated>2018-01-21T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>http://www.gocomics.com/fminus/</id>
+    <entry>
+        <title type="text">F Minus - January 21, 2018</title>
+        <link href="http://www.gocomics.com/fminus/2018/01/21"/>
+        <id>http://www.gocomics.com/fminus/2018/01/21</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2018-01-21T10:00:00Z</published>
+        <updated>2018-01-21T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/e8ea7430cef701350a63005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - January 20, 2018</title>
         <link href="http://www.gocomics.com/fminus/2018/01/20"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/ba820570643f0135e364005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - September 23, 2017</title>
-        <link href="http://www.gocomics.com/fminus/2017/09/23"/>
-        <id>http://www.gocomics.com/fminus/2017/09/23</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2017-09-23T10:00:00Z</published>
-        <updated>2017-09-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b93ddd4076d90135ea4c005056a9545d"/>
             </div>
         </content>
     </entry>
