@@ -3,7 +3,7 @@
     <title type="text">Stone Soup</title>
     <link href="http://www.gocomics.com/stonesoup" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/stonesoup.xml" rel="self"/>
-    <updated>2018-01-21T10:01:00Z</updated>
+    <updated>2018-01-22T10:01:00Z</updated>
     <author>
         <name>Jan Eliot</name>
     </author>
@@ -260,21 +260,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/63d49d906a880135e5ce005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Stone Soup - September 24, 2017</title>
-        <link href="http://www.gocomics.com/stonesoup/2017/09/24"/>
-        <id>http://www.gocomics.com/stonesoup/2017/09/24</id>
-        <author>
-            <name>Jan Eliot</name>
-        </author>
-        <published>2017-09-24T10:00:00Z</published>
-        <updated>2017-09-24T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/0ab5b04050970135dcce005056a9545d"/>
             </div>
         </content>
     </entry>
