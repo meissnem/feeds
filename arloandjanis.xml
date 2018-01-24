@@ -3,11 +3,26 @@
     <title type="text">Arlo and Janis</title>
     <link href="http://www.gocomics.com/arloandjanis" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/arloandjanis.xml" rel="self"/>
-    <updated>2018-01-23T10:01:00Z</updated>
+    <updated>2018-01-24T10:01:00Z</updated>
     <author>
         <name>Jimmy Johnson</name>
     </author>
     <id>http://www.gocomics.com/arloandjanis/</id>
+    <entry>
+        <title type="text">Arlo and Janis - January 24, 2018</title>
+        <link href="http://www.gocomics.com/arloandjanis/2018/01/24"/>
+        <id>http://www.gocomics.com/arloandjanis/2018/01/24</id>
+        <author>
+            <name>Jimmy Johnson</name>
+        </author>
+        <published>2018-01-24T10:00:00Z</published>
+        <updated>2018-01-24T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/dd6ac240da2601350e6a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Arlo and Janis - January 23, 2018</title>
         <link href="http://www.gocomics.com/arloandjanis/2018/01/23"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/0d37f2907f840135ed35005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Arlo and Janis - September 26, 2017</title>
-        <link href="http://www.gocomics.com/arloandjanis/2017/09/26"/>
-        <id>http://www.gocomics.com/arloandjanis/2017/09/26</id>
-        <author>
-            <name>Jimmy Johnson</name>
-        </author>
-        <published>2017-09-26T10:00:00Z</published>
-        <updated>2017-09-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7094fc507f850135ed36005056a9545d"/>
             </div>
         </content>
     </entry>
