@@ -3,11 +3,26 @@
     <title type="text">F Minus</title>
     <link href="http://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2018-01-29T10:01:00Z</updated>
+    <updated>2018-01-30T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>http://www.gocomics.com/fminus/</id>
+    <entry>
+        <title type="text">F Minus - January 30, 2018</title>
+        <link href="http://www.gocomics.com/fminus/2018/01/30"/>
+        <id>http://www.gocomics.com/fminus/2018/01/30</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2018-01-30T10:00:00Z</published>
+        <updated>2018-01-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/bdd2ccf0df9801351068005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - January 29, 2018</title>
         <link href="http://www.gocomics.com/fminus/2018/01/29"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e80105a0820a0135ee62005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - October  2, 2017</title>
-        <link href="http://www.gocomics.com/fminus/2017/10/02"/>
-        <id>http://www.gocomics.com/fminus/2017/10/02</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2017-10-02T10:00:00Z</published>
-        <updated>2017-10-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/e6217710820a0135ee62005056a9545d"/>
             </div>
         </content>
     </entry>
