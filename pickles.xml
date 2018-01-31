@@ -3,11 +3,26 @@
     <title type="text">Pickles</title>
     <link href="http://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2018-01-30T10:01:00Z</updated>
+    <updated>2018-01-31T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>http://www.gocomics.com/pickles/</id>
+    <entry>
+        <title type="text">Pickles - January 31, 2018</title>
+        <link href="http://www.gocomics.com/pickles/2018/01/31"/>
+        <id>http://www.gocomics.com/pickles/2018/01/31</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2018-01-31T10:00:00Z</published>
+        <updated>2018-01-31T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8f7e3990de9d01350fe8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - January 30, 2018</title>
         <link href="http://www.gocomics.com/pickles/2018/01/30"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e03a3b50806a0135edb8005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - October  3, 2017</title>
-        <link href="http://www.gocomics.com/pickles/2017/10/03"/>
-        <id>http://www.gocomics.com/pickles/2017/10/03</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2017-10-03T10:00:00Z</published>
-        <updated>2017-10-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/dac36f40806a0135edb8005056a9545d"/>
             </div>
         </content>
     </entry>
