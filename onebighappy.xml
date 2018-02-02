@@ -3,11 +3,26 @@
     <title type="text">One Big Happy</title>
     <link href="http://www.gocomics.com/onebighappy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/onebighappy.xml" rel="self"/>
-    <updated>2018-02-01T10:01:00Z</updated>
+    <updated>2018-02-02T10:01:00Z</updated>
     <author>
         <name>Rick Detorie</name>
     </author>
     <id>http://www.gocomics.com/onebighappy/</id>
+    <entry>
+        <title type="text">One Big Happy - February  2, 2018</title>
+        <link href="http://www.gocomics.com/onebighappy/2018/02/02"/>
+        <id>http://www.gocomics.com/onebighappy/2018/02/02</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2018-02-02T10:00:00Z</published>
+        <updated>2018-02-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/8f743cd05e29012ee3bf00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">One Big Happy - February  1, 2018</title>
         <link href="http://www.gocomics.com/onebighappy/2018/02/01"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/17013f805e21012ee3bf00163e41dd5b"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">One Big Happy - October  5, 2017</title>
-        <link href="http://www.gocomics.com/onebighappy/2017/10/05"/>
-        <id>http://www.gocomics.com/onebighappy/2017/10/05</id>
-        <author>
-            <name>Rick Detorie</name>
-        </author>
-        <published>2017-10-05T10:00:00Z</published>
-        <updated>2017-10-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/064b5fe05e21012ee3bf00163e41dd5b"/>
             </div>
         </content>
     </entry>
