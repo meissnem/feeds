@@ -1,16 +1,9 @@
 {
     "description": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
     "feed_url": "https://meissnem.gitlab.io/feeds/apod.json",
-    "author": [
-        {
-            "url": "http://www.phy.mtu.edu/faculty/Nemiroff.html",
-            "name": "Robert Nemiroff (MTU)"
-        },
-        {
-            "url": "https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html",
-            "name": "Jerry Bonnell (UMCP)"
-        }
-    ],
+    "author": {
+        "name": "Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)"
+    },
     "items": [
         {
             "title": "A Partial Solar Eclipse over Buenos Aires",
