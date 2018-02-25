@@ -3,11 +3,26 @@
     <title type="text">FoxTrot</title>
     <link href="http://www.gocomics.com/foxtrot" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/foxtrot.xml" rel="self"/>
-    <updated>2018-02-24T10:01:00Z</updated>
+    <updated>2018-02-25T10:01:00Z</updated>
     <author>
         <name>Bill Amend</name>
     </author>
     <id>http://www.gocomics.com/foxtrot/</id>
+    <entry>
+        <title type="text">FoxTrot - February 25, 2018</title>
+        <link href="http://www.gocomics.com/foxtrot/2018/02/25"/>
+        <id>http://www.gocomics.com/foxtrot/2018/02/25</id>
+        <author>
+            <name>Bill Amend</name>
+        </author>
+        <published>2018-02-25T10:00:00Z</published>
+        <updated>2018-02-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/71882cd0de4f01350fd1005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">FoxTrot - February 18, 2018</title>
         <link href="http://www.gocomics.com/foxtrot/2018/02/18"/>
