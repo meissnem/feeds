@@ -3,12 +3,27 @@
     <title type="text">For Better or For Worse</title>
     <link href="http://www.gocomics.com/forbetterorforworse" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/forbetterorforworse.xml" rel="self"/>
-    <updated>2018-03-01T10:01:00Z</updated>
+    <updated>2018-03-02T10:01:00Z</updated>
     <author>
         <name>Lynn Johnston</name>
     </author>
     <id>http://www.gocomics.com/forbetterorforworse/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">For Better or For Worse - March  2, 2018</title>
+        <link href="http://www.gocomics.com/forbetterorforworse/2018/03/02"/>
+        <id>http://www.gocomics.com/forbetterorforworse/2018/03/02</id>
+        <author>
+            <name>Lynn Johnston</name>
+        </author>
+        <published>2018-03-02T10:00:00Z</published>
+        <updated>2018-03-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/6b13d040f89801351996005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">For Better or For Worse - March  1, 2018</title>
         <link href="http://www.gocomics.com/forbetterorforworse/2018/03/01"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/817d91109a3a0135f6cf005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - November  2, 2017</title>
-        <link href="http://www.gocomics.com/forbetterorforworse/2017/11/02"/>
-        <id>http://www.gocomics.com/forbetterorforworse/2017/11/02</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2017-11-02T10:00:00Z</published>
-        <updated>2017-11-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/0930b9509a3b0135f6cf005056a9545d"/>
             </div>
         </content>
     </entry>
