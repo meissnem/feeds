@@ -3,12 +3,72 @@
     <title type="text">Pearls Before Swine</title>
     <link href="http://www.gocomics.com/pearlsbeforeswine" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pearlsbeforeswine.xml" rel="self"/>
-    <updated>2018-03-06T10:01:00Z</updated>
+    <updated>2018-03-10T10:01:00Z</updated>
     <author>
         <name>Stephan Pastis</name>
     </author>
     <id>http://www.gocomics.com/pearlsbeforeswine/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pearls Before Swine - March 10, 2018</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2018/03/10"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2018/03/10</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2018-03-10T10:00:00Z</published>
+        <updated>2018-03-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/32315860fd4b01351b6e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - March  9, 2018</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2018/03/09"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2018/03/09</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2018-03-09T10:00:00Z</published>
+        <updated>2018-03-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/f89678b0fd4901351b6d005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - March  8, 2018</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2018/03/08"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2018/03/08</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2018-03-08T10:00:00Z</published>
+        <updated>2018-03-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/6c48bbc0fd4801351b6c005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - March  7, 2018</title>
+        <link href="http://www.gocomics.com/pearlsbeforeswine/2018/03/07"/>
+        <id>http://www.gocomics.com/pearlsbeforeswine/2018/03/07</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2018-03-07T10:00:00Z</published>
+        <updated>2018-03-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/6ac1b0d0fd4801351b6c005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pearls Before Swine - March  6, 2018</title>
         <link href="http://www.gocomics.com/pearlsbeforeswine/2018/03/06"/>
@@ -1746,66 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/b8424cf09fd60135f8ed005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - November 10, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/11/10"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/11/10</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-11-10T10:00:00Z</published>
-        <updated>2017-11-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/6d3d9d909fd70135f8ed005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - November  9, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/11/09"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/11/09</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-11-09T10:00:00Z</published>
-        <updated>2017-11-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/6b1a89409fd70135f8ed005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - November  8, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/11/08"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/11/08</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-11-08T10:00:00Z</published>
-        <updated>2017-11-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b620ba409fd60135f8ed005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - November  7, 2017</title>
-        <link href="http://www.gocomics.com/pearlsbeforeswine/2017/11/07"/>
-        <id>http://www.gocomics.com/pearlsbeforeswine/2017/11/07</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2017-11-07T10:00:00Z</published>
-        <updated>2017-11-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/68b6a9009fd70135f8ed005056a9545d"/>
             </div>
         </content>
     </entry>
