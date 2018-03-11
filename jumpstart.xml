@@ -3,12 +3,27 @@
     <title type="text">JumpStart</title>
     <link href="http://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2018-03-10T10:01:00Z</updated>
+    <updated>2018-03-11T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>http://www.gocomics.com/jumpstart/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">JumpStart - March 11, 2018</title>
+        <link href="http://www.gocomics.com/jumpstart/2018/03/11"/>
+        <id>http://www.gocomics.com/jumpstart/2018/03/11</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-03-11T10:00:00Z</published>
+        <updated>2018-03-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/ec356780ed450135155f005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - March 10, 2018</title>
         <link href="http://www.gocomics.com/jumpstart/2018/03/10"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/888899008d1c0135f28b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - November 11, 2017</title>
-        <link href="http://www.gocomics.com/jumpstart/2017/11/11"/>
-        <id>http://www.gocomics.com/jumpstart/2017/11/11</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2017-11-11T10:00:00Z</published>
-        <updated>2017-11-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/a5ba0d40a0880135f935005056a9545d"/>
             </div>
         </content>
     </entry>
