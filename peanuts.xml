@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="http://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2018-03-16T10:01:00Z</updated>
+    <updated>2018-03-17T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - March 17, 2018</title>
+        <link href="http://www.gocomics.com/peanuts/2018/03/17"/>
+        <id>http://www.gocomics.com/peanuts/2018/03/17</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-03-17T10:00:00Z</published>
+        <updated>2018-03-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/04eeaa60006d01361cf0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - March 16, 2018</title>
         <link href="http://www.gocomics.com/peanuts/2018/03/16"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/1f77ce009fd50135f8ec005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November 17, 2017</title>
-        <link href="http://www.gocomics.com/peanuts/2017/11/17"/>
-        <id>http://www.gocomics.com/peanuts/2017/11/17</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2017-11-17T10:00:00Z</published>
-        <updated>2017-11-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/1d90afd09fd50135f8ec005056a9545d"/>
             </div>
         </content>
     </entry>
