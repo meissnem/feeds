@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="http://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2018-03-22T10:01:00Z</updated>
+    <updated>2018-03-23T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>http://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - March 23, 2018</title>
+        <link href="http://www.gocomics.com/garfield/2018/03/23"/>
+        <id>http://www.gocomics.com/garfield/2018/03/23</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-03-23T10:00:00Z</published>
+        <updated>2018-03-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/42a41d90fe4401351bea005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - March 22, 2018</title>
         <link href="http://www.gocomics.com/garfield/2018/03/22"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/815d461089ef0135f10a005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - November 23, 2017</title>
-        <link href="http://www.gocomics.com/garfield/2017/11/23"/>
-        <id>http://www.gocomics.com/garfield/2017/11/23</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2017-11-23T10:00:00Z</published>
-        <updated>2017-11-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/87441a5089ef0135f10a005056a9545d"/>
             </div>
         </content>
     </entry>
