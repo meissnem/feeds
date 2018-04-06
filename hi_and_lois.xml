@@ -3,11 +3,26 @@
     <title type="text">Hi and Lois</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Hi_and_Lois" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/hi_and_lois.xml" rel="self"/>
-    <updated>2018-04-05T10:01:00Z</updated>
+    <updated>2018-04-06T10:01:00Z</updated>
     <author>
         <name>Brian Walker, Greg Walker And Chance Browne</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Hi_and_Lois</id>
+    <entry>
+        <title type="text">Hi and Lois - April  6, 2018</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNC9IaV9hbmRfTG9pcy4yMDE4MDQwNl8xNDQwLmdpZg=="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNC9IaV9hbmRfTG9pcy4yMDE4MDQwNl8xNDQwLmdpZg==</id>
+        <author>
+            <name>Brian Walker, Greg Walker And Chance Browne</name>
+        </author>
+        <published>2018-04-06T10:00:00Z</published>
+        <updated>2018-04-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNC9IaV9hbmRfTG9pcy4yMDE4MDQwNl8xNDQwLmdpZg=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Hi and Lois - April  5, 2018</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNC9IaV9hbmRfTG9pcy4yMDE4MDQwNV8xNDQwLmdpZg=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8xMi9IaV9hbmRfTG9pcy4yMDE3MTIwOF8xNDQwLmdpZg=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Hi and Lois - December  7, 2017</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8xMi9IaV9hbmRfTG9pcy4yMDE3MTIwN18xNDQwLmdpZg=="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8xMi9IaV9hbmRfTG9pcy4yMDE3MTIwN18xNDQwLmdpZg==</id>
-        <author>
-            <name>Brian Walker, Greg Walker And Chance Browne</name>
-        </author>
-        <published>2017-12-07T10:00:00Z</published>
-        <updated>2017-12-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8xMi9IaV9hbmRfTG9pcy4yMDE3MTIwN18xNDQwLmdpZg=="/>
             </div>
         </content>
     </entry>
