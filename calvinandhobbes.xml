@@ -3,12 +3,27 @@
     <title type="text">Calvin and Hobbes</title>
     <link href="http://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/calvinandhobbes.xml" rel="self"/>
-    <updated>2018-04-14T10:01:00Z</updated>
+    <updated>2018-04-15T10:01:00Z</updated>
     <author>
         <name>Bill Watterson</name>
     </author>
     <id>http://www.gocomics.com/calvinandhobbes/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Calvin and Hobbes - April 15, 2018</title>
+        <link href="http://www.gocomics.com/calvinandhobbes/2018/04/15"/>
+        <id>http://www.gocomics.com/calvinandhobbes/2018/04/15</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2018-04-15T10:00:00Z</published>
+        <updated>2018-04-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/1d8b6940f01f013516bf005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - April 14, 2018</title>
         <link href="http://www.gocomics.com/calvinandhobbes/2018/04/14"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e3a71f608d560135f29b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - December 16, 2017</title>
-        <link href="http://www.gocomics.com/calvinandhobbes/2017/12/16"/>
-        <id>http://www.gocomics.com/calvinandhobbes/2017/12/16</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2017-12-16T10:00:00Z</published>
-        <updated>2017-12-16T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/1f71f3705eb70135e16b005056a9545d"/>
             </div>
         </content>
     </entry>
