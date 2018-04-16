@@ -3,12 +3,27 @@
     <title type="text">Get Fuzzy</title>
     <link href="http://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2018-04-15T10:01:00Z</updated>
+    <updated>2018-04-16T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>http://www.gocomics.com/getfuzzy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Get Fuzzy - April 16, 2018</title>
+        <link href="http://www.gocomics.com/getfuzzy/2018/04/16"/>
+        <id>http://www.gocomics.com/getfuzzy/2018/04/16</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2018-04-16T10:00:00Z</published>
+        <updated>2018-04-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/53ea9de01e4501362822005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - April 15, 2018</title>
         <link href="http://www.gocomics.com/getfuzzy/2018/04/15"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/ef1f4e70c1880135055c005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - December 17, 2017</title>
-        <link href="http://www.gocomics.com/getfuzzy/2017/12/17"/>
-        <id>http://www.gocomics.com/getfuzzy/2017/12/17</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2017-12-17T10:00:00Z</published>
-        <updated>2017-12-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/4b8943c0b14a0135ffd5005056a9545d"/>
             </div>
         </content>
     </entry>
