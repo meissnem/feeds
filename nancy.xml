@@ -3,12 +3,42 @@
     <title type="text">Nancy</title>
     <link href="http://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/nancy.xml" rel="self"/>
-    <updated>2018-04-20T10:01:00Z</updated>
+    <updated>2018-04-22T10:01:00Z</updated>
     <author>
         <name>Olivia Jaimes</name>
     </author>
     <id>http://www.gocomics.com/nancy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Nancy - April 22, 2018</title>
+        <link href="http://www.gocomics.com/nancy/2018/04/22"/>
+        <id>http://www.gocomics.com/nancy/2018/04/22</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2018-04-22T10:00:00Z</published>
+        <updated>2018-04-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/b73eeae0040f01361e29005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Nancy - April 21, 2018</title>
+        <link href="http://www.gocomics.com/nancy/2018/04/21"/>
+        <id>http://www.gocomics.com/nancy/2018/04/21</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2018-04-21T10:00:00Z</published>
+        <updated>2018-04-21T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/63e963e01e4501362822005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - April 20, 2018</title>
         <link href="http://www.gocomics.com/nancy/2018/04/20"/>
@@ -1776,36 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/38006d00ac0d0135fda8005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - December 23, 2017</title>
-        <link href="http://www.gocomics.com/nancy/2017/12/23"/>
-        <id>http://www.gocomics.com/nancy/2017/12/23</id>
-        <author>
-            <name>Guy and Brad Gilchrist</name>
-        </author>
-        <published>2017-12-23T10:00:00Z</published>
-        <updated>2017-12-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/8f62cbe0c0ca0135050f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - December 22, 2017</title>
-        <link href="http://www.gocomics.com/nancy/2017/12/22"/>
-        <id>http://www.gocomics.com/nancy/2017/12/22</id>
-        <author>
-            <name>Guy and Brad Gilchrist</name>
-        </author>
-        <published>2017-12-22T10:00:00Z</published>
-        <updated>2017-12-22T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/8dc279f0c0ca0135050f005056a9545d"/>
             </div>
         </content>
     </entry>
