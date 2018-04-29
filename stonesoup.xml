@@ -3,12 +3,27 @@
     <title type="text">Stone Soup</title>
     <link href="http://www.gocomics.com/stonesoup" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/stonesoup.xml" rel="self"/>
-    <updated>2018-04-28T10:01:00Z</updated>
+    <updated>2018-04-29T10:01:00Z</updated>
     <author>
         <name>Jan Eliot</name>
     </author>
     <id>http://www.gocomics.com/stonesoup/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Stone Soup - April 29, 2018</title>
+        <link href="http://www.gocomics.com/stonesoup/2018/04/29"/>
+        <id>http://www.gocomics.com/stonesoup/2018/04/29</id>
+        <author>
+            <name>Jan Eliot</name>
+        </author>
+        <published>2018-04-29T10:00:00Z</published>
+        <updated>2018-04-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/fc0608300f010136225b005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Stone Soup - April 22, 2018</title>
         <link href="http://www.gocomics.com/stonesoup/2018/04/22"/>
