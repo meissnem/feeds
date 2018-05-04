@@ -3,12 +3,27 @@
     <title type="text">Doonesbury</title>
     <link href="http://www.gocomics.com/doonesbury" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/doonesbury.xml" rel="self"/>
-    <updated>2018-05-03T10:01:00Z</updated>
+    <updated>2018-05-04T10:01:00Z</updated>
     <author>
         <name>Garry Trudeau</name>
     </author>
     <id>http://www.gocomics.com/doonesbury/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Doonesbury - May  4, 2018</title>
+        <link href="http://www.gocomics.com/doonesbury/2018/05/04"/>
+        <id>http://www.gocomics.com/doonesbury/2018/05/04</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2018-05-04T10:00:00Z</published>
+        <updated>2018-05-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/a5f451f0294201362c54005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - May  3, 2018</title>
         <link href="http://www.gocomics.com/doonesbury/2018/05/03"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d3011910c96c013508b1005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Doonesbury - January  4, 2018</title>
-        <link href="http://www.gocomics.com/doonesbury/2018/01/04"/>
-        <id>http://www.gocomics.com/doonesbury/2018/01/04</id>
-        <author>
-            <name>Garry Trudeau</name>
-        </author>
-        <published>2018-01-04T10:00:00Z</published>
-        <updated>2018-01-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/d0e30590c96c013508b1005056a9545d"/>
             </div>
         </content>
     </entry>
