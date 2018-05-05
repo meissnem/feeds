@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="http://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2018-05-04T10:01:00Z</updated>
+    <updated>2018-05-05T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>http://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - May  5, 2018</title>
+        <link href="http://www.gocomics.com/peanuts/2018/05/05"/>
+        <id>http://www.gocomics.com/peanuts/2018/05/05</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-05-05T10:00:00Z</published>
+        <updated>2018-05-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="http://assets.amuniversal.com/9641c040294101362c53005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - May  4, 2018</title>
         <link href="http://www.gocomics.com/peanuts/2018/05/04"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/1a74f850c0c80135050d005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - January  5, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/01/05"/>
-        <id>http://www.gocomics.com/peanuts/2018/01/05</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-01-05T10:00:00Z</published>
-        <updated>2018-01-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/185adfc0c0c80135050d005056a9545d"/>
             </div>
         </content>
     </entry>
