@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title type="text">Nancy</title>
-    <link href="http://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
+    <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/nancy.xml" rel="self"/>
-    <updated>2018-05-10T10:01:00Z</updated>
+    <updated>2018-05-11T10:01:00Z</updated>
     <author>
         <name>Olivia Jaimes</name>
     </author>
-    <id>http://www.gocomics.com/nancy/</id>
+    <id>https://www.gocomics.com/nancy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Nancy - May 11, 2018</title>
+        <link href="https://www.gocomics.com/nancy/2018/05/11"/>
+        <id>https://www.gocomics.com/nancy/2018/05/11</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2018-05-11T10:00:00Z</published>
+        <updated>2018-05-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/33a9f5402ed201362e6d005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - May 10, 2018</title>
         <link href="http://www.gocomics.com/nancy/2018/05/10"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/a1b6d0e0d20d01350b19005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - January 11, 2018</title>
-        <link href="http://www.gocomics.com/nancy/2018/01/11"/>
-        <id>http://www.gocomics.com/nancy/2018/01/11</id>
-        <author>
-            <name>Guy and Brad Gilchrist</name>
-        </author>
-        <published>2018-01-11T10:00:00Z</published>
-        <updated>2018-01-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/fe9df1a0d20e01350b1b005056a9545d"/>
             </div>
         </content>
     </entry>
