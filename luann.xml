@@ -3,12 +3,27 @@
     <title type="text">Luann</title>
     <link href="https://www.gocomics.com/luann" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/luann.xml" rel="self"/>
-    <updated>2018-05-20T10:01:00Z</updated>
+    <updated>2018-05-21T10:01:00Z</updated>
     <author>
         <name>Greg Evans</name>
     </author>
     <id>https://www.gocomics.com/luann/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Luann - May 21, 2018</title>
+        <link href="https://www.gocomics.com/luann/2018/05/21"/>
+        <id>https://www.gocomics.com/luann/2018/05/21</id>
+        <author>
+            <name>Greg Evans</name>
+        </author>
+        <published>2018-05-21T10:00:00Z</published>
+        <updated>2018-05-21T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/603b56203a8f013632d0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Luann - May 20, 2018</title>
         <link href="https://www.gocomics.com/luann/2018/05/20"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/f3a3cdc0dd1101350f19005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Luann - January 21, 2018</title>
-        <link href="http://www.gocomics.com/luann/2018/01/21"/>
-        <id>http://www.gocomics.com/luann/2018/01/21</id>
-        <author>
-            <name>Greg Evans</name>
-        </author>
-        <published>2018-01-21T10:00:00Z</published>
-        <updated>2018-01-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5edc25b0ceee01350a5b005056a9545d"/>
             </div>
         </content>
     </entry>
