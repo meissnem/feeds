@@ -3,12 +3,132 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2018-06-07T10:01:00Z</updated>
+    <updated>2018-06-15T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - June 15, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/15"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/15</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-15T10:00:00Z</published>
+        <updated>2018-06-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/dcfa93d03f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June 14, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/14"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/14</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-14T10:00:00Z</published>
+        <updated>2018-06-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/db6ceef03f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June 13, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/13"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/13</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-13T10:00:00Z</published>
+        <updated>2018-06-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d9bdb4303f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June 12, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/12"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/12</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-12T10:00:00Z</published>
+        <updated>2018-06-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d837aa603f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June 11, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/11"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/11</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-11T10:00:00Z</published>
+        <updated>2018-06-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d6bbbd303f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June 10, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/10"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/10</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-10T10:00:00Z</published>
+        <updated>2018-06-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/53f05e60300301362efe005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June  9, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/09"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/09</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-09T10:00:00Z</published>
+        <updated>2018-06-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d546d8c03f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - June  8, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/06/08"/>
+        <id>https://www.gocomics.com/peanuts/2018/06/08</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-06-08T10:00:00Z</published>
+        <updated>2018-06-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d3bf9f103f67013634a3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - June  7, 2018</title>
         <link href="https://www.gocomics.com/peanuts/2018/06/07"/>
@@ -1686,126 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/4aee9050e749013512ee005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 15, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/15"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/15</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-15T10:00:00Z</published>
-        <updated>2018-02-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/c41f28e0e74a013512ef005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 14, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/14"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/14</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-14T10:00:00Z</published>
-        <updated>2018-02-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/49882da0e749013512ee005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 13, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/13"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/13</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-13T10:00:00Z</published>
-        <updated>2018-02-13T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b9bf98a0e747013512ed005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 12, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/12"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/12</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-12T10:00:00Z</published>
-        <updated>2018-02-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/480d6300e749013512ee005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 11, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/11"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/11</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-11T10:00:00Z</published>
-        <updated>2018-02-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/6e63c420d3d701350bf8005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February 10, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/10"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/10</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-10T10:00:00Z</published>
-        <updated>2018-02-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/f366e920e28501351138005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February  9, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/09"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/09</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-09T10:00:00Z</published>
-        <updated>2018-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/f1ee66b0e28501351138005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February  8, 2018</title>
-        <link href="http://www.gocomics.com/peanuts/2018/02/08"/>
-        <id>http://www.gocomics.com/peanuts/2018/02/08</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-02-08T10:00:00Z</published>
-        <updated>2018-02-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/f03e6230e28501351138005056a9545d"/>
             </div>
         </content>
     </entry>

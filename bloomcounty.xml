@@ -3,12 +3,117 @@
     <title type="text">Bloom County</title>
     <link href="https://www.gocomics.com/bloomcounty" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloomcounty.xml" rel="self"/>
-    <updated>2018-06-07T10:01:00Z</updated>
+    <updated>2018-06-15T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>https://www.gocomics.com/bloomcounty/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Bloom County - June 15, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/15"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/15</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-15T10:00:00Z</published>
+        <updated>2018-06-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/0c9511f07a120135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June 14, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/14"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/14</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-14T10:00:00Z</published>
+        <updated>2018-06-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/0a3af2707a120135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June 13, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/13"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/13</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-13T10:00:00Z</published>
+        <updated>2018-06-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/07e113c07a120135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June 12, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/12"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/12</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-12T10:00:00Z</published>
+        <updated>2018-06-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/053f0e007a120135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June 11, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/11"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/11</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-11T10:00:00Z</published>
+        <updated>2018-06-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/029fffc07a120135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June  9, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/09"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/09</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-09T10:00:00Z</published>
+        <updated>2018-06-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ff7906e07a110135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Bloom County - June  8, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/06/08"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/06/08</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-06-08T10:00:00Z</published>
+        <updated>2018-06-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/fcf6e5c07a110135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County - June  7, 2018</title>
         <link href="https://www.gocomics.com/bloomcounty/2018/06/07"/>
@@ -1446,111 +1551,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/c24e5e607a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February 15, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/15"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/15</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-15T10:00:00Z</published>
-        <updated>2018-02-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/bfdf8f107a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February 14, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/14"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/14</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-14T10:00:00Z</published>
-        <updated>2018-02-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/bd884b607a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February 13, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/13"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/13</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-13T10:00:00Z</published>
-        <updated>2018-02-13T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/bb0386107a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February 12, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/12"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/12</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-12T10:00:00Z</published>
-        <updated>2018-02-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b8a3c2f07a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February 10, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/10"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/10</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-10T10:00:00Z</published>
-        <updated>2018-02-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b639d8a07a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February  9, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/09"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/09</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-09T10:00:00Z</published>
-        <updated>2018-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b3a9ba907a080135eb40005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - February  8, 2018</title>
-        <link href="http://www.gocomics.com/bloomcounty/2018/02/08"/>
-        <id>http://www.gocomics.com/bloomcounty/2018/02/08</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-02-08T10:00:00Z</published>
-        <updated>2018-02-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/b115d0007a080135eb40005056a9545d"/>
             </div>
         </content>
     </entry>
