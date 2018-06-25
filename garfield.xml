@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2018-06-24T10:01:00Z</updated>
+    <updated>2018-06-25T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - June 25, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/06/25"/>
+        <id>https://www.gocomics.com/garfield/2018/06/25</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-06-25T10:00:00Z</published>
+        <updated>2018-06-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/7976180045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - June 24, 2018</title>
         <link href="https://www.gocomics.com/garfield/2018/06/24"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/e804e360e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - February 25, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/02/25"/>
-        <id>http://www.gocomics.com/garfield/2018/02/25</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-02-25T10:00:00Z</published>
-        <updated>2018-02-25T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/29b6abf0d80601350d5d005056a9545d"/>
             </div>
         </content>
     </entry>
