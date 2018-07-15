@@ -3,12 +3,102 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2018-07-09T10:01:00Z</updated>
+    <updated>2018-07-15T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - July 15, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/15"/>
+        <id>https://www.gocomics.com/garfield/2018/07/15</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-15T10:00:00Z</published>
+        <updated>2018-07-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d5a54850403d01363511005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Garfield - July 14, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/14"/>
+        <id>https://www.gocomics.com/garfield/2018/07/14</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-14T10:00:00Z</published>
+        <updated>2018-07-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/99359b2045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Garfield - July 13, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/13"/>
+        <id>https://www.gocomics.com/garfield/2018/07/13</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-13T10:00:00Z</published>
+        <updated>2018-07-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/9756bd9045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Garfield - July 12, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/12"/>
+        <id>https://www.gocomics.com/garfield/2018/07/12</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-12T10:00:00Z</published>
+        <updated>2018-07-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/95051b2045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Garfield - July 11, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/11"/>
+        <id>https://www.gocomics.com/garfield/2018/07/11</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-11T10:00:00Z</published>
+        <updated>2018-07-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/932dfda045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Garfield - July 10, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/07/10"/>
+        <id>https://www.gocomics.com/garfield/2018/07/10</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-07-10T10:00:00Z</published>
+        <updated>2018-07-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/916276d045be013636e3005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - July  9, 2018</title>
         <link href="https://www.gocomics.com/garfield/2018/07/09"/>
@@ -1716,96 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/d59e0240ee06013515bc005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 17, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/17"/>
-        <id>http://www.gocomics.com/garfield/2018/03/17</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-17T10:00:00Z</published>
-        <updated>2018-03-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/fe0f9500e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 16, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/16"/>
-        <id>http://www.gocomics.com/garfield/2018/03/16</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-16T10:00:00Z</published>
-        <updated>2018-03-16T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/fb2a89c0e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 15, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/15"/>
-        <id>http://www.gocomics.com/garfield/2018/03/15</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-15T10:00:00Z</published>
-        <updated>2018-03-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/eb0ba370e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 14, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/14"/>
-        <id>http://www.gocomics.com/garfield/2018/03/14</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-14T10:00:00Z</published>
-        <updated>2018-03-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/f3e359b0e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 13, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/13"/>
-        <id>http://www.gocomics.com/garfield/2018/03/13</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-13T10:00:00Z</published>
-        <updated>2018-03-13T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/fca21f50e5610135128e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March 12, 2018</title>
-        <link href="http://www.gocomics.com/garfield/2018/03/12"/>
-        <id>http://www.gocomics.com/garfield/2018/03/12</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-03-12T10:00:00Z</published>
-        <updated>2018-03-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/ec7d9b20e5610135128e005056a9545d"/>
             </div>
         </content>
     </entry>

@@ -3,12 +3,102 @@
     <title type="text">JumpStart</title>
     <link href="https://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2018-07-09T10:01:00Z</updated>
+    <updated>2018-07-15T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>https://www.gocomics.com/jumpstart/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">JumpStart - July 15, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/15"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/15</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-15T10:00:00Z</published>
+        <updated>2018-07-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ebc481e04d1b013639ef005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">JumpStart - July 14, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/14"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/14</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-14T10:00:00Z</published>
+        <updated>2018-07-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/3651f0f0610501364119005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">JumpStart - July 13, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/13"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/13</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-13T10:00:00Z</published>
+        <updated>2018-07-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c6239d40610301364118005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">JumpStart - July 12, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/12"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/12</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-12T10:00:00Z</published>
+        <updated>2018-07-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/348fd560610501364119005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">JumpStart - July 11, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/11"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/11</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-11T10:00:00Z</published>
+        <updated>2018-07-11T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c4903fe0610301364118005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">JumpStart - July 10, 2018</title>
+        <link href="https://www.gocomics.com/jumpstart/2018/07/10"/>
+        <id>https://www.gocomics.com/jumpstart/2018/07/10</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2018-07-10T10:00:00Z</published>
+        <updated>2018-07-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/32c8db80610501364119005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - July  9, 2018</title>
         <link href="https://www.gocomics.com/jumpstart/2018/07/09"/>
@@ -1716,96 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/b21c8290f06a013516d4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 17, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/17"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/17</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-17T10:00:00Z</published>
-        <updated>2018-03-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/df9b5e60038301361dd7005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 16, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/16"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/16</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-16T10:00:00Z</published>
-        <updated>2018-03-16T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/de1307f0038301361dd7005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 15, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/15"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/15</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-15T10:00:00Z</published>
-        <updated>2018-03-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/dc7e82d0038301361dd7005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 14, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/14"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/14</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-14T10:00:00Z</published>
-        <updated>2018-03-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5f821ad0038201361dd6005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 13, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/13"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/13</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-13T10:00:00Z</published>
-        <updated>2018-03-13T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/dae43470038301361dd7005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 12, 2018</title>
-        <link href="http://www.gocomics.com/jumpstart/2018/03/12"/>
-        <id>http://www.gocomics.com/jumpstart/2018/03/12</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-03-12T10:00:00Z</published>
-        <updated>2018-03-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/5dc06d10038201361dd6005056a9545d"/>
             </div>
         </content>
     </entry>
