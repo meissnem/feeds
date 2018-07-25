@@ -3,12 +3,27 @@
     <title type="text">For Better or For Worse</title>
     <link href="https://www.gocomics.com/forbetterorforworse" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/forbetterorforworse.xml" rel="self"/>
-    <updated>2018-07-24T10:01:00Z</updated>
+    <updated>2018-07-25T10:01:00Z</updated>
     <author>
         <name>Lynn Johnston</name>
     </author>
     <id>https://www.gocomics.com/forbetterorforworse/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">For Better or For Worse - July 25, 2018</title>
+        <link href="https://www.gocomics.com/forbetterorforworse/2018/07/25"/>
+        <id>https://www.gocomics.com/forbetterorforworse/2018/07/25</id>
+        <author>
+            <name>Lynn Johnston</name>
+        </author>
+        <published>2018-07-25T10:00:00Z</published>
+        <updated>2018-07-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ce87e5f06b5d013644f4005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">For Better or For Worse - July 24, 2018</title>
         <link href="https://www.gocomics.com/forbetterorforworse/2018/07/24"/>
@@ -246,21 +261,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/1e6640406047013640c2005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - July  8, 2018</title>
-        <link href="https://www.gocomics.com/forbetterorforworse/2018/07/08"/>
-        <id>https://www.gocomics.com/forbetterorforworse/2018/07/08</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2018-07-08T10:00:00Z</published>
-        <updated>2018-07-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/8a61a9203fb7013634be005056a9545d"/>
             </div>
         </content>
     </entry>
@@ -636,21 +636,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/93f0afe04a3f01363888005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - June 12, 2018</title>
-        <link href="https://www.gocomics.com/forbetterorforworse/2018/06/12"/>
-        <id>https://www.gocomics.com/forbetterorforworse/2018/06/12</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2018-06-12T10:00:00Z</published>
-        <updated>2018-06-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/924f0bc04a3f01363888005056a9545d"/>
             </div>
         </content>
     </entry>
@@ -1791,21 +1776,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/ef8bfe800dcf013621d2005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - March 27, 2018</title>
-        <link href="http://www.gocomics.com/forbetterorforworse/2018/03/27"/>
-        <id>http://www.gocomics.com/forbetterorforworse/2018/03/27</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2018-03-27T10:00:00Z</published>
-        <updated>2018-03-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7b1aa6000dce013621cf005056a9545d"/>
             </div>
         </content>
     </entry>
