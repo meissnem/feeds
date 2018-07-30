@@ -3,11 +3,26 @@
     <title type="text">Crankshaft</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Crankshaft" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/crankshaft.xml" rel="self"/>
-    <updated>2018-07-29T10:01:00Z</updated>
+    <updated>2018-07-30T10:01:00Z</updated>
     <author>
         <name>Tom Batiuk And Dan Davis</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Crankshaft</id>
+    <entry>
+        <title type="text">Crankshaft - July 30, 2018</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDcvQ3JhbmtzaGFmdC4yMDE4MDczMF8xNDQwLmdpZg=="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDcvQ3JhbmtzaGFmdC4yMDE4MDczMF8xNDQwLmdpZg==</id>
+        <author>
+            <name>Tom Batiuk And Dan Davis</name>
+        </author>
+        <published>2018-07-30T10:00:00Z</published>
+        <updated>2018-07-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDcvQ3JhbmtzaGFmdC4yMDE4MDczMF8xNDQwLmdpZg=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Crankshaft - July 29, 2018</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDcvQ3JhbmtzaGFmdF90cy4yMDE4MDcyOV8xNDQwLmdpZg=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDQvQ3JhbmtzaGFmdC4yMDE4MDQwMl8xNDQwLmdpZg=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Crankshaft - April  1, 2018</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDQvQ3JhbmtzaGFmdF90cy4yMDE4MDQwMV8xNDQwLmdpZg=="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDQvQ3JhbmtzaGFmdF90cy4yMDE4MDQwMV8xNDQwLmdpZg==</id>
-        <author>
-            <name>Tom Batiuk And Dan Davis</name>
-        </author>
-        <published>2018-04-01T10:00:00Z</published>
-        <updated>2018-04-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DcmFua3NoYWZ0LzIwMTgvMDQvQ3JhbmtzaGFmdF90cy4yMDE4MDQwMV8xNDQwLmdpZg=="/>
             </div>
         </content>
     </entry>
