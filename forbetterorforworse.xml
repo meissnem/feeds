@@ -3,12 +3,27 @@
     <title type="text">For Better or For Worse</title>
     <link href="https://www.gocomics.com/forbetterorforworse" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/forbetterorforworse.xml" rel="self"/>
-    <updated>2018-08-24T10:01:00Z</updated>
+    <updated>2018-08-25T10:01:00Z</updated>
     <author>
         <name>Lynn Johnston</name>
     </author>
     <id>https://www.gocomics.com/forbetterorforworse/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">For Better or For Worse - August 25, 2018</title>
+        <link href="https://www.gocomics.com/forbetterorforworse/2018/08/25"/>
+        <id>https://www.gocomics.com/forbetterorforworse/2018/08/25</id>
+        <author>
+            <name>Lynn Johnston</name>
+        </author>
+        <published>2018-08-25T10:00:00Z</published>
+        <updated>2018-08-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/56743f40820501364d40005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">For Better or For Worse - August 24, 2018</title>
         <link href="https://www.gocomics.com/forbetterorforworse/2018/08/24"/>
@@ -910,21 +925,6 @@
         </content>
     </entry>
     <entry>
-        <title type="text">For Better or For Worse - June 25, 2018</title>
-        <link href="https://www.gocomics.com/forbetterorforworse/2018/06/25"/>
-        <id>https://www.gocomics.com/forbetterorforworse/2018/06/25</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2018-06-25T10:00:00Z</published>
-        <updated>2018-06-25T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/34899660554801363c91005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
         <title type="text">For Better or For Worse - June 24, 2018</title>
         <link href="https://www.gocomics.com/forbetterorforworse/2018/06/24"/>
         <id>https://www.gocomics.com/forbetterorforworse/2018/06/24</id>
@@ -1791,21 +1791,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="http://assets.amuniversal.com/7f7fe9e0248701362aa9005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">For Better or For Worse - April 27, 2018</title>
-        <link href="http://www.gocomics.com/forbetterorforworse/2018/04/27"/>
-        <id>http://www.gocomics.com/forbetterorforworse/2018/04/27</id>
-        <author>
-            <name>Lynn Johnston</name>
-        </author>
-        <published>2018-04-27T10:00:00Z</published>
-        <updated>2018-04-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="http://assets.amuniversal.com/7df48ae0248701362aa9005056a9545d"/>
             </div>
         </content>
     </entry>
