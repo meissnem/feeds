@@ -3,11 +3,26 @@
     <title type="text">Hagar The Horrible</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Hagar_The_Horrible" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/hagar_the_horrible.xml" rel="self"/>
-    <updated>2018-10-07T10:01:00Z</updated>
+    <updated>2018-10-08T10:01:00Z</updated>
     <author>
         <name>Chris Browne</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Hagar_The_Horrible</id>
+    <entry>
+        <title type="text">Hagar The Horrible - October  8, 2018</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMTAvSGFnYXJfVGhlX0hvcnJpYmxlLjIwMTgxMDA4XzE0NDAuZ2lm"/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMTAvSGFnYXJfVGhlX0hvcnJpYmxlLjIwMTgxMDA4XzE0NDAuZ2lm</id>
+        <author>
+            <name>Chris Browne</name>
+        </author>
+        <published>2018-10-08T10:00:00Z</published>
+        <updated>2018-10-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMTAvSGFnYXJfVGhlX0hvcnJpYmxlLjIwMTgxMDA4XzE0NDAuZ2lm"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Hagar The Horrible - October  7, 2018</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMTAvSGFnYXJfVGhlX0hvcnJpYmxlX2hzLjIwMTgxMDA3XzE0NDAuZ2lm"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMDYvSGFnYXJfVGhlX0hvcnJpYmxlLjIwMTgwNjExXzE0NDAuZ2lm"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Hagar The Horrible - June 10, 2018</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMDYvSGFnYXJfVGhlX0hvcnJpYmxlX2hzLjIwMTgwNjEwXzE0NDAuZ2lm"/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMDYvSGFnYXJfVGhlX0hvcnJpYmxlX2hzLjIwMTgwNjEwXzE0NDAuZ2lm</id>
-        <author>
-            <name>Chris Browne</name>
-        </author>
-        <published>2018-06-10T10:00:00Z</published>
-        <updated>2018-06-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMDYvSGFnYXJfVGhlX0hvcnJpYmxlX2hzLjIwMTgwNjEwXzE0NDAuZ2lm"/>
             </div>
         </content>
     </entry>
