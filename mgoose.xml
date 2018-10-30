@@ -3,11 +3,26 @@
     <title type="text">Mother Goose and Grimm</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Mgoose" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/mgoose.xml" rel="self"/>
-    <updated>2018-10-29T10:01:00Z</updated>
+    <updated>2018-10-30T10:01:00Z</updated>
     <author>
         <name>Mike Peters</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Mgoose</id>
+    <entry>
+        <title type="text">Mother Goose and Grimm - October 30, 2018</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMTAvTWdvb3NlLjIwMTgxMDMwXzE0NDAuZ2lm"/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMTAvTWdvb3NlLjIwMTgxMDMwXzE0NDAuZ2lm</id>
+        <author>
+            <name>Mike Peters</name>
+        </author>
+        <published>2018-10-30T10:00:00Z</published>
+        <updated>2018-10-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMTAvTWdvb3NlLjIwMTgxMDMwXzE0NDAuZ2lm"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Mother Goose and Grimm - October 29, 2018</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMTAvTWdvb3NlLjIwMTgxMDI5XzE0NDAuZ2lm"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMDcvTWdvb3NlLjIwMTgwNzAzXzE0NDAuZ2lm"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Mother Goose and Grimm - July  2, 2018</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMDcvTWdvb3NlLjIwMTgwNzAyXzE0NDAuZ2lm"/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMDcvTWdvb3NlLjIwMTgwNzAyXzE0NDAuZ2lm</id>
-        <author>
-            <name>Mike Peters</name>
-        </author>
-        <published>2018-07-02T10:00:00Z</published>
-        <updated>2018-07-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9Nb3RoZXJHb29zZUdyaW1tLzIwMTgvMDcvTWdvb3NlLjIwMTgwNzAyXzE0NDAuZ2lm"/>
             </div>
         </content>
     </entry>
