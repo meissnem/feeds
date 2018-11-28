@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2018-11-27T10:01:00Z</updated>
+    <updated>2018-11-28T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - November 28, 2018</title>
+        <link href="https://www.gocomics.com/pickles/2018/11/28"/>
+        <id>https://www.gocomics.com/pickles/2018/11/28</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2018-11-28T10:00:00Z</published>
+        <updated>2018-11-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/38af9e90c51e013665f0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - November 27, 2018</title>
         <link href="https://www.gocomics.com/pickles/2018/11/27"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/b7dbd3f0683a013643f9005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - July 31, 2018</title>
-        <link href="https://www.gocomics.com/pickles/2018/07/31"/>
-        <id>https://www.gocomics.com/pickles/2018/07/31</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2018-07-31T10:00:00Z</published>
-        <updated>2018-07-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/bd9f1b70683a013643f9005056a9545d"/>
             </div>
         </content>
     </entry>
