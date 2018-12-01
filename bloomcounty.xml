@@ -3,12 +3,27 @@
     <title type="text">Bloom County</title>
     <link href="https://www.gocomics.com/bloomcounty" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloomcounty.xml" rel="self"/>
-    <updated>2018-11-30T10:01:00Z</updated>
+    <updated>2018-12-01T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>https://www.gocomics.com/bloomcounty/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Bloom County - December  1, 2018</title>
+        <link href="https://www.gocomics.com/bloomcounty/2018/12/01"/>
+        <id>https://www.gocomics.com/bloomcounty/2018/12/01</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-12-01T10:00:00Z</published>
+        <updated>2018-12-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/5ea5f0c07a140135eb43005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County - November 30, 2018</title>
         <link href="https://www.gocomics.com/bloomcounty/2018/11/30"/>
@@ -1536,21 +1551,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/84cacb307a120135eb43005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - August  3, 2018</title>
-        <link href="https://www.gocomics.com/bloomcounty/2018/08/03"/>
-        <id>https://www.gocomics.com/bloomcounty/2018/08/03</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-08-03T10:00:00Z</published>
-        <updated>2018-08-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/826f19507a120135eb43005056a9545d"/>
             </div>
         </content>
     </entry>
