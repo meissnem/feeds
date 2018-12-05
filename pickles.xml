@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2018-12-04T10:01:00Z</updated>
+    <updated>2018-12-05T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - December  5, 2018</title>
+        <link href="https://www.gocomics.com/pickles/2018/12/05"/>
+        <id>https://www.gocomics.com/pickles/2018/12/05</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2018-12-05T10:00:00Z</published>
+        <updated>2018-12-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/58892390ca9e01366813005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - December  4, 2018</title>
         <link href="https://www.gocomics.com/pickles/2018/12/04"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/59cc82d06d9901364603005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - August  7, 2018</title>
-        <link href="https://www.gocomics.com/pickles/2018/08/07"/>
-        <id>https://www.gocomics.com/pickles/2018/08/07</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2018-08-07T10:00:00Z</published>
-        <updated>2018-08-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/63ddae706d9901364603005056a9545d"/>
             </div>
         </content>
     </entry>
