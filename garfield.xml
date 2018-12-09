@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2018-12-08T10:01:00Z</updated>
+    <updated>2018-12-09T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - December  9, 2018</title>
+        <link href="https://www.gocomics.com/garfield/2018/12/09"/>
+        <id>https://www.gocomics.com/garfield/2018/12/09</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2018-12-09T10:00:00Z</published>
+        <updated>2018-12-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/91ec05f0ba90013661e0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - December  8, 2018</title>
         <link href="https://www.gocomics.com/garfield/2018/12/08"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/c459aa605bbe01363f11005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - August 11, 2018</title>
-        <link href="https://www.gocomics.com/garfield/2018/08/11"/>
-        <id>https://www.gocomics.com/garfield/2018/08/11</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-08-11T10:00:00Z</published>
-        <updated>2018-08-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/02af75d06bb90136451d005056a9545d"/>
             </div>
         </content>
     </entry>
