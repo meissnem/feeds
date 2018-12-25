@@ -3,12 +3,27 @@
     <title type="text">Bloom County 2018</title>
     <link href="https://www.gocomics.com/bloom-county" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloom-county.xml" rel="self"/>
-    <updated>2018-12-22T10:01:00Z</updated>
+    <updated>2018-12-25T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>https://www.gocomics.com/bloom-county/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Bloom County 2018 - December 25, 2018</title>
+        <link href="https://www.gocomics.com/bloom-county/2018/12/25"/>
+        <id>https://www.gocomics.com/bloom-county/2018/12/25</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2018-12-25T10:00:00Z</published>
+        <updated>2018-12-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/17c9c200e53c0136718a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County 2018 - December 22, 2018</title>
         <link href="https://www.gocomics.com/bloom-county/2018/12/22"/>
