@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2018-12-29T10:01:00Z</updated>
+    <updated>2018-12-30T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - December 30, 2018</title>
+        <link href="https://www.gocomics.com/peanuts/2018/12/30"/>
+        <id>https://www.gocomics.com/peanuts/2018/12/30</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2018-12-30T10:00:00Z</published>
+        <updated>2018-12-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/8a560470ba99013661e0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - December 29, 2018</title>
         <link href="https://www.gocomics.com/peanuts/2018/12/29"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/a6244bf071c40136475f005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - September  1, 2018</title>
-        <link href="https://www.gocomics.com/peanuts/2018/09/01"/>
-        <id>https://www.gocomics.com/peanuts/2018/09/01</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2018-09-01T10:00:00Z</published>
-        <updated>2018-09-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/23cd957070c9013646e4005056a9545d"/>
             </div>
         </content>
     </entry>
