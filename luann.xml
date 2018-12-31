@@ -3,12 +3,27 @@
     <title type="text">Luann</title>
     <link href="https://www.gocomics.com/luann" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/luann.xml" rel="self"/>
-    <updated>2018-12-30T10:01:00Z</updated>
+    <updated>2018-12-31T10:01:00Z</updated>
     <author>
         <name>Greg Evans</name>
     </author>
     <id>https://www.gocomics.com/luann/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Luann - December 31, 2018</title>
+        <link href="https://www.gocomics.com/luann/2018/12/31"/>
+        <id>https://www.gocomics.com/luann/2018/12/31</id>
+        <author>
+            <name>Greg Evans</name>
+        </author>
+        <published>2018-12-31T10:00:00Z</published>
+        <updated>2018-12-31T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/46c76de0eb5501367353005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Luann - December 30, 2018</title>
         <link href="https://www.gocomics.com/luann/2018/12/30"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/7abb9b608d0a01365150005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Luann - September  2, 2018</title>
-        <link href="https://www.gocomics.com/luann/2018/09/02"/>
-        <id>https://www.gocomics.com/luann/2018/09/02</id>
-        <author>
-            <name>Greg Evans</name>
-        </author>
-        <published>2018-09-02T10:00:00Z</published>
-        <updated>2018-09-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/652360b0614301364153005056a9545d"/>
             </div>
         </content>
     </entry>
