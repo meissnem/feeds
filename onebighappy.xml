@@ -3,12 +3,27 @@
     <title type="text">One Big Happy</title>
     <link href="https://www.gocomics.com/onebighappy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/onebighappy.xml" rel="self"/>
-    <updated>2018-12-31T10:01:00Z</updated>
+    <updated>2019-01-01T10:01:00Z</updated>
     <author>
         <name>Rick Detorie</name>
     </author>
     <id>https://www.gocomics.com/onebighappy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">One Big Happy - January  1, 2019</title>
+        <link href="https://www.gocomics.com/onebighappy/2019/01/01"/>
+        <id>https://www.gocomics.com/onebighappy/2019/01/01</id>
+        <author>
+            <name>Rick Detorie</name>
+        </author>
+        <published>2019-01-01T10:00:00Z</published>
+        <updated>2019-01-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2c6059605e21012ee3bf00163e41dd5b"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">One Big Happy - December 31, 2018</title>
         <link href="https://www.gocomics.com/onebighappy/2018/12/31"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/114167a05e26012ee3bf00163e41dd5b"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">One Big Happy - September  3, 2018</title>
-        <link href="https://www.gocomics.com/onebighappy/2018/09/03"/>
-        <id>https://www.gocomics.com/onebighappy/2018/09/03</id>
-        <author>
-            <name>Rick Detorie</name>
-        </author>
-        <published>2018-09-03T10:00:00Z</published>
-        <updated>2018-09-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/0f9451305cfb012ee3bd00163e41dd5b"/>
             </div>
         </content>
     </entry>
