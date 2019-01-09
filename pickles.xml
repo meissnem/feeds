@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2019-01-08T10:01:00Z</updated>
+    <updated>2019-01-09T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - January  9, 2019</title>
+        <link href="https://www.gocomics.com/pickles/2019/01/09"/>
+        <id>https://www.gocomics.com/pickles/2019/01/09</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2019-01-09T10:00:00Z</published>
+        <updated>2019-01-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ad0deda0e5fd013671e6005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - January  8, 2019</title>
         <link href="https://www.gocomics.com/pickles/2019/01/08"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/0ad63230889401364fce005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - September 11, 2018</title>
-        <link href="https://www.gocomics.com/pickles/2018/09/11"/>
-        <id>https://www.gocomics.com/pickles/2018/09/11</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2018-09-11T10:00:00Z</published>
-        <updated>2018-09-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/190c1ee0889401364fce005056a9545d"/>
             </div>
         </content>
     </entry>
