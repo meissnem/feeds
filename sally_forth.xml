@@ -3,11 +3,26 @@
     <title type="text">Sally Forth</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Sally_Forth" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/sally_forth.xml" rel="self"/>
-    <updated>2019-01-24T10:01:00Z</updated>
+    <updated>2019-01-25T10:01:00Z</updated>
     <author>
         <name>Francesco Marciuliano; Drawn By Jim Keefe</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Sally_Forth</id>
+    <entry>
+        <title type="text">Sally Forth - January 25, 2019</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTkvMDEvU2FsbHlfRm9ydGguMjAxOTAxMjVfMTQ0MC5naWY="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTkvMDEvU2FsbHlfRm9ydGguMjAxOTAxMjVfMTQ0MC5naWY=</id>
+        <author>
+            <name>Francesco Marciuliano; Drawn By Jim Keefe</name>
+        </author>
+        <published>2019-01-25T10:00:00Z</published>
+        <updated>2019-01-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTkvMDEvU2FsbHlfRm9ydGguMjAxOTAxMjVfMTQ0MC5naWY="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Sally Forth - January 24, 2019</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTkvMDEvU2FsbHlfRm9ydGguMjAxOTAxMjRfMTQ0MC5naWY="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTgvMDkvU2FsbHlfRm9ydGguMjAxODA5MjhfMTQ0MC5naWY="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Sally Forth - September 27, 2018</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTgvMDkvU2FsbHlfRm9ydGguMjAxODA5MjdfMTQ0MC5naWY="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTgvMDkvU2FsbHlfRm9ydGguMjAxODA5MjdfMTQ0MC5naWY=</id>
-        <author>
-            <name>Francesco Marciuliano; Drawn By Jim Keefe</name>
-        </author>
-        <published>2018-09-27T10:00:00Z</published>
-        <updated>2018-09-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTgvMDkvU2FsbHlfRm9ydGguMjAxODA5MjdfMTQ0MC5naWY="/>
             </div>
         </content>
     </entry>
