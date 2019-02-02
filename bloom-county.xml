@@ -3,12 +3,27 @@
     <title type="text">Bloom County 2018</title>
     <link href="https://www.gocomics.com/bloom-county" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloom-county.xml" rel="self"/>
-    <updated>2019-01-28T10:01:00Z</updated>
+    <updated>2019-02-02T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
     <id>https://www.gocomics.com/bloom-county/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Bloom County 2018 - February  2, 2019</title>
+        <link href="https://www.gocomics.com/bloom-county/2019/02/02"/>
+        <id>https://www.gocomics.com/bloom-county/2019/02/02</id>
+        <author>
+            <name>Berkeley Breathed</name>
+        </author>
+        <published>2019-02-02T10:00:00Z</published>
+        <updated>2019-02-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/4dd33e20053901377c9f005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Bloom County 2018 - January 28, 2019</title>
         <link href="https://www.gocomics.com/bloom-county/2019/01/28"/>
@@ -576,36 +591,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/9a723a00b60f01366053005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County 2018 - October  4, 2018</title>
-        <link href="https://www.gocomics.com/bloom-county/2018/10/04"/>
-        <id>https://www.gocomics.com/bloom-county/2018/10/04</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-10-04T10:00:00Z</published>
-        <updated>2018-10-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/99625450b60f01366053005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County 2018 - October  3, 2018</title>
-        <link href="https://www.gocomics.com/bloom-county/2018/10/03"/>
-        <id>https://www.gocomics.com/bloom-county/2018/10/03</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2018-10-03T10:00:00Z</published>
-        <updated>2018-10-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/65ca6b70a56901365a3d005056a9545d"/>
             </div>
         </content>
     </entry>
