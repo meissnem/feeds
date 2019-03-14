@@ -3,12 +3,27 @@
     <title type="text">Heart of the City</title>
     <link href="https://www.gocomics.com/heartofthecity" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/heartofthecity.xml" rel="self"/>
-    <updated>2019-03-13T10:01:00Z</updated>
+    <updated>2019-03-14T10:01:00Z</updated>
     <author>
         <name>Mark Tatulli</name>
     </author>
     <id>https://www.gocomics.com/heartofthecity/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Heart of the City - March 14, 2019</title>
+        <link href="https://www.gocomics.com/heartofthecity/2019/03/14"/>
+        <id>https://www.gocomics.com/heartofthecity/2019/03/14</id>
+        <author>
+            <name>Mark Tatulli</name>
+        </author>
+        <published>2019-03-14T10:00:00Z</published>
+        <updated>2019-03-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/edafff801ea70137867f005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Heart of the City - March 13, 2019</title>
         <link href="https://www.gocomics.com/heartofthecity/2019/03/13"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/e70da4d0c1a2013664a4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Heart of the City - November 14, 2018</title>
-        <link href="https://www.gocomics.com/heartofthecity/2018/11/14"/>
-        <id>https://www.gocomics.com/heartofthecity/2018/11/14</id>
-        <author>
-            <name>Mark Tatulli</name>
-        </author>
-        <published>2018-11-14T10:00:00Z</published>
-        <updated>2018-11-14T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/e56cc510c1a2013664a4005056a9545d"/>
             </div>
         </content>
     </entry>
