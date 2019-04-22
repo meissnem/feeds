@@ -3,12 +3,27 @@
     <title type="text">JumpStart</title>
     <link href="https://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2019-04-21T10:01:00Z</updated>
+    <updated>2019-04-22T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>https://www.gocomics.com/jumpstart/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">JumpStart - April 22, 2019</title>
+        <link href="https://www.gocomics.com/jumpstart/2019/04/22"/>
+        <id>https://www.gocomics.com/jumpstart/2019/04/22</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2019-04-22T10:00:00Z</published>
+        <updated>2019-04-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/4d760190429601379371005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - April 21, 2019</title>
         <link href="https://www.gocomics.com/jumpstart/2019/04/21"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/e2ab8180e5140136716b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - December 23, 2018</title>
-        <link href="https://www.gocomics.com/jumpstart/2018/12/23"/>
-        <id>https://www.gocomics.com/jumpstart/2018/12/23</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2018-12-23T10:00:00Z</published>
-        <updated>2018-12-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/03802050ce8b01366975005056a9545d"/>
             </div>
         </content>
     </entry>
