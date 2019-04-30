@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2019-04-29T10:01:00Z</updated>
+    <updated>2019-04-30T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - April 30, 2019</title>
+        <link href="https://www.gocomics.com/garfield/2019/04/30"/>
+        <id>https://www.gocomics.com/garfield/2019/04/30</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2019-04-30T10:00:00Z</published>
+        <updated>2019-04-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/07882c2037c501378f83005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - April 29, 2019</title>
         <link href="https://www.gocomics.com/garfield/2019/04/29"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/7a809a50eada0136733a005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - December 31, 2018</title>
-        <link href="https://www.gocomics.com/garfield/2018/12/31"/>
-        <id>https://www.gocomics.com/garfield/2018/12/31</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2018-12-31T10:00:00Z</published>
-        <updated>2018-12-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/4efa5570e2ac013670cd005056a9545d"/>
             </div>
         </content>
     </entry>
