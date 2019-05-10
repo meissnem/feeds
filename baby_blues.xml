@@ -3,11 +3,26 @@
     <title type="text">Baby Blues</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/baby_blues.xml" rel="self"/>
-    <updated>2019-05-09T10:01:00Z</updated>
+    <updated>2019-05-10T10:01:00Z</updated>
     <author>
         <name>Rick Kirkman And Jerry Scott</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues</id>
+    <entry>
+        <title type="text">Baby Blues - May 10, 2019</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wNS9CYWJ5X0JsdWVzLjIwMTkwNTEwXzE0NDAuZ2lm"/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wNS9CYWJ5X0JsdWVzLjIwMTkwNTEwXzE0NDAuZ2lm</id>
+        <author>
+            <name>Rick Kirkman And Jerry Scott</name>
+        </author>
+        <published>2019-05-10T10:00:00Z</published>
+        <updated>2019-05-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wNS9CYWJ5X0JsdWVzLjIwMTkwNTEwXzE0NDAuZ2lm"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Baby Blues - May  9, 2019</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wNS9CYWJ5X0JsdWVzLjIwMTkwNTA5XzE0NDAuZ2lm"/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMS9CYWJ5X0JsdWVzLjIwMTkwMTExXzE0NDAuZ2lm"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Baby Blues - January 10, 2019</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMS9CYWJ5X0JsdWVzLjIwMTkwMTEwXzE0NDAuZ2lm"/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMS9CYWJ5X0JsdWVzLjIwMTkwMTEwXzE0NDAuZ2lm</id>
-        <author>
-            <name>Rick Kirkman And Jerry Scott</name>
-        </author>
-        <published>2019-01-10T10:00:00Z</published>
-        <updated>2019-01-10T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMS9CYWJ5X0JsdWVzLjIwMTkwMTEwXzE0NDAuZ2lm"/>
             </div>
         </content>
     </entry>
