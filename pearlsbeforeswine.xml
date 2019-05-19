@@ -3,12 +3,27 @@
     <title type="text">Pearls Before Swine</title>
     <link href="https://www.gocomics.com/pearlsbeforeswine" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pearlsbeforeswine.xml" rel="self"/>
-    <updated>2019-05-18T10:01:00Z</updated>
+    <updated>2019-05-19T10:01:00Z</updated>
     <author>
         <name>Stephan Pastis</name>
     </author>
     <id>https://www.gocomics.com/pearlsbeforeswine/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pearls Before Swine - May 19, 2019</title>
+        <link href="https://www.gocomics.com/pearlsbeforeswine/2019/05/19"/>
+        <id>https://www.gocomics.com/pearlsbeforeswine/2019/05/19</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2019-05-19T10:00:00Z</published>
+        <updated>2019-05-19T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/eaae2c503e16013791e7005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pearls Before Swine - May 18, 2019</title>
         <link href="https://www.gocomics.com/pearlsbeforeswine/2019/05/18"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/571405b0ea5201367328005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January 19, 2019</title>
-        <link href="https://www.gocomics.com/pearlsbeforeswine/2019/01/19"/>
-        <id>https://www.gocomics.com/pearlsbeforeswine/2019/01/19</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2019-01-19T10:00:00Z</published>
-        <updated>2019-01-19T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/40b79450f596013676d7005056a9545d"/>
             </div>
         </content>
     </entry>
