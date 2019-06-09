@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2019-06-08T10:01:00Z</updated>
+    <updated>2019-06-09T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - June  9, 2019</title>
+        <link href="https://www.gocomics.com/garfield/2019/06/09"/>
+        <id>https://www.gocomics.com/garfield/2019/06/09</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2019-06-09T10:00:00Z</published>
+        <updated>2019-06-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/35f5e2603d8801379197005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - June  8, 2019</title>
         <link href="https://www.gocomics.com/garfield/2019/06/08"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/9f73c2a0ebe6013673a9005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - February  9, 2019</title>
-        <link href="https://www.gocomics.com/garfield/2019/02/09"/>
-        <id>https://www.gocomics.com/garfield/2019/02/09</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2019-02-09T10:00:00Z</published>
-        <updated>2019-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/5844c980f545013676bf005056a9545d"/>
             </div>
         </content>
     </entry>
