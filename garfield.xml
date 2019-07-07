@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2019-07-06T10:01:00Z</updated>
+    <updated>2019-07-07T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - July  7, 2019</title>
+        <link href="https://www.gocomics.com/garfield/2019/07/07"/>
+        <id>https://www.gocomics.com/garfield/2019/07/07</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2019-07-07T10:00:00Z</published>
+        <updated>2019-07-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/aa3e88805f5201379db2005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - July  6, 2019</title>
         <link href="https://www.gocomics.com/garfield/2019/07/06"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/66bc4cb0fac5013678e4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - March  9, 2019</title>
-        <link href="https://www.gocomics.com/garfield/2019/03/09"/>
-        <id>https://www.gocomics.com/garfield/2019/03/09</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2019-03-09T10:00:00Z</published>
-        <updated>2019-03-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/fdfc20400b0201377ee8005056a9545d"/>
             </div>
         </content>
     </entry>
