@@ -3,7 +3,7 @@
     <title type="text">Nancy</title>
     <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/nancy.xml" rel="self"/>
-    <updated>2019-07-08T10:01:00Z</updated>
+    <updated>2019-07-09T10:01:00Z</updated>
     <author>
         <name>Olivia Jaimes</name>
     </author>
@@ -1791,21 +1791,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/6d59e53020e701378704005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - March 11, 2019</title>
-        <link href="https://www.gocomics.com/nancy/2019/03/11"/>
-        <id>https://www.gocomics.com/nancy/2019/03/11</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2019-03-11T10:00:00Z</published>
-        <updated>2019-03-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/6bc7e8f020e701378704005056a9545d"/>
             </div>
         </content>
     </entry>
