@@ -3,12 +3,27 @@
     <title type="text">JumpStart</title>
     <link href="https://www.gocomics.com/jumpstart" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/jumpstart.xml" rel="self"/>
-    <updated>2019-07-23T10:01:00Z</updated>
+    <updated>2019-07-24T10:01:00Z</updated>
     <author>
         <name>Robb Armstrong</name>
     </author>
     <id>https://www.gocomics.com/jumpstart/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">JumpStart - July 24, 2019</title>
+        <link href="https://www.gocomics.com/jumpstart/2019/07/24"/>
+        <id>https://www.gocomics.com/jumpstart/2019/07/24</id>
+        <author>
+            <name>Robb Armstrong</name>
+        </author>
+        <published>2019-07-24T10:00:00Z</published>
+        <updated>2019-07-24T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/279633a0894d0137ac45005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">JumpStart - July 23, 2019</title>
         <link href="https://www.gocomics.com/jumpstart/2019/07/23"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/e3eae6702c9401378b46005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">JumpStart - March 26, 2019</title>
-        <link href="https://www.gocomics.com/jumpstart/2019/03/26"/>
-        <id>https://www.gocomics.com/jumpstart/2019/03/26</id>
-        <author>
-            <name>Robb Armstrong</name>
-        </author>
-        <published>2019-03-26T10:00:00Z</published>
-        <updated>2019-03-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/5ee639302c9601378b47005056a9545d"/>
             </div>
         </content>
     </entry>
