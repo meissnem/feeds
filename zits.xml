@@ -3,11 +3,26 @@
     <title type="text">Zits</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Zits" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/zits.xml" rel="self"/>
-    <updated>2019-07-31T10:01:00Z</updated>
+    <updated>2019-08-01T10:01:00Z</updated>
     <author>
         <name>Jerry Scott and Jim Borgman</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Zits</id>
+    <entry>
+        <title type="text">Zits - August  1, 2019</title>
+        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDgvWml0cy4yMDE5MDgwMV8xNDQwLmdpZg=="/>
+        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDgvWml0cy4yMDE5MDgwMV8xNDQwLmdpZg==</id>
+        <author>
+            <name>Jerry Scott and Jim Borgman</name>
+        </author>
+        <published>2019-08-01T10:00:00Z</published>
+        <updated>2019-08-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDgvWml0cy4yMDE5MDgwMV8xNDQwLmdpZg=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Zits - July 31, 2019</title>
         <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDcvWml0cy4yMDE5MDczMV8xNDQwLmdpZg=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDQvWml0cy4yMDE5MDQwNF8xNDQwLmdpZg=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - April  3, 2019</title>
-        <link href="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDQvWml0cy4yMDE5MDQwM18xNDQwLmdpZg=="/>
-        <id>http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDQvWml0cy4yMDE5MDQwM18xNDQwLmdpZg==</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2019-04-03T10:00:00Z</published>
-        <updated>2019-04-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTkvMDQvWml0cy4yMDE5MDQwM18xNDQwLmdpZg=="/>
             </div>
         </content>
     </entry>
