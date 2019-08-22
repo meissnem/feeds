@@ -3,12 +3,27 @@
     <title type="text">Garfield</title>
     <link href="https://www.gocomics.com/garfield" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/garfield.xml" rel="self"/>
-    <updated>2019-08-21T10:01:00Z</updated>
+    <updated>2019-08-22T10:01:00Z</updated>
     <author>
         <name>Jim Davis</name>
     </author>
     <id>https://www.gocomics.com/garfield/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Garfield - August 22, 2019</title>
+        <link href="https://www.gocomics.com/garfield/2019/08/22"/>
+        <id>https://www.gocomics.com/garfield/2019/08/22</id>
+        <author>
+            <name>Jim Davis</name>
+        </author>
+        <published>2019-08-22T10:00:00Z</published>
+        <updated>2019-08-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/5b5c43a08f410137ae9d005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Garfield - August 21, 2019</title>
         <link href="https://www.gocomics.com/garfield/2019/08/21"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/002c0a9037c501378f83005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Garfield - April 24, 2019</title>
-        <link href="https://www.gocomics.com/garfield/2019/04/24"/>
-        <id>https://www.gocomics.com/garfield/2019/04/24</id>
-        <author>
-            <name>Jim Davis</name>
-        </author>
-        <published>2019-04-24T10:00:00Z</published>
-        <updated>2019-04-24T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/fe56d37037c401378f83005056a9545d"/>
             </div>
         </content>
     </entry>
