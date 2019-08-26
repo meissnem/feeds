@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2019-08-25T10:01:00Z</updated>
+    <updated>2019-08-26T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - August 26, 2019</title>
+        <link href="https://www.gocomics.com/pickles/2019/08/26"/>
+        <id>https://www.gocomics.com/pickles/2019/08/26</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2019-08-26T10:00:00Z</published>
+        <updated>2019-08-26T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/7e09e9f09b7a0137b346005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - August 25, 2019</title>
         <link href="https://www.gocomics.com/pickles/2019/08/25"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/179cbe903f8a0137928b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - April 28, 2019</title>
-        <link href="https://www.gocomics.com/pickles/2019/04/28"/>
-        <id>https://www.gocomics.com/pickles/2019/04/28</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2019-04-28T10:00:00Z</published>
-        <updated>2019-04-28T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/07c53d602e6201378c34005056a9545d"/>
             </div>
         </content>
     </entry>
