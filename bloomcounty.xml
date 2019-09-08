@@ -3,7 +3,7 @@
     <title type="text">Bloom County</title>
     <link href="https://www.gocomics.com/bloomcounty" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/bloomcounty.xml" rel="self"/>
-    <updated>2019-09-07T10:01:00Z</updated>
+    <updated>2019-09-08T10:01:00Z</updated>
     <author>
         <name>Berkeley Breathed</name>
     </author>
@@ -1536,21 +1536,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/92869f007a180135eb43005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Bloom County - May 11, 2019</title>
-        <link href="https://www.gocomics.com/bloomcounty/2019/05/11"/>
-        <id>https://www.gocomics.com/bloomcounty/2019/05/11</id>
-        <author>
-            <name>Berkeley Breathed</name>
-        </author>
-        <published>2019-05-11T10:00:00Z</published>
-        <updated>2019-05-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/8eea3ef07a180135eb43005056a9545d"/>
             </div>
         </content>
     </entry>
