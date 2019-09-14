@@ -5,6 +5,21 @@
     "description": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
     "items": [
         {
+            "id": "https://apod.nasa.gov/apod/ap190914.html",
+            "url": "https://apod.nasa.gov/apod/ap190914.html",
+            "title": "Little Planet to Exoplanets",
+            "content_html": "<figure><a href=\"image/1909/2019_07_04_SPECULOOS_Pano_24mm_LP_viz.jpg\"> <img alt=\"See Explanation. Clicking on the picture will download the highest resolution version available.\" src=\"image/1909/2019_07_04_SPECULOOS_Pano_24mm_LP_viz1024.jpg\" style=\"max-width:100%\"></a> <figcaption><p><b>Image Credit &amp; <a href=\"lib/about_apod.html#srapply\">Copyright</a>: </b> <a href=\"http://www.astronom.cz/horalek/?page_id=20\">Petr Hor\u00e1lek</a> / <a href=\"https://www.eso.org/public/\">ESO</a> </p></figcaption></figure><p> </p><footer class=\"footnote\"> <hr><b> Authors &amp; editors: </b> <a href=\"http://www.phy.mtu.edu/faculty/Nemiroff.html\">Robert Nemiroff</a> (<a href=\"http://www.phy.mtu.edu/\">MTU</a>) &amp; <a href=\"https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html\">Jerry Bonnell</a> (<a href=\"http://www.astro.umd.edu/\">UMCP</a>)<br> <b>NASA Official: </b> Phillip Newman <a href=\"lib/about_apod.html#srapply\">Specific rights apply</a>. <ahref=\"https://www.nasa.gov/about/highlights/HP_Privacy.html\">NASA Web Privacy Policy and Important Notices</a><br> <b>A service of:</b> <a href=\"https://astrophysics.gsfc.nasa.gov/\">ASD</a> at <a href=\"https://www.nasa.gov/\">NASA</a> / <a href=\"https://www.nasa.gov/centers/goddard/\">GSFC</a> &amp; <a href=\"http://www.mtu.edu/\">Michigan Tech. U.</a><br> </footer>",
+            "date_published": "2019-09-14T12:00:00Z",
+            "date_modified": "2019-09-14T09:39:52Z",
+            "image": "https://apod.nasa.gov/apod/image/1909/2019_07_04_SPECULOOS_Pano_24mm_LP_viz1024.jpg",
+            "tags": [
+                "exoplanet",
+                "transit",
+                "speculoos",
+                "telescope"
+            ]
+        },
+        {
             "id": "https://apod.nasa.gov/apod/ap190913.html",
             "url": "https://apod.nasa.gov/apod/ap190913.html",
             "title": "A Harvest Moon",
@@ -447,22 +462,6 @@
                 "just so story"
             ],
             "summary": "Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission nebula and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, the cosmic elephant's trunk is over 20 light-years long. This colorful close-up view was recorded through narrow band filters that transmit the light from ionized hydrogen, sulfur, and oxygen atoms in the region. The resulting composite highlights the bright swept-back ridges that outline pockets of cool interstellar dust and gas. Such embedded, dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. The dramatic scene spans a 1 degree wide field, about the size of 2 Full Moons."
-        },
-        {
-            "id": "https://apod.nasa.gov/apod/ap190815.html",
-            "url": "https://apod.nasa.gov/apod/ap190815.html",
-            "title": "The Perseids and the Plough",
-            "content_html": "<p class=\"summary\" hidden=\"hidden\">Despite interfering moonlight, many denizens of planet Earth were able to watch this year's Perseid meteor shower. This pastoral scene includes local skygazers admiring the shower's brief, heavenly flashes in predawn hours near peak activity on August 13 from Nalati Grassland in Xinjiang, China. A composite, the image registers seven frames taken during a two hour span recording Perseid meteor streaks against a starry sky. Centered along the horizon is the Plough, the north's most famous asterism, though some might see the familiar celestial kitchen utensil known as the Big Dipper. Perhaps the year's most easily enjoyed meteor shower, Perseid meteors are produced as Earth itself sweeps through dust from periodic comet Swift-Tuttle. The dust particles are vaporized at altitudes of 100 kilometers or so as they plow through the atmosphere at 60 kilometers per second.</p><figure><a href=\"image/1908/PerseidsPloughCow.jpg\"> <img alt=\"See Explanation. Clicking on the picture will download the highest resolution version available.\" src=\"image/1908/PerseidsPloughCow1024.jpg\" style=\"max-width:100%\"></a> <figcaption><p><b> Image Credit &amp; <a href=\"lib/about_apod.html#srapply\">Copyright</a>: </b> <a href=\"http://www.twanight.org/Dai\">Jeff Dai</a> (<a href=\"http://www.twanight.org/\">TWAN</a>) </p></figcaption></figure><p> <b> Explanation: </b> Despite interfering moonlight, many denizens of planet Earth were able to watch this year's <a href=\"https://solarsystem.nasa.gov/asteroids-comets-and-meteors/ meteors-and-meteorites/perseids/in-depth/\">Perseid meteor shower</a>. This pastoral scene includes local skygazers admiring the shower's brief, heavenly flashes in predawn hours near peak activity on August 13 from Nalati Grassland in Xinjiang, China. A composite, the image registers seven frames taken during a two hour span recording Perseid meteor streaks against a starry sky. Centered along the horizon is <a href=\"ap110624.html\">the Plough, the north's</a> most famous asterism, though some might see the familiar celestial kitchen utensil known as the Big Dipper. Perhaps the year's most <a href=\"ap180908.html\">easily enjoyed</a> meteor shower, Perseid meteors are produced as Earth itself <a href=\"ap180808.html\">sweeps through</a> dust from periodic comet Swift-Tuttle. The dust particles are vaporized at altitudes of 100 kilometers or so as they plow through the atmosphere at 60 kilometers per second. </p><footer class=\"footnote\"> <hr><b> Authors &amp; editors: </b> <a href=\"http://www.phy.mtu.edu/faculty/Nemiroff.html\">Robert Nemiroff</a> (<a href=\"http://www.phy.mtu.edu/\">MTU</a>) &amp; <a href=\"https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html\">Jerry Bonnell</a> (<a href=\"http://www.astro.umd.edu/\">UMCP</a>)<br> <b>NASA Official: </b> Phillip Newman <a href=\"lib/about_apod.html#srapply\">Specific rights apply</a>. <ahref=\"https://www.nasa.gov/about/highlights/HP_Privacy.html\">NASA Web Privacy Policy and Important Notices</a><br> <b>A service of:</b> <a href=\"https://astrophysics.gsfc.nasa.gov/\">ASD</a> at <a href=\"https://www.nasa.gov/\">NASA</a> / <a href=\"https://www.nasa.gov/centers/goddard/\">GSFC</a> &amp; <a href=\"http://www.mtu.edu/\">Michigan Tech. U.</a><br> </footer>",
-            "date_published": "2019-08-15T12:00:00Z",
-            "date_modified": "2019-08-15T09:42:30Z",
-            "image": "https://apod.nasa.gov/apod/image/1908/PerseidsPloughCow1024.jpg",
-            "tags": [
-                "meteor shower",
-                "perseid",
-                "big dipper",
-                "cow"
-            ],
-            "summary": "Despite interfering moonlight, many denizens of planet Earth were able to watch this year's Perseid meteor shower. This pastoral scene includes local skygazers admiring the shower's brief, heavenly flashes in predawn hours near peak activity on August 13 from Nalati Grassland in Xinjiang, China. A composite, the image registers seven frames taken during a two hour span recording Perseid meteor streaks against a starry sky. Centered along the horizon is the Plough, the north's most famous asterism, though some might see the familiar celestial kitchen utensil known as the Big Dipper. Perhaps the year's most easily enjoyed meteor shower, Perseid meteors are produced as Earth itself sweeps through dust from periodic comet Swift-Tuttle. The dust particles are vaporized at altitudes of 100 kilometers or so as they plow through the atmosphere at 60 kilometers per second."
         }
     ]
 }
