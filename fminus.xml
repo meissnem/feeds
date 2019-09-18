@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2019-09-17T10:01:00Z</updated>
+    <updated>2019-09-18T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - September 18, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/09/18"/>
+        <id>https://www.gocomics.com/fminus/2019/09/18</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-09-18T10:00:00Z</published>
+        <updated>2019-09-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c4e91d50b5530137bc10005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - September 17, 2019</title>
         <link href="https://www.gocomics.com/fminus/2019/09/17"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/d4143d3057cc01379ad5005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - May 21, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/05/21"/>
-        <id>https://www.gocomics.com/fminus/2019/05/21</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-05-21T10:00:00Z</published>
-        <updated>2019-05-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/d19bb66057cc01379ad5005056a9545d"/>
             </div>
         </content>
     </entry>
