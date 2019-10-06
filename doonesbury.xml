@@ -3,12 +3,27 @@
     <title type="text">Doonesbury</title>
     <link href="https://www.gocomics.com/doonesbury" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/doonesbury.xml" rel="self"/>
-    <updated>2019-10-05T10:01:00Z</updated>
+    <updated>2019-10-06T10:01:00Z</updated>
     <author>
         <name>Garry Trudeau</name>
     </author>
     <id>https://www.gocomics.com/doonesbury/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Doonesbury - October  6, 2019</title>
+        <link href="https://www.gocomics.com/doonesbury/2019/10/06"/>
+        <id>https://www.gocomics.com/doonesbury/2019/10/06</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2019-10-06T10:00:00Z</published>
+        <updated>2019-10-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/77fee340b5720137bc21005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - September 29, 2019</title>
         <link href="https://www.gocomics.com/doonesbury/2019/09/29"/>
