@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2019-10-23T10:01:00Z</updated>
+    <updated>2019-10-24T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - October 24, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/10/24"/>
+        <id>https://www.gocomics.com/fminus/2019/10/24</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-10-24T10:00:00Z</published>
+        <updated>2019-10-24T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d7170090d0ca0137c636005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - October 23, 2019</title>
         <link href="https://www.gocomics.com/fminus/2019/10/23"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/b8aad040711a0137a432005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - June 26, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/06/26"/>
-        <id>https://www.gocomics.com/fminus/2019/06/26</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-06-26T10:00:00Z</published>
-        <updated>2019-06-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/b618bfa0711a0137a432005056a9545d"/>
             </div>
         </content>
     </entry>
