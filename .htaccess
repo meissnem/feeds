@@ -1,1 +1,2 @@
 AddType application/json ".json"
+Redirect 301 / https://meissnem.github.io/
