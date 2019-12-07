@@ -3,12 +3,117 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/fminus.xml" rel="self"/>
-    <updated>2019-11-30T10:01:00Z</updated>
+    <updated>2019-12-07T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - December  7, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/07"/>
+        <id>https://www.gocomics.com/fminus/2019/12/07</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-07T10:00:00Z</published>
+        <updated>2019-12-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/1aa4da60edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  6, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/06"/>
+        <id>https://www.gocomics.com/fminus/2019/12/06</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-06T10:00:00Z</published>
+        <updated>2019-12-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/185be400edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  5, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/05"/>
+        <id>https://www.gocomics.com/fminus/2019/12/05</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-05T10:00:00Z</published>
+        <updated>2019-12-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/162161b0edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  4, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/04"/>
+        <id>https://www.gocomics.com/fminus/2019/12/04</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-04T10:00:00Z</published>
+        <updated>2019-12-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/13fa31c0edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  3, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/03"/>
+        <id>https://www.gocomics.com/fminus/2019/12/03</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-03T10:00:00Z</published>
+        <updated>2019-12-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/11d91e40edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  2, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/02"/>
+        <id>https://www.gocomics.com/fminus/2019/12/02</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-02T10:00:00Z</published>
+        <updated>2019-12-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/0fb28190edfe0137d0f8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - December  1, 2019</title>
+        <link href="https://www.gocomics.com/fminus/2019/12/01"/>
+        <id>https://www.gocomics.com/fminus/2019/12/01</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2019-12-01T10:00:00Z</published>
+        <updated>2019-12-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c385d820d6880137c858005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - November 30, 2019</title>
         <link href="https://www.gocomics.com/fminus/2019/11/30"/>
@@ -1701,111 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/6bab0c8094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  9, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/09"/>
-        <id>https://www.gocomics.com/fminus/2019/08/09</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-09T10:00:00Z</published>
-        <updated>2019-08-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/68fef61094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  8, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/08"/>
-        <id>https://www.gocomics.com/fminus/2019/08/08</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-08T10:00:00Z</published>
-        <updated>2019-08-08T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/661e18c094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  7, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/07"/>
-        <id>https://www.gocomics.com/fminus/2019/08/07</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-07T10:00:00Z</published>
-        <updated>2019-08-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/636afb4094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  6, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/06"/>
-        <id>https://www.gocomics.com/fminus/2019/08/06</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-06T10:00:00Z</published>
-        <updated>2019-08-06T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/606e8f2094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  5, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/05"/>
-        <id>https://www.gocomics.com/fminus/2019/08/05</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-05T10:00:00Z</published>
-        <updated>2019-08-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/5dc4a09094510137b074005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  4, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/04"/>
-        <id>https://www.gocomics.com/fminus/2019/08/04</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-04T10:00:00Z</published>
-        <updated>2019-08-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/a4a1a09076ed0137a645005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August  3, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/08/03"/>
-        <id>https://www.gocomics.com/fminus/2019/08/03</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-08-03T10:00:00Z</published>
-        <updated>2019-08-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/47fcfe808ec30137ae5f005056a9545d"/>
             </div>
         </content>
     </entry>
