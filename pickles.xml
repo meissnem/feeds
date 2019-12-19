@@ -3,12 +3,42 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.gitlab.io/feeds/pickles.xml" rel="self"/>
-    <updated>2019-12-17T10:01:00Z</updated>
+    <updated>2019-12-19T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - December 19, 2019</title>
+        <link href="https://www.gocomics.com/pickles/2019/12/19"/>
+        <id>https://www.gocomics.com/pickles/2019/12/19</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2019-12-19T10:00:00Z</published>
+        <updated>2019-12-19T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/60212990f2bc0137d29a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pickles - December 18, 2019</title>
+        <link href="https://www.gocomics.com/pickles/2019/12/18"/>
+        <id>https://www.gocomics.com/pickles/2019/12/18</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2019-12-18T10:00:00Z</published>
+        <updated>2019-12-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/5a6ff5f0f2bc0137d29a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - December 17, 2019</title>
         <link href="https://www.gocomics.com/pickles/2019/12/17"/>
@@ -1776,36 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/5f4f42b095fa0137b13b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - August 21, 2019</title>
-        <link href="https://www.gocomics.com/pickles/2019/08/21"/>
-        <id>https://www.gocomics.com/pickles/2019/08/21</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2019-08-21T10:00:00Z</published>
-        <updated>2019-08-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/5b54d35095fa0137b13b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - August 20, 2019</title>
-        <link href="https://www.gocomics.com/pickles/2019/08/20"/>
-        <id>https://www.gocomics.com/pickles/2019/08/20</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2019-08-20T10:00:00Z</published>
-        <updated>2019-08-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/6b2c155095fa0137b13b005056a9545d"/>
             </div>
         </content>
     </entry>
