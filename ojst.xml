@@ -2,7 +2,7 @@
 
 <channel>
 	<title>Oh Joy Sex Toy</title>
-	<atom:link href="https://meissnem.gitlab.io/feeds/ojst.xml" rel="self" type="application/rss+xml"/>
+	<atom:link href="https://meissnem.github.io/feeds/ojst.xml" rel="self" type="application/rss+xml"/>
 	<link>https://www.ohjoysextoy.com</link>
 	<description>A Sex Education and Toy Review Comic</description>
 	<lastBuildDate>Mon, 10 Feb 2020 23:53:09 +0000</lastBuildDate>

@@ -2,13 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
-    <link href="https://meissnem.gitlab.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2020-02-13T10:01:00Z</updated>
+    <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
+    <updated>2020-02-14T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - February 14, 2020</title>
+        <link href="https://www.gocomics.com/peanuts/2020/02/14"/>
+        <id>https://www.gocomics.com/peanuts/2020/02/14</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2020-02-14T10:00:00Z</published>
+        <updated>2020-02-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/f6e0552021230138e246005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - February 13, 2020</title>
         <link href="https://www.gocomics.com/peanuts/2020/02/13"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/12de55d0c3610137c1a6005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - October 17, 2019</title>
-        <link href="https://www.gocomics.com/peanuts/2019/10/17"/>
-        <id>https://www.gocomics.com/peanuts/2019/10/17</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2019-10-17T10:00:00Z</published>
-        <updated>2019-10-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/1028f910c3610137c1a6005056a9545d"/>
             </div>
         </content>
     </entry>
