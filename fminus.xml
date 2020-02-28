@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self"/>
-    <updated>2020-02-27T10:01:00Z</updated>
+    <updated>2020-02-28T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - February 28, 2020</title>
+        <link href="https://www.gocomics.com/fminus/2020/02/28"/>
+        <id>https://www.gocomics.com/fminus/2020/02/28</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2020-02-28T10:00:00Z</published>
+        <updated>2020-02-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/08a284e031aa0138e848005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - February 27, 2020</title>
         <link href="https://www.gocomics.com/fminus/2020/02/27"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/6d5d7c20d6530137c83b005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - October 31, 2019</title>
-        <link href="https://www.gocomics.com/fminus/2019/10/31"/>
-        <id>https://www.gocomics.com/fminus/2019/10/31</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2019-10-31T10:00:00Z</published>
-        <updated>2019-10-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/6ada20f0d6530137c83b005056a9545d"/>
             </div>
         </content>
     </entry>
