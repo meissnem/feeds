@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/pickles.xml" rel="self"/>
-    <updated>2020-04-08T10:01:00Z</updated>
+    <updated>2020-04-09T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - April  9, 2020</title>
+        <link href="https://www.gocomics.com/pickles/2020/04/09"/>
+        <id>https://www.gocomics.com/pickles/2020/04/09</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2020-04-09T10:00:00Z</published>
+        <updated>2020-04-09T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/8b823fc04c160138f18c005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - April  8, 2020</title>
         <link href="https://www.gocomics.com/pickles/2020/04/08"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/6fd21110ee050137d0fe005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - December 11, 2019</title>
-        <link href="https://www.gocomics.com/pickles/2019/12/11"/>
-        <id>https://www.gocomics.com/pickles/2019/12/11</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2019-12-11T10:00:00Z</published>
-        <updated>2019-12-11T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/64cd63b0ee050137d0fe005056a9545d"/>
             </div>
         </content>
     </entry>
