@@ -3,12 +3,72 @@
     <title type="text">Nancy</title>
     <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/nancy.xml" rel="self"/>
-    <updated>2020-04-27T10:01:00Z</updated>
+    <updated>2020-05-01T10:01:00Z</updated>
     <author>
         <name>Olivia Jaimes</name>
     </author>
     <id>https://www.gocomics.com/nancy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Nancy - May  1, 2020</title>
+        <link href="https://www.gocomics.com/nancy/2020/05/01"/>
+        <id>https://www.gocomics.com/nancy/2020/05/01</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2020-05-01T10:00:00Z</published>
+        <updated>2020-05-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/e6df68e0654d0138faa0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Nancy - April 30, 2020</title>
+        <link href="https://www.gocomics.com/nancy/2020/04/30"/>
+        <id>https://www.gocomics.com/nancy/2020/04/30</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2020-04-30T10:00:00Z</published>
+        <updated>2020-04-30T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/e3c59190654d0138faa0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Nancy - April 29, 2020</title>
+        <link href="https://www.gocomics.com/nancy/2020/04/29"/>
+        <id>https://www.gocomics.com/nancy/2020/04/29</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2020-04-29T10:00:00Z</published>
+        <updated>2020-04-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/b2b7ab80654e0138faa0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Nancy - April 28, 2020</title>
+        <link href="https://www.gocomics.com/nancy/2020/04/28"/>
+        <id>https://www.gocomics.com/nancy/2020/04/28</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2020-04-28T10:00:00Z</published>
+        <updated>2020-04-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2002a6a0654b0138fa9e005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - April 27, 2020</title>
         <link href="https://www.gocomics.com/nancy/2020/04/27"/>
@@ -1746,66 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/cca0950007ef0138d9c4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - January  2, 2020</title>
-        <link href="https://www.gocomics.com/nancy/2020/01/02"/>
-        <id>https://www.gocomics.com/nancy/2020/01/02</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2020-01-02T10:00:00Z</published>
-        <updated>2020-01-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/ca055af007ef0138d9c4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - January  1, 2020</title>
-        <link href="https://www.gocomics.com/nancy/2020/01/01"/>
-        <id>https://www.gocomics.com/nancy/2020/01/01</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2020-01-01T10:00:00Z</published>
-        <updated>2020-01-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/c7c52de007ef0138d9c4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - December 31, 2019</title>
-        <link href="https://www.gocomics.com/nancy/2019/12/31"/>
-        <id>https://www.gocomics.com/nancy/2019/12/31</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2019-12-31T10:00:00Z</published>
-        <updated>2019-12-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/c53d2cd007ef0138d9c4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - December 30, 2019</title>
-        <link href="https://www.gocomics.com/nancy/2019/12/30"/>
-        <id>https://www.gocomics.com/nancy/2019/12/30</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2019-12-30T10:00:00Z</published>
-        <updated>2019-12-30T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/c301629007ef0138d9c4005056a9545d"/>
             </div>
         </content>
     </entry>
