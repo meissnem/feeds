@@ -3,12 +3,72 @@
     <title type="text">Pearls Before Swine</title>
     <link href="https://www.gocomics.com/pearlsbeforeswine" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/pearlsbeforeswine.xml" rel="self"/>
-    <updated>2020-05-01T10:01:00Z</updated>
+    <updated>2020-05-05T10:01:00Z</updated>
     <author>
         <name>Stephan Pastis</name>
     </author>
     <id>https://www.gocomics.com/pearlsbeforeswine/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pearls Before Swine - May  5, 2020</title>
+        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/05/05"/>
+        <id>https://www.gocomics.com/pearlsbeforeswine/2020/05/05</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2020-05-05T10:00:00Z</published>
+        <updated>2020-05-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c18a4d206bae0138fcf2005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - May  4, 2020</title>
+        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/05/04"/>
+        <id>https://www.gocomics.com/pearlsbeforeswine/2020/05/04</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2020-05-04T10:00:00Z</published>
+        <updated>2020-05-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/befa6e406bae0138fcf2005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - May  3, 2020</title>
+        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/05/03"/>
+        <id>https://www.gocomics.com/pearlsbeforeswine/2020/05/03</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2020-05-03T10:00:00Z</published>
+        <updated>2020-05-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/f6fa85f051e70138f3ec005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Pearls Before Swine - May  2, 2020</title>
+        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/05/02"/>
+        <id>https://www.gocomics.com/pearlsbeforeswine/2020/05/02</id>
+        <author>
+            <name>Stephan Pastis</name>
+        </author>
+        <published>2020-05-02T10:00:00Z</published>
+        <updated>2020-05-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2abe8b3066110138faea005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pearls Before Swine - May  1, 2020</title>
         <link href="https://www.gocomics.com/pearlsbeforeswine/2020/05/01"/>
@@ -1746,66 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/3fe962800e0f0138db96005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January  6, 2020</title>
-        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/01/06"/>
-        <id>https://www.gocomics.com/pearlsbeforeswine/2020/01/06</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2020-01-06T10:00:00Z</published>
-        <updated>2020-01-06T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/b0113bd00e100138db96005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January  5, 2020</title>
-        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/01/05"/>
-        <id>https://www.gocomics.com/pearlsbeforeswine/2020/01/05</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2020-01-05T10:00:00Z</published>
-        <updated>2020-01-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/c6993b2009250138da24005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January  4, 2020</title>
-        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/01/04"/>
-        <id>https://www.gocomics.com/pearlsbeforeswine/2020/01/04</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2020-01-04T10:00:00Z</published>
-        <updated>2020-01-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/8f09fcb007f10138d9c4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pearls Before Swine - January  3, 2020</title>
-        <link href="https://www.gocomics.com/pearlsbeforeswine/2020/01/03"/>
-        <id>https://www.gocomics.com/pearlsbeforeswine/2020/01/03</id>
-        <author>
-            <name>Stephan Pastis</name>
-        </author>
-        <published>2020-01-03T10:00:00Z</published>
-        <updated>2020-01-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/e190e3d007ef0138d9c4005056a9545d"/>
             </div>
         </content>
     </entry>
