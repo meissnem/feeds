@@ -3,11 +3,26 @@
     <title type="text">Baby Blues</title>
     <link href="http://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/baby_blues.xml" rel="self"/>
-    <updated>2020-05-15T10:01:00Z</updated>
+    <updated>2020-05-16T10:01:00Z</updated>
     <author>
         <name>Rick Kirkman And Jerry Scott</name>
     </author>
     <id>http://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues</id>
+    <entry>
+        <title type="text">Baby Blues - May 16, 2020</title>
+        <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDUvQmFieV9CbHVlcy4yMDIwMDUxNl8xNTM2LnBuZw=="/>
+        <id>http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDUvQmFieV9CbHVlcy4yMDIwMDUxNl8xNTM2LnBuZw==</id>
+        <author>
+            <name>Rick Kirkman And Jerry Scott</name>
+        </author>
+        <published>2020-05-16T10:00:00Z</published>
+        <updated>2020-05-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDUvQmFieV9CbHVlcy4yMDIwMDUxNl8xNTM2LnBuZw=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Baby Blues - May 15, 2020</title>
         <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDUvQmFieV9CbHVlcy4yMDIwMDUxNV8xNTM2LnBuZw=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDEvQmFieV9CbHVlcy4yMDIwMDExOF8xNTM2LnBuZw=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Baby Blues - January 17, 2020</title>
-        <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDEvQmFieV9CbHVlcy4yMDIwMDExN18xNTM2LnBuZw=="/>
-        <id>http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDEvQmFieV9CbHVlcy4yMDIwMDExN18xNTM2LnBuZw==</id>
-        <author>
-            <name>Rick Kirkman And Jerry Scott</name>
-        </author>
-        <published>2020-01-17T10:00:00Z</published>
-        <updated>2020-01-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjAvMDEvQmFieV9CbHVlcy4yMDIwMDExN18xNTM2LnBuZw=="/>
             </div>
         </content>
     </entry>
