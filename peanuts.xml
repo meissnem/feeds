@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2020-06-07T10:01:00Z</updated>
+    <updated>2020-06-08T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - June  8, 2020</title>
+        <link href="https://www.gocomics.com/peanuts/2020/06/08"/>
+        <id>https://www.gocomics.com/peanuts/2020/06/08</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2020-06-08T10:00:00Z</published>
+        <updated>2020-06-08T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/e98c8500840a013805ac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - June  7, 2020</title>
         <link href="https://www.gocomics.com/peanuts/2020/06/07"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/ed8572e021230138e246005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - February  9, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/02/09"/>
-        <id>https://www.gocomics.com/peanuts/2020/02/09</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-02-09T10:00:00Z</published>
-        <updated>2020-02-09T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/53f2422009b00138da33005056a9545d"/>
             </div>
         </content>
     </entry>
