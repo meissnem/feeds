@@ -3,12 +3,57 @@
     <title type="text">Calvin and Hobbes</title>
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self"/>
-    <updated>2020-06-15T10:01:00Z</updated>
+    <updated>2020-06-18T10:01:00Z</updated>
     <author>
         <name>Bill Watterson</name>
     </author>
     <id>https://www.gocomics.com/calvinandhobbes/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 18, 2020</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/2020/06/18"/>
+        <id>https://www.gocomics.com/calvinandhobbes/2020/06/18</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2020-06-18T10:00:00Z</published>
+        <updated>2020-06-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/5aa4873077970138015a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 17, 2020</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/2020/06/17"/>
+        <id>https://www.gocomics.com/calvinandhobbes/2020/06/17</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2020-06-17T10:00:00Z</published>
+        <updated>2020-06-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/58972e2077970138015a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - June 16, 2020</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/2020/06/16"/>
+        <id>https://www.gocomics.com/calvinandhobbes/2020/06/16</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2020-06-16T10:00:00Z</published>
+        <updated>2020-06-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/565f816077970138015a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - June 15, 2020</title>
         <link href="https://www.gocomics.com/calvinandhobbes/2020/06/15"/>
@@ -1761,51 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/251b09900eea0138dbe4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 19, 2020</title>
-        <link href="https://www.gocomics.com/calvinandhobbes/2020/02/19"/>
-        <id>https://www.gocomics.com/calvinandhobbes/2020/02/19</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2020-02-19T10:00:00Z</published>
-        <updated>2020-02-19T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/231880800eea0138dbe4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 18, 2020</title>
-        <link href="https://www.gocomics.com/calvinandhobbes/2020/02/18"/>
-        <id>https://www.gocomics.com/calvinandhobbes/2020/02/18</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2020-02-18T10:00:00Z</published>
-        <updated>2020-02-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/212db9d00eea0138dbe4005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Calvin and Hobbes - February 17, 2020</title>
-        <link href="https://www.gocomics.com/calvinandhobbes/2020/02/17"/>
-        <id>https://www.gocomics.com/calvinandhobbes/2020/02/17</id>
-        <author>
-            <name>Bill Watterson</name>
-        </author>
-        <published>2020-02-17T10:00:00Z</published>
-        <updated>2020-02-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/1f2d4b500eea0138dbe4005056a9545d"/>
             </div>
         </content>
     </entry>
