@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2020-07-02T10:01:00Z</updated>
+    <updated>2020-07-03T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - July  3, 2020</title>
+        <link href="https://www.gocomics.com/peanuts/2020/07/03"/>
+        <id>https://www.gocomics.com/peanuts/2020/07/03</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2020-07-03T10:00:00Z</published>
+        <updated>2020-07-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/88673fe0915b01380a16005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - July  2, 2020</title>
         <link href="https://www.gocomics.com/peanuts/2020/07/02"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/9d7429d02e3b0138e6a6005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - March  5, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/03/05"/>
-        <id>https://www.gocomics.com/peanuts/2020/03/05</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-03-05T10:00:00Z</published>
-        <updated>2020-03-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/9b2a05a02e3b0138e6a6005056a9545d"/>
             </div>
         </content>
     </entry>
