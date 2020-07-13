@@ -3,7 +3,7 @@
     <title type="text">Get Fuzzy</title>
     <link href="https://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2020-07-12T10:01:00Z</updated>
+    <updated>2020-07-13T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
@@ -261,21 +261,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/89f60480245c0138e337005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - March 15, 2020</title>
-        <link href="https://www.gocomics.com/getfuzzy/2020/03/15"/>
-        <id>https://www.gocomics.com/getfuzzy/2020/03/15</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2020-03-15T10:00:00Z</published>
-        <updated>2020-03-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/861e5100245c0138e337005056a9545d"/>
             </div>
         </content>
     </entry>
