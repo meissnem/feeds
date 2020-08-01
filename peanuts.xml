@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2020-07-31T10:01:00Z</updated>
+    <updated>2020-08-01T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - August  1, 2020</title>
+        <link href="https://www.gocomics.com/peanuts/2020/08/01"/>
+        <id>https://www.gocomics.com/peanuts/2020/08/01</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2020-08-01T10:00:00Z</published>
+        <updated>2020-08-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/6cc83c10a1e401380fec005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - July 31, 2020</title>
         <link href="https://www.gocomics.com/peanuts/2020/07/31"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/fcfd53503c5e0138ebf2005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - April  3, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/04/03"/>
-        <id>https://www.gocomics.com/peanuts/2020/04/03</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-04-03T10:00:00Z</published>
-        <updated>2020-04-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/fa6f03203c5e0138ebf2005056a9545d"/>
             </div>
         </content>
     </entry>
