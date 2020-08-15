@@ -3,12 +3,27 @@
     <title type="text">Arlo and Janis</title>
     <link href="https://www.gocomics.com/arloandjanis" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/arloandjanis.xml" rel="self"/>
-    <updated>2020-08-14T10:01:00Z</updated>
+    <updated>2020-08-15T10:01:00Z</updated>
     <author>
         <name>Jimmy Johnson</name>
     </author>
     <id>https://www.gocomics.com/arloandjanis/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Arlo and Janis - August 15, 2020</title>
+        <link href="https://www.gocomics.com/arloandjanis/2020/08/15"/>
+        <id>https://www.gocomics.com/arloandjanis/2020/08/15</id>
+        <author>
+            <name>Jimmy Johnson</name>
+        </author>
+        <published>2020-08-15T10:00:00Z</published>
+        <updated>2020-08-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/0793b200b89c013817da005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Arlo and Janis - August 14, 2020</title>
         <link href="https://www.gocomics.com/arloandjanis/2020/08/14"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/c1785aa05a550138f6b8005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Arlo and Janis - April 17, 2020</title>
-        <link href="https://www.gocomics.com/arloandjanis/2020/04/17"/>
-        <id>https://www.gocomics.com/arloandjanis/2020/04/17</id>
-        <author>
-            <name>Jimmy Johnson</name>
-        </author>
-        <published>2020-04-17T10:00:00Z</published>
-        <updated>2020-04-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/bf2400405a550138f6b8005056a9545d"/>
             </div>
         </content>
     </entry>

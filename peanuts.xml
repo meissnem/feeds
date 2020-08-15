@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2020-08-14T10:01:00Z</updated>
+    <updated>2020-08-15T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - August 15, 2020</title>
+        <link href="https://www.gocomics.com/peanuts/2020/08/15"/>
+        <id>https://www.gocomics.com/peanuts/2020/08/15</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2020-08-15T10:00:00Z</published>
+        <updated>2020-08-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/602b5870a83301381223005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - August 14, 2020</title>
         <link href="https://www.gocomics.com/peanuts/2020/08/14"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/7fafd110567b0138f581005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - April 17, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/04/17"/>
-        <id>https://www.gocomics.com/peanuts/2020/04/17</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-04-17T10:00:00Z</published>
-        <updated>2020-04-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/7d2bfc40567b0138f581005056a9545d"/>
             </div>
         </content>
     </entry>
