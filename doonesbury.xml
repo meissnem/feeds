@@ -3,7 +3,7 @@
     <title type="text">Doonesbury</title>
     <link href="https://www.gocomics.com/doonesbury" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/doonesbury.xml" rel="self"/>
-    <updated>2020-09-13T10:01:00Z</updated>
+    <updated>2020-09-14T10:01:00Z</updated>
     <author>
         <name>Garry Trudeau</name>
     </author>
@@ -261,21 +261,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/eab1a50062520138f9d5005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Doonesbury - May 17, 2020</title>
-        <link href="https://www.gocomics.com/doonesbury/2020/05/17"/>
-        <id>https://www.gocomics.com/doonesbury/2020/05/17</id>
-        <author>
-            <name>Garry Trudeau</name>
-        </author>
-        <published>2020-05-17T10:00:00Z</published>
-        <updated>2020-05-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/e2530a305deb0138f833005056a9545d"/>
             </div>
         </content>
     </entry>
