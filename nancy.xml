@@ -3,12 +3,27 @@
     <title type="text">Nancy</title>
     <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/nancy.xml" rel="self"/>
-    <updated>2020-09-28T10:01:00Z</updated>
+    <updated>2020-09-29T10:01:00Z</updated>
     <author>
         <name>Olivia Jaimes</name>
     </author>
     <id>https://www.gocomics.com/nancy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Nancy - September 29, 2020</title>
+        <link href="https://www.gocomics.com/nancy/2020/09/29"/>
+        <id>https://www.gocomics.com/nancy/2020/09/29</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2020-09-29T10:00:00Z</published>
+        <updated>2020-09-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/79fd4eb0de59013824b8005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - September 28, 2020</title>
         <link href="https://www.gocomics.com/nancy/2020/09/28"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/61795260819001380481005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Nancy - June  1, 2020</title>
-        <link href="https://www.gocomics.com/nancy/2020/06/01"/>
-        <id>https://www.gocomics.com/nancy/2020/06/01</id>
-        <author>
-            <name>Olivia Jaimes</name>
-        </author>
-        <published>2020-06-01T10:00:00Z</published>
-        <updated>2020-06-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/5d487480819001380481005056a9545d"/>
             </div>
         </content>
     </entry>
