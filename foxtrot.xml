@@ -3,7 +3,7 @@
     <title type="text">FoxTrot</title>
     <link href="https://www.gocomics.com/foxtrot" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/foxtrot.xml" rel="self"/>
-    <updated>2020-10-25T10:01:00Z</updated>
+    <updated>2020-10-26T10:01:00Z</updated>
     <author>
         <name>Bill Amend</name>
     </author>
@@ -261,21 +261,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/d60ba2e083a301380580005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">FoxTrot - June 28, 2020</title>
-        <link href="https://www.gocomics.com/foxtrot/2020/06/28"/>
-        <id>https://www.gocomics.com/foxtrot/2020/06/28</id>
-        <author>
-            <name>Bill Amend</name>
-        </author>
-        <published>2020-06-28T10:00:00Z</published>
-        <updated>2020-06-28T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/9a1a21807de0013803a6005056a9545d"/>
             </div>
         </content>
     </entry>
