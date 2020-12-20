@@ -3,12 +3,27 @@
     <title type="text">Get Fuzzy</title>
     <link href="https://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2020-12-19T10:01:00Z</updated>
+    <updated>2020-12-20T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>https://www.gocomics.com/getfuzzy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Get Fuzzy - December 20, 2020</title>
+        <link href="https://www.gocomics.com/getfuzzy/2020/12/20"/>
+        <id>https://www.gocomics.com/getfuzzy/2020/12/20</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2020-12-20T10:00:00Z</published>
+        <updated>2020-12-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/edc20530fc6c01382f84005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - December 13, 2020</title>
         <link href="https://www.gocomics.com/getfuzzy/2020/12/13"/>
