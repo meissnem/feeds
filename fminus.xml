@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self"/>
-    <updated>2020-12-26T10:01:00Z</updated>
+    <updated>2020-12-27T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - December 27, 2020</title>
+        <link href="https://www.gocomics.com/fminus/2020/12/27"/>
+        <id>https://www.gocomics.com/fminus/2020/12/27</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2020-12-27T10:00:00Z</published>
+        <updated>2020-12-27T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/37e76ca00b6301393462005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - December 26, 2020</title>
         <link href="https://www.gocomics.com/fminus/2020/12/26"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/25f75c40add801381431005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - August 29, 2020</title>
-        <link href="https://www.gocomics.com/fminus/2020/08/29"/>
-        <id>https://www.gocomics.com/fminus/2020/08/29</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2020-08-29T10:00:00Z</published>
-        <updated>2020-08-29T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/07348fe0c2c801381b6c005056a9545d"/>
             </div>
         </content>
     </entry>
