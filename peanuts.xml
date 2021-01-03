@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2021-01-02T10:01:00Z</updated>
+    <updated>2021-01-03T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - January  3, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/01/03"/>
+        <id>https://www.gocomics.com/peanuts/2021/01/03</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-01-03T10:00:00Z</published>
+        <updated>2021-01-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/044cb5c026a201393d21005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - January  2, 2021</title>
         <link href="https://www.gocomics.com/peanuts/2021/01/02"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/6edbc020b28e013815c0005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - September  5, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/09/05"/>
-        <id>https://www.gocomics.com/peanuts/2020/09/05</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-09-05T10:00:00Z</published>
-        <updated>2020-09-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/59fd8770bd5301381978005056a9545d"/>
             </div>
         </content>
     </entry>
