@@ -3,12 +3,102 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2021-02-27T10:01:00Z</updated>
+    <updated>2021-03-05T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - March  5, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/05"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/05</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-05T10:00:00Z</published>
+        <updated>2021-03-05T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/e0868de052b601394aac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  4, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/04"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/04</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-04T10:00:00Z</published>
+        <updated>2021-03-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/de0a3ba052b601394aac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  3, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/03"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/03</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-03T10:00:00Z</published>
+        <updated>2021-03-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/db8e335052b601394aac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  2, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/02"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/02</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-02T10:00:00Z</published>
+        <updated>2021-03-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d8f5b56052b601394aac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  1, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/01"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/01</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-01T10:00:00Z</published>
+        <updated>2021-03-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d6984bd052b601394aac005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - February 28, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/02/28"/>
+        <id>https://www.gocomics.com/peanuts/2021/02/28</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-02-28T10:00:00Z</published>
+        <updated>2021-02-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/273522102cad01393eb0005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - February 27, 2021</title>
         <link href="https://www.gocomics.com/peanuts/2021/02/27"/>
@@ -1716,96 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/9b8b9f40f52601382cc1005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  5, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/05"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/05</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-05T10:00:00Z</published>
-        <updated>2020-11-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/99335fe0f52601382cc1005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  4, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/04"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/04</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-04T10:00:00Z</published>
-        <updated>2020-11-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/0115cf90f52801382cc1005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  3, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/03"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/03</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-03T10:00:00Z</published>
-        <updated>2020-11-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/fe66c620f52701382cc1005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  2, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/02"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/02</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-02T10:00:00Z</published>
-        <updated>2020-11-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/76095be0f52301382cbf005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  1, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/01"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/01</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-01T10:00:00Z</published>
-        <updated>2020-11-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/f2dccff0e0230138258e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - October 31, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/10/31"/>
-        <id>https://www.gocomics.com/peanuts/2020/10/31</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-10-31T10:00:00Z</published>
-        <updated>2020-10-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/6e0eee50eb930138299a005056a9545d"/>
             </div>
         </content>
     </entry>
