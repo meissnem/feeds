@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2021-03-06T10:01:00Z</updated>
+    <updated>2021-03-07T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - March  7, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/03/07"/>
+        <id>https://www.gocomics.com/peanuts/2021/03/07</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-03-07T10:00:00Z</published>
+        <updated>2021-03-07T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/37b36b40425e013945a7005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - March  6, 2021</title>
         <link href="https://www.gocomics.com/peanuts/2021/03/06"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/f8906380e0230138258e005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - November  7, 2020</title>
-        <link href="https://www.gocomics.com/peanuts/2020/11/07"/>
-        <id>https://www.gocomics.com/peanuts/2020/11/07</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2020-11-07T10:00:00Z</published>
-        <updated>2020-11-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/787f9250f52301382cbf005056a9545d"/>
             </div>
         </content>
     </entry>
