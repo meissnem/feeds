@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self"/>
-    <updated>2021-05-28T10:01:00Z</updated>
+    <updated>2021-05-29T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - May 29, 2021</title>
+        <link href="https://www.gocomics.com/fminus/2021/05/29"/>
+        <id>https://www.gocomics.com/fminus/2021/05/29</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2021-05-29T10:00:00Z</published>
+        <updated>2021-05-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/53fa3940995601395f14005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - May 28, 2021</title>
         <link href="https://www.gocomics.com/fminus/2021/05/28"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/51c7269039b701394317005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - January 29, 2021</title>
-        <link href="https://www.gocomics.com/fminus/2021/01/29"/>
-        <id>https://www.gocomics.com/fminus/2021/01/29</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2021-01-29T10:00:00Z</published>
-        <updated>2021-01-29T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/4df5803039b701394317005056a9545d"/>
             </div>
         </content>
     </entry>
