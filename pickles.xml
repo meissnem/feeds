@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/pickles.xml" rel="self"/>
-    <updated>2021-05-31T10:01:00Z</updated>
+    <updated>2021-06-01T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - June  1, 2021</title>
+        <link href="https://www.gocomics.com/pickles/2021/06/01"/>
+        <id>https://www.gocomics.com/pickles/2021/06/01</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2021-06-01T10:00:00Z</published>
+        <updated>2021-06-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/48031aa0958901395e3a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - May 31, 2021</title>
         <link href="https://www.gocomics.com/pickles/2021/05/31"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/e8412c20385101394289005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - February  1, 2021</title>
-        <link href="https://www.gocomics.com/pickles/2021/02/01"/>
-        <id>https://www.gocomics.com/pickles/2021/02/01</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2021-02-01T10:00:00Z</published>
-        <updated>2021-02-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/e5de9000385101394289005056a9545d"/>
             </div>
         </content>
     </entry>
