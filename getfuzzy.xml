@@ -3,12 +3,27 @@
     <title type="text">Get Fuzzy</title>
     <link href="https://www.gocomics.com/getfuzzy" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/getfuzzy.xml" rel="self"/>
-    <updated>2021-06-03T10:01:00Z</updated>
+    <updated>2021-06-08T10:01:00Z</updated>
     <author>
         <name>Darby Conley</name>
     </author>
     <id>https://www.gocomics.com/getfuzzy/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Get Fuzzy - June  6, 2021</title>
+        <link href="https://www.gocomics.com/getfuzzy/2021/06/06"/>
+        <id>https://www.gocomics.com/getfuzzy/2021/06/06</id>
+        <author>
+            <name>Darby Conley</name>
+        </author>
+        <published>2021-06-06T10:00:00Z</published>
+        <updated>2021-06-06T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/a6bf65808a2101395b15005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - May 30, 2021</title>
         <link href="https://www.gocomics.com/getfuzzy/2021/05/30"/>
@@ -246,21 +261,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/46fd7790315e01394015005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Get Fuzzy - February  7, 2021</title>
-        <link href="https://www.gocomics.com/getfuzzy/2021/02/07"/>
-        <id>https://www.gocomics.com/getfuzzy/2021/02/07</id>
-        <author>
-            <name>Darby Conley</name>
-        </author>
-        <published>2021-02-07T10:00:00Z</published>
-        <updated>2021-02-07T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/436087b0315e01394015005056a9545d"/>
             </div>
         </content>
     </entry>
