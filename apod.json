@@ -1,23 +1,20 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Astronomy Picture of the Day",
-    "home_page_url": "https://apod.nasa.gov/",
-    "description": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-    "authors": [
-        {
-            "name": "Robert Nemiroff (MTU)",
-            "url": "http://www.phy.mtu.edu/faculty/Nemiroff.html"
-        },
-        {
-            "name": "Jerry Bonnell (UMCP)",
-            "url": "https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html"
-        }
-    ],
-    "author": {
-        "name": "Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)"
-    },
-    "language": "en-US",
     "items": [
+        {
+            "id": "https://apod.nasa.gov/apod/ap210707.html",
+            "url": "https://apod.nasa.gov/apod/ap210707.html",
+            "title": "Flight Through the Orion Nebula in Infrared Light",
+            "content_html": "<p class=\"summary\" hidden=\"hidden\">What would it look like to fly into the Orion Nebula? The exciting dynamic visualization of the Orion Nebula is based on real astronomical data and adept movie rendering techniques. Up close and personal with a famous stellar nursery normally seen from 1,500 light-years away, the digitally modeled representation based is based on infrared data from the Spitzer Space Telescope. The perspective moves along a valley over a light-year wide, in the wall of the region's giant molecular cloud. Orion's valley ends in a cavity carved by the energetic winds and radiation of the massive central stars of the Trapezium star cluster. The entire Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.</p><figure><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"540\" src=\"https://www.youtube.com/embed/ix1lzur2QLQ?rel=0\" title=\"YouTube video player\" width=\"960\"></iframe> <figcaption><p><b> Video Credit: </b> <a href=\"https://www.nasa.gov\">NASA</a>, <a href=\"https://www.spitzer.caltech.edu/\">Spitzer Space Telescope</a>, <a href=\"https://www.universe-of-learning.org/\">Universe of Learning</a>; <i> Visualization: </i> <a href=\"https://www.linkedin.com/in/frank-summers-0aa73012\">F. Summers</a> (<a href=\"https://www.stsci.edu/\">STScI</a>) <a href=\"https://youtu.be/ix1lzur2QLQ\">et al.</a>; <br> <i> Music &amp; <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">License</a>: </i> <a href=\"https://en.wikipedia.org/wiki/Serenade_for_Strings_(Dvo%C5%99%C3%A1k)\">Serenade for Strings</a> (<a href=\"https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k\">A. Dvo\u0159\u00e1k</a>), <a href=\"https://freemusicarchive.org/music/Advent_Chamber_Orchestra\">Advent Chamber Orch.</a> </p></figcaption></figure><p> <b> Explanation: </b> What would it look like to fly into the Orion Nebula? <a href=\"https://www.jpl.nasa.gov/spaceimages/ details.php?id=PIA22089\">The exciting dynamic visualization</a> of the Orion Nebula is based on real <a href=\"https://arxiv.org/abs/astro-ph/9808107\">astronomical data</a> and adept movie rendering techniques. Up close and personal with a famous stellar nursery <a href=\"ap090826.html\">normally seen</a> from 1,500 light-years away, the digitally modeled representation based is based on <a href=\"https://science.nasa.gov/ems/07_infraredwaves\">infrared</a> data from the <a href=\"https://www.spitzer.caltech.edu/science-themes/mission\">Spitzer Space Telescope</a>. The <a href=\"https://youtu.be/ix1lzur2QLQ\">perspective moves</a> along a valley over a light-year wide, in the wall of the region's giant <a href=\"https://en.wikipedia.org/wiki/Molecular_cloud\">molecular cloud</a>. Orion's valley ends in a cavity carved by the energetic <a href=\"https://astronomy.swin.edu.au/cosmos/s/stellar+winds\">winds</a> and <a href=\"https://www.nasa.gov/analogs/nsrl/why-space-radiation-matters\">radiation</a> of the massive central stars of the <a href=\"ap170312.html\">Trapezium star cluster</a>. The <a href=\"ap210322.html\">entire Orion Nebula</a> spans about 40 <a href=\"https://exoplanets.nasa.gov/faq/26/what-is-a-light-year/\">light year</a>s and is located in the same <a href=\"ap080606.html\">spiral arm</a> of our Galaxy as <a href=\"https://solarsystem.nasa.gov/solar-system/sun/by-the-numbers/\">the Sun</a>. </p><footer class=\"footnote\"> <hr><b> Authors &amp; editors: </b> <a href=\"http://www.phy.mtu.edu/faculty/Nemiroff.html\">Robert Nemiroff</a> (<a href=\"http://www.phy.mtu.edu/\">MTU</a>) &amp; <a href=\"https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html\">Jerry Bonnell</a> (<a href=\"http://www.astro.umd.edu/\">UMCP</a>)<br> <b>NASA Official: </b> Phillip Newman <a href=\"lib/about_apod.html#srapply\">Specific rights apply</a>. <a href=\"https://www.nasa.gov/about/highlights/HP_Privacy.html\">NASA Web Privacy Policy and Important Notices</a><br> <b>A service of:</b> <a href=\"https://astrophysics.gsfc.nasa.gov/\">ASD</a> at <a href=\"https://www.nasa.gov/\">NASA</a> / <a href=\"https://www.nasa.gov/centers/goddard/\">GSFC</a> &amp; <a href=\"http://www.mtu.edu/\">Michigan Tech. U.</a><br> </footer>",
+            "date_published": "2021-07-07T12:00:00Z",
+            "date_modified": "2021-07-07T10:05:37Z",
+            "tags": [
+                "Orion",
+                "visualization",
+                "infrared"
+            ],
+            "summary": "What would it look like to fly into the Orion Nebula? The exciting dynamic visualization of the Orion Nebula is based on real astronomical data and adept movie rendering techniques. Up close and personal with a famous stellar nursery normally seen from 1,500 light-years away, the digitally modeled representation based is based on infrared data from the Spitzer Space Telescope. The perspective moves along a valley over a light-year wide, in the wall of the region's giant molecular cloud. Orion's valley ends in a cavity carved by the energetic winds and radiation of the massive central stars of the Trapezium star cluster. The entire Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun."
+        },
         {
             "id": "https://apod.nasa.gov/apod/ap210706.html",
             "url": "https://apod.nasa.gov/apod/ap210706.html",
@@ -453,21 +450,23 @@
                 "clouds"
             ],
             "summary": "What do you see in the clouds of Jupiter? On the largest scale, circling the planet, Jupiter has alternating light zones and reddish-brown belts. Rising zone gas, mostly hydrogen and helium, usually swirls around regions of high pressure. Conversely, falling belt gas usually whirls around regions of low pressure, like cyclones and hurricanes on Earth. Belt storms can form into large and long-lasting white ovals and elongated red spots. NASA's robotic Juno spacecraft captured most of these cloud features in 2017 during perijove 6, its sixth pass over the giant planet in its looping 2-month orbit. But it is surely not these clouds themselves that draws your attention to the displayed image, but rather their arrangement. The face that stands out, nicknamed Jovey McJupiterFace, lasted perhaps a few weeks before the neighboring storm clouds rotated away. Juno has now completed 33 orbits around Jupiter and just yesterday made a close pass near Ganymede, our Solar System's largest moon."
+        }
+    ],
+    "title": "Astronomy Picture of the Day",
+    "home_page_url": "https://apod.nasa.gov/",
+    "description": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+    "authors": [
+        {
+            "name": "Robert Nemiroff (MTU)",
+            "url": "http://www.phy.mtu.edu/faculty/Nemiroff.html"
         },
         {
-            "id": "https://apod.nasa.gov/apod/ap210607.html",
-            "url": "https://apod.nasa.gov/apod/ap210607.html",
-            "title": "A Bright Nova in Cassiopeia",
-            "content_html": "<p class=\"summary\" hidden=\"hidden\">What\u2019s that new spot of light in Cassiopeia? A nova. Although novas occur frequently throughout the universe, this nova, known as Nova Cas 2021 or V1405 Cas, became so unusually bright in the skies of Earth last month that it was visible to the unaided eye. Nova Cas 2021 first brightened in mid-March but then, unexpectedly, became even brighter in mid-May and remained quite bright for about a week. The nova then faded back to early-May levels, but now is slightly brightening again and remains visible through binoculars. Identified by the arrow, the nova occurred toward the constellation of Cassiopeia, not far from the Bubble Nebula. A nova is typically caused by a thermonuclear explosion on the surface of a white dwarf star that is accreting matter from a binary-star companion -- although details of this outburst are currently unknown. Novas don't destroy the underlying star, and are sometimes seen to recur. The featured image was created from 14 hours of imaging from Detroit, Michigan, USA. Both professional and amateur astronomers will likely continue to monitor Nova Cas 2021 and hypothesize about details of its cause.</p><figure><a href=\"image/2106/NovaCasAndFriends_Ayoub_2230.jpg\" onmouseout=\"if (document.images) document.imagename1.src='image/2106/NovaCasAndFriends_Ayoub_960.jpg';\" onmouseover=\"if (document.images) document.imagename1.src='image/2106/NovaCasAndFriends_Ayoub_960_annotated.jpg';\"> <img alt=\"A deep image toward the constellation of Cassiopeia showing transient Nova Cas as it appeared in 2021 March. Please see the explanation for more detailed information.\" name=\"imagename1\" src=\"image/2106/NovaCasAndFriends_Ayoub_960.jpg\" style=\"max-width:100%\"></a> <figcaption><p><b> Image Credit &amp; Copyright: </b> <a href=\"https://www.instagram.com/chucksastrophotography/\">Chuck Ayoub</a> </p></figcaption></figure><p> <b> Explanation: </b> What\u2019s that new spot of light in Cassiopeia? A nova. Although <a href=\"https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html\">novas</a> occur frequently throughout the universe, this nova, known as <a href=\"https://skyandtelescope.org/astronomy-news/observing-news/bright-nova-erupts-in-cassiopeia/\">Nova Cas 2021</a> or V1405 Cas, became so unusually bright in the skies of Earth last month that it was visible to the <a href=\"https://www.visiondirect.co.uk/the-human-eye\">unaided eye</a>. Nova Cas 2021 first brightened in mid-March but then, unexpectedly, became even brighter in mid-May and remained <a href=\"https://app.aavso.org/webobs/results/?star=000-BNX-642&amp;num_results=200\">quite bright</a> for about a week. The nova then faded back to early-May levels, but now is slightly brightening again and <a href=\"https://www.aavso.org/LCGv2/\">remains visible</a> through binoculars. Identified by the arrow, the nova occurred toward the <a href=\"https://en.wikipedia.org/wiki/Cassiopeia_(constellation)\">constellation of Cassiopeia</a>, not far from the <a href=\"ap170531.html\">Bubble Nebula</a>. A nova is typically caused by a <a href=\"https://youtu.be/aHY2a145p0Y\">thermonuclear explosion</a> on the surface of a <a href=\"ap150517.html\">white dwarf star</a> that is <a href=\"ap200831.html\">accreting matter</a> from a <a href=\"https://astronomy.swin.edu.au/cosmos/b/binary+star\">binary-star</a> companion -- although details of this outburst are currently unknown. Novas don't destroy the underlying star, and are <a href=\"ap150111.html\">sometimes seen to recur</a>. The <a href=\"https://www.instagram.com/p/CPnkyX8p8sX/\">featured image</a> was created from 14 hours of imaging from <a href=\"https://youtu.be/k-dc-VQQwIA\">Detroit</a>, <a href=\"https://en.wikipedia.org/wiki/Michigan\">Michigan</a>, <a href=\"https://en.wikipedia.org/wiki/United_States\">USA</a>. Both professional and amateur astronomers will likely continue to monitor <a href=\"https://astronomy.com/news/observing/2021/03/observe-theres-a-new-nova-visible-in-cassiopeia\">Nova Cas 2021</a> and <a href=\"https://cdn.pixabay.com/photo/2019/09/04/08/24/cat-4451003_960_720.jpg\">hypothesize</a> about details of its cause. </p><footer class=\"footnote\"> <hr><b> Authors &amp; editors: </b> <a href=\"http://www.phy.mtu.edu/faculty/Nemiroff.html\">Robert Nemiroff</a> (<a href=\"http://www.phy.mtu.edu/\">MTU</a>) &amp; <a href=\"https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html\">Jerry Bonnell</a> (<a href=\"http://www.astro.umd.edu/\">UMCP</a>)<br> <b>NASA Official: </b> Phillip Newman <a href=\"lib/about_apod.html#srapply\">Specific rights apply</a>. <a href=\"https://www.nasa.gov/about/highlights/HP_Privacy.html\">NASA Web Privacy Policy and Important Notices</a><br> <b>A service of:</b> <a href=\"https://astrophysics.gsfc.nasa.gov/\">ASD</a> at <a href=\"https://www.nasa.gov/\">NASA</a> / <a href=\"https://www.nasa.gov/centers/goddard/\">GSFC</a> &amp; <a href=\"http://www.mtu.edu/\">Michigan Tech. U.</a><br> </footer>",
-            "date_published": "2021-06-07T12:00:00Z",
-            "date_modified": "2021-06-09T10:05:23Z",
-            "image": "https://apod.nasa.gov/apod/image/2106/NovaCasAndFriends_Ayoub_960.jpg",
-            "tags": [
-                "nova",
-                "Cassiopeia",
-                "Nova Cas 2021"
-            ],
-            "summary": "What\u2019s that new spot of light in Cassiopeia? A nova. Although novas occur frequently throughout the universe, this nova, known as Nova Cas 2021 or V1405 Cas, became so unusually bright in the skies of Earth last month that it was visible to the unaided eye. Nova Cas 2021 first brightened in mid-March but then, unexpectedly, became even brighter in mid-May and remained quite bright for about a week. The nova then faded back to early-May levels, but now is slightly brightening again and remains visible through binoculars. Identified by the arrow, the nova occurred toward the constellation of Cassiopeia, not far from the Bubble Nebula. A nova is typically caused by a thermonuclear explosion on the surface of a white dwarf star that is accreting matter from a binary-star companion -- although details of this outburst are currently unknown. Novas don't destroy the underlying star, and are sometimes seen to recur. The featured image was created from 14 hours of imaging from Detroit, Michigan, USA. Both professional and amateur astronomers will likely continue to monitor Nova Cas 2021 and hypothesize about details of its cause."
+            "name": "Jerry Bonnell (UMCP)",
+            "url": "https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html"
         }
-    ]
+    ],
+    "author": {
+        "name": "Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)"
+    },
+    "language": "en-US"
 }
