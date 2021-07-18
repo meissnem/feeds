@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/pickles.xml" rel="self"/>
-    <updated>2021-07-17T10:01:00Z</updated>
+    <updated>2021-07-18T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - July 18, 2021</title>
+        <link href="https://www.gocomics.com/pickles/2021/07/18"/>
+        <id>https://www.gocomics.com/pickles/2021/07/18</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2021-07-18T10:00:00Z</published>
+        <updated>2021-07-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/c5365310acfa0139643a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - July 17, 2021</title>
         <link href="https://www.gocomics.com/pickles/2021/07/17"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/60bd57704fc301394a21005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - March 20, 2021</title>
-        <link href="https://www.gocomics.com/pickles/2021/03/20"/>
-        <id>https://www.gocomics.com/pickles/2021/03/20</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2021-03-20T10:00:00Z</published>
-        <updated>2021-03-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/7ea7de8059b701394d07005056a9545d"/>
             </div>
         </content>
     </entry>
