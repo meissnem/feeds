@@ -5,13 +5,13 @@
 	<atom:link href="https://meissnem.github.io/feeds/ojst.xml" rel="self" type="application/rss+xml"/>
 	<link>https://www.ohjoysextoy.com</link>
 	<description>A Sex Education and Toy Review Comic</description>
-	<lastBuildDate>Tue, 20 Jul 2021 00:39:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Jul 2021 02:53:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Indie Stores</title>
 		<link>https://www.ohjoysextoy.com/indie-stores/</link>
@@ -32,6 +32,7 @@
 		<category><![CDATA[KuduVoodoo]]></category>
 		<category><![CDATA[small stores]]></category>
 		<category><![CDATA[Strange Bed Fellows]]></category>
+		<category><![CDATA[Strange Bedfellas]]></category>
 		<category><![CDATA[toy]]></category>
 		<category><![CDATA[Twilight Meadow Creations]]></category>
 		<category><![CDATA[Weredog]]></category>
