@@ -1,2 +1,4 @@
+.build-*.nosync/
+DESTDIR-*.nosync/
 .jekyll-cache/
 _site/
