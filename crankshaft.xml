@@ -3,11 +3,26 @@
     <title type="text">Crankshaft</title>
     <link href="https://kingfeatures.com/comics/comics-a-z/?id=Crankshaft" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/crankshaft.xml" rel="self"/>
-    <updated>2021-08-28T10:01:00Z</updated>
+    <updated>2021-08-29T10:01:00Z</updated>
     <author>
         <name>Tom Batiuk And Dan Davis</name>
     </author>
     <id>https://kingfeatures.com/comics/comics-a-z/?id=Crankshaft</id>
+    <entry>
+        <title type="text">Crankshaft - August 29, 2021</title>
+        <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA4L0NyYW5rc2hhZnRfaHQuMjAyMTA4MjlfMTUzNi5wbmc="/>
+        <id>http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA4L0NyYW5rc2hhZnRfaHQuMjAyMTA4MjlfMTUzNi5wbmc=</id>
+        <author>
+            <name>Tom Batiuk And Dan Davis</name>
+        </author>
+        <published>2021-08-29T10:00:00Z</published>
+        <updated>2021-08-29T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA4L0NyYW5rc2hhZnRfaHQuMjAyMTA4MjlfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Crankshaft - August 28, 2021</title>
         <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA4L0NyYW5rc2hhZnQuMjAyMTA4MjhfMTUzNi5wbmc="/>
@@ -1775,21 +1790,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA1L0NyYW5rc2hhZnRfaHQuMjAyMTA1MDJfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Crankshaft - May  1, 2021</title>
-        <link href="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA1L0NyYW5rc2hhZnQuMjAyMTA1MDFfMTUzNi5wbmc="/>
-        <id>http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA1L0NyYW5rc2hhZnQuMjAyMTA1MDFfMTUzNi5wbmc=</id>
-        <author>
-            <name>Tom Batiuk And Dan Davis</name>
-        </author>
-        <published>2021-05-01T10:00:00Z</published>
-        <updated>2021-05-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="http://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIxLzA1L0NyYW5rc2hhZnQuMjAyMTA1MDFfMTUzNi5wbmc="/>
             </div>
         </content>
     </entry>
