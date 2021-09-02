@@ -3,12 +3,27 @@
     <title type="text">Pickles</title>
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/pickles.xml" rel="self"/>
-    <updated>2021-09-01T10:01:00Z</updated>
+    <updated>2021-09-02T10:01:00Z</updated>
     <author>
         <name>Brian Crane</name>
     </author>
     <id>https://www.gocomics.com/pickles/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Pickles - September  2, 2021</title>
+        <link href="https://www.gocomics.com/pickles/2021/09/02"/>
+        <id>https://www.gocomics.com/pickles/2021/09/02</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2021-09-02T10:00:00Z</published>
+        <updated>2021-09-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/02ef8b60ddf601397160005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - September  1, 2021</title>
         <link href="https://www.gocomics.com/pickles/2021/09/01"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/4f94f9c080730139586d005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Pickles - May  5, 2021</title>
-        <link href="https://www.gocomics.com/pickles/2021/05/05"/>
-        <id>https://www.gocomics.com/pickles/2021/05/05</id>
-        <author>
-            <name>Brian Crane</name>
-        </author>
-        <published>2021-05-05T10:00:00Z</published>
-        <updated>2021-05-05T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/4cbc87f080730139586d005056a9545d"/>
             </div>
         </content>
     </entry>
