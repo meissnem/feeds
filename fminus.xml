@@ -3,12 +3,27 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self"/>
-    <updated>2021-09-30T10:01:00Z</updated>
+    <updated>2021-10-01T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - October  1, 2021</title>
+        <link href="https://www.gocomics.com/fminus/2021/10/01"/>
+        <id>https://www.gocomics.com/fminus/2021/10/01</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2021-10-01T10:00:00Z</published>
+        <updated>2021-10-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/0f47f2f0fc600139799a005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - September 30, 2021</title>
         <link href="https://www.gocomics.com/fminus/2021/09/30"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/abf475109efd01396091005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - June  3, 2021</title>
-        <link href="https://www.gocomics.com/fminus/2021/06/03"/>
-        <id>https://www.gocomics.com/fminus/2021/06/03</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2021-06-03T10:00:00Z</published>
-        <updated>2021-06-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/a90f41409efd01396091005056a9545d"/>
             </div>
         </content>
     </entry>
