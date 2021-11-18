@@ -3,12 +3,42 @@
     <title type="text">F Minus</title>
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self"/>
-    <updated>2021-11-16T10:01:00Z</updated>
+    <updated>2021-11-18T10:01:00Z</updated>
     <author>
         <name>Tony Carrillo</name>
     </author>
     <id>https://www.gocomics.com/fminus/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">F Minus - November 18, 2021</title>
+        <link href="https://www.gocomics.com/fminus/2021/11/18"/>
+        <id>https://www.gocomics.com/fminus/2021/11/18</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2021-11-18T10:00:00Z</published>
+        <updated>2021-11-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/298fa05022ef013a8428005056a9545d"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - November 17, 2021</title>
+        <link href="https://www.gocomics.com/fminus/2021/11/17"/>
+        <id>https://www.gocomics.com/fminus/2021/11/17</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2021-11-17T10:00:00Z</published>
+        <updated>2021-11-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/273cdb0022ef013a8428005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - November 16, 2021</title>
         <link href="https://www.gocomics.com/fminus/2021/11/16"/>
@@ -1776,36 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/9f930c10c56801396a89005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - July 21, 2021</title>
-        <link href="https://www.gocomics.com/fminus/2021/07/21"/>
-        <id>https://www.gocomics.com/fminus/2021/07/21</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2021-07-21T10:00:00Z</published>
-        <updated>2021-07-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/9cc6c180c56801396a89005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">F Minus - July 20, 2021</title>
-        <link href="https://www.gocomics.com/fminus/2021/07/20"/>
-        <id>https://www.gocomics.com/fminus/2021/07/20</id>
-        <author>
-            <name>Tony Carrillo</name>
-        </author>
-        <published>2021-07-20T10:00:00Z</published>
-        <updated>2021-07-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/99df57a0c56801396a89005056a9545d"/>
             </div>
         </content>
     </entry>
