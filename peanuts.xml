@@ -3,12 +3,27 @@
     <title type="text">Peanuts</title>
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self"/>
-    <updated>2021-11-19T10:01:00Z</updated>
+    <updated>2021-11-20T10:01:00Z</updated>
     <author>
         <name>Charles Schulz</name>
     </author>
     <id>https://www.gocomics.com/peanuts/</id>
     <icon>https://assets.gocomics.com/assets/favicons/apple-icon-180x180.png</icon>
+    <entry>
+        <title type="text">Peanuts - November 20, 2021</title>
+        <link href="https://www.gocomics.com/peanuts/2021/11/20"/>
+        <id>https://www.gocomics.com/peanuts/2021/11/20</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2021-11-20T10:00:00Z</published>
+        <updated>2021-11-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/5e067090230b013a8433005056a9545d"/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - November 19, 2021</title>
         <link href="https://www.gocomics.com/peanuts/2021/11/19"/>
@@ -1791,21 +1806,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img src="https://assets.amuniversal.com/b0e25090c15701396989005056a9545d"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Peanuts - July 23, 2021</title>
-        <link href="https://www.gocomics.com/peanuts/2021/07/23"/>
-        <id>https://www.gocomics.com/peanuts/2021/07/23</id>
-        <author>
-            <name>Charles Schulz</name>
-        </author>
-        <published>2021-07-23T10:00:00Z</published>
-        <updated>2021-07-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img src="https://assets.amuniversal.com/ae7ea270c15701396989005056a9545d"/>
             </div>
         </content>
     </entry>
