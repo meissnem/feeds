@@ -3,11 +3,26 @@
     <title type="text">Baby Blues</title>
     <link href="https://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/baby_blues.xml" rel="self"/>
-    <updated>2022-01-09T10:01:00Z</updated>
+    <updated>2022-01-10T10:01:00Z</updated>
     <author>
         <name>Rick Kirkman And Jerry Scott</name>
     </author>
     <id>https://kingfeatures.com/comics/comics-a-z/?id=Baby_Blues</id>
+    <entry>
+        <title type="text">Baby Blues - January 10, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjIvMDEvQmFieV9CbHVlcy4yMDIyMDExMF8xNTM2LnBuZw=="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjIvMDEvQmFieV9CbHVlcy4yMDIyMDExMF8xNTM2LnBuZw==</id>
+        <author>
+            <name>Rick Kirkman And Jerry Scott</name>
+        </author>
+        <published>2022-01-10T10:00:00Z</published>
+        <updated>2022-01-10T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjIvMDEvQmFieV9CbHVlcy4yMDIyMDExMF8xNTM2LnBuZw=="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Baby Blues - January  9, 2022</title>
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjIvMDEvQmFieV9CbHVlc19odC4yMDIyMDEwOV8xNTM2LnBuZw=="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjEvMDkvQmFieV9CbHVlcy4yMDIxMDkxM18xNTM2LnBuZw=="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Baby Blues - September 12, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjEvMDkvQmFieV9CbHVlc19odC4yMDIxMDkxMl8xNTM2LnBuZw=="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjEvMDkvQmFieV9CbHVlc19odC4yMDIxMDkxMl8xNTM2LnBuZw==</id>
-        <author>
-            <name>Rick Kirkman And Jerry Scott</name>
-        </author>
-        <published>2021-09-12T10:00:00Z</published>
-        <updated>2021-09-12T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=QmFieUJsdWVzLzIwMjEvMDkvQmFieV9CbHVlc19odC4yMDIxMDkxMl8xNTM2LnBuZw=="/>
             </div>
         </content>
     </entry>
