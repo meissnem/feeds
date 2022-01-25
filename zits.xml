@@ -3,11 +3,26 @@
     <title type="text">Zits</title>
     <link href="https://kingfeatures.com/comics/comics-a-z/?id=Zits" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/zits.xml" rel="self"/>
-    <updated>2022-01-24T10:01:00Z</updated>
+    <updated>2022-01-25T10:01:00Z</updated>
     <author>
         <name>Jerry Scott and Jim Borgman</name>
     </author>
     <id>https://kingfeatures.com/comics/comics-a-z/?id=Zits</id>
+    <entry>
+        <title type="text">Zits - January 25, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjVfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjVfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott and Jim Borgman</name>
+        </author>
+        <published>2022-01-25T10:00:00Z</published>
+        <updated>2022-01-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjVfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Zits - January 24, 2022</title>
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjRfMTUzNi5wbmc="/>
@@ -1790,21 +1805,6 @@
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzA5L1ppdHMuMjAyMTA5MjhfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - September 27, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzA5L1ppdHMuMjAyMTA5MjdfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzA5L1ppdHMuMjAyMTA5MjdfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-09-27T10:00:00Z</published>
-        <updated>2021-09-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzA5L1ppdHMuMjAyMTA5MjdfMTUzNi5wbmc="/>
             </div>
         </content>
     </entry>
