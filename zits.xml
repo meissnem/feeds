@@ -1,19 +1,334 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title type="text">Zits</title>
-    <link href="https://kingfeatures.com/comics/comics-a-z/?id=Zits" rel="alternate" type="text/html"/>
+    <link href="https://comicskingdom.com/zits" rel="alternate" type="text/html"/>
     <link href="https://meissnem.github.io/feeds/zits.xml" rel="self"/>
-    <updated>2022-02-11T10:01:00Z</updated>
+    <updated>2022-03-04T10:01:00Z</updated>
     <author>
-        <name>Jerry Scott and Jim Borgman</name>
+        <name>Jerry Scott &amp; Jim Borgman</name>
     </author>
-    <id>https://kingfeatures.com/comics/comics-a-z/?id=Zits</id>
+    <id>https://comicskingdom.com/zits</id>
+    <entry>
+        <title type="text">Zits - March  4, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDRfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDRfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-03-04T10:00:00Z</published>
+        <updated>2022-03-04T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDRfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - March  3, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDNfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDNfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-03-03T10:00:00Z</published>
+        <updated>2022-03-03T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDNfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - March  2, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDJfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDJfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-03-02T10:00:00Z</published>
+        <updated>2022-03-02T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDJfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - March  1, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDFfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDFfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-03-01T10:00:00Z</published>
+        <updated>2022-03-01T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAzL1ppdHMuMjAyMjAzMDFfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 28, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjhfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjhfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-28T10:00:00Z</published>
+        <updated>2022-02-28T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjhfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 27, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjI3XzE1MzYucG5n"/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjI3XzE1MzYucG5n</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-27T10:00:00Z</published>
+        <updated>2022-02-27T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjI3XzE1MzYucG5n"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 26, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjZfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjZfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-26T10:00:00Z</published>
+        <updated>2022-02-26T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjZfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 25, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjVfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjVfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-25T10:00:00Z</published>
+        <updated>2022-02-25T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjVfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 24, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjRfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjRfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-24T10:00:00Z</published>
+        <updated>2022-02-24T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjRfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 23, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjNfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjNfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-23T10:00:00Z</published>
+        <updated>2022-02-23T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjNfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 22, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjJfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjJfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-22T10:00:00Z</published>
+        <updated>2022-02-22T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjJfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 21, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjFfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjFfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-21T10:00:00Z</published>
+        <updated>2022-02-21T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMjFfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 20, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjIwXzE1MzYucG5n"/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjIwXzE1MzYucG5n</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-20T10:00:00Z</published>
+        <updated>2022-02-20T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjIwXzE1MzYucG5n"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 19, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTlfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTlfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-19T10:00:00Z</published>
+        <updated>2022-02-19T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTlfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 18, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMThfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMThfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-18T10:00:00Z</published>
+        <updated>2022-02-18T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMThfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 17, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTdfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTdfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-17T10:00:00Z</published>
+        <updated>2022-02-17T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTdfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 16, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTZfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTZfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-16T10:00:00Z</published>
+        <updated>2022-02-16T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTZfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 15, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTVfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTVfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-15T10:00:00Z</published>
+        <updated>2022-02-15T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTVfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 14, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTRfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTRfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-14T10:00:00Z</published>
+        <updated>2022-02-14T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTRfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 13, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjEzXzE1MzYucG5n"/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjEzXzE1MzYucG5n</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-13T10:00:00Z</published>
+        <updated>2022-02-13T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjEzXzE1MzYucG5n"/>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Zits - February 12, 2022</title>
+        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTJfMTUzNi5wbmc="/>
+        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTJfMTUzNi5wbmc=</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-02-12T10:00:00Z</published>
+        <updated>2022-02-12T10:00:00Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTJfMTUzNi5wbmc="/>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Zits - February 11, 2022</title>
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-11T10:00:00Z</published>
         <updated>2022-02-11T10:00:00Z</updated>
@@ -28,7 +343,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMTBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-10T10:00:00Z</published>
         <updated>2022-02-10T10:00:00Z</updated>
@@ -43,7 +358,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-09T10:00:00Z</published>
         <updated>2022-02-09T10:00:00Z</updated>
@@ -58,7 +373,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-08T10:00:00Z</published>
         <updated>2022-02-08T10:00:00Z</updated>
@@ -73,7 +388,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-07T10:00:00Z</published>
         <updated>2022-02-07T10:00:00Z</updated>
@@ -88,7 +403,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjA2XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHNfbnRiLjIwMjIwMjA2XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-06T10:00:00Z</published>
         <updated>2022-02-06T10:00:00Z</updated>
@@ -103,7 +418,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-05T10:00:00Z</published>
         <updated>2022-02-05T10:00:00Z</updated>
@@ -118,7 +433,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-04T10:00:00Z</published>
         <updated>2022-02-04T10:00:00Z</updated>
@@ -133,7 +448,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-03T10:00:00Z</published>
         <updated>2022-02-03T10:00:00Z</updated>
@@ -148,7 +463,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-02T10:00:00Z</published>
         <updated>2022-02-02T10:00:00Z</updated>
@@ -163,7 +478,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAyL1ppdHMuMjAyMjAyMDFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-02-01T10:00:00Z</published>
         <updated>2022-02-01T10:00:00Z</updated>
@@ -178,7 +493,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMzFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMzFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-31T10:00:00Z</published>
         <updated>2022-01-31T10:00:00Z</updated>
@@ -193,7 +508,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTMwXzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTMwXzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-30T10:00:00Z</published>
         <updated>2022-01-30T10:00:00Z</updated>
@@ -208,7 +523,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-29T10:00:00Z</published>
         <updated>2022-01-29T10:00:00Z</updated>
@@ -223,7 +538,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-28T10:00:00Z</published>
         <updated>2022-01-28T10:00:00Z</updated>
@@ -238,7 +553,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-27T10:00:00Z</published>
         <updated>2022-01-27T10:00:00Z</updated>
@@ -253,7 +568,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-26T10:00:00Z</published>
         <updated>2022-01-26T10:00:00Z</updated>
@@ -268,7 +583,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-25T10:00:00Z</published>
         <updated>2022-01-25T10:00:00Z</updated>
@@ -283,7 +598,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-24T10:00:00Z</published>
         <updated>2022-01-24T10:00:00Z</updated>
@@ -298,7 +613,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTIzXzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTIzXzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-23T10:00:00Z</published>
         <updated>2022-01-23T10:00:00Z</updated>
@@ -313,7 +628,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-22T10:00:00Z</published>
         <updated>2022-01-22T10:00:00Z</updated>
@@ -328,7 +643,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-21T10:00:00Z</published>
         <updated>2022-01-21T10:00:00Z</updated>
@@ -343,7 +658,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMjBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-20T10:00:00Z</published>
         <updated>2022-01-20T10:00:00Z</updated>
@@ -358,7 +673,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-19T10:00:00Z</published>
         <updated>2022-01-19T10:00:00Z</updated>
@@ -373,7 +688,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMThfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMThfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-18T10:00:00Z</published>
         <updated>2022-01-18T10:00:00Z</updated>
@@ -388,7 +703,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-17T10:00:00Z</published>
         <updated>2022-01-17T10:00:00Z</updated>
@@ -403,7 +718,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTE2XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTE2XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-16T10:00:00Z</published>
         <updated>2022-01-16T10:00:00Z</updated>
@@ -418,7 +733,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-15T10:00:00Z</published>
         <updated>2022-01-15T10:00:00Z</updated>
@@ -433,7 +748,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-14T10:00:00Z</published>
         <updated>2022-01-14T10:00:00Z</updated>
@@ -448,7 +763,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-13T10:00:00Z</published>
         <updated>2022-01-13T10:00:00Z</updated>
@@ -463,7 +778,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-12T10:00:00Z</published>
         <updated>2022-01-12T10:00:00Z</updated>
@@ -478,7 +793,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-11T10:00:00Z</published>
         <updated>2022-01-11T10:00:00Z</updated>
@@ -493,7 +808,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMTBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-10T10:00:00Z</published>
         <updated>2022-01-10T10:00:00Z</updated>
@@ -508,7 +823,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTA5XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTA5XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-09T10:00:00Z</published>
         <updated>2022-01-09T10:00:00Z</updated>
@@ -523,7 +838,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-08T10:00:00Z</published>
         <updated>2022-01-08T10:00:00Z</updated>
@@ -538,7 +853,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-07T10:00:00Z</published>
         <updated>2022-01-07T10:00:00Z</updated>
@@ -553,7 +868,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-06T10:00:00Z</published>
         <updated>2022-01-06T10:00:00Z</updated>
@@ -568,7 +883,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-05T10:00:00Z</published>
         <updated>2022-01-05T10:00:00Z</updated>
@@ -583,7 +898,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-04T10:00:00Z</published>
         <updated>2022-01-04T10:00:00Z</updated>
@@ -598,7 +913,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-03T10:00:00Z</published>
         <updated>2022-01-03T10:00:00Z</updated>
@@ -613,7 +928,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTAyXzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHNfbnRiLjIwMjIwMTAyXzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-02T10:00:00Z</published>
         <updated>2022-01-02T10:00:00Z</updated>
@@ -628,7 +943,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzAxL1ppdHMuMjAyMjAxMDFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2022-01-01T10:00:00Z</published>
         <updated>2022-01-01T10:00:00Z</updated>
@@ -643,7 +958,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMzFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMzFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-31T10:00:00Z</published>
         <updated>2021-12-31T10:00:00Z</updated>
@@ -658,7 +973,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMzBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMzBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-30T10:00:00Z</published>
         <updated>2021-12-30T10:00:00Z</updated>
@@ -673,7 +988,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-29T10:00:00Z</published>
         <updated>2021-12-29T10:00:00Z</updated>
@@ -688,7 +1003,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-28T10:00:00Z</published>
         <updated>2021-12-28T10:00:00Z</updated>
@@ -703,7 +1018,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-27T10:00:00Z</published>
         <updated>2021-12-27T10:00:00Z</updated>
@@ -718,7 +1033,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjI2XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjI2XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-26T10:00:00Z</published>
         <updated>2021-12-26T10:00:00Z</updated>
@@ -733,7 +1048,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-25T10:00:00Z</published>
         <updated>2021-12-25T10:00:00Z</updated>
@@ -748,7 +1063,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-24T10:00:00Z</published>
         <updated>2021-12-24T10:00:00Z</updated>
@@ -763,7 +1078,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-23T10:00:00Z</published>
         <updated>2021-12-23T10:00:00Z</updated>
@@ -778,7 +1093,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-22T10:00:00Z</published>
         <updated>2021-12-22T10:00:00Z</updated>
@@ -793,7 +1108,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-21T10:00:00Z</published>
         <updated>2021-12-21T10:00:00Z</updated>
@@ -808,7 +1123,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMjBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-20T10:00:00Z</published>
         <updated>2021-12-20T10:00:00Z</updated>
@@ -823,7 +1138,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjE5XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjE5XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-19T10:00:00Z</published>
         <updated>2021-12-19T10:00:00Z</updated>
@@ -838,7 +1153,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMThfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMThfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-18T10:00:00Z</published>
         <updated>2021-12-18T10:00:00Z</updated>
@@ -853,7 +1168,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-17T10:00:00Z</published>
         <updated>2021-12-17T10:00:00Z</updated>
@@ -868,7 +1183,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-16T10:00:00Z</published>
         <updated>2021-12-16T10:00:00Z</updated>
@@ -883,7 +1198,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-15T10:00:00Z</published>
         <updated>2021-12-15T10:00:00Z</updated>
@@ -898,7 +1213,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-14T10:00:00Z</published>
         <updated>2021-12-14T10:00:00Z</updated>
@@ -913,7 +1228,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-13T10:00:00Z</published>
         <updated>2021-12-13T10:00:00Z</updated>
@@ -928,7 +1243,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjEyXzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjEyXzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-12T10:00:00Z</published>
         <updated>2021-12-12T10:00:00Z</updated>
@@ -943,7 +1258,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-11T10:00:00Z</published>
         <updated>2021-12-11T10:00:00Z</updated>
@@ -958,7 +1273,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMTBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-10T10:00:00Z</published>
         <updated>2021-12-10T10:00:00Z</updated>
@@ -973,7 +1288,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-09T10:00:00Z</published>
         <updated>2021-12-09T10:00:00Z</updated>
@@ -988,7 +1303,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-08T10:00:00Z</published>
         <updated>2021-12-08T10:00:00Z</updated>
@@ -1003,7 +1318,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-07T10:00:00Z</published>
         <updated>2021-12-07T10:00:00Z</updated>
@@ -1018,7 +1333,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-06T10:00:00Z</published>
         <updated>2021-12-06T10:00:00Z</updated>
@@ -1033,7 +1348,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjA1XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHNfbnRiLjIwMjExMjA1XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-05T10:00:00Z</published>
         <updated>2021-12-05T10:00:00Z</updated>
@@ -1048,7 +1363,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-04T10:00:00Z</published>
         <updated>2021-12-04T10:00:00Z</updated>
@@ -1063,7 +1378,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-03T10:00:00Z</published>
         <updated>2021-12-03T10:00:00Z</updated>
@@ -1078,7 +1393,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-02T10:00:00Z</published>
         <updated>2021-12-02T10:00:00Z</updated>
@@ -1093,7 +1408,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEyL1ppdHMuMjAyMTEyMDFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-12-01T10:00:00Z</published>
         <updated>2021-12-01T10:00:00Z</updated>
@@ -1108,7 +1423,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMzBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMzBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-30T10:00:00Z</published>
         <updated>2021-11-30T10:00:00Z</updated>
@@ -1123,7 +1438,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-29T10:00:00Z</published>
         <updated>2021-11-29T10:00:00Z</updated>
@@ -1138,7 +1453,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTI4XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTI4XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-28T10:00:00Z</published>
         <updated>2021-11-28T10:00:00Z</updated>
@@ -1153,7 +1468,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-27T10:00:00Z</published>
         <updated>2021-11-27T10:00:00Z</updated>
@@ -1168,7 +1483,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-26T10:00:00Z</published>
         <updated>2021-11-26T10:00:00Z</updated>
@@ -1183,7 +1498,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-25T10:00:00Z</published>
         <updated>2021-11-25T10:00:00Z</updated>
@@ -1198,7 +1513,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjRfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjRfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-24T10:00:00Z</published>
         <updated>2021-11-24T10:00:00Z</updated>
@@ -1213,7 +1528,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-23T10:00:00Z</published>
         <updated>2021-11-23T10:00:00Z</updated>
@@ -1228,7 +1543,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-22T10:00:00Z</published>
         <updated>2021-11-22T10:00:00Z</updated>
@@ -1243,7 +1558,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTIxXzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTIxXzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-21T10:00:00Z</published>
         <updated>2021-11-21T10:00:00Z</updated>
@@ -1258,7 +1573,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMjBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-20T10:00:00Z</published>
         <updated>2021-11-20T10:00:00Z</updated>
@@ -1273,7 +1588,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-19T10:00:00Z</published>
         <updated>2021-11-19T10:00:00Z</updated>
@@ -1288,7 +1603,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMThfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMThfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-18T10:00:00Z</published>
         <updated>2021-11-18T10:00:00Z</updated>
@@ -1303,7 +1618,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTdfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTdfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-17T10:00:00Z</published>
         <updated>2021-11-17T10:00:00Z</updated>
@@ -1318,7 +1633,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-16T10:00:00Z</published>
         <updated>2021-11-16T10:00:00Z</updated>
@@ -1333,7 +1648,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-15T10:00:00Z</published>
         <updated>2021-11-15T10:00:00Z</updated>
@@ -1348,7 +1663,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTE0XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTE0XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-14T10:00:00Z</published>
         <updated>2021-11-14T10:00:00Z</updated>
@@ -1363,7 +1678,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTNfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTNfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-13T10:00:00Z</published>
         <updated>2021-11-13T10:00:00Z</updated>
@@ -1378,7 +1693,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTJfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTJfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-12T10:00:00Z</published>
         <updated>2021-11-12T10:00:00Z</updated>
@@ -1393,7 +1708,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTFfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTFfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-11T10:00:00Z</published>
         <updated>2021-11-11T10:00:00Z</updated>
@@ -1408,7 +1723,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTBfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMTBfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-10T10:00:00Z</published>
         <updated>2021-11-10T10:00:00Z</updated>
@@ -1423,7 +1738,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDlfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDlfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-09T10:00:00Z</published>
         <updated>2021-11-09T10:00:00Z</updated>
@@ -1438,7 +1753,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDhfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDhfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-08T10:00:00Z</published>
         <updated>2021-11-08T10:00:00Z</updated>
@@ -1453,7 +1768,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTA3XzE1MzYucG5n"/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHNfbnRiLjIwMjExMTA3XzE1MzYucG5n</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-07T10:00:00Z</published>
         <updated>2021-11-07T10:00:00Z</updated>
@@ -1468,7 +1783,7 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDZfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDZfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-06T10:00:00Z</published>
         <updated>2021-11-06T10:00:00Z</updated>
@@ -1483,328 +1798,13 @@
         <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDVfMTUzNi5wbmc="/>
         <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDVfMTUzNi5wbmc=</id>
         <author>
-            <name>Jerry Scott and Jim Borgman</name>
+            <name>Jerry Scott &amp; Jim Borgman</name>
         </author>
         <published>2021-11-05T10:00:00Z</published>
         <updated>2021-11-05T10:00:00Z</updated>
         <content type="xhtml">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDVfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - November  4, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDRfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDRfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-11-04T10:00:00Z</published>
-        <updated>2021-11-04T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDRfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - November  3, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDNfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDNfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-11-03T10:00:00Z</published>
-        <updated>2021-11-03T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDNfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - November  2, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDJfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDJfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-11-02T10:00:00Z</published>
-        <updated>2021-11-02T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDJfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - November  1, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDFfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDFfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-11-01T10:00:00Z</published>
-        <updated>2021-11-01T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzExL1ppdHMuMjAyMTExMDFfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 31, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDMxXzE1MzYucG5n"/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDMxXzE1MzYucG5n</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-31T10:00:00Z</published>
-        <updated>2021-10-31T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDMxXzE1MzYucG5n"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 30, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMzBfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMzBfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-30T10:00:00Z</published>
-        <updated>2021-10-30T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMzBfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 29, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjlfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjlfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-29T10:00:00Z</published>
-        <updated>2021-10-29T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjlfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 28, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjhfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjhfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-28T10:00:00Z</published>
-        <updated>2021-10-28T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjhfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 27, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjdfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjdfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-27T10:00:00Z</published>
-        <updated>2021-10-27T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjdfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 26, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjZfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjZfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-26T10:00:00Z</published>
-        <updated>2021-10-26T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjZfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 25, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjVfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjVfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-25T10:00:00Z</published>
-        <updated>2021-10-25T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjVfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 24, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDI0XzE1MzYucG5n"/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDI0XzE1MzYucG5n</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-24T10:00:00Z</published>
-        <updated>2021-10-24T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDI0XzE1MzYucG5n"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 23, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjNfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjNfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-23T10:00:00Z</published>
-        <updated>2021-10-23T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjNfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 22, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjJfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjJfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-22T10:00:00Z</published>
-        <updated>2021-10-22T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjJfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 21, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjFfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjFfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-21T10:00:00Z</published>
-        <updated>2021-10-21T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjFfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 20, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjBfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjBfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-20T10:00:00Z</published>
-        <updated>2021-10-20T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMjBfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 19, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTlfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTlfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-19T10:00:00Z</published>
-        <updated>2021-10-19T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTlfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 18, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMThfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMThfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-18T10:00:00Z</published>
-        <updated>2021-10-18T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMThfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 17, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDE3XzE1MzYucG5n"/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDE3XzE1MzYucG5n</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-17T10:00:00Z</published>
-        <updated>2021-10-17T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHNfbnRiLjIwMjExMDE3XzE1MzYucG5n"/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 16, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTZfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTZfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-16T10:00:00Z</published>
-        <updated>2021-10-16T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTZfMTUzNi5wbmc="/>
-            </div>
-        </content>
-    </entry>
-    <entry>
-        <title type="text">Zits - October 15, 2021</title>
-        <link href="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTVfMTUzNi5wbmc="/>
-        <id>https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTVfMTUzNi5wbmc=</id>
-        <author>
-            <name>Jerry Scott and Jim Borgman</name>
-        </author>
-        <published>2021-10-15T10:00:00Z</published>
-        <updated>2021-10-15T10:00:00Z</updated>
-        <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <img border="0" src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIxLzEwL1ppdHMuMjAyMTEwMTVfMTUzNi5wbmc="/>
             </div>
         </content>
     </entry>
