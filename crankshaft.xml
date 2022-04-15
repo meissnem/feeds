@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/crankshaft.xml" rel="self" />
     <link href="https://comicskingdom.com/crankshaft" rel="alternate" type="text/html" />
-    <updated>2022-04-14T16:00:28.567326+00:00</updated>
+    <updated>2022-04-15T14:01:36.836999+00:00</updated>
     <id>https://comicskingdom.com/crankshaft</id>
+    <entry>
+        <title type="text">Crankshaft - April 16, 2022</title>
+        <link href="https://comicskingdom.com/crankshaft/2022-04-16" />
+        <id>https://comicskingdom.com/crankshaft/2022-04-16</id>
+        <author>
+            <name>Tom Batiuk and Dan Davis</name>
+        </author>
+        <published>2022-04-16T05:00:00-05:00</published>
+        <updated>2022-04-16T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIyLzA0L0NyYW5rc2hhZnQuMjAyMjA0MTZfMTUzNi5wbmc=" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Crankshaft - April 15, 2022</title>
         <link href="https://comicskingdom.com/crankshaft/2022-04-15" />
