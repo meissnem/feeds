@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2022-04-19T15:32:14.501534+00:00</updated>
+    <updated>2022-04-20T09:00:17.822811+00:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - April 21, 1987</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1987/04/21" />
+        <id>https://www.gocomics.com/calvinandhobbes/1987/04/21</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1987-04-21T05:00:00-05:00</published>
+        <updated>1987-04-21T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/b0650600deba01317193005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - April 20, 1987</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1987/04/20" />
