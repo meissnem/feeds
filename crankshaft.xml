@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/crankshaft.xml" rel="self" />
     <link href="https://comicskingdom.com/crankshaft" rel="alternate" type="text/html" />
-    <updated>2022-05-30T09:00:12.344909+00:00</updated>
+    <updated>2022-06-01T15:03:43.458457+00:00</updated>
     <id>https://comicskingdom.com/crankshaft</id>
+    <entry>
+        <title type="text">Crankshaft - June  2, 2022</title>
+        <link href="https://comicskingdom.com/crankshaft/2022-06-02" />
+        <id>https://comicskingdom.com/crankshaft/2022-06-02</id>
+        <author>
+            <name>Tom Batiuk and Dan Davis</name>
+        </author>
+        <published>2022-06-02T05:00:00-05:00</published>
+        <updated>2022-06-02T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIyLzA2L0NyYW5rc2hhZnQuMjAyMjA2MDJfMTUzNi5wbmc=" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Crankshaft - June  1, 2022</title>
+        <link href="https://comicskingdom.com/crankshaft/2022-06-01" />
+        <id>https://comicskingdom.com/crankshaft/2022-06-01</id>
+        <author>
+            <name>Tom Batiuk and Dan Davis</name>
+        </author>
+        <published>2022-06-01T05:00:00-05:00</published>
+        <updated>2022-06-01T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Q3JhbmtzaGFmdC8yMDIyLzA2L0NyYW5rc2hhZnQuMjAyMjA2MDFfMTUzNi5wbmc=" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Crankshaft - May 31, 2022</title>
         <link href="https://comicskingdom.com/crankshaft/2022-05-31" />
