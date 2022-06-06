@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2022-06-05T09:00:17.967919+00:00</updated>
+    <updated>2022-06-06T09:00:17.238538+00:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - June  6, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/06/06" />
+        <id>https://www.gocomics.com/peanuts/2022/06/06</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-06-06T05:00:00-05:00</published>
+        <updated>2022-06-06T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/b79d8e20b900013aab49005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - June  5, 2022</title>
         <link href="https://www.gocomics.com/peanuts/2022/06/05" />
