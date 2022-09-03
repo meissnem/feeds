@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2022-09-01T09:00:22.134573+00:00</updated>
+    <updated>2022-09-03T09:00:26.549640+00:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - September  3, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/09/03" />
+        <id>https://www.gocomics.com/peanuts/2022/09/03</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-09-03T05:00:00-05:00</published>
+        <updated>2022-09-03T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/96415e70fbd5013abc9a005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - September  2, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/09/02" />
+        <id>https://www.gocomics.com/peanuts/2022/09/02</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-09-02T05:00:00-05:00</published>
+        <updated>2022-09-02T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/93e32620fbd5013abc9a005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - September  1, 2022</title>
         <link href="https://www.gocomics.com/peanuts/2022/09/01" />
