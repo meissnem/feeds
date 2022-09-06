@@ -6,8 +6,53 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2022-09-03T09:00:26.549640+00:00</updated>
+    <updated>2022-09-06T09:00:32.938363+00:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - September  6, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/09/06" />
+        <id>https://www.gocomics.com/peanuts/2022/09/06</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-09-06T05:00:00-05:00</published>
+        <updated>2022-09-06T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/612c4b400514013bbf71005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - September  5, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/09/05" />
+        <id>https://www.gocomics.com/peanuts/2022/09/05</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-09-05T05:00:00-05:00</published>
+        <updated>2022-09-05T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/02cb25800516013bbf71005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - September  4, 2022</title>
+        <link href="https://www.gocomics.com/peanuts/2022/09/04" />
+        <id>https://www.gocomics.com/peanuts/2022/09/04</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2022-09-04T05:00:00-05:00</published>
+        <updated>2022-09-04T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/31a480a0ef48013ab99b005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - September  3, 2022</title>
         <link href="https://www.gocomics.com/peanuts/2022/09/03" />
