@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self" />
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html" />
-    <updated>2022-09-30T09:00:16.224622+00:00</updated>
+    <updated>2022-10-02T09:00:22.862044+00:00</updated>
     <id>https://www.gocomics.com/fminus</id>
+    <entry>
+        <title type="text">F Minus - October  2, 2022</title>
+        <link href="https://www.gocomics.com/fminus/2022/10/02" />
+        <id>https://www.gocomics.com/fminus/2022/10/02</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2022-10-02T05:00:00-05:00</published>
+        <updated>2022-10-02T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2ae7a4300a01013bc0c1005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">F Minus - October  1, 2022</title>
+        <link href="https://www.gocomics.com/fminus/2022/10/01" />
+        <id>https://www.gocomics.com/fminus/2022/10/01</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2022-10-01T05:00:00-05:00</published>
+        <updated>2022-10-01T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/9e2d4b501688013bc42c005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - September 30, 2022</title>
         <link href="https://www.gocomics.com/fminus/2022/09/30" />
