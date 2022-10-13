@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts-begins.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts-begins" rel="alternate" type="text/html" />
-    <updated>2022-10-11T09:00:20.974268+00:00</updated>
+    <updated>2022-10-13T09:00:28.745596+00:00</updated>
     <id>https://www.gocomics.com/peanuts-begins</id>
+    <entry>
+        <title type="text">Peanuts Begins - October 14, 1952</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1952/10/14" />
+        <id>https://www.gocomics.com/peanuts-begins/1952/10/14</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>1952-10-14T05:00:00-06:00</published>
+        <updated>1952-10-14T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/390318d0dd6a0133501f005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts Begins - October 13, 1952</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1952/10/13" />
+        <id>https://www.gocomics.com/peanuts-begins/1952/10/13</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>1952-10-13T05:00:00-06:00</published>
+        <updated>1952-10-13T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/37669dc0dd6a0133501f005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts Begins - October 12, 1952</title>
         <link href="https://www.gocomics.com/peanuts-begins/1952/10/12" />
