@@ -6,8 +6,53 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2022-10-23T09:00:12.772043+00:00</updated>
+    <updated>2022-10-26T09:00:20.101512+00:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - October 27, 1987</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1987/10/27" />
+        <id>https://www.gocomics.com/calvinandhobbes/1987/10/27</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1987-10-27T05:00:00-06:00</published>
+        <updated>1987-10-27T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/a16a19e0debb01317193005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - October 26, 1987</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1987/10/26" />
+        <id>https://www.gocomics.com/calvinandhobbes/1987/10/26</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1987-10-26T05:00:00-06:00</published>
+        <updated>1987-10-26T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/a007c6b0debb01317193005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - October 25, 1987</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1987/10/25" />
+        <id>https://www.gocomics.com/calvinandhobbes/1987/10/25</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1987-10-25T05:00:00-06:00</published>
+        <updated>1987-10-25T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ca901330ded9013171bc005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - October 24, 1987</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1987/10/24" />
