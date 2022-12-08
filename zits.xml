@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/zits.xml" rel="self" />
     <link href="https://comicskingdom.com/zits" rel="alternate" type="text/html" />
-    <updated>2022-12-07T10:00:24.548283+00:00</updated>
+    <updated>2022-12-08T10:00:22.650734+00:00</updated>
     <id>https://comicskingdom.com/zits</id>
+    <entry>
+        <title type="text">Zits - December  9, 2022</title>
+        <link href="https://comicskingdom.com/zits/2022-12-09" />
+        <id>https://comicskingdom.com/zits/2022-12-09</id>
+        <author>
+            <name>Jerry Scott &amp; Jim Borgman</name>
+        </author>
+        <published>2022-12-09T05:00:00-06:00</published>
+        <updated>2022-12-09T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://safr.kingfeatures.com/api/img.php?e=png&amp;s=c&amp;file=Wml0cy8yMDIyLzEyL1ppdHMuMjAyMjEyMDlfMTUzNi5wbmc=" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Zits - December  8, 2022</title>
         <link href="https://comicskingdom.com/zits/2022-12-08" />
