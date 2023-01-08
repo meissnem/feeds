@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts-begins.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts-begins" rel="alternate" type="text/html" />
-    <updated>2023-01-07T10:00:24.792788+00:00</updated>
+    <updated>2023-01-08T10:00:23.508199+00:00</updated>
     <id>https://www.gocomics.com/peanuts-begins</id>
+    <entry>
+        <title type="text">Peanuts Begins - January  9, 1953</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1953/01/09" />
+        <id>https://www.gocomics.com/peanuts-begins/1953/01/09</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>1953-01-09T05:00:00-06:00</published>
+        <updated>1953-01-09T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2e729cd0dd6b0133501f005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts Begins - January  8, 1953</title>
         <link href="https://www.gocomics.com/peanuts-begins/1953/01/08" />

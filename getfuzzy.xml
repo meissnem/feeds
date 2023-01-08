@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/getfuzzy.xml" rel="self" />
     <link href="https://www.gocomics.com/getfuzzy" rel="alternate" type="text/html" />
-    <updated>2023-01-01T10:00:18.739552+00:00</updated>
+    <updated>2023-01-08T10:00:19.811065+00:00</updated>
     <id>https://www.gocomics.com/getfuzzy</id>
+    <entry>
+        <title type="text">Get Fuzzy - January  8, 2023</title>
+        <link href="https://www.gocomics.com/getfuzzy/2023/01/08" />
+        <id>https://www.gocomics.com/getfuzzy/2023/01/08</id>
+        <author>
+            <name>DarConley</name>
+        </author>
+        <published>2023-01-08T05:00:00-06:00</published>
+        <updated>2023-01-08T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d9869de0589e013bd458005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Get Fuzzy - January  1, 2023</title>
         <link href="https://www.gocomics.com/getfuzzy/2023/01/01" />
