@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2023-02-16T10:00:14.885402+00:00</updated>
+    <updated>2023-02-18T10:00:24.428538+00:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - February 19, 1988</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1988/02/19" />
+        <id>https://www.gocomics.com/calvinandhobbes/1988/02/19</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1988-02-19T05:00:00-06:00</published>
+        <updated>1988-02-19T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d1a27c90dec10131719a005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - February 18, 1988</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1988/02/18" />
+        <id>https://www.gocomics.com/calvinandhobbes/1988/02/18</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>1988-02-18T05:00:00-06:00</published>
+        <updated>1988-02-18T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d0156890dec10131719a005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - February 17, 1988</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1988/02/17" />
