@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/stonesoup.xml" rel="self" />
     <link href="https://www.gocomics.com/stonesoup" rel="alternate" type="text/html" />
-    <updated>2023-03-12T09:00:40.330286+00:00</updated>
+    <updated>2023-03-19T09:00:42.719680+00:00</updated>
     <id>https://www.gocomics.com/stonesoup</id>
+    <entry>
+        <title type="text">Stone Soup - March 19, 2023</title>
+        <link href="https://www.gocomics.com/stonesoup/2023/03/19" />
+        <id>https://www.gocomics.com/stonesoup/2023/03/19</id>
+        <author>
+            <name>Jan Eliot</name>
+        </author>
+        <published>2023-03-19T05:00:00-05:00</published>
+        <updated>2023-03-19T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/9e2f63108954013be378005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Stone Soup - March 12, 2023</title>
         <link href="https://www.gocomics.com/stonesoup/2023/03/12" />
