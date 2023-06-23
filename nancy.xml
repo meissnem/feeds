@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/nancy.xml" rel="self" />
     <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html" />
-    <updated>2023-06-22T09:00:46.981743+00:00</updated>
+    <updated>2023-06-23T09:02:08.833144+00:00</updated>
     <id>https://www.gocomics.com/nancy</id>
+    <entry>
+        <title type="text">Nancy - June 23, 2023</title>
+        <link href="https://www.gocomics.com/nancy/2023/06/23" />
+        <id>https://www.gocomics.com/nancy/2023/06/23</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2023-06-23T05:00:00-05:00</published>
+        <updated>2023-06-23T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/82f011e0eb66013b016a005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - June 22, 2023</title>
         <link href="https://www.gocomics.com/nancy/2023/06/22" />
