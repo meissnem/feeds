@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts-begins.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts-begins" rel="alternate" type="text/html" />
-    <updated>2023-06-24T09:00:48.363043+00:00</updated>
+    <updated>2023-06-26T14:00:21.945770+00:00</updated>
     <id>https://www.gocomics.com/peanuts-begins</id>
+    <entry>
+        <title type="text">Peanuts Begins - June 27, 1953</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1953/06/27" />
+        <id>https://www.gocomics.com/peanuts-begins/1953/06/27</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>1953-06-27T05:00:00-05:00</published>
+        <updated>1953-06-27T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/119994e0dd6c0133501f005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts Begins - June 26, 1953</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1953/06/26" />
+        <id>https://www.gocomics.com/peanuts-begins/1953/06/26</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>1953-06-26T05:00:00-05:00</published>
+        <updated>1953-06-26T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/1051a1f0dd6c0133501f005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts Begins - June 25, 1953</title>
         <link href="https://www.gocomics.com/peanuts-begins/1953/06/25" />
