@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/pickles.xml" rel="self" />
     <link href="https://www.gocomics.com/pickles" rel="alternate" type="text/html" />
-    <updated>2023-07-12T09:01:43.929547+00:00</updated>
+    <updated>2023-07-13T09:00:29.516522+00:00</updated>
     <id>https://www.gocomics.com/pickles</id>
+    <entry>
+        <title type="text">Pickles - July 13, 2023</title>
+        <link href="https://www.gocomics.com/pickles/2023/07/13" />
+        <id>https://www.gocomics.com/pickles/2023/07/13</id>
+        <author>
+            <name>Brian Crane</name>
+        </author>
+        <published>2023-07-13T05:00:00-05:00</published>
+        <updated>2023-07-13T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/2fb3e310e799013b0078005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Pickles - July 12, 2023</title>
         <link href="https://www.gocomics.com/pickles/2023/07/12" />
