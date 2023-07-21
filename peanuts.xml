@@ -6,8 +6,53 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2023-07-18T09:00:19.802353+00:00</updated>
+    <updated>2023-07-21T13:51:33.287172+00:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - July 21, 2023</title>
+        <link href="https://www.gocomics.com/peanuts/2023/07/21" />
+        <id>https://www.gocomics.com/peanuts/2023/07/21</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2023-07-21T05:00:00-05:00</published>
+        <updated>2023-07-21T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/b6365bf0fe2a013b06f8005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - July 20, 2023</title>
+        <link href="https://www.gocomics.com/peanuts/2023/07/20" />
+        <id>https://www.gocomics.com/peanuts/2023/07/20</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2023-07-20T05:00:00-05:00</published>
+        <updated>2023-07-20T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/b38a6bc0fe2a013b06f8005056a9545d" />
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - July 19, 2023</title>
+        <link href="https://www.gocomics.com/peanuts/2023/07/19" />
+        <id>https://www.gocomics.com/peanuts/2023/07/19</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2023-07-19T05:00:00-05:00</published>
+        <updated>2023-07-19T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/47c31690fe29013b06f7005056a9545d" />
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - July 18, 2023</title>
         <link href="https://www.gocomics.com/peanuts/2023/07/18" />
