@@ -6,8 +6,24 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2023-09-07T04:00:16.710839-05:00</updated>
+    <updated>2023-09-08T04:00:28.191877-05:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - September  9, 1988</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1988/09/09" />
+        <id>https://www.gocomics.com/calvinandhobbes/1988/09/09</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2023-09-09T05:00:00-05:00</published>
+        <updated>2023-09-09T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d75cdb80dec20131719a005056a9545d" />
+                <figcaption>Originally published September  9, 1988</figcaption>
+            </figure>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - September  8, 1988</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1988/09/08" />
