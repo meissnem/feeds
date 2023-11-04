@@ -6,8 +6,40 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts-begins.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts-begins" rel="alternate" type="text/html" />
-    <updated>2023-11-02T04:00:27.108176-05:00</updated>
+    <updated>2023-11-04T04:00:25.899286-05:00</updated>
     <id>https://www.gocomics.com/peanuts-begins</id>
+    <entry>
+        <title type="text">Peanuts Begins - November  5, 1953</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1953/11/05" />
+        <id>https://www.gocomics.com/peanuts-begins/1953/11/05</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2023-11-05T05:00:00-06:00</published>
+        <updated>2023-11-05T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/af6b6610dd6c0133501f005056a9545d" />
+                <figcaption>Originally published November  5, 1953</figcaption>
+            </figure>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts Begins - November  4, 1953</title>
+        <link href="https://www.gocomics.com/peanuts-begins/1953/11/04" />
+        <id>https://www.gocomics.com/peanuts-begins/1953/11/04</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2023-11-04T05:00:00-05:00</published>
+        <updated>2023-11-04T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/ae272c20dd6c0133501f005056a9545d" />
+                <figcaption>Originally published November  4, 1953</figcaption>
+            </figure>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts Begins - November  3, 1953</title>
         <link href="https://www.gocomics.com/peanuts-begins/1953/11/03" />
