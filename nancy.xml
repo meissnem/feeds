@@ -6,8 +6,38 @@
     </author>
     <link href="https://meissnem.github.io/feeds/nancy.xml" rel="self" />
     <link href="https://www.gocomics.com/nancy" rel="alternate" type="text/html" />
-    <updated>2023-11-23T04:00:16.561479-06:00</updated>
+    <updated>2023-11-25T04:04:33.193780-06:00</updated>
     <id>https://www.gocomics.com/nancy</id>
+    <entry>
+        <title type="text">Nancy - November 25, 2023</title>
+        <link href="https://www.gocomics.com/nancy/2023/11/25" />
+        <id>https://www.gocomics.com/nancy/2023/11/25</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2023-11-25T05:00:00-06:00</published>
+        <updated>2023-11-25T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/40ce6fd06473013c269a005056a9545d" />
+            </figure>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Nancy - November 24, 2023</title>
+        <link href="https://www.gocomics.com/nancy/2023/11/24" />
+        <id>https://www.gocomics.com/nancy/2023/11/24</id>
+        <author>
+            <name>Olivia Jaimes</name>
+        </author>
+        <published>2023-11-24T05:00:00-06:00</published>
+        <updated>2023-11-25T04:04:33.193780-06:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/8a2ecd406476013c269c005056a9545d" />
+            </figure>
+        </content>
+    </entry>
     <entry>
         <title type="text">Nancy - November 23, 2023</title>
         <link href="https://www.gocomics.com/nancy/2023/11/23" />
