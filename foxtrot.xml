@@ -6,8 +6,23 @@
     </author>
     <link href="https://meissnem.github.io/feeds/foxtrot.xml" rel="self" />
     <link href="https://www.gocomics.com/foxtrot" rel="alternate" type="text/html" />
-    <updated>2023-12-10T04:00:14.236120-06:00</updated>
+    <updated>2023-12-17T04:00:35.149554-06:00</updated>
     <id>https://www.gocomics.com/foxtrot</id>
+    <entry>
+        <title type="text">FoxTrot - December 17, 2023</title>
+        <link href="https://www.gocomics.com/foxtrot/2023/12/17" />
+        <id>https://www.gocomics.com/foxtrot/2023/12/17</id>
+        <author>
+            <name>Bill Amend</name>
+        </author>
+        <published>2023-12-17T05:00:00-06:00</published>
+        <updated>2023-12-17T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/fb56599061af013c2613005056a9545d" />
+            </figure>
+        </content>
+    </entry>
     <entry>
         <title type="text">FoxTrot - December 10, 2023</title>
         <link href="https://www.gocomics.com/foxtrot/2023/12/10" />
