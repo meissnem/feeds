@@ -58,148 +58,140 @@
             <title>Sean Lennon Interview, pt. 1</title>
             <description>
                 <![CDATA[
-			        <style>
-			            header { text-align: center; }
-			            header h2 { text-transform: uppercase; }
-			            dt { font-weight: 700; }
-			            dt:after { content: ":"; }
-			            dd { padding-block-end: 1em; }
-			            dd ul { list-style: none; padding-inline: 0; }
-			        </style>
-			        <header>
-			            <h2>The Lost Lennon Tapes</h2>
-			            <p>Show #88-06 for broadcast the week of Frbruary 1, 1988</p>
-			        </header>
-			        <hr/>
-			        <section>
-			            <h3>Segment 1 - 6:24</h3>
-			            <dl>
-			                <dt>Incue</dt>
-			                <dd>Music + <q>And now, Westwood One presents…</q> </dd>
-			                <dt>Billboard</dt>
-			                <dd>Budweiser</dd>
-			                <dt>Content</dt>
-			                <dd>
-			                    <ul>
-			                        <li><q>I Wanna Hold Your Hand</q> - The Beatles</li>
-			                    </ul>
-			                </dd>
-			                <dt>Commercials</dt>
-			                <dd>
-			                    <ul>
-			                        <li>:60 - Budweiser</li>
-			                        <li>:30 - Halls</li>
-			                    </ul>
-			                </dd>
-			                <dt>Outcue</dt>
-			                <dd><q>…right after this.</q></dd>
-			            </dl>
-			        </section>
-			        <hr/>
-			        <section>
-			            <h3>Segment 2 - 8:37</h3>
-			            <dl>
-			                <dt>Incue</dt>
-			                <dd>Music &amp; <q>Welcome back…</q></dd>
-			                <dt>Content</dt>
-			                <dd>
-			                    <ul>
-			                        <li>Sean Ono Lennon Interview Premiere</li>
-			                        <li><q>Life Begins At 40</q> - John Lennon</li>
-			                    </ul>
-			                </dd>
-			                <dt>Commercials</dt>
-			                <dd>
-			                    <ul>
-			                        <li>:60 - Motel 6</li>
-			                        <li>:30 - Duration</li>
-			                    </ul>
-			                </dd>
-			                <dt>Outcue</dt>
-			                <dd><q>…when we return.</q></dd>
-			            </dl>
-			        </section>
-			        <hr/>
-			        <section>
-			            <h3>Segment 3 - 13:02</h3>
-			            <dl>
-			                <dt>Incue</dt>
-			                <dd>Music &amp; <q>Now, back to…</q></dd>
-			                <dt>Content</dt>
-			                <dd>
-			                    <ul>
-			                        <li>Working Class Hero Interview continues</li>
-			                        <li><q>Mother</q> - John Lennon</li>
-			                        <li><q>I Am the Walrus</q> - The Beatles</li>
-			                    </ul>
-			                </dd>
-			                <dt>Commercials</dt>
-			                <dd>
-			                    <ul>
-			                        <li>:60 - Budweiser</li>
-			                        <li>:30 - Halls</li>
-			                    </ul>
-			                </dd>
-			                <dt>Outcue</dt>
-			                <dd><q>…right after this.</q></dd>
-			            </dl>
-			        </section>
-			        <hr/>
-			        <section>
-			            <h3>Segment 4 - 16:11</h3>
-			            <dl>
-			                <dt>Incue</dt>
-			                <dd>Music &amp; <q>Welcome back…</q></dd>
-			                <dt>Content</dt>
-			                <dd>
-			                    <ul>
-			                        <li>
-			                            <q>Blue Suede Shoes</q>
-			                             (Partial) - Plastic Ono Band / Live Peace
-			                        </li>
-			                        <li>
-			                            <q>Cold Turkey</q>
-			                             - Plastic Ono Band / Live Peace
-			                        </li>
-			                        <li>
-			                            <q>Give Peace A Chance</q>
-			                             - Plastic Ono Band / Live Peace
-			                        </li>
-			                        <li>
-			                            <q>Power To the People</q>
-			                             - John Lennon
-			                        </li>
-			                    </ul>
-			                </dd>
-			                <dt>Commercials</dt>
-			                <dd>
-			                    <ul>
-			                        <li>:60 - Motel 6</li>
-			                        <li>:30 - Duration</li>
-			                    </ul>
-			                </dd>
-			                <dt>Outcue</dt>
-			                <dd><q>…when we return.</q></dd>
-			            </dl>
-			        </section>
-			        <hr/>
-			        <section>
-			            <h3>Segment 5 - 12:15 (music out)</h3>
-			            <dl>
-			                <dt>Incue</dt>
-			                <dd>Music &amp; <q>We're back…</q></dd>
-			                <dt>Content</dt>
-			                <dd>
-			                    <ul>
-			                        <li><q>Cleanup Time</q> - John Lennon</li>
-			                        <li>John &amp; Yoko on <q>Two Virgins</q></li>
-			                        <li><q>Imagine</q> - John Lennon (live)</li>
-			                    </ul>
-			                </dd>
-			                <dt>Outcue</dt>
-			                <dd><q>…thanks for listening.</q></dd>
-			            </dl>
-			        </section>
+                    <header style="text-align: center;">
+                        <h2 style="text-transform: uppercase;">The Lost Lennon Tapes</h2>
+                        <p>Show #88-06 for broadcast the week of Frbruary 1, 1988</p>
+                    </header>
+                    <hr/>
+                    <section>
+                        <h3>Segment 1 - 6:24</h3>
+                        <dl>
+                            <dt style="font-weight: 700;">Incue</dt>
+                            <dd style="padding-block-end: 1em;">Music + <q>And now, Westwood One presents…</q> </dd>
+                            <dt style="font-weight: 700;">Billboard</dt>
+                            <dd style="padding-block-end: 1em;">Budweiser</dd>
+                            <dt style="font-weight: 700;">Content</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li><q>I Wanna Hold Your Hand</q> - The Beatles</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Commercials</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>:60 - Budweiser</li>
+                                    <li>:30 - Halls</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Outcue</dt>
+                            <dd style="padding-block-end: 1em;"><q>…right after this.</q></dd>
+                        </dl>
+                    </section>
+                    <hr/>
+                    <section>
+                        <h3>Segment 2 - 8:37</h3>
+                        <dl>
+                            <dt style="font-weight: 700;">Incue</dt>
+                            <dd style="padding-block-end: 1em;">Music &amp; <q>Welcome back…</q></dd>
+                            <dt style="font-weight: 700;">Content</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>Sean Ono Lennon Interview Premiere</li>
+                                    <li><q>Life Begins At 40</q> - John Lennon</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Commercials</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>:60 - Motel 6</li>
+                                    <li>:30 - Duration</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Outcue</dt>
+                            <dd style="padding-block-end: 1em;"><q>…when we return.</q></dd>
+                        </dl>
+                    </section>
+                    <hr/>
+                    <section>
+                        <h3>Segment 3 - 13:02</h3>
+                        <dl>
+                            <dt style="font-weight: 700;">Incue</dt>
+                            <dd style="padding-block-end: 1em;">Music &amp; <q>Now, back to…</q></dd>
+                            <dt style="font-weight: 700;">Content</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>Working Class Hero Interview continues</li>
+                                    <li><q>Mother</q> - John Lennon</li>
+                                    <li><q>I Am the Walrus</q> - The Beatles</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Commercials</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>:60 - Budweiser</li>
+                                    <li>:30 - Halls</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Outcue</dt>
+                            <dd style="padding-block-end: 1em;"><q>…right after this.</q></dd>
+                        </dl>
+                    </section>
+                    <hr/>
+                    <section>
+                        <h3>Segment 4 - 16:11</h3>
+                        <dl>
+                            <dt style="font-weight: 700;">Incue</dt>
+                            <dd style="padding-block-end: 1em;">Music &amp; <q>Welcome back…</q></dd>
+                            <dt style="font-weight: 700;">Content</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>
+                                        <q>Blue Suede Shoes</q>
+                                         (Partial) - Plastic Ono Band / Live Peace
+                                    </li>
+                                    <li>
+                                        <q>Cold Turkey</q>
+                                         - Plastic Ono Band / Live Peace
+                                    </li>
+                                    <li>
+                                        <q>Give Peace A Chance</q>
+                                         - Plastic Ono Band / Live Peace
+                                    </li>
+                                    <li>
+                                        <q>Power To the People</q>
+                                         - John Lennon
+                                    </li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Commercials</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li>:60 - Motel 6</li>
+                                    <li>:30 - Duration</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Outcue</dt>
+                            <dd style="padding-block-end: 1em;"><q>…when we return.</q></dd>
+                        </dl>
+                    </section>
+                    <hr/>
+                    <section>
+                        <h3>Segment 5 - 12:15 (music out)</h3>
+                        <dl>
+                            <dt style="font-weight: 700;">Incue</dt>
+                            <dd style="padding-block-end: 1em;">Music &amp; <q>We're back…</q></dd>
+                            <dt style="font-weight: 700;">Content</dt>
+                            <dd style="padding-block-end: 1em;">
+                                <ul style="list-style: none; padding-inline: 0;">
+                                    <li><q>Cleanup Time</q> - John Lennon</li>
+                                    <li>John &amp; Yoko on <q>Two Virgins</q></li>
+                                    <li><q>Imagine</q> - John Lennon (live)</li>
+                                </ul>
+                            </dd>
+                            <dt style="font-weight: 700;">Outcue</dt>
+                            <dd style="padding-block-end: 1em;"><q>…thanks for listening.</q></dd>
+                        </dl>
+                    </section>
                 ]]>
             </description>
             <enclosure
