@@ -8,24 +8,9 @@
     <channel>
         <atom:link href="https://meissnem.github.io/feeds/llt.xml" rel="self" type="application/rss+xml"/>
         <title>The Lost Lennon Tapes</title>
-        <description>
-            <![CDATA[
-            <div>
-            <p>
-                <cite>The Lost Lennon Tapes</cite> was an American music documentary series presented by Elliot Mintz,
-                comprising a three-hour premiere episode and 218 one-hour episodes, broadcast on Westwood One Radio
-                Network between 24 January 1988 and 29 March 1992. The premiere episode features an introduction from
-                John Lennon’s wife, Yoko Ono, explaining why she chose to give Westwood One Radio access to the tapes on
-                which the shows’ content is based. She described the selection of Elliot Mintz as the presenter not so
-                much as a choice, but a “karmic destiny”, as Mintz had been a close friend of the Lennons for some time.
-            </p>
-            <p>
-                Some of the recordings featured throughout the series also appear on the Beatles Anthology documentary
-                series, which began three years after the final broadcast of this radio series.
-            </p>
-            </div>
-            ]]>                                    
-        </description>
+        <itunes:author>Westwood One</itunes:author>
+        <itunes:subtitle>Weekly series featuring unreleased recordings by John Lennon.</itunes:subtitle>
+        <description><![CDATA[<p><i>The Lost Lennon Tapes</i> was an American music documentary series presented by Elliot Mintz, comprising a three-hour premiere episode and 218 one-hour episodes, broadcast on Westwood One Radio Network between 24 January 1988 and 29 March 1992. The premiere episode features an introduction from John Lennon’s wife, Yoko Ono, explaining why she chose to give Westwood One Radio access to the tapes on which the shows’ content is based. She described the selection of Elliot Mintz as the presenter not so much as a choice, but a “karmic destiny”, as Mintz had been a close friend of the Lennons for some time.</p><p>Some of the recordings featured throughout the series also appear on the Beatles Anthology documentary series, which began three years after the final broadcast of this radio series.</p>]]></description>
         <link>https://www.theindiemusicarchive.com/TheLostLennonTapes.shtml</link>
         <language>en-us</language>
         <copyright>Westwood One</copyright>
@@ -43,19 +28,23 @@
         <podcast:locked>no</podcast:locked>
         <podcast:guid>3db0a2de-723a-5ce2-8475-64d2e0bf1b13</podcast:guid>
         <item>
-            <title>1st Episode</title>
+            <title>1: 1st Episode</title>
+            <itunes:title>1st Episode</itunes:title>
+            <itunes:subtitle>Show #88-05 for broadcast the week of Monday, January 25, 1988</itunes:subtitle>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/1.mp3"
                 length="121020525"
                 type="audio/mpeg"
             />
-            <guid>1def5106-2274-40f1-b7ab-45b28338ff20</guid>
-            <pubDate>Mon, 25 Jan 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1def5106-2274-40f1-b7ab-45b28338ff20</guid>
+            <pubDate>Mon, 25 Jan 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>1</itunes:episode>
         </item>
         <item>
-            <title>Sean Lennon Interview, pt. 1</title>
+            <title>2: Sean Lennon Interview, pt. 1</title>
+            <itunes:title>Sean Lennon Interview, pt. 1</itunes:title>
+            <itunes:subtitle>Show #88-06 for broadcast the week of February 1, 1988</itunes:subtitle>
             <description>
                 <![CDATA[
                     <center>
@@ -177,32 +166,36 @@
                 length="122450990"
                 type="audio/mpeg"
             />
-            <guid>f291a12c-7292-4e45-b532-95730c073b37</guid>
-            <pubDate>Mon, 01 Feb 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f291a12c-7292-4e45-b532-95730c073b37</guid>
+            <pubDate>Mon, 01 Feb 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>2</itunes:episode>
         </item>
         <item>
-            <title>Sean Lennon Interview, pt. 2</title>
+            <title>3: Sean Lennon Interview, pt. 2</title>
+            <itunes:title>Sean Lennon Interview, pt. 2</itunes:title>
+            <itunes:subtitle>Show #88-07 for broadcast the week of February 8, 1988</itunes:subtitle>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/3.mp3"
                 length="122763414"
                 type="audio/mpeg"
             />
-            <guid>0be05812-0b6b-4d8d-9d62-69c993a0065f</guid>
-            <pubDate>Mon, 08 Feb 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0be05812-0b6b-4d8d-9d62-69c993a0065f</guid>
+            <pubDate>Mon, 08 Feb 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>3</itunes:episode>
         </item>
         <item>
-            <title>The Playboy Interview</title>
+            <title>4. The Playboy Interview</title>
+            <itunes:title>The Playboy Interview</itunes:title>
+            <itunes:subtitle>Show #88-08 for broadcast the week of February 15, 1988</itunes:subtitle>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/4.mp3"
                 length="122789560"
                 type="audio/mpeg"
             />
-            <guid>8563513c-2d74-434d-a308-c7bf244b213c</guid>
-            <pubDate>Mon, 15 Feb 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8563513c-2d74-434d-a308-c7bf244b213c</guid>
+            <pubDate>Mon, 15 Feb 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>4</itunes:episode>
         </item>
@@ -213,8 +206,8 @@
                 length="122775976"
                 type="audio/mpeg"
             />
-            <guid>6e02f2cf-41c8-49c2-9e95-daf3c969078c</guid>
-            <pubDate>Mon, 22 Feb 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6e02f2cf-41c8-49c2-9e95-daf3c969078c</guid>
+            <pubDate>Mon, 22 Feb 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>5</itunes:episode>
         </item>
@@ -225,8 +218,8 @@
                 length="122640140"
                 type="audio/mpeg"
             />
-            <guid>6d3008b3-b326-4f21-b190-893f2f2ab5a0</guid>
-            <pubDate>Mon, 29 Feb 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6d3008b3-b326-4f21-b190-893f2f2ab5a0</guid>
+            <pubDate>Mon, 29 Feb 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>6</itunes:episode>
         </item>
@@ -237,8 +230,8 @@
                 length="122390410"
                 type="audio/mpeg"
             />
-            <guid>ca4a49cb-2d4c-4e5f-88a9-c81cba874770</guid>
-            <pubDate>Mon, 07 Mar 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ca4a49cb-2d4c-4e5f-88a9-c81cba874770</guid>
+            <pubDate>Mon, 07 Mar 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>7</itunes:episode>
         </item>
@@ -249,8 +242,8 @@
                 length="122316222"
                 type="audio/mpeg"
             />
-            <guid>da3be8c4-883e-46b4-a6e8-a7eed26197b3</guid>
-            <pubDate>Mon, 14 Mar 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">da3be8c4-883e-46b4-a6e8-a7eed26197b3</guid>
+            <pubDate>Mon, 14 Mar 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>8</itunes:episode>
         </item>
@@ -261,8 +254,8 @@
                 length="122526247"
                 type="audio/mpeg"
             />
-            <guid>36417553-c639-432e-b982-3e00326cb1e2</guid>
-            <pubDate>Mon, 21 Mar 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">36417553-c639-432e-b982-3e00326cb1e2</guid>
+            <pubDate>Mon, 21 Mar 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>9</itunes:episode>
         </item>
@@ -273,8 +266,8 @@
                 length="122599389"
                 type="audio/mpeg"
             />
-            <guid>96b2595c-668b-4430-b32f-2ffc2b3db29b</guid>
-            <pubDate>Mon, 28 Mar 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">96b2595c-668b-4430-b32f-2ffc2b3db29b</guid>
+            <pubDate>Mon, 28 Mar 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>10</itunes:episode>
         </item>
@@ -285,8 +278,8 @@
                 length="122708059"
                 type="audio/mpeg"
             />
-            <guid>5e930775-1515-467b-b263-ccefc3fa68f0</guid>
-            <pubDate>Mon, 04 Apr 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5e930775-1515-467b-b263-ccefc3fa68f0</guid>
+            <pubDate>Mon, 04 Apr 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>11</itunes:episode>
         </item>
@@ -297,8 +290,8 @@
                 length="122690296"
                 type="audio/mpeg"
             />
-            <guid>c03d57dc-e984-4fed-ac9b-36df94f78d71</guid>
-            <pubDate>Mon, 11 Apr 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c03d57dc-e984-4fed-ac9b-36df94f78d71</guid>
+            <pubDate>Mon, 11 Apr 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>12</itunes:episode>
         </item>
@@ -309,8 +302,8 @@
                 length="122679847"
                 type="audio/mpeg"
             />
-            <guid>48964494-8bac-4e7c-87a6-b2b0e99276bb</guid>
-            <pubDate>Mon, 18 Apr 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">48964494-8bac-4e7c-87a6-b2b0e99276bb</guid>
+            <pubDate>Mon, 18 Apr 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>13</itunes:episode>
         </item>
@@ -321,8 +314,8 @@
                 length="122410263"
                 type="audio/mpeg"
             />
-            <guid>bc91696c-09c2-479a-9643-05fd8da66e76</guid>
-            <pubDate>Mon, 25 Apr 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">bc91696c-09c2-479a-9643-05fd8da66e76</guid>
+            <pubDate>Mon, 25 Apr 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>14</itunes:episode>
         </item>
@@ -333,8 +326,8 @@
                 length="122541920"
                 type="audio/mpeg"
             />
-            <guid>5f42e21c-82e9-4d53-a9c8-b1887ee77d7e</guid>
-            <pubDate>Mon, 02 May 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5f42e21c-82e9-4d53-a9c8-b1887ee77d7e</guid>
+            <pubDate>Mon, 02 May 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>15</itunes:episode>
         </item>
@@ -345,8 +338,8 @@
                 length="122623422"
                 type="audio/mpeg"
             />
-            <guid>29a915f7-0934-4c92-ad14-3ee6fee36118</guid>
-            <pubDate>Mon, 09 May 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">29a915f7-0934-4c92-ad14-3ee6fee36118</guid>
+            <pubDate>Mon, 09 May 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>16</itunes:episode>
         </item>
@@ -357,8 +350,8 @@
                 length="122245169"
                 type="audio/mpeg"
             />
-            <guid>5b5563fe-80f7-499e-9dfd-ade0e972764b</guid>
-            <pubDate>Mon, 16 May 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5b5563fe-80f7-499e-9dfd-ade0e972764b</guid>
+            <pubDate>Mon, 16 May 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>17</itunes:episode>
         </item>
@@ -369,8 +362,8 @@
                 length="122672532"
                 type="audio/mpeg"
             />
-            <guid>8e3d24b3-da75-4d57-9af8-109696773668</guid>
-            <pubDate>Mon, 23 May 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8e3d24b3-da75-4d57-9af8-109696773668</guid>
+            <pubDate>Mon, 23 May 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>18</itunes:episode>
         </item>
@@ -381,8 +374,8 @@
                 length="122852255"
                 type="audio/mpeg"
             />
-            <guid>8ee528e5-1b72-4a81-a54a-8941f96a4b1f</guid>
-            <pubDate>Mon, 30 May 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8ee528e5-1b72-4a81-a54a-8941f96a4b1f</guid>
+            <pubDate>Mon, 30 May 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>19</itunes:episode>
         </item>
@@ -393,8 +386,8 @@
                 length="122711194"
                 type="audio/mpeg"
             />
-            <guid>cc76ee8a-e2c4-4537-9de7-8748485c6b9d</guid>
-            <pubDate>Mon, 06 Jun 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">cc76ee8a-e2c4-4537-9de7-8748485c6b9d</guid>
+            <pubDate>Mon, 06 Jun 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>20</itunes:episode>
         </item>
@@ -405,8 +398,8 @@
                 length="123266011"
                 type="audio/mpeg"
             />
-            <guid>f00ba711-a57f-451f-a736-32e5ae2867da</guid>
-            <pubDate>Mon, 13 Jun 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f00ba711-a57f-451f-a736-32e5ae2867da</guid>
+            <pubDate>Mon, 13 Jun 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>21</itunes:episode>
         </item>
@@ -417,8 +410,8 @@
                 length="122879422"
                 type="audio/mpeg"
             />
-            <guid>f9af32e2-b4ac-4d14-8696-d8138c685af4</guid>
-            <pubDate>Mon, 20 Jun 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f9af32e2-b4ac-4d14-8696-d8138c685af4</guid>
+            <pubDate>Mon, 20 Jun 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>22</itunes:episode>
         </item>
@@ -429,8 +422,8 @@
                 length="121584794"
                 type="audio/mpeg"
             />
-            <guid>285c9446-2fb5-4416-b451-5ca64f183ddf</guid>
-            <pubDate>Mon, 27 Jun 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">285c9446-2fb5-4416-b451-5ca64f183ddf</guid>
+            <pubDate>Mon, 27 Jun 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>23</itunes:episode>
         </item>
@@ -441,8 +434,8 @@
                 length="122767618"
                 type="audio/mpeg"
             />
-            <guid>f88dcd05-9a2b-43fd-9bef-f7cdf2b7ad50</guid>
-            <pubDate>Mon, 04 Jul 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f88dcd05-9a2b-43fd-9bef-f7cdf2b7ad50</guid>
+            <pubDate>Mon, 04 Jul 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>24</itunes:episode>
         </item>
@@ -453,8 +446,8 @@
                 length="122765528"
                 type="audio/mpeg"
             />
-            <guid>0a84f1bf-f059-46f1-bc33-a86786084ccc</guid>
-            <pubDate>Mon, 11 Jul 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0a84f1bf-f059-46f1-bc33-a86786084ccc</guid>
+            <pubDate>Mon, 11 Jul 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>25</itunes:episode>
         </item>
@@ -465,8 +458,8 @@
                 length="122773887"
                 type="audio/mpeg"
             />
-            <guid>fb950aad-c1ca-4e8f-998a-9e8ac258d6d2</guid>
-            <pubDate>Mon, 18 Jul 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">fb950aad-c1ca-4e8f-998a-9e8ac258d6d2</guid>
+            <pubDate>Mon, 18 Jul 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>26</itunes:episode>
         </item>
@@ -477,8 +470,8 @@
                 length="123006900"
                 type="audio/mpeg"
             />
-            <guid>65f2b59a-e0a2-4e05-b757-988ea6d505f3</guid>
-            <pubDate>Mon, 25 Jul 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">65f2b59a-e0a2-4e05-b757-988ea6d505f3</guid>
+            <pubDate>Mon, 25 Jul 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>27</itunes:episode>
         </item>
@@ -489,8 +482,8 @@
                 length="122898230"
                 type="audio/mpeg"
             />
-            <guid>72e8cd27-80fe-41e7-a3eb-cdaee3c9eb8a</guid>
-            <pubDate>Mon, 01 Aug 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">72e8cd27-80fe-41e7-a3eb-cdaee3c9eb8a</guid>
+            <pubDate>Mon, 01 Aug 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>28</itunes:episode>
         </item>
@@ -501,8 +494,8 @@
                 length="122696565"
                 type="audio/mpeg"
             />
-            <guid>196a95c5-ae86-4b5b-a72f-bfb3e9b37a69</guid>
-            <pubDate>Mon, 08 Aug 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">196a95c5-ae86-4b5b-a72f-bfb3e9b37a69</guid>
+            <pubDate>Mon, 08 Aug 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>29</itunes:episode>
         </item>
@@ -513,8 +506,8 @@
                 length="122010067"
                 type="audio/mpeg"
             />
-            <guid>f8c15f82-c9e7-44f4-a838-4903a161f5b7</guid>
-            <pubDate>Mon, 15 Aug 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f8c15f82-c9e7-44f4-a838-4903a161f5b7</guid>
+            <pubDate>Mon, 15 Aug 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>30</itunes:episode>
         </item>
@@ -525,8 +518,8 @@
                 length="119688304"
                 type="audio/mpeg"
             />
-            <guid>2560a088-5bc0-4782-bb48-8d8f96e688b3</guid>
-            <pubDate>Mon, 22 Aug 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2560a088-5bc0-4782-bb48-8d8f96e688b3</guid>
+            <pubDate>Mon, 22 Aug 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>31</itunes:episode>
         </item>
@@ -537,8 +530,8 @@
                 length="118864924"
                 type="audio/mpeg"
             />
-            <guid>0959db8f-c19e-4bc9-a74f-ef965110ba55</guid>
-            <pubDate>Mon, 29 Aug 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0959db8f-c19e-4bc9-a74f-ef965110ba55</guid>
+            <pubDate>Mon, 29 Aug 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>32</itunes:episode>
         </item>
@@ -549,8 +542,8 @@
                 length="119067634"
                 type="audio/mpeg"
             />
-            <guid>c2e9a5c9-3bf1-4d5d-acfc-509a36444392</guid>
-            <pubDate>Mon, 05 Sep 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c2e9a5c9-3bf1-4d5d-acfc-509a36444392</guid>
+            <pubDate>Mon, 05 Sep 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>33</itunes:episode>
         </item>
@@ -561,8 +554,8 @@
                 length="120715438"
                 type="audio/mpeg"
             />
-            <guid>1adba25a-e273-4eda-9b0c-be75dae1f040</guid>
-            <pubDate>Mon, 12 Sep 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1adba25a-e273-4eda-9b0c-be75dae1f040</guid>
+            <pubDate>Mon, 12 Sep 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>34</itunes:episode>
         </item>
@@ -573,8 +566,8 @@
                 length="118089610"
                 type="audio/mpeg"
             />
-            <guid>24fdbcc9-0cad-4253-a5ff-cb62941809a2</guid>
-            <pubDate>Mon, 19 Sep 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">24fdbcc9-0cad-4253-a5ff-cb62941809a2</guid>
+            <pubDate>Mon, 19 Sep 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>35</itunes:episode>
         </item>
@@ -585,8 +578,8 @@
                 length="119213920"
                 type="audio/mpeg"
             />
-            <guid>33550023-ff51-4537-b77d-ab8cf3938763</guid>
-            <pubDate>Mon, 26 Sep 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">33550023-ff51-4537-b77d-ab8cf3938763</guid>
+            <pubDate>Mon, 26 Sep 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>36</itunes:episode>
         </item>
@@ -597,8 +590,8 @@
                 length="121341332"
                 type="audio/mpeg"
             />
-            <guid>cdee052b-daff-4a7e-9582-06931b02033f</guid>
-            <pubDate>Mon, 03 Oct 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">cdee052b-daff-4a7e-9582-06931b02033f</guid>
+            <pubDate>Mon, 03 Oct 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>37</itunes:episode>
         </item>
@@ -609,8 +602,8 @@
                 length="120829332"
                 type="audio/mpeg"
             />
-            <guid>089a07a9-4275-4941-8b28-b23ed6bf2737</guid>
-            <pubDate>Mon, 10 Oct 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">089a07a9-4275-4941-8b28-b23ed6bf2737</guid>
+            <pubDate>Mon, 10 Oct 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>38</itunes:episode>
         </item>
@@ -621,8 +614,8 @@
                 length="122762394"
                 type="audio/mpeg"
             />
-            <guid>1dfcc6ea-e696-4173-8035-e287c48e3b4a</guid>
-            <pubDate>Mon, 17 Oct 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1dfcc6ea-e696-4173-8035-e287c48e3b4a</guid>
+            <pubDate>Mon, 17 Oct 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>39</itunes:episode>
         </item>
@@ -633,8 +626,8 @@
                 length="123416500"
                 type="audio/mpeg"
             />
-            <guid>74c28b47-3ed2-49d5-ae9a-0d99d797c69f</guid>
-            <pubDate>Mon, 24 Oct 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">74c28b47-3ed2-49d5-ae9a-0d99d797c69f</guid>
+            <pubDate>Mon, 24 Oct 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>40</itunes:episode>
         </item>
@@ -645,8 +638,8 @@
                 length="121044581"
                 type="audio/mpeg"
             />
-            <guid>e6a7ba94-9984-4040-9968-3e3bca1bca22</guid>
-            <pubDate>Mon, 31 Oct 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e6a7ba94-9984-4040-9968-3e3bca1bca22</guid>
+            <pubDate>Mon, 31 Oct 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>41</itunes:episode>
         </item>
@@ -657,8 +650,8 @@
                 length="123112434"
                 type="audio/mpeg"
             />
-            <guid>fd32e212-c9df-4ace-b49e-18f46b972cda</guid>
-            <pubDate>Mon, 07 Nov 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">fd32e212-c9df-4ace-b49e-18f46b972cda</guid>
+            <pubDate>Mon, 07 Nov 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>42</itunes:episode>
         </item>
@@ -669,8 +662,8 @@
                 length="123162589"
                 type="audio/mpeg"
             />
-            <guid>3dc0c802-09ae-49b4-a412-309487690e97</guid>
-            <pubDate>Mon, 14 Nov 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">3dc0c802-09ae-49b4-a412-309487690e97</guid>
+            <pubDate>Mon, 14 Nov 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>43</itunes:episode>
         </item>
@@ -681,8 +674,8 @@
                 length="123187667"
                 type="audio/mpeg"
             />
-            <guid>791a9728-89a9-4c77-be76-7421b67196bf</guid>
-            <pubDate>Mon, 21 Nov 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">791a9728-89a9-4c77-be76-7421b67196bf</guid>
+            <pubDate>Mon, 21 Nov 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>44</itunes:episode>
         </item>
@@ -693,8 +686,8 @@
                 length="123253496"
                 type="audio/mpeg"
             />
-            <guid>7ccad10b-3d83-4b92-9ab2-c6da2652bfba</guid>
-            <pubDate>Mon, 28 Nov 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">7ccad10b-3d83-4b92-9ab2-c6da2652bfba</guid>
+            <pubDate>Mon, 28 Nov 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>45</itunes:episode>
         </item>
@@ -705,8 +698,8 @@
                 length="123235732"
                 type="audio/mpeg"
             />
-            <guid>e367b3cc-6560-41d1-a6f4-344f59fc211d</guid>
-            <pubDate>Mon, 05 Dec 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e367b3cc-6560-41d1-a6f4-344f59fc211d</guid>
+            <pubDate>Mon, 05 Dec 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>46</itunes:episode>
         </item>
@@ -717,8 +710,8 @@
                 length="122635961"
                 type="audio/mpeg"
             />
-            <guid>b291997d-0e09-4f0e-98c3-eb26840d518d</guid>
-            <pubDate>Mon, 12 Dec 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b291997d-0e09-4f0e-98c3-eb26840d518d</guid>
+            <pubDate>Mon, 12 Dec 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>47</itunes:episode>
         </item>
@@ -729,8 +722,8 @@
                 length="122598345"
                 type="audio/mpeg"
             />
-            <guid>d1e04526-903d-481b-af92-960366456f16</guid>
-            <pubDate>Mon, 19 Dec 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d1e04526-903d-481b-af92-960366456f16</guid>
+            <pubDate>Mon, 19 Dec 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>48</itunes:episode>
         </item>
@@ -741,8 +734,8 @@
                 length="123058100"
                 type="audio/mpeg"
             />
-            <guid>9d4f488e-797c-42a7-8e83-afe129781bb5</guid>
-            <pubDate>Mon, 26 Dec 1988 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9d4f488e-797c-42a7-8e83-afe129781bb5</guid>
+            <pubDate>Mon, 26 Dec 1988 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>49</itunes:episode>
         </item>
@@ -753,8 +746,8 @@
                 length="122758214"
                 type="audio/mpeg"
             />
-            <guid>c9a30b8e-fdbe-4d70-941d-e9836e47619a</guid>
-            <pubDate>Mon, 02 Jan 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c9a30b8e-fdbe-4d70-941d-e9836e47619a</guid>
+            <pubDate>Mon, 02 Jan 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>50</itunes:episode>
         </item>
@@ -765,8 +758,8 @@
                 length="122216957"
                 type="audio/mpeg"
             />
-            <guid>83f50e5c-cbf1-4008-84de-b845995d9d3c</guid>
-            <pubDate>Mon, 09 Jan 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">83f50e5c-cbf1-4008-84de-b845995d9d3c</guid>
+            <pubDate>Mon, 09 Jan 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>51</itunes:episode>
         </item>
@@ -777,8 +770,8 @@
                 length="122832402"
                 type="audio/mpeg"
             />
-            <guid>2286f68a-da52-4c4e-ac83-08d5d6af40e7</guid>
-            <pubDate>Mon, 16 Jan 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2286f68a-da52-4c4e-ac83-08d5d6af40e7</guid>
+            <pubDate>Mon, 16 Jan 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>52</itunes:episode>
         </item>
@@ -789,8 +782,8 @@
                 length="122890916"
                 type="audio/mpeg"
             />
-            <guid>02795c2f-9519-45ed-8a51-91c714ec6402</guid>
-            <pubDate>Mon, 23 Jan 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">02795c2f-9519-45ed-8a51-91c714ec6402</guid>
+            <pubDate>Mon, 23 Jan 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>53</itunes:episode>
         </item>
@@ -801,8 +794,8 @@
                 length="120581692"
                 type="audio/mpeg"
             />
-            <guid>996090f9-c5e8-4f28-ba33-4b5c1492d508</guid>
-            <pubDate>Mon, 30 Jan 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">996090f9-c5e8-4f28-ba33-4b5c1492d508</guid>
+            <pubDate>Mon, 30 Jan 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>54</itunes:episode>
         </item>
@@ -813,8 +806,8 @@
                 length="122840761"
                 type="audio/mpeg"
             />
-            <guid>ec9b02c6-e106-4d10-9525-287ba9400da6</guid>
-            <pubDate>Mon, 06 Feb 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ec9b02c6-e106-4d10-9525-287ba9400da6</guid>
+            <pubDate>Mon, 06 Feb 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>55</itunes:episode>
         </item>
@@ -825,8 +818,8 @@
                 length="122132320"
                 type="audio/mpeg"
             />
-            <guid>ff1f99da-3d97-4030-815e-b67878bb5a2e</guid>
-            <pubDate>Mon, 13 Feb 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ff1f99da-3d97-4030-815e-b67878bb5a2e</guid>
+            <pubDate>Mon, 13 Feb 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>56</itunes:episode>
         </item>
@@ -837,8 +830,8 @@
                 length="122474002"
                 type="audio/mpeg"
             />
-            <guid>9963dfe7-628e-4153-acf4-446715e3dc9b</guid>
-            <pubDate>Mon, 20 Feb 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9963dfe7-628e-4153-acf4-446715e3dc9b</guid>
+            <pubDate>Mon, 20 Feb 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>57</itunes:episode>
         </item>
@@ -849,8 +842,8 @@
                 length="122498034"
                 type="audio/mpeg"
             />
-            <guid>67b1a67f-90dd-4d9a-9d3c-06f60d150e9b</guid>
-            <pubDate>Mon, 27 Feb 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">67b1a67f-90dd-4d9a-9d3c-06f60d150e9b</guid>
+            <pubDate>Mon, 27 Feb 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>58</itunes:episode>
         </item>
@@ -861,8 +854,8 @@
                 length="124233610"
                 type="audio/mpeg"
             />
-            <guid>c340c482-9e15-416c-a6d7-8e19b5afff4b</guid>
-            <pubDate>Mon, 06 Mar 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c340c482-9e15-416c-a6d7-8e19b5afff4b</guid>
+            <pubDate>Mon, 06 Mar 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>59</itunes:episode>
         </item>
@@ -873,8 +866,8 @@
                 length="122137545"
                 type="audio/mpeg"
             />
-            <guid>949f0f58-2a51-4a38-8914-bd6d85202a1a</guid>
-            <pubDate>Mon, 13 Mar 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">949f0f58-2a51-4a38-8914-bd6d85202a1a</guid>
+            <pubDate>Mon, 13 Mar 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>60</itunes:episode>
         </item>
@@ -885,8 +878,8 @@
                 length="122754034"
                 type="audio/mpeg"
             />
-            <guid>543ded47-464d-46b6-862a-e3da581f8557</guid>
-            <pubDate>Mon, 20 Mar 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">543ded47-464d-46b6-862a-e3da581f8557</guid>
+            <pubDate>Mon, 20 Mar 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>61</itunes:episode>
         </item>
@@ -897,8 +890,8 @@
                 length="122745675"
                 type="audio/mpeg"
             />
-            <guid>0b79217b-d5c9-4eba-acc6-87cda2dead8e</guid>
-            <pubDate>Mon, 27 Mar 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0b79217b-d5c9-4eba-acc6-87cda2dead8e</guid>
+            <pubDate>Mon, 27 Mar 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>62</itunes:episode>
         </item>
@@ -909,8 +902,8 @@
                 length="122515798"
                 type="audio/mpeg"
             />
-            <guid>b6f68fdc-856b-47a1-9a2e-0d3f3dc85f44</guid>
-            <pubDate>Mon, 03 Apr 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b6f68fdc-856b-47a1-9a2e-0d3f3dc85f44</guid>
+            <pubDate>Mon, 03 Apr 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>63</itunes:episode>
         </item>
@@ -921,8 +914,8 @@
                 length="122478181"
                 type="audio/mpeg"
             />
-            <guid>ca0598d1-2f23-47d0-9ef2-c0d6c62662a3</guid>
-            <pubDate>Mon, 10 Apr 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ca0598d1-2f23-47d0-9ef2-c0d6c62662a3</guid>
+            <pubDate>Mon, 10 Apr 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>64</itunes:episode>
         </item>
@@ -933,8 +926,8 @@
                 length="122289055"
                 type="audio/mpeg"
             />
-            <guid>605689ef-831e-4bb1-81d5-ec312580be4a</guid>
-            <pubDate>Mon, 17 Apr 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">605689ef-831e-4bb1-81d5-ec312580be4a</guid>
+            <pubDate>Mon, 17 Apr 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>65</itunes:episode>
         </item>
@@ -945,8 +938,8 @@
                 length="122530426"
                 type="audio/mpeg"
             />
-            <guid>24028135-c86c-4bb5-883b-f48d1adb30f3</guid>
-            <pubDate>Mon, 24 Apr 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">24028135-c86c-4bb5-883b-f48d1adb30f3</guid>
+            <pubDate>Mon, 24 Apr 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>66</itunes:episode>
         </item>
@@ -957,8 +950,8 @@
                 length="122471912"
                 type="audio/mpeg"
             />
-            <guid>0acd9664-249a-4e3f-ba74-4ec69e37accd</guid>
-            <pubDate>Mon, 01 May 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0acd9664-249a-4e3f-ba74-4ec69e37accd</guid>
+            <pubDate>Mon, 01 May 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>67</itunes:episode>
         </item>
@@ -969,8 +962,8 @@
                 length="122248304"
                 type="audio/mpeg"
             />
-            <guid>9a504ff5-4d2b-48c5-a967-e0f5ef1e3684</guid>
-            <pubDate>Mon, 08 May 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9a504ff5-4d2b-48c5-a967-e0f5ef1e3684</guid>
+            <pubDate>Mon, 08 May 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>68</itunes:episode>
         </item>
@@ -981,8 +974,8 @@
                 length="122558638"
                 type="audio/mpeg"
             />
-            <guid>e903db75-6789-497a-bd5b-cf0cbb71adca</guid>
-            <pubDate>Mon, 15 May 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e903db75-6789-497a-bd5b-cf0cbb71adca</guid>
+            <pubDate>Mon, 15 May 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>69</itunes:episode>
         </item>
@@ -993,8 +986,8 @@
                 length="121095781"
                 type="audio/mpeg"
             />
-            <guid>39e61b5a-7d0d-48f0-8846-f874988d81b0</guid>
-            <pubDate>Mon, 22 May 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">39e61b5a-7d0d-48f0-8846-f874988d81b0</guid>
+            <pubDate>Mon, 22 May 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>70</itunes:episode>
         </item>
@@ -1005,8 +998,8 @@
                 length="122546100"
                 type="audio/mpeg"
             />
-            <guid>d8c514e9-fbd3-475f-a3fc-d80585ed04cb</guid>
-            <pubDate>Mon, 29 May 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d8c514e9-fbd3-475f-a3fc-d80585ed04cb</guid>
+            <pubDate>Mon, 29 May 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>71</itunes:episode>
         </item>
@@ -1017,8 +1010,8 @@
                 length="122594165"
                 type="audio/mpeg"
             />
-            <guid>946e006d-6a76-4b95-9c17-a2611227a6d4</guid>
-            <pubDate>Mon, 05 Jun 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">946e006d-6a76-4b95-9c17-a2611227a6d4</guid>
+            <pubDate>Mon, 05 Jun 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>72</itunes:episode>
         </item>
@@ -1029,8 +1022,8 @@
                 length="122663128"
                 type="audio/mpeg"
             />
-            <guid>6904ae43-c10d-482d-8bf6-da08846e7c73</guid>
-            <pubDate>Mon, 12 Jun 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6904ae43-c10d-482d-8bf6-da08846e7c73</guid>
+            <pubDate>Mon, 12 Jun 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>73</itunes:episode>
         </item>
@@ -1041,8 +1034,8 @@
                 length="121840794"
                 type="audio/mpeg"
             />
-            <guid>da126541-0cb8-4300-948b-71c4dc9291d3</guid>
-            <pubDate>Mon, 19 Jun 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">da126541-0cb8-4300-948b-71c4dc9291d3</guid>
+            <pubDate>Mon, 19 Jun 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>74</itunes:episode>
         </item>
@@ -1053,8 +1046,8 @@
                 length="119849218"
                 type="audio/mpeg"
             />
-            <guid>958c4cba-99e7-48b8-9ce7-7cb29cfaa3a4</guid>
-            <pubDate>Mon, 26 Jun 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">958c4cba-99e7-48b8-9ce7-7cb29cfaa3a4</guid>
+            <pubDate>Mon, 26 Jun 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>75</itunes:episode>
         </item>
@@ -1065,8 +1058,8 @@
                 length="118388451"
                 type="audio/mpeg"
             />
-            <guid>db7784b8-4071-42a1-8e33-9b648bd4e7cc</guid>
-            <pubDate>Mon, 03 Jul 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">db7784b8-4071-42a1-8e33-9b648bd4e7cc</guid>
+            <pubDate>Mon, 03 Jul 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>76</itunes:episode>
         </item>
@@ -1077,8 +1070,8 @@
                 length="119889969"
                 type="audio/mpeg"
             />
-            <guid>eefed76f-f85c-4aa3-88e1-fcba227e45e8</guid>
-            <pubDate>Mon, 10 Jul 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">eefed76f-f85c-4aa3-88e1-fcba227e45e8</guid>
+            <pubDate>Mon, 10 Jul 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>77</itunes:episode>
         </item>
@@ -1089,8 +1082,8 @@
                 length="119692483"
                 type="audio/mpeg"
             />
-            <guid>8637bec5-fda3-4ab8-a1f2-dfb41b57b355</guid>
-            <pubDate>Mon, 17 Jul 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8637bec5-fda3-4ab8-a1f2-dfb41b57b355</guid>
+            <pubDate>Mon, 17 Jul 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>78</itunes:episode>
         </item>
@@ -1101,8 +1094,8 @@
                 length="120974573"
                 type="audio/mpeg"
             />
-            <guid>22d1d556-773e-49f6-a6cc-a37ff32b0c8e</guid>
-            <pubDate>Mon, 24 Jul 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">22d1d556-773e-49f6-a6cc-a37ff32b0c8e</guid>
+            <pubDate>Mon, 24 Jul 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>79</itunes:episode>
         </item>
@@ -1113,8 +1106,8 @@
                 length="122800010"
                 type="audio/mpeg"
             />
-            <guid>9597642e-ca61-4a8a-a570-b38ed6ee914c</guid>
-            <pubDate>Mon, 31 Jul 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9597642e-ca61-4a8a-a570-b38ed6ee914c</guid>
+            <pubDate>Mon, 31 Jul 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>80</itunes:episode>
         </item>
@@ -1125,8 +1118,8 @@
                 length="120340320"
                 type="audio/mpeg"
             />
-            <guid>7cc255e6-7c0f-438a-a4a3-a7ed68797faa</guid>
-            <pubDate>Mon, 07 Aug 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">7cc255e6-7c0f-438a-a4a3-a7ed68797faa</guid>
+            <pubDate>Mon, 07 Aug 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>81</itunes:episode>
         </item>
@@ -1137,8 +1130,8 @@
                 length="122555504"
                 type="audio/mpeg"
             />
-            <guid>620db5d2-6797-4ec8-be59-1d12836dd033</guid>
-            <pubDate>Mon, 14 Aug 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">620db5d2-6797-4ec8-be59-1d12836dd033</guid>
+            <pubDate>Mon, 14 Aug 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>82</itunes:episode>
         </item>
@@ -1149,8 +1142,8 @@
                 length="120209708"
                 type="audio/mpeg"
             />
-            <guid>6f6c20a1-2400-4a01-ac20-f527ad31492c</guid>
-            <pubDate>Mon, 21 Aug 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6f6c20a1-2400-4a01-ac20-f527ad31492c</guid>
+            <pubDate>Mon, 21 Aug 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>83</itunes:episode>
         </item>
@@ -1161,8 +1154,8 @@
                 length="122506394"
                 type="audio/mpeg"
             />
-            <guid>f2e03748-9e67-46cf-974b-f37a0c1df078</guid>
-            <pubDate>Mon, 28 Aug 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f2e03748-9e67-46cf-974b-f37a0c1df078</guid>
+            <pubDate>Mon, 28 Aug 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>84</itunes:episode>
         </item>
@@ -1173,8 +1166,8 @@
                 length="122681936"
                 type="audio/mpeg"
             />
-            <guid>d85ed949-f3dc-4b2b-bbed-c873a5be0a73</guid>
-            <pubDate>Mon, 04 Sep 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d85ed949-f3dc-4b2b-bbed-c873a5be0a73</guid>
+            <pubDate>Mon, 04 Sep 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>85</itunes:episode>
         </item>
@@ -1185,8 +1178,8 @@
                 length="122581626"
                 type="audio/mpeg"
             />
-            <guid>03b4445e-912e-438a-a6d0-8ed6ecaebe2b</guid>
-            <pubDate>Mon, 11 Sep 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">03b4445e-912e-438a-a6d0-8ed6ecaebe2b</guid>
+            <pubDate>Mon, 11 Sep 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>86</itunes:episode>
         </item>
@@ -1197,8 +1190,8 @@
                 length="122806279"
                 type="audio/mpeg"
             />
-            <guid>c349bde9-5395-4d8f-a8bc-bb730713e3b8</guid>
-            <pubDate>Mon, 18 Sep 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c349bde9-5395-4d8f-a8bc-bb730713e3b8</guid>
+            <pubDate>Mon, 18 Sep 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>87</itunes:episode>
         </item>
@@ -1209,8 +1202,8 @@
                 length="123692353"
                 type="audio/mpeg"
             />
-            <guid>a5156b6b-d7ad-4f79-a5fd-e0d614284414</guid>
-            <pubDate>Mon, 25 Sep 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">a5156b6b-d7ad-4f79-a5fd-e0d614284414</guid>
+            <pubDate>Mon, 25 Sep 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>88</itunes:episode>
         </item>
@@ -1221,8 +1214,8 @@
                 length="122635961"
                 type="audio/mpeg"
             />
-            <guid>247420f0-ef49-4a8e-8e33-8f31fb508499</guid>
-            <pubDate>Mon, 02 Oct 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">247420f0-ef49-4a8e-8e33-8f31fb508499</guid>
+            <pubDate>Mon, 02 Oct 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>89</itunes:episode>
         </item>
@@ -1233,8 +1226,8 @@
                 length="122465643"
                 type="audio/mpeg"
             />
-            <guid>12bd4edb-974b-4a79-9f19-df8797c8ef3e</guid>
-            <pubDate>Mon, 09 Oct 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">12bd4edb-974b-4a79-9f19-df8797c8ef3e</guid>
+            <pubDate>Mon, 09 Oct 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>90</itunes:episode>
         </item>
@@ -1245,8 +1238,8 @@
                 length="122431138"
                 type="audio/mpeg"
             />
-            <guid>ae48f0d4-2118-4c15-b559-0df392940404</guid>
-            <pubDate>Mon, 16 Oct 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ae48f0d4-2118-4c15-b559-0df392940404</guid>
+            <pubDate>Mon, 16 Oct 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>91</itunes:episode>
         </item>
@@ -1257,8 +1250,8 @@
                 length="122832402"
                 type="audio/mpeg"
             />
-            <guid>67528bfc-fce0-4d27-9c66-ffdac8f23431</guid>
-            <pubDate>Mon, 23 Oct 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">67528bfc-fce0-4d27-9c66-ffdac8f23431</guid>
+            <pubDate>Mon, 23 Oct 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>92</itunes:episode>
         </item>
@@ -1269,8 +1262,8 @@
                 length="122699700"
                 type="audio/mpeg"
             />
-            <guid>ead88151-0808-4d89-8326-dee026fddf53</guid>
-            <pubDate>Mon, 30 Oct 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ead88151-0808-4d89-8326-dee026fddf53</guid>
+            <pubDate>Mon, 30 Oct 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>93</itunes:episode>
         </item>
@@ -1281,8 +1274,8 @@
                 length="122052908"
                 type="audio/mpeg"
             />
-            <guid>0fd95cde-9732-4364-8335-0161675f819a</guid>
-            <pubDate>Mon, 06 Nov 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0fd95cde-9732-4364-8335-0161675f819a</guid>
+            <pubDate>Mon, 06 Nov 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>94</itunes:episode>
         </item>
@@ -1293,8 +1286,8 @@
                 length="122662083"
                 type="audio/mpeg"
             />
-            <guid>f644c470-b8ac-4a39-a89f-9cda00073725</guid>
-            <pubDate>Mon, 13 Nov 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f644c470-b8ac-4a39-a89f-9cda00073725</guid>
+            <pubDate>Mon, 13 Nov 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>95</itunes:episode>
         </item>
@@ -1305,8 +1298,8 @@
                 length="122643275"
                 type="audio/mpeg"
             />
-            <guid>4de684e7-9e8a-4990-9769-a07f02c95a7e</guid>
-            <pubDate>Mon, 20 Nov 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4de684e7-9e8a-4990-9769-a07f02c95a7e</guid>
+            <pubDate>Mon, 20 Nov 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>96</itunes:episode>
         </item>
@@ -1317,8 +1310,8 @@
                 length="122606705"
                 type="audio/mpeg"
             />
-            <guid>9697078f-7ae0-4bb1-9fa7-8e6b65bfb25d</guid>
-            <pubDate>Mon, 27 Nov 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9697078f-7ae0-4bb1-9fa7-8e6b65bfb25d</guid>
+            <pubDate>Mon, 27 Nov 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>97</itunes:episode>
         </item>
@@ -1329,8 +1322,8 @@
                 length="122570133"
                 type="audio/mpeg"
             />
-            <guid>44008087-91a0-45fc-af70-233905563c49</guid>
-            <pubDate>Mon, 04 Dec 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">44008087-91a0-45fc-af70-233905563c49</guid>
+            <pubDate>Mon, 04 Dec 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>98</itunes:episode>
         </item>
@@ -1341,8 +1334,8 @@
                 length="123440533"
                 type="audio/mpeg"
             />
-            <guid>66200076-69f7-4f47-b902-31237873172a</guid>
-            <pubDate>Mon, 11 Dec 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">66200076-69f7-4f47-b902-31237873172a</guid>
+            <pubDate>Mon, 11 Dec 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>99</itunes:episode>
         </item>
@@ -1353,8 +1346,8 @@
                 length="122741497"
                 type="audio/mpeg"
             />
-            <guid>9b90399d-ed8f-4731-91b0-ca44b8c9ef69</guid>
-            <pubDate>Mon, 18 Dec 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9b90399d-ed8f-4731-91b0-ca44b8c9ef69</guid>
+            <pubDate>Mon, 18 Dec 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>100</itunes:episode>
         </item>
@@ -1365,8 +1358,8 @@
                 length="123355897"
                 type="audio/mpeg"
             />
-            <guid>04bcb4db-0c33-4cab-8855-faeb25359e4c</guid>
-            <pubDate>Mon, 25 Dec 1989 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">04bcb4db-0c33-4cab-8855-faeb25359e4c</guid>
+            <pubDate>Mon, 25 Dec 1989 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>101</itunes:episode>
         </item>
@@ -1377,8 +1370,8 @@
                 length="123357986"
                 type="audio/mpeg"
             />
-            <guid>082d3eb4-5151-4d59-8a95-e82f1a6bf630</guid>
-            <pubDate>Mon, 01 Jan 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">082d3eb4-5151-4d59-8a95-e82f1a6bf630</guid>
+            <pubDate>Mon, 01 Jan 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>102</itunes:episode>
         </item>
@@ -1389,8 +1382,8 @@
                 length="123028844"
                 type="audio/mpeg"
             />
-            <guid>4a390fb1-526c-47ce-95f2-f7ef73dfc7e9</guid>
-            <pubDate>Mon, 08 Jan 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4a390fb1-526c-47ce-95f2-f7ef73dfc7e9</guid>
+            <pubDate>Mon, 08 Jan 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>103</itunes:episode>
         </item>
@@ -1401,8 +1394,8 @@
                 length="123278574"
                 type="audio/mpeg"
             />
-            <guid>71cb6075-f7b6-40df-91ba-0b81287dcf26</guid>
-            <pubDate>Mon, 15 Jan 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">71cb6075-f7b6-40df-91ba-0b81287dcf26</guid>
+            <pubDate>Mon, 15 Jan 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>104</itunes:episode>
         </item>
@@ -1413,8 +1406,8 @@
                 length="123039293"
                 type="audio/mpeg"
             />
-            <guid>aead192f-6ee0-4b70-aa1a-bcca0b84af1b</guid>
-            <pubDate>Mon, 22 Jan 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">aead192f-6ee0-4b70-aa1a-bcca0b84af1b</guid>
+            <pubDate>Mon, 22 Jan 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>105</itunes:episode>
         </item>
@@ -1425,8 +1418,8 @@
                 length="118769839"
                 type="audio/mpeg"
             />
-            <guid>f9ecddad-c635-4c12-9ceb-2b282e84bb30</guid>
-            <pubDate>Mon, 29 Jan 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f9ecddad-c635-4c12-9ceb-2b282e84bb30</guid>
+            <pubDate>Mon, 29 Jan 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>106</itunes:episode>
         </item>
@@ -1437,8 +1430,8 @@
                 length="122754035"
                 type="audio/mpeg"
             />
-            <guid>c3b15031-f2ea-49c4-b2dd-49a6705275c9</guid>
-            <pubDate>Mon, 05 Feb 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c3b15031-f2ea-49c4-b2dd-49a6705275c9</guid>
+            <pubDate>Mon, 05 Feb 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>107</itunes:episode>
         </item>
@@ -1449,8 +1442,8 @@
                 length="117741660"
                 type="audio/mpeg"
             />
-            <guid>1c8c8969-e71b-420b-b221-3e3f83480992</guid>
-            <pubDate>Mon, 12 Feb 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1c8c8969-e71b-420b-b221-3e3f83480992</guid>
+            <pubDate>Mon, 12 Feb 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>108</itunes:episode>
         </item>
@@ -1461,8 +1454,8 @@
                 length="120419733"
                 type="audio/mpeg"
             />
-            <guid>c5848495-ae34-4dd9-bf26-80c542d4101c</guid>
-            <pubDate>Mon, 19 Feb 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c5848495-ae34-4dd9-bf26-80c542d4101c</guid>
+            <pubDate>Mon, 19 Feb 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>109</itunes:episode>
         </item>
@@ -1473,8 +1466,8 @@
                 length="122123962"
                 type="audio/mpeg"
             />
-            <guid>1a01fb31-9cd5-4635-b1e0-df1d390ad845</guid>
-            <pubDate>Mon, 26 Feb 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1a01fb31-9cd5-4635-b1e0-df1d390ad845</guid>
+            <pubDate>Mon, 26 Feb 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>110</itunes:episode>
         </item>
@@ -1485,8 +1478,8 @@
                 length="121617186"
                 type="audio/mpeg"
             />
-            <guid>c4a91d5e-5ec4-4cb5-b93d-bdf46fbebe04</guid>
-            <pubDate>Mon, 05 Mar 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c4a91d5e-5ec4-4cb5-b93d-bdf46fbebe04</guid>
+            <pubDate>Mon, 05 Mar 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>111</itunes:episode>
         </item>
@@ -1497,8 +1490,8 @@
                 length="121989170"
                 type="audio/mpeg"
             />
-            <guid>5bb27a80-13aa-4046-8a41-bbc33b75dfcd</guid>
-            <pubDate>Mon, 12 Mar 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5bb27a80-13aa-4046-8a41-bbc33b75dfcd</guid>
+            <pubDate>Mon, 12 Mar 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>112</itunes:episode>
         </item>
@@ -1509,8 +1502,8 @@
                 length="122498035"
                 type="audio/mpeg"
             />
-            <guid>55baace4-30d1-4983-9826-b8b5c0f371f5</guid>
-            <pubDate>Mon, 19 Mar 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">55baace4-30d1-4983-9826-b8b5c0f371f5</guid>
+            <pubDate>Mon, 19 Mar 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>113</itunes:episode>
         </item>
@@ -1521,8 +1514,8 @@
                 length="122644321"
                 type="audio/mpeg"
             />
-            <guid>4941ffe8-554b-466a-8672-c909fb056010</guid>
-            <pubDate>Mon, 26 Mar 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4941ffe8-554b-466a-8672-c909fb056010</guid>
+            <pubDate>Mon, 26 Mar 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>114</itunes:episode>
         </item>
@@ -1533,8 +1526,8 @@
                 length="121188778"
                 type="audio/mpeg"
             />
-            <guid>67fb461f-5ee9-4594-81c6-1c2769163a20</guid>
-            <pubDate>Mon, 02 Apr 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">67fb461f-5ee9-4594-81c6-1c2769163a20</guid>
+            <pubDate>Mon, 02 Apr 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>115</itunes:episode>
         </item>
@@ -1545,8 +1538,8 @@
                 length="121422835"
                 type="audio/mpeg"
             />
-            <guid>b644ad69-4309-433a-b832-48b5407d0c70</guid>
-            <pubDate>Mon, 09 Apr 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b644ad69-4309-433a-b832-48b5407d0c70</guid>
+            <pubDate>Mon, 09 Apr 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>116</itunes:episode>
         </item>
@@ -1557,8 +1550,8 @@
                 length="122065448"
                 type="audio/mpeg"
             />
-            <guid>c9b894ca-b049-4736-b7b1-215d303910ea</guid>
-            <pubDate>Mon, 16 Apr 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c9b894ca-b049-4736-b7b1-215d303910ea</guid>
+            <pubDate>Mon, 16 Apr 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>117</itunes:episode>
         </item>
@@ -1569,8 +1562,8 @@
                 length="122564909"
                 type="audio/mpeg"
             />
-            <guid>236740ad-bfe9-4bb0-b3a2-aa206688f51d</guid>
-            <pubDate>Mon, 23 Apr 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">236740ad-bfe9-4bb0-b3a2-aa206688f51d</guid>
+            <pubDate>Mon, 23 Apr 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>118</itunes:episode>
         </item>
@@ -1581,8 +1574,8 @@
                 length="118026917"
                 type="audio/mpeg"
             />
-            <guid>f38ef8f2-d2ba-4168-8551-d8e73f673b7e</guid>
-            <pubDate>Mon, 30 Apr 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f38ef8f2-d2ba-4168-8551-d8e73f673b7e</guid>
+            <pubDate>Mon, 30 Apr 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>119</itunes:episode>
         </item>
@@ -1593,8 +1586,8 @@
                 length="120162688"
                 type="audio/mpeg"
             />
-            <guid>fc1ce501-e1c1-411e-bfdb-f2565ca8a498</guid>
-            <pubDate>Mon, 07 May 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">fc1ce501-e1c1-411e-bfdb-f2565ca8a498</guid>
+            <pubDate>Mon, 07 May 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>120</itunes:episode>
         </item>
@@ -1605,8 +1598,8 @@
                 length="118180517"
                 type="audio/mpeg"
             />
-            <guid>ac477b25-0f08-4e16-93df-993ee1b120b4</guid>
-            <pubDate>Mon, 14 May 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ac477b25-0f08-4e16-93df-993ee1b120b4</guid>
+            <pubDate>Mon, 14 May 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>121</itunes:episode>
         </item>
@@ -1617,8 +1610,8 @@
                 length="121595244"
                 type="audio/mpeg"
             />
-            <guid>8506ec8c-83e1-4e96-865a-bbb4dc68db6f</guid>
-            <pubDate>Mon, 21 May 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8506ec8c-83e1-4e96-865a-bbb4dc68db6f</guid>
+            <pubDate>Mon, 21 May 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>122</itunes:episode>
         </item>
@@ -1629,8 +1622,8 @@
                 length="122162623"
                 type="audio/mpeg"
             />
-            <guid>4c7a2fa7-d64a-4454-aa5b-79053bf5ebcd</guid>
-            <pubDate>Mon, 28 May 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4c7a2fa7-d64a-4454-aa5b-79053bf5ebcd</guid>
+            <pubDate>Mon, 28 May 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>123</itunes:episode>
         </item>
@@ -1641,8 +1634,8 @@
                 length="116375978"
                 type="audio/mpeg"
             />
-            <guid>2cdb87d7-6444-4ae1-a55e-f6bd52abb37b</guid>
-            <pubDate>Mon, 04 Jun 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2cdb87d7-6444-4ae1-a55e-f6bd52abb37b</guid>
+            <pubDate>Mon, 04 Jun 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>124</itunes:episode>
         </item>
@@ -1653,8 +1646,8 @@
                 length="119818917"
                 type="audio/mpeg"
             />
-            <guid>f98186f7-896a-4e8d-88e5-88d5c1a60aec</guid>
-            <pubDate>Mon, 11 Jun 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f98186f7-896a-4e8d-88e5-88d5c1a60aec</guid>
+            <pubDate>Mon, 11 Jun 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>125</itunes:episode>
         </item>
@@ -1665,8 +1658,8 @@
                 length="121005921"
                 type="audio/mpeg"
             />
-            <guid>685c2b3d-064f-4e39-bb1a-3da8c03b9ea0</guid>
-            <pubDate>Mon, 18 Jun 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">685c2b3d-064f-4e39-bb1a-3da8c03b9ea0</guid>
+            <pubDate>Mon, 18 Jun 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>126</itunes:episode>
         </item>
@@ -1677,8 +1670,8 @@
                 length="123432174"
                 type="audio/mpeg"
             />
-            <guid>5bfd7407-f90c-4805-868e-cc8a37856e39</guid>
-            <pubDate>Mon, 25 Jun 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5bfd7407-f90c-4805-868e-cc8a37856e39</guid>
+            <pubDate>Mon, 25 Jun 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>127</itunes:episode>
         </item>
@@ -1689,8 +1682,8 @@
                 length="123391423"
                 type="audio/mpeg"
             />
-            <guid>30f375f7-e975-44a9-a28e-7adec2d464d1</guid>
-            <pubDate>Mon, 02 Jul 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">30f375f7-e975-44a9-a28e-7adec2d464d1</guid>
+            <pubDate>Mon, 02 Jul 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>128</itunes:episode>
         </item>
@@ -1701,8 +1694,8 @@
                 length="119436484"
                 type="audio/mpeg"
             />
-            <guid>77844ada-1a00-416c-9c24-628a83df72a6</guid>
-            <pubDate>Mon, 09 Jul 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">77844ada-1a00-416c-9c24-628a83df72a6</guid>
+            <pubDate>Mon, 09 Jul 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>129</itunes:episode>
         </item>
@@ -1713,8 +1706,8 @@
                 length="117054117"
                 type="audio/mpeg"
             />
-            <guid>1ce8c6d2-156a-4c67-981e-957b27a87f9e</guid>
-            <pubDate>Mon, 16 Jul 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1ce8c6d2-156a-4c67-981e-957b27a87f9e</guid>
+            <pubDate>Mon, 16 Jul 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>130</itunes:episode>
         </item>
@@ -1725,8 +1718,8 @@
                 length="122995407"
                 type="audio/mpeg"
             />
-            <guid>40aa4609-d309-4fdb-bf90-15f910c56d58</guid>
-            <pubDate>Mon, 23 Jul 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">40aa4609-d309-4fdb-bf90-15f910c56d58</guid>
+            <pubDate>Mon, 23 Jul 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>131</itunes:episode>
         </item>
@@ -1737,8 +1730,8 @@
                 length="118543097"
                 type="audio/mpeg"
             />
-            <guid>68a92fd0-c08b-41f8-8876-97ec2da196b1</guid>
-            <pubDate>Mon, 30 Jul 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">68a92fd0-c08b-41f8-8876-97ec2da196b1</guid>
+            <pubDate>Mon, 30 Jul 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>132</itunes:episode>
         </item>
@@ -1749,8 +1742,8 @@
                 length="121565963"
                 type="audio/mpeg"
             />
-            <guid>f9dce95a-058d-48fc-9e24-ef80b9362688</guid>
-            <pubDate>Mon, 06 Aug 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f9dce95a-058d-48fc-9e24-ef80b9362688</guid>
+            <pubDate>Mon, 06 Aug 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>133</itunes:episode>
         </item>
@@ -1761,8 +1754,8 @@
                 length="112668657"
                 type="audio/mpeg"
             />
-            <guid>f3a90f54-3fbd-4295-af1e-390564af9d37</guid>
-            <pubDate>Mon, 13 Aug 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f3a90f54-3fbd-4295-af1e-390564af9d37</guid>
+            <pubDate>Mon, 13 Aug 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>134</itunes:episode>
         </item>
@@ -1773,8 +1766,8 @@
                 length="119242110"
                 type="audio/mpeg"
             />
-            <guid>e69fc845-ff77-4c06-b2bd-fd66ed01e916</guid>
-            <pubDate>Mon, 20 Aug 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e69fc845-ff77-4c06-b2bd-fd66ed01e916</guid>
+            <pubDate>Mon, 20 Aug 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>135</itunes:episode>
         </item>
@@ -1785,8 +1778,8 @@
                 length="110391825"
                 type="audio/mpeg"
             />
-            <guid>81227e32-c342-4082-9cfe-79cbb2a37cd6</guid>
-            <pubDate>Mon, 27 Aug 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">81227e32-c342-4082-9cfe-79cbb2a37cd6</guid>
+            <pubDate>Mon, 27 Aug 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>136</itunes:episode>
         </item>
@@ -1797,8 +1790,8 @@
                 length="115774094"
                 type="audio/mpeg"
             />
-            <guid>e498919b-93d9-44d0-8156-07c1c6c96c52</guid>
-            <pubDate>Mon, 03 Sep 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e498919b-93d9-44d0-8156-07c1c6c96c52</guid>
+            <pubDate>Mon, 03 Sep 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>137</itunes:episode>
         </item>
@@ -1809,8 +1802,8 @@
                 length="123412298"
                 type="audio/mpeg"
             />
-            <guid>a19c849b-ac5a-4bb6-8744-1ce0839f5741</guid>
-            <pubDate>Mon, 10 Sep 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">a19c849b-ac5a-4bb6-8744-1ce0839f5741</guid>
+            <pubDate>Mon, 10 Sep 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>138</itunes:episode>
         </item>
@@ -1821,8 +1814,8 @@
                 length="118952674"
                 type="audio/mpeg"
             />
-            <guid>761dee0f-b824-4294-991b-a76cd7d3109a</guid>
-            <pubDate>Mon, 17 Sep 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">761dee0f-b824-4294-991b-a76cd7d3109a</guid>
+            <pubDate>Mon, 17 Sep 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>139</itunes:episode>
         </item>
@@ -1833,8 +1826,8 @@
                 length="122548167"
                 type="audio/mpeg"
             />
-            <guid>89722f35-f732-420c-ac6d-3dc2d72aba9a</guid>
-            <pubDate>Mon, 24 Sep 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">89722f35-f732-420c-ac6d-3dc2d72aba9a</guid>
+            <pubDate>Mon, 24 Sep 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>140</itunes:episode>
         </item>
@@ -1845,8 +1838,8 @@
                 length="123891906"
                 type="audio/mpeg"
             />
-            <guid>1423c8b8-24c5-4a34-a66a-7cee30242d7f</guid>
-            <pubDate>Mon, 01 Oct 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">1423c8b8-24c5-4a34-a66a-7cee30242d7f</guid>
+            <pubDate>Mon, 01 Oct 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>141</itunes:episode>
         </item>
@@ -1857,8 +1850,8 @@
                 length="184242833"
                 type="audio/mpeg"
             />
-            <guid>e0184586-f570-48aa-ba45-bd55bd9f4326</guid>
-            <pubDate>Mon, 08 Oct 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e0184586-f570-48aa-ba45-bd55bd9f4326</guid>
+            <pubDate>Mon, 08 Oct 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>142</itunes:episode>
         </item>
@@ -1869,8 +1862,8 @@
                 length="119282861"
                 type="audio/mpeg"
             />
-            <guid>c3e896b6-6000-4152-8eae-d730c57ebb1a</guid>
-            <pubDate>Mon, 15 Oct 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c3e896b6-6000-4152-8eae-d730c57ebb1a</guid>
+            <pubDate>Mon, 15 Oct 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>143</itunes:episode>
         </item>
@@ -1881,8 +1874,8 @@
                 length="120323580"
                 type="audio/mpeg"
             />
-            <guid>96ea4142-0b4c-4c38-bf22-ab83f2e41375</guid>
-            <pubDate>Mon, 22 Oct 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">96ea4142-0b4c-4c38-bf22-ab83f2e41375</guid>
+            <pubDate>Mon, 22 Oct 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>144</itunes:episode>
         </item>
@@ -1893,8 +1886,8 @@
                 length="120172070"
                 type="audio/mpeg"
             />
-            <guid>eea9e649-e9fc-488f-8f0c-2da84764d7f7</guid>
-            <pubDate>Mon, 29 Oct 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">eea9e649-e9fc-488f-8f0c-2da84764d7f7</guid>
+            <pubDate>Mon, 29 Oct 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>145</itunes:episode>
         </item>
@@ -1905,8 +1898,8 @@
                 length="122774910"
                 type="audio/mpeg"
             />
-            <guid>fd95739a-465e-425b-b6a7-8839365b3066</guid>
-            <pubDate>Mon, 05 Nov 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">fd95739a-465e-425b-b6a7-8839365b3066</guid>
+            <pubDate>Mon, 05 Nov 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>146</itunes:episode>
         </item>
@@ -1917,8 +1910,8 @@
                 length="121327727"
                 type="audio/mpeg"
             />
-            <guid>13759a69-b5aa-40de-ac67-4905bab69440</guid>
-            <pubDate>Mon, 12 Nov 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">13759a69-b5aa-40de-ac67-4905bab69440</guid>
+            <pubDate>Mon, 12 Nov 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>147</itunes:episode>
         </item>
@@ -1929,8 +1922,8 @@
                 length="117423988"
                 type="audio/mpeg"
             />
-            <guid>d3dd5248-ef91-40b6-b77e-b233a96b2539</guid>
-            <pubDate>Mon, 19 Nov 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d3dd5248-ef91-40b6-b77e-b233a96b2539</guid>
+            <pubDate>Mon, 19 Nov 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>148</itunes:episode>
         </item>
@@ -1941,8 +1934,8 @@
                 length="121599400"
                 type="audio/mpeg"
             />
-            <guid>68722137-c8f7-4c84-84ce-0b9a311de1f8</guid>
-            <pubDate>Mon, 26 Nov 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">68722137-c8f7-4c84-84ce-0b9a311de1f8</guid>
+            <pubDate>Mon, 26 Nov 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>149</itunes:episode>
         </item>
@@ -1953,8 +1946,8 @@
                 length="119770829"
                 type="audio/mpeg"
             />
-            <guid>b6ffd328-cc89-4711-a421-0cbe5b054564</guid>
-            <pubDate>Mon, 03 Dec 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b6ffd328-cc89-4711-a421-0cbe5b054564</guid>
+            <pubDate>Mon, 03 Dec 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>150</itunes:episode>
         </item>
@@ -1965,8 +1958,8 @@
                 length="120643319"
                 type="audio/mpeg"
             />
-            <guid>c838b91a-3762-4ad1-8758-ef37f68790ea</guid>
-            <pubDate>Mon, 10 Dec 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c838b91a-3762-4ad1-8758-ef37f68790ea</guid>
+            <pubDate>Mon, 10 Dec 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>151</itunes:episode>
         </item>
@@ -1977,8 +1970,8 @@
                 length="116305947"
                 type="audio/mpeg"
             />
-            <guid>668326cc-4263-46e6-a73d-8274d2533c74</guid>
-            <pubDate>Mon, 17 Dec 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">668326cc-4263-46e6-a73d-8274d2533c74</guid>
+            <pubDate>Mon, 17 Dec 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>152</itunes:episode>
         </item>
@@ -1989,8 +1982,8 @@
                 length="123361098"
                 type="audio/mpeg"
             />
-            <guid>c094dd86-47a7-4b17-9c4b-a8f1f3fa1f53</guid>
-            <pubDate>Mon, 24 Dec 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c094dd86-47a7-4b17-9c4b-a8f1f3fa1f53</guid>
+            <pubDate>Mon, 24 Dec 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>153</itunes:episode>
         </item>
@@ -2001,8 +1994,8 @@
                 length="124253441"
                 type="audio/mpeg"
             />
-            <guid>b7f4953f-947a-41c7-93f5-d8515f7d29b4</guid>
-            <pubDate>Mon, 31 Dec 1990 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b7f4953f-947a-41c7-93f5-d8515f7d29b4</guid>
+            <pubDate>Mon, 31 Dec 1990 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>154</itunes:episode>
         </item>
@@ -2013,8 +2006,8 @@
                 length="124031923"
                 type="audio/mpeg"
             />
-            <guid>45a86cc5-b264-45f9-a345-aff7f5dd9419</guid>
-            <pubDate>Mon, 07 Jan 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">45a86cc5-b264-45f9-a345-aff7f5dd9419</guid>
+            <pubDate>Mon, 07 Jan 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>155</itunes:episode>
         </item>
@@ -2025,8 +2018,8 @@
                 length="120991270"
                 type="audio/mpeg"
             />
-            <guid>71da1a38-47e5-4d35-95ab-e090c81c5fcb</guid>
-            <pubDate>Mon, 14 Jan 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">71da1a38-47e5-4d35-95ab-e090c81c5fcb</guid>
+            <pubDate>Mon, 14 Jan 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>156</itunes:episode>
         </item>
@@ -2037,8 +2030,8 @@
                 length="116860788"
                 type="audio/mpeg"
             />
-            <guid>e3b3e3b9-89fd-4934-af95-d604bb6977fe</guid>
-            <pubDate>Mon, 21 Jan 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e3b3e3b9-89fd-4934-af95-d604bb6977fe</guid>
+            <pubDate>Mon, 21 Jan 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>157</itunes:episode>
         </item>
@@ -2049,8 +2042,8 @@
                 length="123001653"
                 type="audio/mpeg"
             />
-            <guid>a0729a74-1e3c-46ed-8c04-99478a813eb2</guid>
-            <pubDate>Mon, 28 Jan 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">a0729a74-1e3c-46ed-8c04-99478a813eb2</guid>
+            <pubDate>Mon, 28 Jan 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>158</itunes:episode>
         </item>
@@ -2061,8 +2054,8 @@
                 length="122981800"
                 type="audio/mpeg"
             />
-            <guid>db30ad9b-f208-4b58-9600-616c02cd2728</guid>
-            <pubDate>Mon, 04 Feb 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">db30ad9b-f208-4b58-9600-616c02cd2728</guid>
+            <pubDate>Mon, 04 Feb 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>159</itunes:episode>
         </item>
@@ -2073,8 +2066,8 @@
                 length="114231825"
                 type="audio/mpeg"
             />
-            <guid>c370eda6-c4fc-4481-b14d-2b115283cf7b</guid>
-            <pubDate>Mon, 11 Feb 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c370eda6-c4fc-4481-b14d-2b115283cf7b</guid>
+            <pubDate>Mon, 11 Feb 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>160</itunes:episode>
         </item>
@@ -2085,8 +2078,8 @@
                 length="118895208"
                 type="audio/mpeg"
             />
-            <guid>3606da99-1e1b-4225-8c67-335d3eedcc16</guid>
-            <pubDate>Mon, 18 Feb 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">3606da99-1e1b-4225-8c67-335d3eedcc16</guid>
+            <pubDate>Mon, 18 Feb 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>161</itunes:episode>
         </item>
@@ -2097,8 +2090,8 @@
                 length="122822977"
                 type="audio/mpeg"
             />
-            <guid>0331be9a-af39-4382-99c5-bd58ca70f03e</guid>
-            <pubDate>Mon, 25 Feb 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0331be9a-af39-4382-99c5-bd58ca70f03e</guid>
+            <pubDate>Mon, 25 Feb 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>162</itunes:episode>
         </item>
@@ -2109,8 +2102,8 @@
                 length="115089634"
                 type="audio/mpeg"
             />
-            <guid>90b73d91-531a-47aa-a324-45b1c87adbb5</guid>
-            <pubDate>Mon, 04 Mar 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">90b73d91-531a-47aa-a324-45b1c87adbb5</guid>
+            <pubDate>Mon, 04 Mar 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>163</itunes:episode>
         </item>
@@ -2121,8 +2114,8 @@
                 length="124670331"
                 type="audio/mpeg"
             />
-            <guid>ef6886aa-539f-4709-a843-27cf73fe4c5d</guid>
-            <pubDate>Mon, 11 Mar 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ef6886aa-539f-4709-a843-27cf73fe4c5d</guid>
+            <pubDate>Mon, 11 Mar 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>164</itunes:episode>
         </item>
@@ -2133,8 +2126,8 @@
                 length="119672582"
                 type="audio/mpeg"
             />
-            <guid>136667c3-e1e2-4ad3-9b7a-2e36a8c26cfa</guid>
-            <pubDate>Mon, 18 Mar 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">136667c3-e1e2-4ad3-9b7a-2e36a8c26cfa</guid>
+            <pubDate>Mon, 18 Mar 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>165</itunes:episode>
         </item>
@@ -2145,8 +2138,8 @@
                 length="124167763"
                 type="audio/mpeg"
             />
-            <guid>d9a3ec9e-695e-4f2c-87f6-943b974e835d</guid>
-            <pubDate>Mon, 25 Mar 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d9a3ec9e-695e-4f2c-87f6-943b974e835d</guid>
+            <pubDate>Mon, 25 Mar 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>166</itunes:episode>
         </item>
@@ -2157,8 +2150,8 @@
                 length="114536895"
                 type="audio/mpeg"
             />
-            <guid>76135b0e-c148-4849-b5a2-7f92fc60e307</guid>
-            <pubDate>Mon, 01 Apr 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">76135b0e-c148-4849-b5a2-7f92fc60e307</guid>
+            <pubDate>Mon, 01 Apr 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>167</itunes:episode>
         </item>
@@ -2169,8 +2162,8 @@
                 length="113240202"
                 type="audio/mpeg"
             />
-            <guid>b3cb1a46-9e3a-46d8-bd70-55a78aa7d976</guid>
-            <pubDate>Mon, 08 Apr 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b3cb1a46-9e3a-46d8-bd70-55a78aa7d976</guid>
+            <pubDate>Mon, 08 Apr 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>168</itunes:episode>
         </item>
@@ -2181,8 +2174,8 @@
                 length="120069661"
                 type="audio/mpeg"
             />
-            <guid>98002cde-3ac6-49f2-9e94-a5b28bfe3638</guid>
-            <pubDate>Mon, 15 Apr 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">98002cde-3ac6-49f2-9e94-a5b28bfe3638</guid>
+            <pubDate>Mon, 15 Apr 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>169</itunes:episode>
         </item>
@@ -2193,8 +2186,8 @@
                 length="117406190"
                 type="audio/mpeg"
             />
-            <guid>57318e21-54f1-4577-976d-b1af35507fe5</guid>
-            <pubDate>Mon, 22 Apr 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">57318e21-54f1-4577-976d-b1af35507fe5</guid>
+            <pubDate>Mon, 22 Apr 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>170</itunes:episode>
         </item>
@@ -2205,8 +2198,8 @@
                 length="124230457"
                 type="audio/mpeg"
             />
-            <guid>112ecbef-6ce0-4e23-9217-fb17b86409e8</guid>
-            <pubDate>Mon, 29 Apr 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">112ecbef-6ce0-4e23-9217-fb17b86409e8</guid>
+            <pubDate>Mon, 29 Apr 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>171</itunes:episode>
         </item>
@@ -2217,8 +2210,8 @@
                 length="118005960"
                 type="audio/mpeg"
             />
-            <guid>8336f5bd-ce94-4bc6-99ed-89376a66c618</guid>
-            <pubDate>Mon, 06 May 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8336f5bd-ce94-4bc6-99ed-89376a66c618</guid>
+            <pubDate>Mon, 06 May 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>172</itunes:episode>
         </item>
@@ -2229,8 +2222,8 @@
                 length="121780189"
                 type="audio/mpeg"
             />
-            <guid>8a338e14-be23-4d91-867b-9b89816e111d</guid>
-            <pubDate>Mon, 13 May 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8a338e14-be23-4d91-867b-9b89816e111d</guid>
+            <pubDate>Mon, 13 May 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>173</itunes:episode>
         </item>
@@ -2241,8 +2234,8 @@
                 length="114788727"
                 type="audio/mpeg"
             />
-            <guid>3096df3a-edfd-441d-84be-00ef082a0c03</guid>
-            <pubDate>Mon, 20 May 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">3096df3a-edfd-441d-84be-00ef082a0c03</guid>
+            <pubDate>Mon, 20 May 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>174</itunes:episode>
         </item>
@@ -2253,8 +2246,8 @@
                 length="110083552"
                 type="audio/mpeg"
             />
-            <guid>f7e8849b-df81-448c-a8ff-cc224329b3dc</guid>
-            <pubDate>Mon, 27 May 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f7e8849b-df81-448c-a8ff-cc224329b3dc</guid>
+            <pubDate>Mon, 27 May 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>175</itunes:episode>
         </item>
@@ -2265,8 +2258,8 @@
                 length="121396666"
                 type="audio/mpeg"
             />
-            <guid>3deeae84-46d0-4c7f-919b-72dbd7c5dcab</guid>
-            <pubDate>Mon, 03 Jun 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">3deeae84-46d0-4c7f-919b-72dbd7c5dcab</guid>
+            <pubDate>Mon, 03 Jun 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>176</itunes:episode>
         </item>
@@ -2277,8 +2270,8 @@
                 length="124274317"
                 type="audio/mpeg"
             />
-            <guid>2bbb0c02-732a-4e80-b5f3-f2db7ab775d6</guid>
-            <pubDate>Mon, 10 Jun 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2bbb0c02-732a-4e80-b5f3-f2db7ab775d6</guid>
+            <pubDate>Mon, 10 Jun 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>177</itunes:episode>
         </item>
@@ -2289,8 +2282,8 @@
                 length="125916896"
                 type="audio/mpeg"
             />
-            <guid>89a522c0-58b8-479c-a01f-5b8076947321</guid>
-            <pubDate>Mon, 17 Jun 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">89a522c0-58b8-479c-a01f-5b8076947321</guid>
+            <pubDate>Mon, 17 Jun 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>178</itunes:episode>
         </item>
@@ -2301,8 +2294,8 @@
                 length="119824120"
                 type="audio/mpeg"
             />
-            <guid>06f56567-41cc-4742-87af-d1f24a593225</guid>
-            <pubDate>Mon, 24 Jun 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">06f56567-41cc-4742-87af-d1f24a593225</guid>
+            <pubDate>Mon, 24 Jun 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>179</itunes:episode>
         </item>
@@ -2313,8 +2306,8 @@
                 length="117249492"
                 type="audio/mpeg"
             />
-            <guid>adf13f80-2148-41c3-8ae0-3e05d43bdd89</guid>
-            <pubDate>Mon, 01 Jul 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">adf13f80-2148-41c3-8ae0-3e05d43bdd89</guid>
+            <pubDate>Mon, 01 Jul 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>180</itunes:episode>
         </item>
@@ -2325,8 +2318,8 @@
                 length="124120705"
                 type="audio/mpeg"
             />
-            <guid>c4b67b79-67a9-48c8-88b9-db08d38307c9</guid>
-            <pubDate>Mon, 08 Jul 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">c4b67b79-67a9-48c8-88b9-db08d38307c9</guid>
+            <pubDate>Mon, 08 Jul 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>181</itunes:episode>
         </item>
@@ -2337,8 +2330,8 @@
                 length="122749803"
                 type="audio/mpeg"
             />
-            <guid>25d4e7fa-25ba-4ac1-8302-d539036447e4</guid>
-            <pubDate>Mon, 15 Jul 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">25d4e7fa-25ba-4ac1-8302-d539036447e4</guid>
+            <pubDate>Mon, 15 Jul 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>182</itunes:episode>
         </item>
@@ -2349,8 +2342,8 @@
                 length="119287011"
                 type="audio/mpeg"
             />
-            <guid>9fc048ff-8bd1-437d-b425-3bab76a07935</guid>
-            <pubDate>Mon, 22 Jul 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9fc048ff-8bd1-437d-b425-3bab76a07935</guid>
+            <pubDate>Mon, 22 Jul 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>183</itunes:episode>
         </item>
@@ -2361,8 +2354,8 @@
                 length="117177362"
                 type="audio/mpeg"
             />
-            <guid>0d6a4fa8-5130-43ab-9919-f66380b3331b</guid>
-            <pubDate>Mon, 29 Jul 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0d6a4fa8-5130-43ab-9919-f66380b3331b</guid>
+            <pubDate>Mon, 29 Jul 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>184</itunes:episode>
         </item>
@@ -2373,8 +2366,8 @@
                 length="124236688"
                 type="audio/mpeg"
             />
-            <guid>3177c8c4-ac02-434c-aa4a-a442dc82da81</guid>
-            <pubDate>Mon, 05 Aug 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">3177c8c4-ac02-434c-aa4a-a442dc82da81</guid>
+            <pubDate>Mon, 05 Aug 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>185</itunes:episode>
         </item>
@@ -2385,8 +2378,8 @@
                 length="121779076"
                 type="audio/mpeg"
             />
-            <guid>d769a1fb-b68c-4a46-b286-787f50711917</guid>
-            <pubDate>Mon, 12 Aug 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d769a1fb-b68c-4a46-b286-787f50711917</guid>
+            <pubDate>Mon, 12 Aug 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>186</itunes:episode>
         </item>
@@ -2397,8 +2390,8 @@
                 length="122565885"
                 type="audio/mpeg"
             />
-            <guid>b7321061-7c72-4c8b-a899-60d633a47dc6</guid>
-            <pubDate>Mon, 19 Aug 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b7321061-7c72-4c8b-a899-60d633a47dc6</guid>
+            <pubDate>Mon, 19 Aug 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>187</itunes:episode>
         </item>
@@ -2409,8 +2402,8 @@
                 length="120455239"
                 type="audio/mpeg"
             />
-            <guid>d5b78a32-b779-4ad0-a2ca-5a7340abe53b</guid>
-            <pubDate>Mon, 26 Aug 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">d5b78a32-b779-4ad0-a2ca-5a7340abe53b</guid>
+            <pubDate>Mon, 26 Aug 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>188</itunes:episode>
         </item>
@@ -2421,8 +2414,8 @@
                 length="117012300"
                 type="audio/mpeg"
             />
-            <guid>258bb635-6f8d-4ef7-9d50-afa208b3ae31</guid>
-            <pubDate>Mon, 02 Sep 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">258bb635-6f8d-4ef7-9d50-afa208b3ae31</guid>
+            <pubDate>Mon, 02 Sep 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>189</itunes:episode>
         </item>
@@ -2433,8 +2426,8 @@
                 length="116147124"
                 type="audio/mpeg"
             />
-            <guid>6cbd27b3-3564-4cc7-99ad-348601dcc8b9</guid>
-            <pubDate>Mon, 09 Sep 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6cbd27b3-3564-4cc7-99ad-348601dcc8b9</guid>
+            <pubDate>Mon, 09 Sep 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>190</itunes:episode>
         </item>
@@ -2445,8 +2438,8 @@
                 length="120283855"
                 type="audio/mpeg"
             />
-            <guid>4bf3fe13-6374-4403-9d64-9bd278011adb</guid>
-            <pubDate>Mon, 16 Sep 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4bf3fe13-6374-4403-9d64-9bd278011adb</guid>
+            <pubDate>Mon, 16 Sep 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>191</itunes:episode>
         </item>
@@ -2457,8 +2450,8 @@
                 length="121612966"
                 type="audio/mpeg"
             />
-            <guid>2a217cbe-a964-4324-8181-c93a8bd0f8a1</guid>
-            <pubDate>Mon, 23 Sep 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2a217cbe-a964-4324-8181-c93a8bd0f8a1</guid>
+            <pubDate>Mon, 23 Sep 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>192</itunes:episode>
         </item>
@@ -2469,8 +2462,8 @@
                 length="119303739"
                 type="audio/mpeg"
             />
-            <guid>270ca62c-5266-441a-abf4-2e0d8670475b</guid>
-            <pubDate>Mon, 30 Sep 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">270ca62c-5266-441a-abf4-2e0d8670475b</guid>
+            <pubDate>Mon, 30 Sep 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>193</itunes:episode>
         </item>
@@ -2481,8 +2474,8 @@
                 length="121127070"
                 type="audio/mpeg"
             />
-            <guid>b98b1e43-6071-414c-81f9-52c49de73b3c</guid>
-            <pubDate>Mon, 07 Oct 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">b98b1e43-6071-414c-81f9-52c49de73b3c</guid>
+            <pubDate>Mon, 07 Oct 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>194</itunes:episode>
         </item>
@@ -2493,8 +2486,8 @@
                 length="122807262"
                 type="audio/mpeg"
             />
-            <guid>9c58d30f-68e8-4447-bb8a-dea89578036d</guid>
-            <pubDate>Mon, 14 Oct 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9c58d30f-68e8-4447-bb8a-dea89578036d</guid>
+            <pubDate>Mon, 14 Oct 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>195</itunes:episode>
         </item>
@@ -2505,8 +2498,8 @@
                 length="115973651"
                 type="audio/mpeg"
             />
-            <guid>baca5e52-e2a9-483d-9549-0e85da055698</guid>
-            <pubDate>Mon, 21 Oct 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">baca5e52-e2a9-483d-9549-0e85da055698</guid>
+            <pubDate>Mon, 21 Oct 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>196</itunes:episode>
         </item>
@@ -2517,8 +2510,8 @@
                 length="124533453"
                 type="audio/mpeg"
             />
-            <guid>f73b9e1a-7d46-4abe-86a8-dc968f938d86</guid>
-            <pubDate>Mon, 28 Oct 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">f73b9e1a-7d46-4abe-86a8-dc968f938d86</guid>
+            <pubDate>Mon, 28 Oct 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>197</itunes:episode>
         </item>
@@ -2529,8 +2522,8 @@
                 length="117335153"
                 type="audio/mpeg"
             />
-            <guid>9a53c5c0-9602-48ed-a1c3-e282684d0704</guid>
-            <pubDate>Mon, 04 Nov 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">9a53c5c0-9602-48ed-a1c3-e282684d0704</guid>
+            <pubDate>Mon, 04 Nov 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>198</itunes:episode>
         </item>
@@ -2541,8 +2534,8 @@
                 length="122819801"
                 type="audio/mpeg"
             />
-            <guid>174e1662-aed1-4e4c-80f8-7e8fdcf1a1f6</guid>
-            <pubDate>Mon, 11 Nov 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">174e1662-aed1-4e4c-80f8-7e8fdcf1a1f6</guid>
+            <pubDate>Mon, 11 Nov 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>199</itunes:episode>
         </item>
@@ -2553,8 +2546,8 @@
                 length="114634052"
                 type="audio/mpeg"
             />
-            <guid>8b196f3d-c432-4146-b460-9b53dd526018</guid>
-            <pubDate>Mon, 18 Nov 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">8b196f3d-c432-4146-b460-9b53dd526018</guid>
+            <pubDate>Mon, 18 Nov 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>200</itunes:episode>
         </item>
@@ -2565,8 +2558,8 @@
                 length="115879594"
                 type="audio/mpeg"
             />
-            <guid>6b1994c5-76c0-4a1b-903d-c857b67bbd49</guid>
-            <pubDate>Mon, 25 Nov 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">6b1994c5-76c0-4a1b-903d-c857b67bbd49</guid>
+            <pubDate>Mon, 25 Nov 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>201</itunes:episode>
         </item>
@@ -2577,8 +2570,8 @@
                 length="124823919"
                 type="audio/mpeg"
             />
-            <guid>5c509bde-353a-4de8-b4d3-27f1dd078d7e</guid>
-            <pubDate>Mon, 02 Dec 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5c509bde-353a-4de8-b4d3-27f1dd078d7e</guid>
+            <pubDate>Mon, 02 Dec 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>202</itunes:episode>
         </item>
@@ -2589,8 +2582,8 @@
                 length="117786543"
                 type="audio/mpeg"
             />
-            <guid>bfbfbe68-70e1-412d-980e-11403972abd1</guid>
-            <pubDate>Mon, 09 Dec 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">bfbfbe68-70e1-412d-980e-11403972abd1</guid>
+            <pubDate>Mon, 09 Dec 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>203</itunes:episode>
         </item>
@@ -2601,8 +2594,8 @@
                 length="117480388"
                 type="audio/mpeg"
             />
-            <guid>cf589cbe-0a5b-42d8-9d74-7a6d1ffe231d</guid>
-            <pubDate>Mon, 16 Dec 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">cf589cbe-0a5b-42d8-9d74-7a6d1ffe231d</guid>
+            <pubDate>Mon, 16 Dec 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>204</itunes:episode>
         </item>
@@ -2613,8 +2606,8 @@
                 length="114844137"
                 type="audio/mpeg"
             />
-            <guid>4bde0ede-ca9c-4b84-93ad-0f8e6cb8fc04</guid>
-            <pubDate>Mon, 23 Dec 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4bde0ede-ca9c-4b84-93ad-0f8e6cb8fc04</guid>
+            <pubDate>Mon, 23 Dec 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>205</itunes:episode>
         </item>
@@ -2625,8 +2618,8 @@
                 length="119362022"
                 type="audio/mpeg"
             />
-            <guid>e8efb351-3a06-490e-8388-00dda8ba02c9</guid>
-            <pubDate>Mon, 30 Dec 1991 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">e8efb351-3a06-490e-8388-00dda8ba02c9</guid>
+            <pubDate>Mon, 30 Dec 1991 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>206</itunes:episode>
         </item>
@@ -2637,8 +2630,8 @@
                 length="121507965"
                 type="audio/mpeg"
             />
-            <guid>5799d754-ede8-41cd-8c05-a37b7a971e07</guid>
-            <pubDate>Mon, 06 Jan 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">5799d754-ede8-41cd-8c05-a37b7a971e07</guid>
+            <pubDate>Mon, 06 Jan 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>207</itunes:episode>
         </item>
@@ -2649,8 +2642,8 @@
                 length="121998300"
                 type="audio/mpeg"
             />
-            <guid>2e6e532a-43af-433f-ae83-6032116023c6</guid>
-            <pubDate>Mon, 13 Jan 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">2e6e532a-43af-433f-ae83-6032116023c6</guid>
+            <pubDate>Mon, 13 Jan 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>208</itunes:episode>
         </item>
@@ -2661,8 +2654,8 @@
                 length="118530284"
                 type="audio/mpeg"
             />
-            <guid>a5a3c878-e260-4017-ae78-0f8ca2d85e98</guid>
-            <pubDate>Mon, 20 Jan 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">a5a3c878-e260-4017-ae78-0f8ca2d85e98</guid>
+            <pubDate>Mon, 20 Jan 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>209</itunes:episode>
         </item>
@@ -2673,8 +2666,8 @@
                 length="122426708"
                 type="audio/mpeg"
             />
-            <guid>50ce19b3-a787-4230-9d2a-99b007f20f73</guid>
-            <pubDate>Mon, 27 Jan 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">50ce19b3-a787-4230-9d2a-99b007f20f73</guid>
+            <pubDate>Mon, 27 Jan 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>210</itunes:episode>
         </item>
@@ -2685,8 +2678,8 @@
                 length="112495998"
                 type="audio/mpeg"
             />
-            <guid>cae5dd1d-a705-4bb6-935f-b9da4f73a934</guid>
-            <pubDate>Mon, 03 Feb 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">cae5dd1d-a705-4bb6-935f-b9da4f73a934</guid>
+            <pubDate>Mon, 03 Feb 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>211</itunes:episode>
         </item>
@@ -2697,8 +2690,8 @@
                 length="115759214"
                 type="audio/mpeg"
             />
-            <guid>016c8ecd-e90c-484f-a18d-19fd0faa01a7</guid>
-            <pubDate>Mon, 10 Feb 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">016c8ecd-e90c-484f-a18d-19fd0faa01a7</guid>
+            <pubDate>Mon, 10 Feb 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>212</itunes:episode>
         </item>
@@ -2709,8 +2702,8 @@
                 length="109688357"
                 type="audio/mpeg"
             />
-            <guid>4ef43609-87c3-4737-982c-c4acb33edbf0</guid>
-            <pubDate>Mon, 17 Feb 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">4ef43609-87c3-4737-982c-c4acb33edbf0</guid>
+            <pubDate>Mon, 17 Feb 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>213</itunes:episode>
         </item>
@@ -2721,8 +2714,8 @@
                 length="109597451"
                 type="audio/mpeg"
             />
-            <guid>ebf3c24f-d1d6-47ed-bf6b-697f71683a6e</guid>
-            <pubDate>Mon, 24 Feb 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">ebf3c24f-d1d6-47ed-bf6b-697f71683a6e</guid>
+            <pubDate>Mon, 24 Feb 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>214</itunes:episode>
         </item>
@@ -2733,8 +2726,8 @@
                 length="120514545"
                 type="audio/mpeg"
             />
-            <guid>973bc800-9d99-4352-a1f6-dc7201f82422</guid>
-            <pubDate>Mon, 02 Mar 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">973bc800-9d99-4352-a1f6-dc7201f82422</guid>
+            <pubDate>Mon, 02 Mar 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>215</itunes:episode>
         </item>
@@ -2745,8 +2738,8 @@
                 length="119641010"
                 type="audio/mpeg"
             />
-            <guid>704a3ffa-85df-4681-afdf-d92f6608068c</guid>
-            <pubDate>Mon, 09 Mar 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">704a3ffa-85df-4681-afdf-d92f6608068c</guid>
+            <pubDate>Mon, 09 Mar 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>216</itunes:episode>
         </item>
@@ -2757,8 +2750,8 @@
                 length="120859361"
                 type="audio/mpeg"
             />
-            <guid>0db5df35-08da-40be-978b-4bd21d8f1f4b</guid>
-            <pubDate>Mon, 16 Mar 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">0db5df35-08da-40be-978b-4bd21d8f1f4b</guid>
+            <pubDate>Mon, 16 Mar 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>217</itunes:episode>
         </item>
@@ -2769,8 +2762,8 @@
                 length="121350463"
                 type="audio/mpeg"
             />
-            <guid>a11445e8-7eda-4aa8-9463-21e7236aa7c4</guid>
-            <pubDate>Mon, 23 Mar 1992 12:00:00 -0000</pubDate>
+            <guid isPermaLink="false">a11445e8-7eda-4aa8-9463-21e7236aa7c4</guid>
+            <pubDate>Mon, 23 Mar 1992 12:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <itunes:episode>218</itunes:episode>
         </item>
