@@ -8,11 +8,12 @@
     <channel>
         <atom:link href="https://meissnem.github.io/feeds/llt.xml" rel="self" type="application/rss+xml"/>
         <title>The Lost Lennon Tapes</title>
-        <itunes:author>Westwood One</itunes:author>
+        <itunes:title>The Lost Lennon Tapes</itunes:title>
         <itunes:subtitle>Weekly series featuring unreleased recordings by John Lennon.</itunes:subtitle>
         <description><![CDATA[<p><i>The Lost Lennon Tapes</i> was an American music documentary series presented by Elliot Mintz, comprising a three-hour premiere episode and 218 one-hour episodes, broadcast on Westwood One Radio Network between 24 January 1988 and 29 March 1992. The premiere episode features an introduction from John Lennon’s wife, Yoko Ono, explaining why she chose to give Westwood One Radio access to the tapes on which the shows’ content is based. She described the selection of Elliot Mintz as the presenter not so much as a choice, but a “karmic destiny”, as Mintz had been a close friend of the Lennons for some time.</p><p>Some of the recordings featured throughout the series also appear on the Beatles Anthology documentary series, which began three years after the final broadcast of this radio series.</p>]]></description>
         <link>https://www.theindiemusicarchive.com/TheLostLennonTapes.shtml</link>
         <language>en-us</language>
+        <lastBuildDate>Wed, 27 Dec 2023 10:25:54 +0000</lastBuildDate>
         <copyright>Westwood One</copyright>
         <itunes:category text="Arts">
             <itunes:category text="Performing Arts"/>
@@ -186,7 +187,7 @@
             <itunes:episode>3</itunes:episode>
         </item>
         <item>
-            <title>4. The Playboy Interview</title>
+            <title>4: The Playboy Interview</title>
             <itunes:title>The Playboy Interview</itunes:title>
             <itunes:subtitle>Show #88-08 for broadcast the week of February 15, 1988</itunes:subtitle>
             <enclosure
@@ -200,7 +201,9 @@
             <itunes:episode>4</itunes:episode>
         </item>
         <item>
-            <title>Elton John Thanksgiving Concert</title>
+            <title>5: Elton John Thanksgiving Concert</title>
+            <itunes:title>Elton John Thanksgiving Concert</itunes:title>
+            <itunes:subtitle>Show #88-09 for broadcast the week of February 22, 1988</itunes:subtitle>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/5.mp3"
                 length="122775976"
@@ -212,7 +215,9 @@
             <itunes:episode>5</itunes:episode>
         </item>
         <item>
-            <title>Elsas Interview WNEW</title>
+            <title>6: Elsas Interview WNEW</title>
+            <itunes:title>Elsas Interview WNEW</itunes:title>
+            <itunes:subtitle>Show #88-10 for broadcast the week of February 29, 1988</itunes:subtitle>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/6.mp3"
                 length="122640140"
@@ -224,7 +229,8 @@
             <itunes:episode>6</itunes:episode>
         </item>
         <item>
-            <title>Every Man Has a Woman LP</title>
+            <title>7: Every Man Has a Woman LP</title>
+            <itunes:title>Every Man Has a Woman LP</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/7.mp3"
                 length="122390410"
@@ -236,7 +242,8 @@
             <itunes:episode>7</itunes:episode>
         </item>
         <item>
-            <title>Abbey Road Spotlight</title>
+            <title>8: Abbey Road Spotlight</title>
+            <itunes:title>Abbey Road Spotlight</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/8.mp3"
                 length="122316222"
@@ -248,7 +255,8 @@
             <itunes:episode>8</itunes:episode>
         </item>
         <item>
-            <title>Collage 1</title>
+            <title>9: Collage 1</title>
+            <itunes:title>Collage 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/9.mp3"
                 length="122526247"
@@ -260,7 +268,8 @@
             <itunes:episode>9</itunes:episode>
         </item>
         <item>
-            <title>School Days</title>
+            <title>10: School Days</title>
+            <itunes:title>School Days</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/10.mp3"
                 length="122599389"
@@ -272,7 +281,8 @@
             <itunes:episode>10</itunes:episode>
         </item>
         <item>
-            <title>Early Childhood</title>
+            <title>11: Early Childhood</title>
+            <itunes:title>Early Childhood</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/11.mp3"
                 length="122708059"
@@ -284,7 +294,8 @@
             <itunes:episode>11</itunes:episode>
         </item>
         <item>
-            <title>First Trip To Hamburg</title>
+            <title>12: First Trip To Hamburg</title>
+            <itunes:title>First Trip To Hamburg</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/12.mp3"
                 length="122690296"
@@ -296,7 +307,8 @@
             <itunes:episode>12</itunes:episode>
         </item>
         <item>
-            <title>Beatles at the Cavern</title>
+            <title>13: Beatles at the Cavern</title>
+            <itunes:title>Beatles at the Cavern</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/13.mp3"
                 length="122679847"
@@ -308,7 +320,8 @@
             <itunes:episode>13</itunes:episode>
         </item>
         <item>
-            <title>Lennon on Dylan</title>
+            <title>14: Lennon on Dylan</title>
+            <itunes:title>Lennon on Dylan</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/14.mp3"
                 length="122410263"
@@ -320,7 +333,8 @@
             <itunes:episode>14</itunes:episode>
         </item>
         <item>
-            <title>Collage 2</title>
+            <title>15: Collage 2</title>
+            <itunes:title>Collage 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/15.mp3"
                 length="122541920"
@@ -332,7 +346,8 @@
             <itunes:episode>15</itunes:episode>
         </item>
         <item>
-            <title>Lennon Comes To Live in the USA</title>
+            <title>16: Lennon Comes To Live in the USA</title>
+            <itunes:title>Lennon Comes To Live in the USA</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/16.mp3"
                 length="122623422"
@@ -344,7 +359,8 @@
             <itunes:episode>16</itunes:episode>
         </item>
         <item>
-            <title>Lennon on KSAN — Ton Donohue</title>
+            <title>17: Lennon on KSAN — Ton Donohue</title>
+            <itunes:title>Lennon on KSAN — Ton Donohue</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/17.mp3"
                 length="122245169"
@@ -356,7 +372,8 @@
             <itunes:episode>17</itunes:episode>
         </item>
         <item>
-            <title>Lennon at the College of Art</title>
+            <title>18: Lennon at the College of Art</title>
+            <itunes:title>Lennon at the College of Art</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/18.mp3"
                 length="122672532"
@@ -368,7 +385,8 @@
             <itunes:episode>18</itunes:episode>
         </item>
         <item>
-            <title>One To One Rehearsals, pt. 1</title>
+            <title>19: One To One Rehearsals, pt. 1</title>
+            <itunes:title>One To One Rehearsals, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/19.mp3"
                 length="122852255"
@@ -380,7 +398,8 @@
             <itunes:episode>19</itunes:episode>
         </item>
         <item>
-            <title>One To One Rehearsals, pt. 2</title>
+            <title>20: One To One Rehearsals, pt. 2</title>
+            <itunes:title>One To One Rehearsals, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/20.mp3"
                 length="122711194"
@@ -393,6 +412,7 @@
         </item>
         <item>
             <title>Starting Over Lennon Back To Record</title>
+            <itunes:title>Starting Over Lennon Back To Record</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/21.mp3"
                 length="123266011"
@@ -405,6 +425,7 @@
         </item>
         <item>
             <title>The Development of Woman</title>
+            <itunes:title>The Development of Woman</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/22.mp3"
                 length="122879422"
@@ -417,6 +438,7 @@
         </item>
         <item>
             <title>Collage 3</title>
+            <itunes:title>Collage 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/23.mp3"
                 length="121584794"
@@ -429,6 +451,7 @@
         </item>
         <item>
             <title>Decca Audition</title>
+            <itunes:title>Decca Audition</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/24.mp3"
                 length="122767618"
@@ -441,6 +464,7 @@
         </item>
         <item>
             <title>On the Air with Dr. Winston O’Boogie</title>
+            <itunes:title>On the Air with Dr. Winston O’Boogie</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/25.mp3"
                 length="122765528"
@@ -453,6 +477,7 @@
         </item>
         <item>
             <title>Creative Duslexia</title>
+            <itunes:title>Creative Duslexia</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/26.mp3"
                 length="122773887"
@@ -465,6 +490,7 @@
         </item>
         <item>
             <title>Jessie Ed Davis</title>
+            <itunes:title>Jessie Ed Davis</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/27.mp3"
                 length="123006900"
@@ -477,6 +503,7 @@
         </item>
         <item>
             <title>Please Please Me</title>
+            <itunes:title>Please Please Me</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/28.mp3"
                 length="122898230"
@@ -489,6 +516,7 @@
         </item>
         <item>
             <title>Collage 4</title>
+            <itunes:title>Collage 4</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/29.mp3"
                 length="122696565"
@@ -501,6 +529,7 @@
         </item>
         <item>
             <title>Collage 5</title>
+            <itunes:title>Collage 5</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/30.mp3"
                 length="122010067"
@@ -513,6 +542,7 @@
         </item>
         <item>
             <title>Collage 6</title>
+            <itunes:title>Collage 6</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/31.mp3"
                 length="119688304"
@@ -525,6 +555,7 @@
         </item>
         <item>
             <title>Apple</title>
+            <itunes:title>Apple</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/32.mp3"
                 length="118864924"
@@ -537,6 +568,7 @@
         </item>
         <item>
             <title>Lennon at Large in Hollywood, pt. 1 — The Spector Sessions</title>
+            <itunes:title>Lennon at Large in Hollywood, pt. 1 — The Spector Sessions</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/33.mp3"
                 length="119067634"
@@ -549,6 +581,7 @@
         </item>
         <item>
             <title>Lennon at Large in Hollywood, pt. 2 — The Nilsson Phase</title>
+            <itunes:title>Lennon at Large in Hollywood, pt. 2 — The Nilsson Phase</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/34.mp3"
                 length="120715438"
@@ -561,6 +594,7 @@
         </item>
         <item>
             <title>Lennon at Large in Hollywood, pt. 3 — Coast to Coast</title>
+            <itunes:title>Lennon at Large in Hollywood, pt. 3 — Coast to Coast</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/35.mp3"
                 length="118089610"
@@ -573,6 +607,7 @@
         </item>
         <item>
             <title>On the Air with Dr. Winston O’Boogie</title>
+            <itunes:title>On the Air with Dr. Winston O’Boogie</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/36.mp3"
                 length="119213920"
@@ -585,6 +620,7 @@
         </item>
         <item>
             <title>The Sean &amp; John Birthday Show</title>
+            <itunes:title>The Sean &amp; John Birthday Show</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/37.mp3"
                 length="121341332"
@@ -597,6 +633,7 @@
         </item>
         <item>
             <title>”Imagine: John Lennon” Spotlight, pt. 2 — Julian Lennon, pt. 1</title>
+            <itunes:title>”Imagine: John Lennon” Spotlight, pt. 2 — Julian Lennon, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/38.mp3"
                 length="120829332"
@@ -609,6 +646,7 @@
         </item>
         <item>
             <title>”Imagine: John Lennon” Spotlight, pt. 3 — Julian Lennon, pt. 2</title>
+            <itunes:title>”Imagine: John Lennon” Spotlight, pt. 3 — Julian Lennon, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/39.mp3"
                 length="122762394"
@@ -621,6 +659,7 @@
         </item>
         <item>
             <title>Lennon’s Star on the Hollywood Walk of Fame Special</title>
+            <itunes:title>Lennon’s Star on the Hollywood Walk of Fame Special</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/40.mp3"
                 length="123416500"
@@ -633,6 +672,7 @@
         </item>
         <item>
             <title>Rock &amp; Roll, pt. 2</title>
+            <itunes:title>Rock &amp; Roll, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/41.mp3"
                 length="121044581"
@@ -645,6 +685,7 @@
         </item>
         <item>
             <title>Mark Lewisohn, pt. 1</title>
+            <itunes:title>Mark Lewisohn, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/42.mp3"
                 length="123112434"
@@ -657,6 +698,7 @@
         </item>
         <item>
             <title>Mark Lewisohn, pt. 2</title>
+            <itunes:title>Mark Lewisohn, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/43.mp3"
                 length="123162589"
@@ -669,6 +711,7 @@
         </item>
         <item>
             <title>Julia Baird Interview</title>
+            <itunes:title>Julia Baird Interview</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/44.mp3"
                 length="123187667"
@@ -681,6 +724,7 @@
         </item>
         <item>
             <title>Collage 7</title>
+            <itunes:title>Collage 7</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/45.mp3"
                 length="123253496"
@@ -693,6 +737,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development, pt. 1</title>
+            <itunes:title>Lennon’s Spiritual Development, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/46.mp3"
                 length="123235732"
@@ -705,6 +750,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development, pt. 2</title>
+            <itunes:title>Lennon’s Spiritual Development, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/47.mp3"
                 length="122635961"
@@ -717,6 +763,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development, pt. 3</title>
+            <itunes:title>Lennon’s Spiritual Development, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/48.mp3"
                 length="122598345"
@@ -729,6 +776,7 @@
         </item>
         <item>
             <title>Best of the Lost Lennon Tapes — Year 1</title>
+            <itunes:title>Best of the Lost Lennon Tapes — Year 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/49.mp3"
                 length="123058100"
@@ -741,6 +789,7 @@
         </item>
         <item>
             <title>The Year Two Preview</title>
+            <itunes:title>The Year Two Preview</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/50.mp3"
                 length="122758214"
@@ -753,6 +802,7 @@
         </item>
         <item>
             <title>Lennon on the Air in Hollywood</title>
+            <itunes:title>Lennon on the Air in Hollywood</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/51.mp3"
                 length="122216957"
@@ -765,6 +815,7 @@
         </item>
         <item>
             <title>One To One Encore Lennon on the A</title>
+            <itunes:title>One To One Encore Lennon on the A</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/52.mp3"
                 length="122832402"
@@ -777,6 +828,7 @@
         </item>
         <item>
             <title>Return To Tittenhurst</title>
+            <itunes:title>Return To Tittenhurst</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/53.mp3"
                 length="122890916"
@@ -789,6 +841,7 @@
         </item>
         <item>
             <title>Grapefruit: Can You Dig It?</title>
+            <itunes:title>Grapefruit: Can You Dig It?</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/54.mp3"
                 length="120581692"
@@ -801,6 +854,7 @@
         </item>
         <item>
             <title>The Beatles: Coming To America, pt. 1</title>
+            <itunes:title>The Beatles: Coming To America, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/55.mp3"
                 length="122840761"
@@ -813,6 +867,7 @@
         </item>
         <item>
             <title>The Beatles: Coming To America, pt. 2</title>
+            <itunes:title>The Beatles: Coming To America, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/56.mp3"
                 length="122132320"
@@ -825,6 +880,7 @@
         </item>
         <item>
             <title>The Beatles: Coming To America, pt. 3 — The Beatles Conquer the Colonies</title>
+            <itunes:title>The Beatles: Coming To America, pt. 3 — The Beatles Conquer the Colonies</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/57.mp3"
                 length="122474002"
@@ -837,6 +893,7 @@
         </item>
         <item>
             <title>Toronto Rock and Roll Revival, pt. 1</title>
+            <itunes:title>Toronto Rock and Roll Revival, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/58.mp3"
                 length="122498034"
@@ -849,6 +906,7 @@
         </item>
         <item>
             <title>Toronto Rock and Roll Revival, pt. 2</title>
+            <itunes:title>Toronto Rock and Roll Revival, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/59.mp3"
                 length="124233610"
@@ -861,6 +919,7 @@
         </item>
         <item>
             <title>(Almost) Nothing But Beatles &amp; Elvis</title>
+            <itunes:title>(Almost) Nothing But Beatles &amp; Elvis</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/60.mp3"
                 length="122137545"
@@ -873,6 +932,7 @@
         </item>
         <item>
             <title>Lennon &amp; The Beatles in the Studio &amp; on the Set</title>
+            <itunes:title>Lennon &amp; The Beatles in the Studio &amp; on the Set</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/61.mp3"
                 length="122754034"
@@ -885,6 +945,7 @@
         </item>
         <item>
             <title>The Beatles Down Under, pt. 1</title>
+            <itunes:title>The Beatles Down Under, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/62.mp3"
                 length="122745675"
@@ -897,6 +958,7 @@
         </item>
         <item>
             <title>The Beatles Down Under, pt. 2 — Julian, Mr Jordan, pt. 1–2</title>
+            <itunes:title>The Beatles Down Under, pt. 2 — Julian, Mr Jordan, pt. 1–2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/63.mp3"
                 length="122515798"
@@ -909,6 +971,7 @@
         </item>
         <item>
             <title>The Beatles Down Under, pt. 3 — Julian, Mr Jordan, pt. 3–4</title>
+            <itunes:title>The Beatles Down Under, pt. 3 — Julian, Mr Jordan, pt. 3–4</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/64.mp3"
                 length="122478181"
@@ -921,6 +984,7 @@
         </item>
         <item>
             <title>The Beatles Down Under, pt. 4 — Julian, Mr Jordon, pt. 5–6</title>
+            <itunes:title>The Beatles Down Under, pt. 4 — Julian, Mr Jordon, pt. 5–6</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/65.mp3"
                 length="122289055"
@@ -933,6 +997,7 @@
         </item>
         <item>
             <title>The Beatles Down Under, pt. 5 — John &amp; Yoko Way Out West, pt. 1</title>
+            <itunes:title>The Beatles Down Under, pt. 5 — John &amp; Yoko Way Out West, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/66.mp3"
                 length="122530426"
@@ -945,6 +1010,7 @@
         </item>
         <item>
             <title>Forgive Me My Little Flower Princess</title>
+            <itunes:title>Forgive Me My Little Flower Princess</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/67.mp3"
                 length="122471912"
@@ -957,6 +1023,7 @@
         </item>
         <item>
             <title>Lennon Remembers: The Get Back Sessions</title>
+            <itunes:title>Lennon Remembers: The Get Back Sessions</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/68.mp3"
                 length="122248304"
@@ -969,6 +1036,7 @@
         </item>
         <item>
             <title>Collage 7</title>
+            <itunes:title>Collage 7</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/69.mp3"
                 length="122558638"
@@ -981,6 +1049,7 @@
         </item>
         <item>
             <title>Jonathon Scott Rolling Stone Interview, pt. 1</title>
+            <itunes:title>Jonathon Scott Rolling Stone Interview, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/70.mp3"
                 length="121095781"
@@ -993,6 +1062,7 @@
         </item>
         <item>
             <title>Jonathon Scott Rolling Stone Interview, pt. 2 — Buddy Holly Tribute</title>
+            <itunes:title>Jonathon Scott Rolling Stone Interview, pt. 2 — Buddy Holly Tribute</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/71.mp3"
                 length="122546100"
@@ -1005,6 +1075,7 @@
         </item>
         <item>
             <title>Collage 8</title>
+            <itunes:title>Collage 8</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/72.mp3"
                 length="122594165"
@@ -1017,6 +1088,7 @@
         </item>
         <item>
             <title>Lost Lennon Love Songs, pt. 1</title>
+            <itunes:title>Lost Lennon Love Songs, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/73.mp3"
                 length="122663128"
@@ -1029,6 +1101,7 @@
         </item>
         <item>
             <title>Collage 9</title>
+            <itunes:title>Collage 9</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/74.mp3"
                 length="121840794"
@@ -1041,6 +1114,7 @@
         </item>
         <item>
             <title>Way Out West with John &amp; Yoko, pt. 2</title>
+            <itunes:title>Way Out West with John &amp; Yoko, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/75.mp3"
                 length="119849218"
@@ -1053,6 +1127,7 @@
         </item>
         <item>
             <title>John &amp; Yoko with Jerrt Ruben on Mike Douglas</title>
+            <itunes:title>John &amp; Yoko with Jerrt Ruben on Mike Douglas</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/76.mp3"
                 length="118388451"
@@ -1065,6 +1140,7 @@
         </item>
         <item>
             <title>Please Please Me Again</title>
+            <itunes:title>Please Please Me Again</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/77.mp3"
                 length="119889969"
@@ -1077,6 +1153,7 @@
         </item>
         <item>
             <title>Lost Lennon Love Songs, pt. 2</title>
+            <itunes:title>Lost Lennon Love Songs, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/78.mp3"
                 length="119692483"
@@ -1089,6 +1166,7 @@
         </item>
         <item>
             <title>Strawberry Fields Two Versions I Want You</title>
+            <itunes:title>Strawberry Fields Two Versions I Want You</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/79.mp3"
                 length="120974573"
@@ -1101,6 +1179,7 @@
         </item>
         <item>
             <title>M.B.E. Spotlight, pt. 1</title>
+            <itunes:title>M.B.E. Spotlight, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/80.mp3"
                 length="122800010"
@@ -1113,6 +1192,7 @@
         </item>
         <item>
             <title>Collage 10</title>
+            <itunes:title>Collage 10</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/81.mp3"
                 length="120340320"
@@ -1125,6 +1205,7 @@
         </item>
         <item>
             <title>M.B.E. Spotlight, pt. 2</title>
+            <itunes:title>M.B.E. Spotlight, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/82.mp3"
                 length="122555504"
@@ -1137,6 +1218,7 @@
         </item>
         <item>
             <title>Dakota Kitchen Encounter</title>
+            <itunes:title>Dakota Kitchen Encounter</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/83.mp3"
                 length="120209708"
@@ -1149,6 +1231,7 @@
         </item>
         <item>
             <title>Mike Douglas #4, pt. 1 — More Plastic Ono Band &amp; Double Fantasy</title>
+            <itunes:title>Mike Douglas #4, pt. 1 — More Plastic Ono Band &amp; Double Fantasy</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/84.mp3"
                 length="122506394"
@@ -1161,6 +1244,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development Revisited, pt. 1</title>
+            <itunes:title>Lennon’s Spiritual Development Revisited, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/85.mp3"
                 length="122681936"
@@ -1173,6 +1257,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development Revisited, pt. 2</title>
+            <itunes:title>Lennon’s Spiritual Development Revisited, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/86.mp3"
                 length="122581626"
@@ -1185,6 +1270,7 @@
         </item>
         <item>
             <title>Nicky Hopkins on the Imagine Sessions</title>
+            <itunes:title>Nicky Hopkins on the Imagine Sessions</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/87.mp3"
                 length="122806279"
@@ -1197,6 +1283,7 @@
         </item>
         <item>
             <title>The John &amp; Yoko Argument Interview — Autumn 1971</title>
+            <itunes:title>The John &amp; Yoko Argument Interview — Autumn 1971</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/88.mp3"
                 length="123692353"
@@ -1209,6 +1296,7 @@
         </item>
         <item>
             <title>The Sean &amp; John Birthday Show, pt. 2</title>
+            <itunes:title>The Sean &amp; John Birthday Show, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/89.mp3"
                 length="122635961"
@@ -1221,6 +1309,7 @@
         </item>
         <item>
             <title>The Sean &amp; John Birthday Show, pt. 3</title>
+            <itunes:title>The Sean &amp; John Birthday Show, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/90.mp3"
                 length="122465643"
@@ -1233,6 +1322,7 @@
         </item>
         <item>
             <title>The Sean &amp; John Birthday Show, pt. 4</title>
+            <itunes:title>The Sean &amp; John Birthday Show, pt. 4</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/91.mp3"
                 length="122431138"
@@ -1245,6 +1335,7 @@
         </item>
         <item>
             <title>The Sean &amp; John Birthday Show, pt. 5</title>
+            <itunes:title>The Sean &amp; John Birthday Show, pt. 5</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/92.mp3"
                 length="122832402"
@@ -1257,6 +1348,7 @@
         </item>
         <item>
             <title>Montreal Revisited, pt. 1 with Roger Scott</title>
+            <itunes:title>Montreal Revisited, pt. 1 with Roger Scott</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/93.mp3"
                 length="122699700"
@@ -1269,6 +1361,7 @@
         </item>
         <item>
             <title>Montreal Revisited, pt. 2 with Roger Scott</title>
+            <itunes:title>Montreal Revisited, pt. 2 with Roger Scott</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/94.mp3"
                 length="122052908"
@@ -1281,6 +1374,7 @@
         </item>
         <item>
             <title>Montreal Revisited, pt. 3 with Roger Scott</title>
+            <itunes:title>Montreal Revisited, pt. 3 with Roger Scott</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/95.mp3"
                 length="122662083"
@@ -1293,6 +1387,7 @@
         </item>
         <item>
             <title>Montreal Revisited, pt. 4 with Roger Scott</title>
+            <itunes:title>Montreal Revisited, pt. 4 with Roger Scott</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/96.mp3"
                 length="122643275"
@@ -1305,6 +1400,7 @@
         </item>
         <item>
             <title>Coleman on Eppy — John &amp; the Fabs, pt. 1</title>
+            <itunes:title>Coleman on Eppy — John &amp; the Fabs, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/97.mp3"
                 length="122606705"
@@ -1317,6 +1413,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development Revisited, pt. 3</title>
+            <itunes:title>Lennon’s Spiritual Development Revisited, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/98.mp3"
                 length="122570133"
@@ -1329,6 +1426,7 @@
         </item>
         <item>
             <title>Lennon’s Spiritual Development Revisited, pt. 4</title>
+            <itunes:title>Lennon’s Spiritual Development Revisited, pt. 4</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/99.mp3"
                 length="123440533"
@@ -1341,6 +1439,7 @@
         </item>
         <item>
             <title>Xmas with John &amp; Yoko and The Beatles, pt. 1</title>
+            <itunes:title>Xmas with John &amp; Yoko and The Beatles, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/100.mp3"
                 length="122741497"
@@ -1353,6 +1452,7 @@
         </item>
         <item>
             <title>Xmas with John &amp; Yoko and The Beatles, pt. 2</title>
+            <itunes:title>Xmas with John &amp; Yoko and The Beatles, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/101.mp3"
                 length="123355897"
@@ -1365,6 +1465,7 @@
         </item>
         <item>
             <title>Best of Year Two, pt. 1</title>
+            <itunes:title>Best of Year Two, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/102.mp3"
                 length="123357986"
@@ -1377,6 +1478,7 @@
         </item>
         <item>
             <title>Best of Year Two, pt. 2</title>
+            <itunes:title>Best of Year Two, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/103.mp3"
                 length="123028844"
@@ -1389,6 +1491,7 @@
         </item>
         <item>
             <title>Year Three Premiere</title>
+            <itunes:title>Year Three Premiere</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/104.mp3"
                 length="123278574"
@@ -1401,6 +1504,7 @@
         </item>
         <item>
             <title>Collage 11</title>
+            <itunes:title>Collage 11</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/105.mp3"
                 length="123039293"
@@ -1413,6 +1517,7 @@
         </item>
         <item>
             <title>The Men Who Gave The Beatles Away</title>
+            <itunes:title>The Men Who Gave The Beatles Away</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/106.mp3"
                 length="118769839"
@@ -1425,6 +1530,7 @@
         </item>
         <item>
             <title>The Fab Four in D.C.</title>
+            <itunes:title>The Fab Four in D.C.</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/107.mp3"
                 length="122754035"
@@ -1437,6 +1543,7 @@
         </item>
         <item>
             <title>Collage 12</title>
+            <itunes:title>Collage 12</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/108.mp3"
                 length="117741660"
@@ -1449,6 +1556,7 @@
         </item>
         <item>
             <title>Epstein on Epstein, pt. 1</title>
+            <itunes:title>Epstein on Epstein, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/109.mp3"
                 length="120419733"
@@ -1461,6 +1569,7 @@
         </item>
         <item>
             <title>Epstein on Epstein, pt. 2</title>
+            <itunes:title>Epstein on Epstein, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/110.mp3"
                 length="122123962"
@@ -1473,6 +1582,7 @@
         </item>
         <item>
             <title>Epstein on Epstein, pt. 3</title>
+            <itunes:title>Epstein on Epstein, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/111.mp3"
                 length="121617186"
@@ -1485,6 +1595,7 @@
         </item>
         <item>
             <title>Epstein on Epstein, pt. 4</title>
+            <itunes:title>Epstein on Epstein, pt. 4</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/112.mp3"
                 length="121989170"
@@ -1497,6 +1608,7 @@
         </item>
         <item>
             <title>John &amp; Yoko Anniversary Show: Courtship</title>
+            <itunes:title>John &amp; Yoko Anniversary Show: Courtship</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/113.mp3"
                 length="122498035"
@@ -1509,6 +1621,7 @@
         </item>
         <item>
             <title>John &amp; Yoko Anniversary Show: Wedding &amp; Honeymoon</title>
+            <itunes:title>John &amp; Yoko Anniversary Show: Wedding &amp; Honeymoon</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/114.mp3"
                 length="122644321"
@@ -1521,6 +1634,7 @@
         </item>
         <item>
             <title>April 1964 and More</title>
+            <itunes:title>April 1964 and More</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/115.mp3"
                 length="121188778"
@@ -1533,6 +1647,7 @@
         </item>
         <item>
             <title>Collage 13</title>
+            <itunes:title>Collage 13</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/116.mp3"
                 length="121422835"
@@ -1545,6 +1660,7 @@
         </item>
         <item>
             <title>The Fab Four’s Far East Fiasco 1966</title>
+            <itunes:title>The Fab Four’s Far East Fiasco 1966</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/117.mp3"
                 length="122065448"
@@ -1557,6 +1673,7 @@
         </item>
         <item>
             <title>Tom Snyder — April 28, 1975</title>
+            <itunes:title>Tom Snyder — April 28, 1975</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/118.mp3"
                 length="122564909"
@@ -1569,6 +1686,7 @@
         </item>
         <item>
             <title>Live in 1965 — J.Rastafar-Eye &amp; P. McSplivney</title>
+            <itunes:title>Live in 1965 — J.Rastafar-Eye &amp; P. McSplivney</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/119.mp3"
                 length="118026917"
@@ -1581,6 +1699,7 @@
         </item>
         <item>
             <title>So, Who Did Break Up The Beatles??</title>
+            <itunes:title>So, Who Did Break Up The Beatles??</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/120.mp3"
                 length="120162688"
@@ -1593,6 +1712,7 @@
         </item>
         <item>
             <title>Ringo Bails From The Beatles</title>
+            <itunes:title>Ringo Bails From The Beatles</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/121.mp3"
                 length="118180517"
@@ -1605,6 +1725,7 @@
         </item>
         <item>
             <title>Collage 14</title>
+            <itunes:title>Collage 14</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/122.mp3"
                 length="121595244"
@@ -1617,6 +1738,7 @@
         </item>
         <item>
             <title>Collage 15</title>
+            <itunes:title>Collage 15</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/123.mp3"
                 length="122162623"
@@ -1629,6 +1751,7 @@
         </item>
         <item>
             <title>Coast To Coast with O’Boogie &amp; The Beatles</title>
+            <itunes:title>Coast To Coast with O’Boogie &amp; The Beatles</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/124.mp3"
                 length="116375978"
@@ -1641,6 +1764,7 @@
         </item>
         <item>
             <title>From Get Back To Let It Be</title>
+            <itunes:title>From Get Back To Let It Be</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/125.mp3"
                 length="119818917"
@@ -1653,6 +1777,7 @@
         </item>
         <item>
             <title>The Spectorization of Let It Be</title>
+            <itunes:title>The Spectorization of Let It Be</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/126.mp3"
                 length="121005921"
@@ -1665,6 +1790,7 @@
         </item>
         <item>
             <title>Liberation Celebration, pt. 1</title>
+            <itunes:title>Liberation Celebration, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/127.mp3"
                 length="123432174"
@@ -1677,6 +1803,7 @@
         </item>
         <item>
             <title>Liberation Celebration, pt. 2</title>
+            <itunes:title>Liberation Celebration, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/128.mp3"
                 length="123391423"
@@ -1689,6 +1816,7 @@
         </item>
         <item>
             <title>Beatles on Film, pt. 1</title>
+            <itunes:title>Beatles on Film, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/129.mp3"
                 length="119436484"
@@ -1701,6 +1829,7 @@
         </item>
         <item>
             <title>Beatles on Film, pt. 2 — Help!</title>
+            <itunes:title>Beatles on Film, pt. 2 — Help!</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/130.mp3"
                 length="117054117"
@@ -1713,6 +1842,7 @@
         </item>
         <item>
             <title>Beatles on Film, pt. 3 — Magical Mystery Tour</title>
+            <itunes:title>Beatles on Film, pt. 3 — Magical Mystery Tour</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/131.mp3"
                 length="122995407"
@@ -1725,6 +1855,7 @@
         </item>
         <item>
             <title>Revolver</title>
+            <itunes:title>Revolver</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/132.mp3"
                 length="118543097"
@@ -1737,6 +1868,7 @@
         </item>
         <item>
             <title>Brian Epstein</title>
+            <itunes:title>Brian Epstein</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/133.mp3"
                 length="121565963"
@@ -1749,6 +1881,7 @@
         </item>
         <item>
             <title>Double Fantasy, pt. 1</title>
+            <itunes:title>Double Fantasy, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/134.mp3"
                 length="112668657"
@@ -1761,6 +1894,7 @@
         </item>
         <item>
             <title>Double Fantasy, pt. 2</title>
+            <itunes:title>Double Fantasy, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/135.mp3"
                 length="119242110"
@@ -1773,6 +1907,7 @@
         </item>
         <item>
             <title>Double Fantasy, pt. 3</title>
+            <itunes:title>Double Fantasy, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/136.mp3"
                 length="110391825"
@@ -1785,6 +1920,7 @@
         </item>
         <item>
             <title>Live Peace in Toronto</title>
+            <itunes:title>Live Peace in Toronto</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/137.mp3"
                 length="115774094"
@@ -1797,6 +1933,7 @@
         </item>
         <item>
             <title>Walls and Bridges</title>
+            <itunes:title>Walls and Bridges</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/138.mp3"
                 length="123412298"
@@ -1809,6 +1946,7 @@
         </item>
         <item>
             <title>Abbey Road, pt. 1</title>
+            <itunes:title>Abbey Road, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/139.mp3"
                 length="118952674"
@@ -1821,6 +1959,7 @@
         </item>
         <item>
             <title>Abbey Road, pt. 2</title>
+            <itunes:title>Abbey Road, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/140.mp3"
                 length="122548167"
@@ -1833,6 +1972,7 @@
         </item>
         <item>
             <title>Milestones, pt. 1</title>
+            <itunes:title>Milestones, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/141.mp3"
                 length="123891906"
@@ -1845,6 +1985,7 @@
         </item>
         <item>
             <title>John Lennon — They Say It’s Your Birthday</title>
+            <itunes:title>John Lennon — They Say It’s Your Birthday</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/142.mp3"
                 length="184242833"
@@ -1857,6 +1998,7 @@
         </item>
         <item>
             <title>White Album, pt. 1</title>
+            <itunes:title>White Album, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/143.mp3"
                 length="119282861"
@@ -1869,6 +2011,7 @@
         </item>
         <item>
             <title>White Album, pt. 2</title>
+            <itunes:title>White Album, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/144.mp3"
                 length="120323580"
@@ -1881,6 +2024,7 @@
         </item>
         <item>
             <title>Stu Sutcliffe — The Forgotten Beatle</title>
+            <itunes:title>Stu Sutcliffe — The Forgotten Beatle</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/145.mp3"
                 length="120172070"
@@ -1893,6 +2037,7 @@
         </item>
         <item>
             <title>BBC-Banned</title>
+            <itunes:title>BBC-Banned</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/146.mp3"
                 length="122774910"
@@ -1905,6 +2050,7 @@
         </item>
         <item>
             <title>The Beatles in Hamburg</title>
+            <itunes:title>The Beatles in Hamburg</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/147.mp3"
                 length="121327727"
@@ -1917,6 +2063,7 @@
         </item>
         <item>
             <title>Influences</title>
+            <itunes:title>Influences</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/148.mp3"
                 length="117423988"
@@ -1929,6 +2076,7 @@
         </item>
         <item>
             <title>The Fans</title>
+            <itunes:title>The Fans</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/149.mp3"
                 length="121599400"
@@ -1941,6 +2089,7 @@
         </item>
         <item>
             <title>Collectors Edition</title>
+            <itunes:title>Collectors Edition</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/150.mp3"
                 length="119770829"
@@ -1953,6 +2102,7 @@
         </item>
         <item>
             <title>Rubber Soul</title>
+            <itunes:title>Rubber Soul</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/151.mp3"
                 length="120643319"
@@ -1965,6 +2115,7 @@
         </item>
         <item>
             <title>Christmas Show</title>
+            <itunes:title>Christmas Show</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/152.mp3"
                 length="116305947"
@@ -1977,6 +2128,7 @@
         </item>
         <item>
             <title>The Breakup of The Beatles</title>
+            <itunes:title>The Breakup of The Beatles</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/153.mp3"
                 length="123361098"
@@ -1989,6 +2141,7 @@
         </item>
         <item>
             <title>New Beginnings</title>
+            <itunes:title>New Beginnings</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/154.mp3"
                 length="124253441"
@@ -2001,6 +2154,7 @@
         </item>
         <item>
             <title>The Disintegration of Lennon &amp; McCartney</title>
+            <itunes:title>The Disintegration of Lennon &amp; McCartney</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/155.mp3"
                 length="124031923"
@@ -2013,6 +2167,7 @@
         </item>
         <item>
             <title>Beatles vs the Rolling Stones</title>
+            <itunes:title>Beatles vs the Rolling Stones</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/156.mp3"
                 length="120991270"
@@ -2025,6 +2180,7 @@
         </item>
         <item>
             <title>Mal Evans Remembers</title>
+            <itunes:title>Mal Evans Remembers</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/157.mp3"
                 length="116860788"
@@ -2037,6 +2193,7 @@
         </item>
         <item>
             <title>Rock &amp; Roll</title>
+            <itunes:title>Rock &amp; Roll</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/158.mp3"
                 length="123001653"
@@ -2049,6 +2206,7 @@
         </item>
         <item>
             <title>Beatles Conquer the Colonies, pt. 1</title>
+            <itunes:title>Beatles Conquer the Colonies, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/159.mp3"
                 length="122981800"
@@ -2061,6 +2219,7 @@
         </item>
         <item>
             <title>Beatles Conquer the Colonies, pt. 2</title>
+            <itunes:title>Beatles Conquer the Colonies, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/160.mp3"
                 length="114231825"
@@ -2073,6 +2232,7 @@
         </item>
         <item>
             <title>The Beatles Live at the Beeb, pt. 1</title>
+            <itunes:title>The Beatles Live at the Beeb, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/161.mp3"
                 length="118895208"
@@ -2085,6 +2245,7 @@
         </item>
         <item>
             <title>Birthday Salute To George Harrison</title>
+            <itunes:title>Birthday Salute To George Harrison</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/162.mp3"
                 length="122822977"
@@ -2097,6 +2258,7 @@
         </item>
         <item>
             <title>Writing</title>
+            <itunes:title>Writing</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/163.mp3"
                 length="115089634"
@@ -2109,6 +2271,7 @@
         </item>
         <item>
             <title>Advertising For Peace</title>
+            <itunes:title>Advertising For Peace</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/164.mp3"
                 length="124670331"
@@ -2121,6 +2284,7 @@
         </item>
         <item>
             <title>John’s Enlightenment</title>
+            <itunes:title>John’s Enlightenment</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/165.mp3"
                 length="119672582"
@@ -2133,6 +2297,7 @@
         </item>
         <item>
             <title>The Beatles Live at the Beeb, pt. 2</title>
+            <itunes:title>The Beatles Live at the Beeb, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/166.mp3"
                 length="124167763"
@@ -2145,6 +2310,7 @@
         </item>
         <item>
             <title>Beatle Rumors</title>
+            <itunes:title>Beatle Rumors</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/167.mp3"
                 length="114536895"
@@ -2157,6 +2323,7 @@
         </item>
         <item>
             <title>John’s Policital Awakening</title>
+            <itunes:title>John’s Policital Awakening</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/168.mp3"
                 length="113240202"
@@ -2169,6 +2336,7 @@
         </item>
         <item>
             <title>The Beatles Backwards in Time</title>
+            <itunes:title>The Beatles Backwards in Time</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/169.mp3"
                 length="120069661"
@@ -2181,6 +2349,7 @@
         </item>
         <item>
             <title>Dylan and Lennon</title>
+            <itunes:title>Dylan and Lennon</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/170.mp3"
                 length="117406190"
@@ -2193,6 +2362,7 @@
         </item>
         <item>
             <title>The Beatles Live at the Beeb, pt. 3</title>
+            <itunes:title>The Beatles Live at the Beeb, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/171.mp3"
                 length="124230457"
@@ -2205,6 +2375,7 @@
         </item>
         <item>
             <title>Beatle Paradise</title>
+            <itunes:title>Beatle Paradise</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/172.mp3"
                 length="118005960"
@@ -2217,6 +2388,7 @@
         </item>
         <item>
             <title>Milk and Honey Outtakes — Pussy Cats Session</title>
+            <itunes:title>Milk and Honey Outtakes — Pussy Cats Session</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/173.mp3"
                 length="121780189"
@@ -2229,6 +2401,7 @@
         </item>
         <item>
             <title>Sgt. Peppers, pt. 1</title>
+            <itunes:title>Sgt. Peppers, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/174.mp3"
                 length="114788727"
@@ -2241,6 +2414,7 @@
         </item>
         <item>
             <title>Sgt. Peppers, pt. 2</title>
+            <itunes:title>Sgt. Peppers, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/175.mp3"
                 length="110083552"
@@ -2253,6 +2427,7 @@
         </item>
         <item>
             <title>Paul and George Speak</title>
+            <itunes:title>Paul and George Speak</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/176.mp3"
                 length="121396666"
@@ -2265,6 +2440,7 @@
         </item>
         <item>
             <title>Paul’s Birthday, pt. 1</title>
+            <itunes:title>Paul’s Birthday, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/177.mp3"
                 length="124274317"
@@ -2277,6 +2453,7 @@
         </item>
         <item>
             <title>Paul’s Birthday, pt. 2</title>
+            <itunes:title>Paul’s Birthday, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/178.mp3"
                 length="125916896"
@@ -2289,6 +2466,7 @@
         </item>
         <item>
             <title>John’s Song Writing Process, pt. 1</title>
+            <itunes:title>John’s Song Writing Process, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/179.mp3"
                 length="119824120"
@@ -2301,6 +2479,7 @@
         </item>
         <item>
             <title>John’s Song Writing Process, pt. 2</title>
+            <itunes:title>John’s Song Writing Process, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/180.mp3"
                 length="117249492"
@@ -2313,6 +2492,7 @@
         </item>
         <item>
             <title>Ringo’s Birthday</title>
+            <itunes:title>Ringo’s Birthday</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/181.mp3"
                 length="124120705"
@@ -2325,6 +2505,7 @@
         </item>
         <item>
             <title>John &amp; Yoko, pt. 1</title>
+            <itunes:title>John &amp; Yoko, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/182.mp3"
                 length="122749803"
@@ -2337,6 +2518,7 @@
         </item>
         <item>
             <title>John &amp; Yoko, pt. 2</title>
+            <itunes:title>John &amp; Yoko, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/183.mp3"
                 length="119287011"
@@ -2349,6 +2531,7 @@
         </item>
         <item>
             <title>John &amp; Yoko, pt. 3</title>
+            <itunes:title>John &amp; Yoko, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/184.mp3"
                 length="117177362"
@@ -2361,6 +2544,7 @@
         </item>
         <item>
             <title>John’s Alter Ego</title>
+            <itunes:title>John’s Alter Ego</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/185.mp3"
                 length="124236688"
@@ -2373,6 +2557,7 @@
         </item>
         <item>
             <title>One To One</title>
+            <itunes:title>One To One</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/186.mp3"
                 length="121779076"
@@ -2385,6 +2570,7 @@
         </item>
         <item>
             <title>On the Air</title>
+            <itunes:title>On the Air</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/187.mp3"
                 length="122565885"
@@ -2397,6 +2583,7 @@
         </item>
         <item>
             <title>The Other Side of the Glass, pt. 1</title>
+            <itunes:title>The Other Side of the Glass, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/188.mp3"
                 length="120455239"
@@ -2409,6 +2596,7 @@
         </item>
         <item>
             <title>The Other Side of the Glass, pt. 2</title>
+            <itunes:title>The Other Side of the Glass, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/189.mp3"
                 length="117012300"
@@ -2421,6 +2609,7 @@
         </item>
         <item>
             <title>The Other Side of the Glass, pt. 3</title>
+            <itunes:title>The Other Side of the Glass, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/190.mp3"
                 length="116147124"
@@ -2433,6 +2622,7 @@
         </item>
         <item>
             <title>Playboy Interview, pt. 1</title>
+            <itunes:title>Playboy Interview, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/191.mp3"
                 length="120283855"
@@ -2445,6 +2635,7 @@
         </item>
         <item>
             <title>Playboy Interview, pt. 2</title>
+            <itunes:title>Playboy Interview, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/192.mp3"
                 length="121612966"
@@ -2457,6 +2648,7 @@
         </item>
         <item>
             <title>Joe Butler — David Peel</title>
+            <itunes:title>Joe Butler — David Peel</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/193.mp3"
                 length="119303739"
@@ -2469,6 +2661,7 @@
         </item>
         <item>
             <title>Audio Snapshots</title>
+            <itunes:title>Audio Snapshots</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/194.mp3"
                 length="121127070"
@@ -2481,6 +2674,7 @@
         </item>
         <item>
             <title>The FBI Files</title>
+            <itunes:title>The FBI Files</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/195.mp3"
                 length="122807262"
@@ -2493,6 +2687,7 @@
         </item>
         <item>
             <title>Playboy Interview, pt. 3</title>
+            <itunes:title>Playboy Interview, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/196.mp3"
                 length="115973651"
@@ -2505,6 +2700,7 @@
         </item>
         <item>
             <title>Fillmore East — Donovan</title>
+            <itunes:title>Fillmore East — Donovan</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/197.mp3"
                 length="124533453"
@@ -2517,6 +2713,7 @@
         </item>
         <item>
             <title>The Beatles in Hollywood</title>
+            <itunes:title>The Beatles in Hollywood</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/198.mp3"
                 length="117335153"
@@ -2529,6 +2726,7 @@
         </item>
         <item>
             <title>George Martin</title>
+            <itunes:title>George Martin</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/199.mp3"
                 length="122819801"
@@ -2541,6 +2739,7 @@
         </item>
         <item>
             <title>1980</title>
+            <itunes:title>1980</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/200.mp3"
                 length="114634052"
@@ -2553,6 +2752,7 @@
         </item>
         <item>
             <title>Unfinished Works</title>
+            <itunes:title>Unfinished Works</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/201.mp3"
                 length="115879594"
@@ -2565,6 +2765,7 @@
         </item>
         <item>
             <title>Fantasy Concert</title>
+            <itunes:title>Fantasy Concert</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/202.mp3"
                 length="124823919"
@@ -2577,6 +2778,7 @@
         </item>
         <item>
             <title>A Critics View, pt. 1</title>
+            <itunes:title>A Critics View, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/203.mp3"
                 length="117786543"
@@ -2589,6 +2791,7 @@
         </item>
         <item>
             <title>A Critics View, pt. 2</title>
+            <itunes:title>A Critics View, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/204.mp3"
                 length="117480388"
@@ -2601,6 +2804,7 @@
         </item>
         <item>
             <title>Christmas Show (Rebroadcast of Episode #152)</title>
+            <itunes:title>Christmas Show (Rebroadcast of Episode #152)</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/205.mp3"
                 length="114844137"
@@ -2613,6 +2817,7 @@
         </item>
         <item>
             <title>Ray Coleman</title>
+            <itunes:title>Ray Coleman</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/206.mp3"
                 length="119362022"
@@ -2625,6 +2830,7 @@
         </item>
         <item>
             <title>Imagine</title>
+            <itunes:title>Imagine</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/207.mp3"
                 length="121507965"
@@ -2637,6 +2843,7 @@
         </item>
         <item>
             <title>Kenny Everett’s Interviews</title>
+            <itunes:title>Kenny Everett’s Interviews</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/208.mp3"
                 length="121998300"
@@ -2649,6 +2856,7 @@
         </item>
         <item>
             <title>Mind Games Sessions</title>
+            <itunes:title>Mind Games Sessions</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/209.mp3"
                 length="118530284"
@@ -2661,6 +2869,7 @@
         </item>
         <item>
             <title>Beatle B-sides, pt. 1</title>
+            <itunes:title>Beatle B-sides, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/210.mp3"
                 length="122426708"
@@ -2673,6 +2882,7 @@
         </item>
         <item>
             <title>Beatle B-sides, pt. 2</title>
+            <itunes:title>Beatle B-sides, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/211.mp3"
                 length="112495998"
@@ -2685,6 +2895,7 @@
         </item>
         <item>
             <title>Beatle B-sides, pt. 3</title>
+            <itunes:title>Beatle B-sides, pt. 3</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/212.mp3"
                 length="115759214"
@@ -2697,6 +2908,7 @@
         </item>
         <item>
             <title>1980 Demons</title>
+            <itunes:title>1980 Demons</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/213.mp3"
                 length="109688357"
@@ -2709,6 +2921,7 @@
         </item>
         <item>
             <title>Stepping Out at the Hit Factory, pt. 1</title>
+            <itunes:title>Stepping Out at the Hit Factory, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/214.mp3"
                 length="109597451"
@@ -2721,6 +2934,7 @@
         </item>
         <item>
             <title>Stepping Out at the Hit Factory, pt. 2</title>
+            <itunes:title>Stepping Out at the Hit Factory, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/215.mp3"
                 length="120514545"
@@ -2733,6 +2947,7 @@
         </item>
         <item>
             <title>Spector and Lennon</title>
+            <itunes:title>Spector and Lennon</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/216.mp3"
                 length="119641010"
@@ -2745,6 +2960,7 @@
         </item>
         <item>
             <title>Best of the Lost Lennon Tapes, pt. 1</title>
+            <itunes:title>Best of the Lost Lennon Tapes, pt. 1</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/217.mp3"
                 length="120859361"
@@ -2757,6 +2973,7 @@
         </item>
         <item>
             <title>Best of the Lost Lennon Tapes, pt. 2</title>
+            <itunes:title>Best of the Lost Lennon Tapes, pt. 2</itunes:title>
             <enclosure
                 url="https://www.theindiemusicarchive.com/Audio/Albums/LostLennonTapes/218.mp3"
                 length="121350463"
