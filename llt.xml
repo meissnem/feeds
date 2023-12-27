@@ -59,40 +59,54 @@
             <description>
                 <![CDATA[
                 <h3>Segment 1 - 6:24</h3>
-                <h4>Incue</h4>
-                    Music + <q>And now, Westwood One presents…<q>
+                <p><b>Incue:</b> Music + <q>And now, Westwood One presents…</q></p>
+                <p><b>Billboard:</b> Budweiser</p>
 
-                <h4>Billboard</h4>
-                    Budweiser
-
-                <h4>Content</h4>
+                <p><b>Content:</b>
                 <ul>
                     <li><q>I Wanna Hold Your Hand</q> - The Beatles</li>
                 </ul>
+                </p>
 
-                <h4>Commercials</h4>
+                <p><b>Commercials:</b>
                 <ul>
                     <li> :60 - Budweiser</li>
                     <li> :30 - Halls</li>
                 </ul>
+                </p>
 
-                <h4>Outcue</h4>
-                <q>…right after this.</q>
+                <p><b>Outcue:</b> <q>…right after this.</q></p>
 
-                <h3>Segment 2</h3>
+                <hr/>
+
+                <h3>Segment 2 - 8:37</h3>
+                <p><b>Incue:</b> Music &amp; <q>Welcome back…</q></p>
+                <p><b>Content:</b>
                 <ul>
                     <li>Sean Ono Lennon Interview Premiere</li>
                     <li><q>Life Begins At 40</q> - John Lennon</li>
                 </ul>
+                </p>
 
-                <h3>Segment 3</h3>
+                <p><b>Commercials:</b>
+                <ul>
+                    <li>:60 - Motel 6</li>
+                    <li>:30 - Duration</li>
+                </ul>
+                <p><b>Outcue:</b> <q>…when we return.</q></p>
+
+                <hr/>
+
+                <h3>Segment 3 - 13:02</h3>
                 <ul>
                     <li>Working Class Hero Interview continues</li>
                     <li><q>Mother</q> - John Lennon</li>
                     <li><q>I Am the Walrus</q> - The Beatles</li>
                 </ul>
 
-                <h3>Segment 4</h3>
+                <hr/>
+
+                <h3>Segment 4 - 16:11</h3>
                 <ul>
                     <li><q>Blue Suede Shoes</q> (Partial) - Plastic Ono Band / Live Peace</li>
                     <li><q>Cold Turkey</q> - Plastic Ono Band / Live Peace</li>
@@ -100,7 +114,9 @@
                     <li><q>Power To the People</q> - John Lennon</li>
                 </ul>
 
-                <h3>Segment 5</h3>
+                <hr/>
+
+                <h3>Segment 5 - 12:15 (music out)</h3>
                 <ul>
                     <li><q>Cleanup Time</q> - John Lennon</li>
                     <li>John &amp; Yoko on <q>Two Virgins</q></li>
