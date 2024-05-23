@@ -6,8 +6,53 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2024-05-20T04:00:43.273982-05:00</updated>
+    <updated>2024-05-23T04:01:13.495207-05:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - May 23, 2024</title>
+        <link href="https://www.gocomics.com/peanuts/2024/05/23" />
+        <id>https://www.gocomics.com/peanuts/2024/05/23</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2024-05-23T05:00:00-05:00</published>
+        <updated>2024-05-23T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d553e110eec3013c508f005056a9545d" />
+            </figure>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - May 22, 2024</title>
+        <link href="https://www.gocomics.com/peanuts/2024/05/22" />
+        <id>https://www.gocomics.com/peanuts/2024/05/22</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2024-05-22T05:00:00-05:00</published>
+        <updated>2024-05-23T04:01:13.495207-05:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/d2659000eec3013c508f005056a9545d" />
+            </figure>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - May 21, 2024</title>
+        <link href="https://www.gocomics.com/peanuts/2024/05/21" />
+        <id>https://www.gocomics.com/peanuts/2024/05/21</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2024-05-21T05:00:00-05:00</published>
+        <updated>2024-05-23T04:01:13.495207-05:00</updated>
+        <content type="xhtml">
+            <figure xmlns="http://www.w3.org/1999/xhtml">
+                <img src="https://assets.amuniversal.com/df50b960eeca013c5096005056a9545d" />
+            </figure>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - May 20, 2024</title>
         <link href="https://www.gocomics.com/peanuts/2024/05/20" />
