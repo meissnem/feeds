@@ -6,8 +6,26 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2025-01-24T04:30:46.773817-06:00</updated>
+    <updated>2025-01-25T04:30:41.345158-06:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - January 26, 1990</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1990/01/26" />
+        <id>https://www.gocomics.com/calvinandhobbes/1990/01/26</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2025-01-26T05:00:00-06:00</published>
+        <updated>2025-01-26T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/443e1c60dece013171ac005056a9545d" />
+                    <figcaption>Originally published January 26, 1990</figcaption>
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - January 25, 1990</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1990/01/25" />
