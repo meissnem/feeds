@@ -6,8 +6,42 @@
     </author>
     <link href="https://meissnem.github.io/feeds/doonesbury.xml" rel="self" />
     <link href="https://www.gocomics.com/doonesbury" rel="alternate" type="text/html" />
-    <updated>2025-01-26T04:30:45.170432-06:00</updated>
+    <updated>2025-02-12T18:12:01.944750-06:00</updated>
     <id>https://www.gocomics.com/doonesbury</id>
+    <entry>
+        <title type="text">Doonesbury - February  9, 2025</title>
+        <link href="https://www.gocomics.com/doonesbury/2025/02/09" />
+        <id>https://www.gocomics.com/doonesbury/2025/02/09</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2025-02-09T05:00:00-06:00</published>
+        <updated>2025-02-12T18:12:01.944750-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/ada87480b202013d88d0005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Doonesbury - February  2, 2025</title>
+        <link href="https://www.gocomics.com/doonesbury/2025/02/02" />
+        <id>https://www.gocomics.com/doonesbury/2025/02/02</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2025-02-02T05:00:00-06:00</published>
+        <updated>2025-02-12T18:12:01.944750-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/13b9e050ac37013d871f005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - January 26, 2025</title>
         <link href="https://www.gocomics.com/doonesbury/2025/01/26" />
