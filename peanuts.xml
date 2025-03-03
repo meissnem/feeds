@@ -6,8 +6,59 @@
     </author>
     <link href="https://meissnem.github.io/feeds/peanuts.xml" rel="self" />
     <link href="https://www.gocomics.com/peanuts" rel="alternate" type="text/html" />
-    <updated>2025-02-28T04:30:56.033221-06:00</updated>
+    <updated>2025-03-03T04:31:15.268871-06:00</updated>
     <id>https://www.gocomics.com/peanuts</id>
+    <entry>
+        <title type="text">Peanuts - March  3, 2025</title>
+        <link href="https://www.gocomics.com/peanuts/2025/03/03" />
+        <id>https://www.gocomics.com/peanuts/2025/03/03</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2025-03-03T05:00:00-06:00</published>
+        <updated>2025-03-03T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/9543b4a0d4fe013d92b0005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  2, 2025</title>
+        <link href="https://www.gocomics.com/peanuts/2025/03/02" />
+        <id>https://www.gocomics.com/peanuts/2025/03/02</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2025-03-02T05:00:00-06:00</published>
+        <updated>2025-03-03T04:31:15.268871-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/3c130b10bbf7013d8b87005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Peanuts - March  1, 2025</title>
+        <link href="https://www.gocomics.com/peanuts/2025/03/01" />
+        <id>https://www.gocomics.com/peanuts/2025/03/01</id>
+        <author>
+            <name>Charles Schulz</name>
+        </author>
+        <published>2025-03-01T05:00:00-06:00</published>
+        <updated>2025-03-03T04:31:15.268871-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/0a3da660cbb2013d903c005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Peanuts - February 28, 2025</title>
         <link href="https://www.gocomics.com/peanuts/2025/02/28" />
