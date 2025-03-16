@@ -6,8 +6,44 @@
     </author>
     <link href="https://meissnem.github.io/feeds/calvinandhobbes.xml" rel="self" />
     <link href="https://www.gocomics.com/calvinandhobbes" rel="alternate" type="text/html" />
-    <updated>2025-03-14T04:30:47.377395-05:00</updated>
+    <updated>2025-03-16T04:30:49.697920-05:00</updated>
     <id>https://www.gocomics.com/calvinandhobbes</id>
+    <entry>
+        <title type="text">Calvin and Hobbes - March 17, 1990</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1990/03/17" />
+        <id>https://www.gocomics.com/calvinandhobbes/1990/03/17</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2025-03-17T05:00:00-05:00</published>
+        <updated>2025-03-17T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/829858c0dece013171ac005056a9545d" />
+                    <figcaption>Originally published March 17, 1990</figcaption>
+                </figure>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Calvin and Hobbes - March 16, 1990</title>
+        <link href="https://www.gocomics.com/calvinandhobbes/1990/03/16" />
+        <id>https://www.gocomics.com/calvinandhobbes/1990/03/16</id>
+        <author>
+            <name>Bill Watterson</name>
+        </author>
+        <published>2025-03-16T05:00:00-05:00</published>
+        <updated>2025-03-16T05:00:00-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://assets.amuniversal.com/81604670dece013171ac005056a9545d" />
+                    <figcaption>Originally published March 16, 1990</figcaption>
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Calvin and Hobbes - March 15, 1990</title>
         <link href="https://www.gocomics.com/calvinandhobbes/1990/03/15" />
