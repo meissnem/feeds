@@ -6,8 +6,25 @@
     </author>
     <link href="https://meissnem.github.io/feeds/doonesbury.xml" rel="self" />
     <link href="https://www.gocomics.com/doonesbury" rel="alternate" type="text/html" />
-    <updated>2025-11-02T03:33:36.599519-06:00</updated>
+    <updated>2025-11-09T03:33:49.095431-06:00</updated>
     <id>https://www.gocomics.com/doonesbury</id>
+    <entry>
+        <title type="text">Doonesbury - November  9, 2025</title>
+        <link href="https://www.gocomics.com/doonesbury/2025/11/09" />
+        <id>https://www.gocomics.com/doonesbury/2025/11/09</id>
+        <author>
+            <name>Garry Trudeau</name>
+        </author>
+        <published>2025-11-09T05:00:00-06:00</published>
+        <updated>2025-11-09T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://featureassets.gocomics.com/assets/941fbc609677013eb772005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Doonesbury - November  2, 2025</title>
         <link href="https://www.gocomics.com/doonesbury/2025/11/02" />
