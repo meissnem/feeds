@@ -6,8 +6,25 @@
     </author>
     <link href="https://meissnem.github.io/feeds/crankshaft.xml" rel="self" />
     <link href="https://www.gocomics.com/crankshaft" rel="alternate" type="text/html" />
-    <updated>2025-12-31T03:44:08.162302-06:00</updated>
+    <updated>2026-01-01T03:43:29.899965-06:00</updated>
     <id>https://www.gocomics.com/crankshaft</id>
+    <entry>
+        <title type="text">Crankshaft - January  1, 2026</title>
+        <link href="https://www.gocomics.com/crankshaft/2026/01/01" />
+        <id>https://www.gocomics.com/crankshaft/2026/01/01</id>
+        <author>
+            <name>Tom Batiuk and Dan Davis</name>
+        </author>
+        <published>2026-01-01T05:00:00-06:00</published>
+        <updated>2026-01-01T05:00:00-06:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://featureassets.gocomics.com/assets/5604e630bdcd013eb960005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">Crankshaft - December 31, 2025</title>
         <link href="https://www.gocomics.com/crankshaft/2025/12/31" />
