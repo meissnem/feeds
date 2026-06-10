@@ -6,8 +6,25 @@
     </author>
     <link href="https://meissnem.github.io/feeds/fminus.xml" rel="self" />
     <link href="https://www.gocomics.com/fminus" rel="alternate" type="text/html" />
-    <updated>2026-06-09T00:08:35.434843-05:00</updated>
+    <updated>2026-06-10T00:05:11.261067-05:00</updated>
     <id>https://www.gocomics.com/fminus</id>
+    <entry>
+        <title type="text">F Minus - June  9, 2026</title>
+        <link href="https://www.gocomics.com/fminus/2026/06/09" />
+        <id>https://www.gocomics.com/fminus/2026/06/09</id>
+        <author>
+            <name>Tony Carrillo</name>
+        </author>
+        <published>2026-06-09T05:00:00-05:00</published>
+        <updated>2026-06-10T00:05:11.261067-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://featureassets.gocomics.com/assets/f58a2ab04031013fc18c005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">F Minus - June  8, 2026</title>
         <link href="https://www.gocomics.com/fminus/2026/06/08" />
