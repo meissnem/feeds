@@ -6,8 +6,42 @@
     </author>
     <link href="https://meissnem.github.io/feeds/foxtrot.xml" rel="self" />
     <link href="https://www.gocomics.com/foxtrot" rel="alternate" type="text/html" />
-    <updated>2026-10-05T00:05:52.737112-05:00</updated>
+    <updated>2026-10-20T11:30:47.951352-05:00</updated>
     <id>https://www.gocomics.com/foxtrot</id>
+    <entry>
+        <title type="text">FoxTrot - October 18, 2026</title>
+        <link href="https://www.gocomics.com/foxtrot/2026/10/18" />
+        <id>https://www.gocomics.com/foxtrot/2026/10/18</id>
+        <author>
+            <name>Bill Amend</name>
+        </author>
+        <published>2026-10-18T05:00:00-05:00</published>
+        <updated>2026-10-20T11:30:47.951352-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://featureassets.gocomics.com/assets/170501d09022013fc8cc005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">FoxTrot - October 11, 2026</title>
+        <link href="https://www.gocomics.com/foxtrot/2026/10/11" />
+        <id>https://www.gocomics.com/foxtrot/2026/10/11</id>
+        <author>
+            <name>Bill Amend</name>
+        </author>
+        <published>2026-10-11T05:00:00-05:00</published>
+        <updated>2026-10-20T11:30:47.951352-05:00</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <figure>
+                    <img src="https://featureassets.gocomics.com/assets/01c9e1708942013fc748005056a9545d" />
+                </figure>
+            </div>
+        </content>
+    </entry>
     <entry>
         <title type="text">FoxTrot - October  4, 2026</title>
         <link href="https://www.gocomics.com/foxtrot/2026/10/04" />
